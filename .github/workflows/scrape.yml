@@ -53,6 +53,7 @@ jobs:
         run: |
           mkdir -p _site
           cp site/index.html _site/index.html
+          cp site/CNAME _site/CNAME
           cp -r data _site/data
           touch _site/.nojekyll
       - uses: actions/upload-pages-artifact@v3
