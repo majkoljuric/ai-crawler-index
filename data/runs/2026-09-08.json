@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-08T01:03:42+00:00",
+  "checked_at": "2026-09-08T01:33:14+00:00",
   "domains": [
     {
       "domain": "nytimes.com",
@@ -7,7 +7,7 @@
       "robots_url": "https://nytimes.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-09-08T01:03:42+00:00",
+      "checked_at": "2026-09-08T01:33:14+00:00",
       "bots": {
         "GPTBot": "blocked",
         "ChatGPT-User": "blocked",
@@ -42,7 +42,7 @@
       "robots_url": "https://washingtonpost.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-09-08T01:03:42+00:00",
+      "checked_at": "2026-09-08T01:33:14+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -77,7 +77,7 @@
       "robots_url": "https://wsj.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-09-08T01:03:42+00:00",
+      "checked_at": "2026-09-08T01:33:14+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -112,7 +112,7 @@
       "robots_url": "https://reuters.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-09-08T01:03:42+00:00",
+      "checked_at": "2026-09-08T01:33:14+00:00",
       "bots": {
         "GPTBot": "blocked",
         "ChatGPT-User": "partial",
@@ -147,7 +147,7 @@
       "robots_url": "https://bbc.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-09-08T01:03:42+00:00",
+      "checked_at": "2026-09-08T01:33:14+00:00",
       "bots": {
         "GPTBot": "blocked",
         "ChatGPT-User": "blocked",
@@ -182,7 +182,7 @@
       "robots_url": "https://theguardian.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-09-08T01:03:42+00:00",
+      "checked_at": "2026-09-08T01:33:14+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -215,10 +215,36 @@
       "domain": "cnn.com",
       "category": "news",
       "robots_url": "https://cnn.com/robots.txt",
-      "http_status": null,
-      "fetch_error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1028)>",
-      "checked_at": "2026-09-08T01:03:42+00:00",
-      "bots": {}
+      "http_status": 200,
+      "fetch_error": null,
+      "checked_at": "2026-09-08T01:33:14+00:00",
+      "bots": {
+        "GPTBot": "blocked",
+        "ChatGPT-User": "blocked",
+        "OAI-SearchBot": "blocked",
+        "ClaudeBot": "blocked",
+        "Claude-Web": "blocked",
+        "anthropic-ai": "blocked",
+        "Google-Extended": "blocked",
+        "GoogleOther": "blocked",
+        "Applebot-Extended": "blocked",
+        "CCBot": "blocked",
+        "Bytespider": "blocked",
+        "PerplexityBot": "blocked",
+        "Perplexity-User": "blocked",
+        "cohere-ai": "blocked",
+        "cohere-training-data-crawler": "blocked",
+        "Diffbot": "blocked",
+        "Omgilibot": "blocked",
+        "Amazonbot": "blocked",
+        "meta-externalagent": "partial",
+        "meta-externalfetcher": "partial",
+        "Timpibot": "blocked",
+        "YouBot": "blocked",
+        "ImagesiftBot": "blocked",
+        "Ai2Bot": "blocked",
+        "DuckAssistBot": "blocked"
+      }
     },
     {
       "domain": "apnews.com",
@@ -226,7 +252,7 @@
       "robots_url": "https://apnews.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-09-08T01:03:42+00:00",
+      "checked_at": "2026-09-08T01:33:14+00:00",
       "bots": {
         "GPTBot": "blocked",
         "ChatGPT-User": "partial",
@@ -261,7 +287,7 @@
       "robots_url": "https://bloomberg.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-09-08T01:03:42+00:00",
+      "checked_at": "2026-09-08T01:33:14+00:00",
       "bots": {
         "GPTBot": "blocked",
         "ChatGPT-User": "blocked",
@@ -296,33 +322,33 @@
       "robots_url": "https://forbes.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-09-08T01:03:42+00:00",
+      "checked_at": "2026-09-08T01:33:14+00:00",
       "bots": {
-        "GPTBot": "allowed",
-        "ChatGPT-User": "allowed",
-        "OAI-SearchBot": "allowed",
-        "ClaudeBot": "allowed",
-        "Claude-Web": "allowed",
-        "anthropic-ai": "allowed",
-        "Google-Extended": "allowed",
-        "GoogleOther": "allowed",
-        "Applebot-Extended": "allowed",
-        "CCBot": "allowed",
-        "Bytespider": "allowed",
-        "PerplexityBot": "allowed",
-        "Perplexity-User": "allowed",
-        "cohere-ai": "allowed",
-        "cohere-training-data-crawler": "allowed",
-        "Diffbot": "allowed",
-        "Omgilibot": "allowed",
-        "Amazonbot": "allowed",
-        "meta-externalagent": "allowed",
-        "meta-externalfetcher": "allowed",
-        "Timpibot": "allowed",
-        "YouBot": "allowed",
-        "ImagesiftBot": "allowed",
-        "Ai2Bot": "allowed",
-        "DuckAssistBot": "allowed"
+        "GPTBot": "blocked",
+        "ChatGPT-User": "partial",
+        "OAI-SearchBot": "blocked",
+        "ClaudeBot": "blocked",
+        "Claude-Web": "partial",
+        "anthropic-ai": "blocked",
+        "Google-Extended": "partial",
+        "GoogleOther": "partial",
+        "Applebot-Extended": "blocked",
+        "CCBot": "blocked",
+        "Bytespider": "blocked",
+        "PerplexityBot": "blocked",
+        "Perplexity-User": "partial",
+        "cohere-ai": "blocked",
+        "cohere-training-data-crawler": "partial",
+        "Diffbot": "blocked",
+        "Omgilibot": "blocked",
+        "Amazonbot": "blocked",
+        "meta-externalagent": "blocked",
+        "meta-externalfetcher": "partial",
+        "Timpibot": "partial",
+        "YouBot": "partial",
+        "ImagesiftBot": "blocked",
+        "Ai2Bot": "partial",
+        "DuckAssistBot": "partial"
       }
     },
     {
@@ -331,7 +357,7 @@
       "robots_url": "https://businessinsider.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-09-08T01:03:42+00:00",
+      "checked_at": "2026-09-08T01:33:14+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -366,7 +392,7 @@
       "robots_url": "https://nypost.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-09-08T01:03:42+00:00",
+      "checked_at": "2026-09-08T01:33:14+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -401,7 +427,7 @@
       "robots_url": "https://chicagotribune.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-09-08T01:03:42+00:00",
+      "checked_at": "2026-09-08T01:33:14+00:00",
       "bots": {
         "GPTBot": "blocked",
         "ChatGPT-User": "blocked",
@@ -436,7 +462,7 @@
       "robots_url": "https://abc.net.au/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-09-08T01:03:42+00:00",
+      "checked_at": "2026-09-08T01:33:14+00:00",
       "bots": {
         "GPTBot": "blocked",
         "ChatGPT-User": "blocked",
@@ -471,7 +497,7 @@
       "robots_url": "https://techcrunch.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-09-08T01:03:42+00:00",
+      "checked_at": "2026-09-08T01:33:14+00:00",
       "bots": {
         "GPTBot": "blocked",
         "ChatGPT-User": "blocked",
@@ -506,7 +532,7 @@
       "robots_url": "https://theverge.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-09-08T01:03:42+00:00",
+      "checked_at": "2026-09-08T01:33:14+00:00",
       "bots": {
         "GPTBot": "blocked",
         "ChatGPT-User": "blocked",
@@ -541,7 +567,7 @@
       "robots_url": "https://wired.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-09-08T01:03:42+00:00",
+      "checked_at": "2026-09-08T01:33:14+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -576,7 +602,7 @@
       "robots_url": "https://arstechnica.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-09-08T01:03:42+00:00",
+      "checked_at": "2026-09-08T01:33:14+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -611,7 +637,7 @@
       "robots_url": "https://github.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-09-08T01:03:42+00:00",
+      "checked_at": "2026-09-08T01:33:14+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -646,7 +672,7 @@
       "robots_url": "https://stackoverflow.com/robots.txt",
       "http_status": 418,
       "fetch_error": "HTTPError 418",
-      "checked_at": "2026-09-08T01:03:42+00:00",
+      "checked_at": "2026-09-08T01:33:14+00:00",
       "bots": {}
     },
     {
@@ -655,7 +681,7 @@
       "robots_url": "https://gitlab.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-09-08T01:03:42+00:00",
+      "checked_at": "2026-09-08T01:33:14+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -690,7 +716,7 @@
       "robots_url": "https://reddit.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-09-08T01:03:42+00:00",
+      "checked_at": "2026-09-08T01:33:14+00:00",
       "bots": {
         "GPTBot": "blocked",
         "ChatGPT-User": "blocked",
@@ -725,7 +751,7 @@
       "robots_url": "https://quora.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-09-08T01:03:42+00:00",
+      "checked_at": "2026-09-08T01:33:14+00:00",
       "bots": {
         "GPTBot": "blocked",
         "ChatGPT-User": "blocked",
@@ -760,7 +786,7 @@
       "robots_url": "https://medium.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-09-08T01:03:42+00:00",
+      "checked_at": "2026-09-08T01:33:14+00:00",
       "bots": {
         "GPTBot": "blocked",
         "ChatGPT-User": "partial",
@@ -793,36 +819,10 @@
       "domain": "substack.com",
       "category": "publishing",
       "robots_url": "https://substack.com/robots.txt",
-      "http_status": 200,
-      "fetch_error": null,
-      "checked_at": "2026-09-08T01:03:42+00:00",
-      "bots": {
-        "GPTBot": "partial",
-        "ChatGPT-User": "partial",
-        "OAI-SearchBot": "partial",
-        "ClaudeBot": "partial",
-        "Claude-Web": "partial",
-        "anthropic-ai": "partial",
-        "Google-Extended": "partial",
-        "GoogleOther": "partial",
-        "Applebot-Extended": "partial",
-        "CCBot": "partial",
-        "Bytespider": "partial",
-        "PerplexityBot": "partial",
-        "Perplexity-User": "partial",
-        "cohere-ai": "partial",
-        "cohere-training-data-crawler": "partial",
-        "Diffbot": "partial",
-        "Omgilibot": "partial",
-        "Amazonbot": "partial",
-        "meta-externalagent": "partial",
-        "meta-externalfetcher": "partial",
-        "Timpibot": "partial",
-        "YouBot": "partial",
-        "ImagesiftBot": "partial",
-        "Ai2Bot": "partial",
-        "DuckAssistBot": "partial"
-      }
+      "http_status": 403,
+      "fetch_error": "HTTPError 403",
+      "checked_at": "2026-09-08T01:33:14+00:00",
+      "bots": {}
     },
     {
       "domain": "wikipedia.org",
@@ -830,7 +830,7 @@
       "robots_url": "https://wikipedia.org/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-09-08T01:03:42+00:00",
+      "checked_at": "2026-09-08T01:33:14+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -865,7 +865,7 @@
       "robots_url": "https://imdb.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-09-08T01:03:42+00:00",
+      "checked_at": "2026-09-08T01:33:14+00:00",
       "bots": {
         "GPTBot": "blocked",
         "ChatGPT-User": "blocked",
@@ -900,7 +900,7 @@
       "robots_url": "https://yelp.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-09-08T01:03:42+00:00",
+      "checked_at": "2026-09-08T01:33:14+00:00",
       "bots": {
         "GPTBot": "blocked",
         "ChatGPT-User": "blocked",
@@ -935,7 +935,7 @@
       "robots_url": "https://tripadvisor.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-09-08T01:03:42+00:00",
+      "checked_at": "2026-09-08T01:33:14+00:00",
       "bots": {
         "GPTBot": "blocked",
         "ChatGPT-User": "partial",
@@ -970,7 +970,7 @@
       "robots_url": "https://amazon.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-09-08T01:03:42+00:00",
+      "checked_at": "2026-09-08T01:33:14+00:00",
       "bots": {
         "GPTBot": "blocked",
         "ChatGPT-User": "blocked",
@@ -1005,7 +1005,7 @@
       "robots_url": "https://etsy.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-09-08T01:03:42+00:00",
+      "checked_at": "2026-09-08T01:33:14+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -1040,7 +1040,7 @@
       "robots_url": "https://linkedin.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-09-08T01:03:42+00:00",
+      "checked_at": "2026-09-08T01:33:14+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -1075,7 +1075,7 @@
       "robots_url": "https://pinterest.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-09-08T01:03:42+00:00",
+      "checked_at": "2026-09-08T01:33:14+00:00",
       "bots": {
         "GPTBot": "blocked",
         "ChatGPT-User": "blocked",
@@ -1110,7 +1110,7 @@
       "robots_url": "https://x.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-09-08T01:03:42+00:00",
+      "checked_at": "2026-09-08T01:33:14+00:00",
       "bots": {
         "GPTBot": "blocked",
         "ChatGPT-User": "blocked",
@@ -1145,7 +1145,7 @@
       "robots_url": "https://facebook.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-09-08T01:03:42+00:00",
+      "checked_at": "2026-09-08T01:33:14+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "blocked",
@@ -1180,7 +1180,7 @@
       "robots_url": "https://instagram.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-09-08T01:03:42+00:00",
+      "checked_at": "2026-09-08T01:33:14+00:00",
       "bots": {
         "GPTBot": "blocked",
         "ChatGPT-User": "blocked",
@@ -1215,7 +1215,7 @@
       "robots_url": "https://nature.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-09-08T01:03:42+00:00",
+      "checked_at": "2026-09-08T01:33:14+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -1250,7 +1250,7 @@
       "robots_url": "https://sciencedirect.com/robots.txt",
       "http_status": 403,
       "fetch_error": "HTTPError 403",
-      "checked_at": "2026-09-08T01:03:42+00:00",
+      "checked_at": "2026-09-08T01:33:14+00:00",
       "bots": {}
     },
     {
@@ -1259,7 +1259,7 @@
       "robots_url": "https://springer.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-09-08T01:03:42+00:00",
+      "checked_at": "2026-09-08T01:33:14+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -1294,7 +1294,7 @@
       "robots_url": "https://zillow.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-09-08T01:03:42+00:00",
+      "checked_at": "2026-09-08T01:33:14+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -1329,7 +1329,7 @@
       "robots_url": "https://glassdoor.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-09-08T01:03:42+00:00",
+      "checked_at": "2026-09-08T01:33:14+00:00",
       "bots": {
         "GPTBot": "blocked",
         "ChatGPT-User": "partial",
@@ -1364,7 +1364,7 @@
       "robots_url": "https://indeed.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-09-08T01:03:42+00:00",
+      "checked_at": "2026-09-08T01:33:14+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
