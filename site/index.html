@@ -1,0 +1,273 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Who Blocks the Bots — an AI crawler index</title>
+<meta name="description" content="Which sites disallow which AI crawlers in robots.txt, tracked weekly, with full history." />
+<style>
+  :root{
+    --paper:#efece3;
+    --ink:#20241f;
+    --ink-soft:#565f52;
+    --rule:#c9c3b2;
+    --blocked:#8a3a2c;
+    --partial:#a9762f;
+    --allowed:#3d5a3d;
+    --unverified:#9a9384;
+    --accent:#2f4d3a;
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0;padding:0}
+  body{
+    background:var(--paper);
+    color:var(--ink);
+    font-family: "Iowan Old Style","Palatino Linotype",Palatino,Georgia,serif;
+    line-height:1.5;
+  }
+  .wrap{max-width:1040px;margin:0 auto;padding:2.5rem 1.5rem 5rem;}
+
+  header{border-bottom:2px solid var(--ink); padding-bottom:1.25rem; margin-bottom:2rem;}
+  .kicker{
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    font-size:0.78rem;
+    letter-spacing:0.02em;
+    color:var(--ink-soft);
+    margin:0 0 0.4rem;
+  }
+  h1{
+    font-size:2.6rem;
+    margin:0 0 0.5rem;
+    font-weight:600;
+    letter-spacing:-0.01em;
+    max-width:18ch;
+  }
+  .dek{
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    color:var(--ink-soft);
+    font-size:1rem;
+    max-width:62ch;
+    margin:0;
+  }
+
+  .stats{
+    display:flex; gap:2.5rem; flex-wrap:wrap;
+    margin:1.75rem 0 2.5rem;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  }
+  .stat .n{font-size:1.9rem; font-weight:700; color:var(--accent); font-variant-numeric:tabular-nums;}
+  .stat .l{font-size:0.8rem; color:var(--ink-soft);}
+
+  section{margin-bottom:3rem;}
+  h2{
+    font-size:1.05rem;
+    text-transform:none;
+    border-bottom:1px solid var(--rule);
+    padding-bottom:0.5rem;
+    margin-bottom:1.1rem;
+    font-weight:600;
+  }
+
+  .feed-item{
+    display:flex; gap:0.9rem;
+    padding:0.85rem 0;
+    border-bottom:1px solid var(--rule);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    font-size:0.92rem;
+  }
+  .feed-item:last-child{border-bottom:none;}
+  .feed-date{color:var(--ink-soft); white-space:nowrap; font-variant-numeric:tabular-nums; padding-top:0.05rem;}
+  .feed-text b{font-weight:600;}
+  .tag{
+    display:inline-block;
+    padding:0.06rem 0.45rem;
+    border-radius:2px;
+    font-size:0.72rem;
+    font-weight:600;
+    margin-left:0.35rem;
+  }
+  .tag.blocked{background:color-mix(in srgb, var(--blocked) 15%, transparent); color:var(--blocked);}
+  .tag.partial{background:color-mix(in srgb, var(--partial) 15%, transparent); color:var(--partial);}
+  .tag.allowed{background:color-mix(in srgb, var(--allowed) 15%, transparent); color:var(--allowed);}
+
+  table{border-collapse:collapse; width:100%; font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; font-size:0.82rem;}
+  th, td{border-bottom:1px solid var(--rule); padding:0.5rem 0.6rem; text-align:left; white-space:nowrap;}
+  th{font-weight:600; color:var(--ink-soft); position:sticky; top:0; background:var(--paper);}
+  td.domain{font-weight:600; color:var(--ink);}
+  .dot{display:inline-block; width:0.6rem; height:0.6rem; border-radius:50%;}
+  .dot.blocked{background:var(--blocked);}
+  .dot.partial{background:var(--partial);}
+  .dot.allowed{background:var(--allowed);}
+  .dot.unverified{background:var(--unverified);}
+  .table-scroll{overflow-x:auto; border:1px solid var(--rule);}
+
+  .legend{display:flex; gap:1.4rem; flex-wrap:wrap; font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; font-size:0.8rem; color:var(--ink-soft); margin-bottom:1rem;}
+  .legend span{display:inline-flex; align-items:center; gap:0.4rem;}
+
+  .methodology{
+    font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    font-size:0.86rem;
+    color:var(--ink-soft);
+    border-top:2px solid var(--ink);
+    padding-top:1.5rem;
+  }
+  .methodology p{max-width:68ch;}
+  .methodology a{color:var(--accent);}
+
+  select{
+    font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    font-size:0.85rem;
+    padding:0.35rem 0.5rem;
+    border:1px solid var(--rule);
+    background:var(--paper);
+    color:var(--ink);
+  }
+  .controls{display:flex; gap:0.75rem; align-items:center; margin-bottom:1rem; font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; font-size:0.85rem; color:var(--ink-soft);}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header>
+    <p class="kicker">AI CRAWLER INDEX &middot; UPDATED WEEKLY</p>
+    <h1>Who blocks the bots</h1>
+    <p class="dek">Which sites disallow which AI crawlers in robots.txt — checked every week, with the full history of what changed and when.</p>
+  </header>
+
+  <div class="stats" id="stats"></div>
+
+  <section>
+    <h2>Recent changes</h2>
+    <div id="feed"></div>
+  </section>
+
+  <section>
+    <h2>Current status</h2>
+    <div class="controls">
+      <label for="botFilter">Crawler:</label>
+      <select id="botFilter"></select>
+    </div>
+    <div class="legend">
+      <span><i class="dot blocked"></i> blocked</span>
+      <span><i class="dot partial"></i> partial</span>
+      <span><i class="dot allowed"></i> allowed</span>
+      <span><i class="dot unverified"></i> not yet checked</span>
+    </div>
+    <div class="table-scroll">
+      <table id="matrix"></table>
+    </div>
+  </section>
+
+  <section class="methodology">
+    <h2>Methodology</h2>
+    <p>Each tracked domain's <code>robots.txt</code> is fetched weekly. We parse the <code>User-agent</code> groups per <a href="https://www.rfc-editor.org/rfc/rfc9309.html">RFC&nbsp;9309</a> — the most specific matching group wins, so a bot with its own named block is judged on that block, not the wildcard <code>*</code> block. A domain is <b>blocked</b> for a bot on an exact <code>Disallow: /</code>, <b>partial</b> when some paths are disallowed but not the whole site, and <b>allowed</b> when neither applies. robots.txt is a public, voluntary signal, not an enforcement mechanism — it records what a site asked, not necessarily what every crawler obeyed.</p>
+    <p>Entries marked <b>seed entry</b> come from contemporaneous news reporting rather than a live fetch, and are kept clearly labeled rather than presented as scraped. Everything else is <b>not yet checked</b> until the scraper's first live run — that status is a gap in coverage, not a claim that the crawler is allowed.</p>
+    <p>Source and data: this is a static site built from a small Python scraper and a weekly GitHub Action — <a href="https://github.com/">view the repository</a>.</p>
+  </section>
+
+</div>
+
+<script>
+// Deployed, index.html sits at the site root with data/ beside it; served from
+// the repo it sits in site/ with data/ one level up. Try both rather than
+// hard-coding a layout the deploy step has to match.
+async function fetchJSON(name){
+  for (const base of ['data/', '../data/']){
+    try {
+      const r = await fetch(base + name);
+      if (r.ok) return await r.json();
+    } catch (e) { /* try the next base */ }
+  }
+  throw new Error('could not load ' + name);
+}
+
+async function loadData(){
+  const [latest, index] = await Promise.all([
+    fetchJSON('latest.json'),
+    fetchJSON('index.json')
+  ]);
+  return {latest, index};
+}
+
+function renderStats(latest){
+  const total = latest.domains.length;
+  let blockedSomeBot = 0;
+  const botSet = new Set();
+  latest.domains.forEach(d => {
+    Object.entries(d.bots).forEach(([bot, status]) => {
+      botSet.add(bot);
+    });
+    if (Object.values(d.bots).some(s => s === 'blocked')) blockedSomeBot++;
+  });
+  const stats = document.getElementById('stats');
+  stats.innerHTML = `
+    <div class="stat"><div class="n">${total}</div><div class="l">domains tracked</div></div>
+    <div class="stat"><div class="n">${botSet.size}</div><div class="l">crawlers tracked</div></div>
+    <div class="stat"><div class="n">${blockedSomeBot}</div><div class="l">block at least one crawler</div></div>
+    <div class="stat"><div class="n">${latest.checked_at.slice(0,10)}</div><div class="l">last checked</div></div>
+  `;
+}
+
+function renderFeed(latest){
+  const feed = document.getElementById('feed');
+  const items = [];
+  latest.domains.forEach(d => {
+    Object.entries(d.bots).forEach(([bot, status]) => {
+      if (status === 'blocked' || status === 'partial') {
+        items.push({date: d.checked_at.slice(0,10), domain: d.domain, bot, status, seed: (d.fetch_error||'').includes('seed')});
+      }
+    });
+  });
+  items.sort((a,b) => b.date.localeCompare(a.date));
+  if (items.length === 0){
+    feed.innerHTML = '<p style="font-family:-apple-system,sans-serif;color:var(--ink-soft);font-size:0.9rem;">No changes recorded yet — this fills in after the first live scrape and a second run to diff against.</p>';
+    return;
+  }
+  feed.innerHTML = items.slice(0, 30).map(it => `
+    <div class="feed-item">
+      <div class="feed-date">${it.date}</div>
+      <div class="feed-text"><b>${it.domain}</b> disallows <b>${it.bot}</b>
+        <span class="tag ${it.status}">${it.status}</span>
+        ${it.seed ? '<span style="color:var(--ink-soft)">(from reporting, not a live fetch)</span>' : ''}
+      </div>
+    </div>
+  `).join('');
+}
+
+function renderMatrix(latest, botFilter){
+  const bots = Array.from(new Set(latest.domains.flatMap(d => Object.keys(d.bots)))).sort();
+  const select = document.getElementById('botFilter');
+  if (select.options.length === 0){
+    select.innerHTML = '<option value="__all__">All crawlers</option>' +
+      bots.map(b => `<option value="${b}">${b}</option>`).join('');
+    select.value = botFilter || '__all__';
+  }
+  const activeBots = botFilter && botFilter !== '__all__' ? [botFilter] : bots;
+
+  const table = document.getElementById('matrix');
+  const head = `<tr><th>Domain</th><th>Category</th>${activeBots.map(b=>`<th>${b}</th>`).join('')}</tr>`;
+  const rows = latest.domains.map(d => {
+    const cells = activeBots.map(b => {
+      const status = d.bots[b] || 'unverified';
+      return `<td title="${b}: ${status}"><span class="dot ${status}"></span></td>`;
+    }).join('');
+    return `<tr><td class="domain">${d.domain}</td><td>${d.category}</td>${cells}</tr>`;
+  }).join('');
+  table.innerHTML = head + rows;
+}
+
+loadData().then(({latest}) => {
+  renderStats(latest);
+  renderFeed(latest);
+  renderMatrix(latest, '__all__');
+  document.getElementById('botFilter').addEventListener('change', e => {
+    renderMatrix(latest, e.target.value);
+  });
+}).catch(err => {
+  document.getElementById('feed').innerHTML =
+    `<p style="font-family:-apple-system,sans-serif;color:var(--blocked)">Couldn't load data/latest.json — if you're opening this file directly (file://), run a local server instead, e.g. <code>python3 -m http.server</code> from the repo root.</p>`;
+});
+</script>
+
+</body>
+</html>
