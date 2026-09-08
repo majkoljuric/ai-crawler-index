@@ -1,66 +1,12 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-09-08T05:14:09+00:00",
+  "checked_at": "2026-09-08T05:46:36+00:00",
   "domain": "no-ip.com",
   "category": "other",
   "robots_url": "https://no-ip.com/robots.txt",
-  "http_status": 200,
-  "fetch_error": null,
-  "bots": {
-    "GPTBot": "partial",
-    "ChatGPT-User": "partial",
-    "OAI-SearchBot": "partial",
-    "ClaudeBot": "partial",
-    "Claude-Web": "partial",
-    "anthropic-ai": "partial",
-    "Google-Extended": "partial",
-    "GoogleOther": "partial",
-    "Applebot-Extended": "partial",
-    "CCBot": "partial",
-    "Bytespider": "partial",
-    "PerplexityBot": "partial",
-    "Perplexity-User": "partial",
-    "cohere-ai": "partial",
-    "cohere-training-data-crawler": "partial",
-    "Diffbot": "partial",
-    "Omgilibot": "partial",
-    "Amazonbot": "partial",
-    "meta-externalagent": "partial",
-    "meta-externalfetcher": "partial",
-    "Timpibot": "partial",
-    "YouBot": "partial",
-    "ImagesiftBot": "partial",
-    "Ai2Bot": "partial",
-    "DuckAssistBot": "partial"
-  },
+  "http_status": null,
+  "fetch_error": "Remote end closed connection without response",
+  "bots": {},
   "named": [],
-  "rules": {
-    "*": {
-      "disallow": [
-        "/hostactive",
-        "/hostactive.php",
-        "/pt-BR/hostactive",
-        "/pt-BR/hostactive.php",
-        "/confirm-host",
-        "/it-IT/confirm-host",
-        "/pt-BR/confirm-host",
-        "/confirm-account",
-        "/it-IT/confirm-account",
-        "/pt-BR/confirm-account",
-        "/confirm",
-        "/it-IT/confirm",
-        "/pt-BR/confirm",
-        "/confirm-email-change",
-        "/resent-activation",
-        "/reactivate-account",
-        "/members",
-        "/sign-up?t=*"
-      ],
-      "allow": [
-        "/"
-      ],
-      "total": 18,
-      "total_allow": 1
-    }
-  }
+  "rules": {}
 }

@@ -1,142 +1,38 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-09-08T05:14:09+00:00",
+  "checked_at": "2026-09-08T05:46:36+00:00",
   "domain": "slideshare.net",
   "category": "education",
   "robots_url": "https://slideshare.net/robots.txt",
   "http_status": 200,
   "fetch_error": null,
   "bots": {
-    "GPTBot": "partial",
-    "ChatGPT-User": "partial",
-    "OAI-SearchBot": "partial",
-    "ClaudeBot": "blocked",
-    "Claude-Web": "blocked",
-    "anthropic-ai": "partial",
-    "Google-Extended": "partial",
-    "GoogleOther": "partial",
-    "Applebot-Extended": "partial",
-    "CCBot": "blocked",
-    "Bytespider": "blocked",
-    "PerplexityBot": "partial",
-    "Perplexity-User": "partial",
-    "cohere-ai": "partial",
-    "cohere-training-data-crawler": "partial",
-    "Diffbot": "blocked",
-    "Omgilibot": "partial",
-    "Amazonbot": "partial",
-    "meta-externalagent": "partial",
-    "meta-externalfetcher": "partial",
-    "Timpibot": "partial",
-    "YouBot": "partial",
-    "ImagesiftBot": "blocked",
-    "Ai2Bot": "blocked",
-    "DuckAssistBot": "partial"
+    "GPTBot": "allowed",
+    "ChatGPT-User": "allowed",
+    "OAI-SearchBot": "allowed",
+    "ClaudeBot": "allowed",
+    "Claude-Web": "allowed",
+    "anthropic-ai": "allowed",
+    "Google-Extended": "allowed",
+    "GoogleOther": "allowed",
+    "Applebot-Extended": "allowed",
+    "CCBot": "allowed",
+    "Bytespider": "allowed",
+    "PerplexityBot": "allowed",
+    "Perplexity-User": "allowed",
+    "cohere-ai": "allowed",
+    "cohere-training-data-crawler": "allowed",
+    "Diffbot": "allowed",
+    "Omgilibot": "allowed",
+    "Amazonbot": "allowed",
+    "meta-externalagent": "allowed",
+    "meta-externalfetcher": "allowed",
+    "Timpibot": "allowed",
+    "YouBot": "allowed",
+    "ImagesiftBot": "allowed",
+    "Ai2Bot": "allowed",
+    "DuckAssistBot": "allowed"
   },
-  "named": [
-    "ClaudeBot",
-    "Claude-Web",
-    "CCBot",
-    "Bytespider",
-    "Diffbot",
-    "ImagesiftBot",
-    "Ai2Bot"
-  ],
-  "rules": {
-    "*": {
-      "disallow": [
-        "/~/",
-        "/index.html",
-        "/slideshow/*/lead-form",
-        "/*/leads/*/show_form.html",
-        "/*/leads/*/jsplayer_show_lead_form.html",
-        "/*/followers$",
-        "/*/followers/",
-        "/*/following$",
-        "/*/following/",
-        "/business/leads/show_form.html",
-        "/business/leads/jsplayer_show_lead_form.html",
-        "/account/",
-        "/api/",
-        "/business/premium/is_payment_pending",
-        "/business/adshare",
-        "/business/feedback",
-        "/business/promotion",
-        "/business/adshare/faqs",
-        "/comment/",
-        "/community/",
-        "/event/",
-        "/favorite/",
-        "/group/",
-        "/ia/",
-        "/main/",
-        "/pingback/",
-        "/rss/",
-        "/search/",
-        "/search?",
-        "/share/",
-        "/slideshow/embed_code/",
-        "/uploads/",
-        "/nextjs/",
-        "*/favorites_list/*",
-        "/ab_tests",
-        "/frontend-track/",
-        "/fullscreen/ReportLinker/",
-        "/private/",
-        "/language?",
-        "/mobile/"
-      ],
-      "allow": [],
-      "total": 40,
-      "total_allow": 0
-    },
-    "Bytespider": {
-      "disallow": [
-        "/"
-      ],
-      "allow": [],
-      "total": 1,
-      "total_allow": 0
-    },
-    "CCBot": {
-      "disallow": [
-        "/"
-      ],
-      "allow": [],
-      "total": 1,
-      "total_allow": 0
-    },
-    "Claude-Web": {
-      "disallow": [
-        "/"
-      ],
-      "allow": [],
-      "total": 1,
-      "total_allow": 0
-    },
-    "ClaudeBot": {
-      "disallow": [
-        "/"
-      ],
-      "allow": [],
-      "total": 1,
-      "total_allow": 0
-    },
-    "Diffbot": {
-      "disallow": [
-        "/"
-      ],
-      "allow": [],
-      "total": 1,
-      "total_allow": 0
-    },
-    "ImagesiftBot": {
-      "disallow": [
-        "/"
-      ],
-      "allow": [],
-      "total": 1,
-      "total_allow": 0
-    }
-  }
+  "named": [],
+  "rules": {}
 }

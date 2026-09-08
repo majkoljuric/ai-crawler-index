@@ -1,12 +1,154 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-09-08T05:14:09+00:00",
+  "checked_at": "2026-09-08T05:46:36+00:00",
   "domain": "apnews.com",
   "category": "news",
   "robots_url": "https://apnews.com/robots.txt",
-  "http_status": 403,
-  "fetch_error": "HTTPError 403",
-  "bots": {},
-  "named": [],
-  "rules": {}
+  "http_status": 200,
+  "fetch_error": null,
+  "bots": {
+    "GPTBot": "blocked",
+    "ChatGPT-User": "partial",
+    "OAI-SearchBot": "partial",
+    "ClaudeBot": "blocked",
+    "Claude-Web": "blocked",
+    "anthropic-ai": "blocked",
+    "Google-Extended": "partial",
+    "GoogleOther": "partial",
+    "Applebot-Extended": "blocked",
+    "CCBot": "blocked",
+    "Bytespider": "partial",
+    "PerplexityBot": "blocked",
+    "Perplexity-User": "partial",
+    "cohere-ai": "blocked",
+    "cohere-training-data-crawler": "partial",
+    "Diffbot": "partial",
+    "Omgilibot": "partial",
+    "Amazonbot": "blocked",
+    "meta-externalagent": "partial",
+    "meta-externalfetcher": "partial",
+    "Timpibot": "blocked",
+    "YouBot": "partial",
+    "ImagesiftBot": "partial",
+    "Ai2Bot": "partial",
+    "DuckAssistBot": "partial"
+  },
+  "named": [
+    "GPTBot",
+    "ClaudeBot",
+    "Claude-Web",
+    "anthropic-ai",
+    "Applebot-Extended",
+    "CCBot",
+    "PerplexityBot",
+    "cohere-ai",
+    "Amazonbot",
+    "Timpibot"
+  ],
+  "rules": {
+    "*": {
+      "disallow": [
+        "*_ptid=*",
+        "*?prx_t=*",
+        "/zephr*",
+        "/blaize*",
+        "/search?q=*",
+        "/*.rss",
+        "/buyline-shopping/*",
+        "/buyline-personal-finance/*",
+        "*?jw_start",
+        "*&jw_start",
+        "/gallery/",
+        "/config/newrelic/prod",
+        "/parsely-api-endpoint",
+        "/apdata/",
+        "/article/border-immigration-election-2182fec11fa008ec96c4202e5656d19e",
+        "/api/v2/feed/",
+        "/press-release/*"
+      ],
+      "allow": [],
+      "total": 17,
+      "total_allow": 0
+    },
+    "Amazonbot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "Applebot-Extended": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "CCBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "Claude-Web": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "ClaudeBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "GPTBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "PerplexityBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "Timpibot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "anthropic-ai": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "cohere-ai": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    }
+  }
 }
