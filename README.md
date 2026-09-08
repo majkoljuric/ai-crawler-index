@@ -41,25 +41,27 @@ That last one matters: a site we couldn't reach is shown as a gap in coverage,
 never as a site that welcomes every crawler. We'd rather show you a hole than
 fill it with a guess.
 
-## Named vs inherited — the distinction that carries the meaning
+## Deliberate blocks vs blanket rules
 
-A site with `Disallow: /search` under `User-agent: *` gives *every* AI crawler a
-"partial" verdict. That is ordinary crawl hygiene, not a position on AI. A
-crawler named in its own `User-agent` block is a decision somebody made about
-that crawler specifically.
+Most sites have general rules that catch every crawler at once — blocking
+`/search` or `/admin` is routine housekeeping, not a position on AI. A crawler
+named in its own rule is a decision somebody made about that crawler.
 
-Without separating those two, the interesting signal drowns in the generic one —
-youtube.com and nytimes.com both look like walls of "partial", when in fact
-YouTube names *none* of the 25 tracked crawlers and the NYT names 22.
+Lump the two together and the interesting signal disappears. YouTube and the New
+York Times both look like walls of "partial", when in fact **YouTube names none
+of the 25 tracked crawlers and the NYT names 22**.
 
-So each snapshot records both — plus the rules themselves, because "partial" is
-not an answer if you can't see which paths.
+The index separates them everywhere: filled dots were named on purpose, hollow
+ones were swept up by a general rule. Only **29% of the top 500 name an AI
+crawler at all**.
 
-## The data contract
+## The data
 
-Snapshots are plain JSON served over HTTPS, so they are already usable as a
-read-only API. `schema_version` is at the top of every file and gets bumped
-whenever the shape changes, so a consumer can tell which contract it holds.
+Every reading is plain JSON over HTTPS with CORS enabled — no key, no signup,
+usable directly from a browser or a script.
+
+`schema_version` sits at the top of every file and changes only when the shape
+does, so a client can tell what it's holding.
 
 ```jsonc
 {
@@ -144,44 +146,36 @@ The dashboard draws named verdicts as filled dots and inherited ones as hollow,
 so provenance rides on shape rather than colour and survives a greyscale print;
 clicking any dot shows the rules behind it.
 
-## How the tracked panel is chosen
+## Which sites are in the index
 
-`scraper/domains.csv` is generated, not hand-picked — the methodology is the
-script:
+The 500 most-visited sites on the web that actually serve pages — selected by an
+independent traffic ranking ([Tranco](https://tranco-list.eu/), published so that
+research can cite a list anyone can re-derive), not by hand.
 
-```bash
-curl -L -o /tmp/tranco.zip https://tranco-list.eu/top-1m.csv.zip
-unzip -o /tmp/tranco.zip -d /tmp
-python3 scraper/build_domains.py /tmp/top-1m.csv
-```
+Four things are excluded:
 
-It walks [Tranco](https://tranco-list.eu/) — a research-grade ranking published
-so that studies can cite a list someone else can re-derive — in rank order and
-keeps the first 500 domains that survive:
+- **Infrastructure** — CDNs, DNS, ad networks. The test isn't a blocklist but
+  whether the domain serves a real page at all: update and connectivity-check
+  endpoints like `windowsupdate.com` and `msftconnecttest.com`, and registrar
+  parking domains, serve no documents and drop out on that basis. A crawler
+  policy only means something for a site with pages on it.
+- **Adult sites** — out of scope, and left out openly rather than quietly.
+- **Duplicate front doors** — `youtu.be` folds into `youtube.com`, and the
+  country variants of the big multinationals collapse to one entry, so a single
+  brand can't occupy forty slots.
+- **Anything that didn't respond** — shown as *not yet checked*, never counted
+  as open.
 
-1. **Not infrastructure.** A blocklist catches the obvious CDN/DNS/ad-tech cases.
-2. **Not adult.** Out of scope, and excluded explicitly rather than quietly.
-3. **Actually serves a document.** The real test: fetch the homepage, require
-   HTTP 200 and an HTML content type. Blocklists can never enumerate the
-   infrastructure at the top of this ranking — `windowsupdate.com`,
-   `msftconnecttest.com`, registrar parking domains — but none of them serve a
-   document, so none survive a probe. A crawler policy only means something for
-   a domain that serves documents.
-4. **Not a duplicate front door.** Deduplicated on the hostname *after*
-   redirects, which collapses `youtu.be` into `youtube.com` and the ccTLD
-   variants of the multinationals.
-
-Every row keeps its `tranco_rank`, so any inclusion can be audited back to the
-source list. Categories are best-effort labels applied by a curated map plus
-heuristics — the ranking is the reproducible part, the category is a
-convenience. `--recategorize` re-labels the existing list without re-probing, so
-fixing a label never reshuffles which domains are in the panel.
+Every entry keeps its rank, so any site's inclusion can be traced back to the
+source list. The category labels are a convenience and approximate; the ranking
+is the part that's reproducible.
 
 ---
 
-# Running it yourself
+# How it's built
 
-Everything below is for maintaining the project, not for using it.
+Reference for anyone working on the code. Nothing here is needed to use the
+index or the API.
 
 ## Layout
 
@@ -204,12 +198,11 @@ python3 scraper/fetch_robots.py --rebuild-domain-files   # regenerate per-domain
 python3 -m http.server            # then open site/index.html
 ```
 
-No dependencies beyond the Python standard library — deliberately, so there's
-nothing to break in CI two years from now.
+Python standard library only, no dependencies.
 
-## What's in `data/runs/` right now
+## A note on the run history
 
-Not every run is the same kind of thing, and the files say so:
+Not every file in `data/runs/` is the same kind of thing, and each one says so:
 
 - **The dated live runs** are real readings of every tracked site. Sites that
   didn't respond carry a `fetch_error` and an empty `bots` object, which the
@@ -224,30 +217,20 @@ Not every run is the same kind of thing, and the files say so:
 The change feed stays empty until two live runs exist to compare, and says so on
 the site rather than showing a filler list.
 
-## Deploying
+## Changing what's tracked
 
-1. Push to GitHub.
-2. Settings → Pages → Source: GitHub Actions.
-3. The workflow runs every Monday, commits the new snapshot and redeploys.
-   Trigger it by hand the first time from the Actions tab (`workflow_dispatch`).
+- **Crawlers** live in `scraper/bots.json`. New AI crawlers appear regularly and
+  this list is the part that needs a human.
+- **The panel** is generated, not hand-edited. Change `TARGET_COUNT` in
+  `build_domains.py` and re-run it against a fresh Tranco list:
 
-## Extending it
+  ```bash
+  curl -L -o /tmp/tranco.zip https://tranco-list.eu/top-1m.csv.zip
+  unzip -o /tmp/tranco.zip -d /tmp
+  python3 scraper/build_domains.py /tmp/top-1m.csv
+  ```
 
-- **Add crawlers**: edit `scraper/bots.json` as new ones appear. This needs
-  updating far more often than the domain list, and it's the part that stays a
-  human job.
-- **Change the panel**: re-run `build_domains.py` with a different
-  `TARGET_COUNT`. Growing it well past its current size will want parallel
-  fetching and sharded output.
-- **Backfill history**: the Wayback Machine's CDX API can pull historical
-  readings per domain, which turns an empty change feed into real history on
-  day one.
-- **The obvious next thing**: a CLI or CI check that fails a build when a given
-  site's crawler policy changes. That's the tool people would install, and this
-  index is what makes it possible.
-
-## The one obligation
-
-This only has value if it stays current. A three-month-stale crawler index is
-worse than none — it tells someone a site still blocks a crawler that reversed
-its policy months ago.
+  It probes each candidate for a live HTML homepage, so a run takes a few
+  minutes. `--recategorize` re-labels the existing list without re-probing,
+  which keeps a label fix from reshuffling the panel. Growing much past the
+  current size wants parallel fetching and sharded output first.
