@@ -1,11 +1,11 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-09-08T05:46:36+00:00",
+  "checked_at": "2026-09-08T06:11:21+00:00",
   "domain": "debian.org",
   "category": "nonprofit",
   "robots_url": "https://debian.org/robots.txt",
-  "http_status": null,
-  "fetch_error": "<urlopen error _ssl.c:993: The handshake operation timed out>",
+  "http_status": 404,
+  "fetch_error": "HTTPError 404",
   "bots": {},
   "named": [],
   "rules": {}

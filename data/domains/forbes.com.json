@@ -1,188 +1,38 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-09-08T05:46:36+00:00",
+  "checked_at": "2026-09-08T06:11:21+00:00",
   "domain": "forbes.com",
   "category": "news",
   "robots_url": "https://forbes.com/robots.txt",
   "http_status": 200,
   "fetch_error": null,
   "bots": {
-    "GPTBot": "blocked",
-    "ChatGPT-User": "partial",
+    "GPTBot": "allowed",
+    "ChatGPT-User": "allowed",
     "OAI-SearchBot": "allowed",
-    "ClaudeBot": "blocked",
-    "Claude-Web": "partial",
-    "anthropic-ai": "blocked",
-    "Google-Extended": "partial",
-    "GoogleOther": "partial",
-    "Applebot-Extended": "blocked",
-    "CCBot": "blocked",
-    "Bytespider": "blocked",
-    "PerplexityBot": "blocked",
-    "Perplexity-User": "partial",
-    "cohere-ai": "blocked",
-    "cohere-training-data-crawler": "partial",
-    "Diffbot": "blocked",
-    "Omgilibot": "blocked",
-    "Amazonbot": "blocked",
-    "meta-externalagent": "blocked",
-    "meta-externalfetcher": "partial",
-    "Timpibot": "partial",
-    "YouBot": "partial",
-    "ImagesiftBot": "blocked",
-    "Ai2Bot": "partial",
-    "DuckAssistBot": "partial"
+    "ClaudeBot": "allowed",
+    "Claude-Web": "allowed",
+    "anthropic-ai": "allowed",
+    "Google-Extended": "allowed",
+    "GoogleOther": "allowed",
+    "Applebot-Extended": "allowed",
+    "CCBot": "allowed",
+    "Bytespider": "allowed",
+    "PerplexityBot": "allowed",
+    "Perplexity-User": "allowed",
+    "cohere-ai": "allowed",
+    "cohere-training-data-crawler": "allowed",
+    "Diffbot": "allowed",
+    "Omgilibot": "allowed",
+    "Amazonbot": "allowed",
+    "meta-externalagent": "allowed",
+    "meta-externalfetcher": "allowed",
+    "Timpibot": "allowed",
+    "YouBot": "allowed",
+    "ImagesiftBot": "allowed",
+    "Ai2Bot": "allowed",
+    "DuckAssistBot": "allowed"
   },
-  "named": [
-    "GPTBot",
-    "OAI-SearchBot",
-    "ClaudeBot",
-    "anthropic-ai",
-    "Applebot-Extended",
-    "CCBot",
-    "Bytespider",
-    "PerplexityBot",
-    "cohere-ai",
-    "Diffbot",
-    "Omgilibot",
-    "Amazonbot",
-    "meta-externalagent",
-    "ImagesiftBot"
-  ],
-  "rules": {
-    "*": {
-      "disallow": [
-        "/following/",
-        "/search/",
-        "/follow/",
-        "/ajax/",
-        "/author/following/",
-        "/blog/following/",
-        "/json/",
-        "/header/channels/",
-        "/find-more/",
-        "/preview/",
-        "*wp-admin*",
-        "/typeahead/",
-        "/pepe/",
-        "/media-manager/",
-        "/coupons/visit/*",
-        "/test/",
-        "/advisor/*zx1fa*",
-        "/advisor/journey/",
-        "/wui/",
-        "/research-survey"
-      ],
-      "allow": [
-        "/ajax/follow_info*",
-        "/ajax/getUniregUserData*"
-      ],
-      "total": 20,
-      "total_allow": 2
-    },
-    "Amazonbot": {
-      "disallow": [
-        "/"
-      ],
-      "allow": [],
-      "total": 1,
-      "total_allow": 0
-    },
-    "Applebot-Extended": {
-      "disallow": [
-        "/"
-      ],
-      "allow": [],
-      "total": 1,
-      "total_allow": 0
-    },
-    "Bytespider": {
-      "disallow": [
-        "/"
-      ],
-      "allow": [],
-      "total": 1,
-      "total_allow": 0
-    },
-    "CCBot": {
-      "disallow": [
-        "/"
-      ],
-      "allow": [],
-      "total": 1,
-      "total_allow": 0
-    },
-    "ClaudeBot": {
-      "disallow": [
-        "/"
-      ],
-      "allow": [],
-      "total": 1,
-      "total_allow": 0
-    },
-    "Diffbot": {
-      "disallow": [
-        "/"
-      ],
-      "allow": [],
-      "total": 1,
-      "total_allow": 0
-    },
-    "GPTBot": {
-      "disallow": [
-        "/"
-      ],
-      "allow": [],
-      "total": 1,
-      "total_allow": 0
-    },
-    "ImagesiftBot": {
-      "disallow": [
-        "/"
-      ],
-      "allow": [],
-      "total": 1,
-      "total_allow": 0
-    },
-    "OAI-SearchBot": {
-      "disallow": [],
-      "allow": [
-        "/"
-      ],
-      "total": 0,
-      "total_allow": 1
-    },
-    "PerplexityBot": {
-      "disallow": [
-        "/"
-      ],
-      "allow": [],
-      "total": 1,
-      "total_allow": 0
-    },
-    "anthropic-ai": {
-      "disallow": [
-        "/"
-      ],
-      "allow": [],
-      "total": 1,
-      "total_allow": 0
-    },
-    "cohere-ai": {
-      "disallow": [
-        "/"
-      ],
-      "allow": [],
-      "total": 1,
-      "total_allow": 0
-    },
-    "meta-externalagent": {
-      "disallow": [
-        "/"
-      ],
-      "allow": [],
-      "total": 1,
-      "total_allow": 0
-    }
-  }
+  "named": [],
+  "rules": {}
 }
