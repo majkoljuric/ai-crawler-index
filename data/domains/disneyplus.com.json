@@ -1,0 +1,398 @@
+{
+  "schema_version": 2,
+  "checked_at": "2026-09-08T05:14:09+00:00",
+  "domain": "disneyplus.com",
+  "category": "media",
+  "robots_url": "https://disneyplus.com/robots.txt",
+  "http_status": 200,
+  "fetch_error": null,
+  "bots": {
+    "GPTBot": "partial",
+    "ChatGPT-User": "partial",
+    "OAI-SearchBot": "partial",
+    "ClaudeBot": "partial",
+    "Claude-Web": "blocked",
+    "anthropic-ai": "blocked",
+    "Google-Extended": "partial",
+    "GoogleOther": "blocked",
+    "Applebot-Extended": "partial",
+    "CCBot": "partial",
+    "Bytespider": "partial",
+    "PerplexityBot": "partial",
+    "Perplexity-User": "blocked",
+    "cohere-ai": "blocked",
+    "cohere-training-data-crawler": "blocked",
+    "Diffbot": "blocked",
+    "Omgilibot": "blocked",
+    "Amazonbot": "partial",
+    "meta-externalagent": "partial",
+    "meta-externalfetcher": "partial",
+    "Timpibot": "blocked",
+    "YouBot": "partial",
+    "ImagesiftBot": "blocked",
+    "Ai2Bot": "blocked",
+    "DuckAssistBot": "partial"
+  },
+  "named": [
+    "GPTBot",
+    "ChatGPT-User",
+    "OAI-SearchBot",
+    "ClaudeBot",
+    "Google-Extended",
+    "Applebot-Extended",
+    "CCBot",
+    "Bytespider",
+    "PerplexityBot",
+    "Amazonbot",
+    "meta-externalagent",
+    "meta-externalfetcher",
+    "YouBot",
+    "DuckAssistBot"
+  ],
+  "rules": {
+    "*": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "Amazonbot": {
+      "disallow": [
+        "/home",
+        "/*/home",
+        "/episode",
+        "/*/episode",
+        "/watch",
+        "/*/watch",
+        "/billing",
+        "/*/billing",
+        "/search",
+        "/*/search",
+        "/account",
+        "/*/account",
+        "/app-settings",
+        "/*/app-settings",
+        "/enter-password",
+        "/*/enter-password",
+        "/create-password",
+        "/*/create-password",
+        "/welcome/responder"
+      ],
+      "allow": [
+        "/"
+      ],
+      "total": 19,
+      "total_allow": 1
+    },
+    "Applebot-Extended": {
+      "disallow": [
+        "/home",
+        "/*/home",
+        "/episode",
+        "/*/episode",
+        "/watch",
+        "/*/watch",
+        "/billing",
+        "/*/billing",
+        "/search",
+        "/*/search",
+        "/account",
+        "/*/account",
+        "/app-settings",
+        "/*/app-settings",
+        "/enter-password",
+        "/*/enter-password",
+        "/create-password",
+        "/*/create-password",
+        "/welcome/responder"
+      ],
+      "allow": [
+        "/"
+      ],
+      "total": 19,
+      "total_allow": 1
+    },
+    "Bytespider": {
+      "disallow": [
+        "/home",
+        "/*/home",
+        "/episode",
+        "/*/episode",
+        "/watch",
+        "/*/watch",
+        "/billing",
+        "/*/billing",
+        "/search",
+        "/*/search",
+        "/account",
+        "/*/account",
+        "/app-settings",
+        "/*/app-settings",
+        "/enter-password",
+        "/*/enter-password",
+        "/create-password",
+        "/*/create-password",
+        "/welcome/responder"
+      ],
+      "allow": [
+        "/"
+      ],
+      "total": 19,
+      "total_allow": 1
+    },
+    "CCBot": {
+      "disallow": [
+        "/home",
+        "/*/home",
+        "/episode",
+        "/*/episode",
+        "/watch",
+        "/*/watch",
+        "/billing",
+        "/*/billing",
+        "/search",
+        "/*/search",
+        "/account",
+        "/*/account",
+        "/app-settings",
+        "/*/app-settings",
+        "/enter-password",
+        "/*/enter-password",
+        "/create-password",
+        "/*/create-password",
+        "/welcome/responder"
+      ],
+      "allow": [
+        "/"
+      ],
+      "total": 19,
+      "total_allow": 1
+    },
+    "ChatGPT-User": {
+      "disallow": [
+        "/home",
+        "/*/home",
+        "/episode",
+        "/*/episode",
+        "/watch",
+        "/*/watch",
+        "/billing",
+        "/*/billing",
+        "/search",
+        "/*/search",
+        "/account",
+        "/*/account",
+        "/app-settings",
+        "/*/app-settings",
+        "/enter-password",
+        "/*/enter-password",
+        "/create-password",
+        "/*/create-password",
+        "/welcome/responder"
+      ],
+      "allow": [
+        "/"
+      ],
+      "total": 19,
+      "total_allow": 1
+    },
+    "ClaudeBot": {
+      "disallow": [
+        "/home",
+        "/*/home",
+        "/episode",
+        "/*/episode",
+        "/watch",
+        "/*/watch",
+        "/billing",
+        "/*/billing",
+        "/search",
+        "/*/search",
+        "/account",
+        "/*/account",
+        "/app-settings",
+        "/*/app-settings",
+        "/enter-password",
+        "/*/enter-password",
+        "/create-password",
+        "/*/create-password",
+        "/welcome/responder"
+      ],
+      "allow": [
+        "/"
+      ],
+      "total": 19,
+      "total_allow": 1
+    },
+    "DuckAssistBot": {
+      "disallow": [
+        "/home",
+        "/*/home",
+        "/episode",
+        "/*/episode",
+        "/watch",
+        "/*/watch",
+        "/billing",
+        "/*/billing",
+        "/search",
+        "/*/search",
+        "/account",
+        "/*/account",
+        "/app-settings",
+        "/*/app-settings",
+        "/enter-password",
+        "/*/enter-password",
+        "/create-password",
+        "/*/create-password",
+        "/welcome/responder"
+      ],
+      "allow": [
+        "/"
+      ],
+      "total": 19,
+      "total_allow": 1
+    },
+    "GPTBot": {
+      "disallow": [
+        "/home",
+        "/*/home",
+        "/episode",
+        "/*/episode",
+        "/watch",
+        "/*/watch",
+        "/billing",
+        "/*/billing",
+        "/search",
+        "/*/search",
+        "/account",
+        "/*/account",
+        "/app-settings",
+        "/*/app-settings",
+        "/enter-password",
+        "/*/enter-password",
+        "/create-password",
+        "/*/create-password",
+        "/welcome/responder"
+      ],
+      "allow": [
+        "/"
+      ],
+      "total": 19,
+      "total_allow": 1
+    },
+    "Google-Extended": {
+      "disallow": [
+        "/home",
+        "/*/home",
+        "/episode",
+        "/*/episode",
+        "/watch",
+        "/*/watch",
+        "/billing",
+        "/*/billing",
+        "/search",
+        "/*/search",
+        "/account",
+        "/*/account",
+        "/app-settings",
+        "/*/app-settings",
+        "/enter-password",
+        "/*/enter-password",
+        "/create-password",
+        "/*/create-password",
+        "/welcome/responder"
+      ],
+      "allow": [
+        "/"
+      ],
+      "total": 19,
+      "total_allow": 1
+    },
+    "OAI-SearchBot": {
+      "disallow": [
+        "/home",
+        "/*/home",
+        "/episode",
+        "/*/episode",
+        "/watch",
+        "/*/watch",
+        "/billing",
+        "/*/billing",
+        "/search",
+        "/*/search",
+        "/account",
+        "/*/account",
+        "/app-settings",
+        "/*/app-settings",
+        "/enter-password",
+        "/*/enter-password",
+        "/create-password",
+        "/*/create-password",
+        "/welcome/responder"
+      ],
+      "allow": [
+        "/"
+      ],
+      "total": 19,
+      "total_allow": 1
+    },
+    "PerplexityBot": {
+      "disallow": [
+        "/home",
+        "/*/home",
+        "/episode",
+        "/*/episode",
+        "/watch",
+        "/*/watch",
+        "/billing",
+        "/*/billing",
+        "/search",
+        "/*/search",
+        "/account",
+        "/*/account",
+        "/app-settings",
+        "/*/app-settings",
+        "/enter-password",
+        "/*/enter-password",
+        "/create-password",
+        "/*/create-password",
+        "/welcome/responder"
+      ],
+      "allow": [
+        "/"
+      ],
+      "total": 19,
+      "total_allow": 1
+    },
+    "YouBot": {
+      "disallow": [
+        "/home",
+        "/*/home",
+        "/episode",
+        "/*/episode",
+        "/watch",
+        "/*/watch",
+        "/billing",
+        "/*/billing",
+        "/search",
+        "/*/search",
+        "/account",
+        "/*/account",
+        "/app-settings",
+        "/*/app-settings",
+        "/enter-password",
+        "/*/enter-password",
+        "/create-password",
+        "/*/create-password",
+        "/welcome/responder"
+      ],
+      "allow": [
+        "/"
+      ],
+      "total": 19,
+      "total_allow": 1
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "schema_version": 2,
+  "checked_at": "2026-09-08T05:14:09+00:00",
+  "domain": "rakuten.co.jp",
+  "category": "ecommerce",
+  "robots_url": "https://rakuten.co.jp/robots.txt",
+  "http_status": 200,
+  "fetch_error": null,
+  "bots": {
+    "GPTBot": "partial",
+    "ChatGPT-User": "partial",
+    "OAI-SearchBot": "partial",
+    "ClaudeBot": "partial",
+    "Claude-Web": "partial",
+    "anthropic-ai": "partial",
+    "Google-Extended": "partial",
+    "GoogleOther": "partial",
+    "Applebot-Extended": "partial",
+    "CCBot": "partial",
+    "Bytespider": "partial",
+    "PerplexityBot": "partial",
+    "Perplexity-User": "partial",
+    "cohere-ai": "partial",
+    "cohere-training-data-crawler": "partial",
+    "Diffbot": "partial",
+    "Omgilibot": "partial",
+    "Amazonbot": "partial",
+    "meta-externalagent": "partial",
+    "meta-externalfetcher": "partial",
+    "Timpibot": "partial",
+    "YouBot": "partial",
+    "ImagesiftBot": "partial",
+    "Ai2Bot": "partial",
+    "DuckAssistBot": "partial"
+  },
+  "named": [],
+  "rules": {
+    "*": {
+      "disallow": [
+        "/com/",
+        "/images/",
+        "/backup/",
+        "/cgi-bin/",
+        "/shops/",
+        "/shop/ascosing/",
+        "/shop/egs-g/",
+        "/shop/tripleo-shop/",
+        "/shop/fooody/",
+        "/shop/kira-con02/",
+        "/*/lightbox_*.html",
+        "/aboutus/am/maint/"
+      ],
+      "allow": [
+        "/com/img/home/logo/touch_google.png",
+        "/com/assets/domain-resources/favicon.ico"
+      ],
+      "total": 12,
+      "total_allow": 2
+    }
+  }
+}

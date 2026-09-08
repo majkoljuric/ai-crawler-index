@@ -1,0 +1,153 @@
+{
+  "schema_version": 2,
+  "checked_at": "2026-09-08T05:14:09+00:00",
+  "domain": "techcrunch.com",
+  "category": "tech-news",
+  "robots_url": "https://techcrunch.com/robots.txt",
+  "http_status": 200,
+  "fetch_error": null,
+  "bots": {
+    "GPTBot": "blocked",
+    "ChatGPT-User": "blocked",
+    "OAI-SearchBot": "partial",
+    "ClaudeBot": "blocked",
+    "Claude-Web": "blocked",
+    "anthropic-ai": "blocked",
+    "Google-Extended": "blocked",
+    "GoogleOther": "partial",
+    "Applebot-Extended": "blocked",
+    "CCBot": "blocked",
+    "Bytespider": "blocked",
+    "PerplexityBot": "partial",
+    "Perplexity-User": "partial",
+    "cohere-ai": "blocked",
+    "cohere-training-data-crawler": "partial",
+    "Diffbot": "blocked",
+    "Omgilibot": "partial",
+    "Amazonbot": "partial",
+    "meta-externalagent": "partial",
+    "meta-externalfetcher": "partial",
+    "Timpibot": "partial",
+    "YouBot": "partial",
+    "ImagesiftBot": "partial",
+    "Ai2Bot": "partial",
+    "DuckAssistBot": "partial"
+  },
+  "named": [
+    "GPTBot",
+    "ChatGPT-User",
+    "ClaudeBot",
+    "Claude-Web",
+    "anthropic-ai",
+    "Google-Extended",
+    "Applebot-Extended",
+    "CCBot",
+    "Bytespider",
+    "cohere-ai",
+    "Diffbot"
+  ],
+  "rules": {
+    "*": {
+      "disallow": [
+        "/wp-admin/",
+        "/wp-json/",
+        "/search/",
+        "/?s=",
+        "/*?customize_changeset_uuid=*"
+      ],
+      "allow": [
+        "/wp-admin/admin-ajax.php"
+      ],
+      "total": 5,
+      "total_allow": 1
+    },
+    "Applebot-Extended": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "Bytespider": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "CCBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "ChatGPT-User": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "Claude-Web": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "ClaudeBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "Diffbot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "GPTBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "Google-Extended": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "anthropic-ai": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "cohere-ai": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    }
+  }
+}

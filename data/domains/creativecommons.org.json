@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "checked_at": "2026-09-08T05:14:09+00:00",
+  "domain": "creativecommons.org",
+  "category": "nonprofit",
+  "robots_url": "https://creativecommons.org/robots.txt",
+  "http_status": 200,
+  "fetch_error": null,
+  "bots": {
+    "GPTBot": "allowed",
+    "ChatGPT-User": "allowed",
+    "OAI-SearchBot": "allowed",
+    "ClaudeBot": "allowed",
+    "Claude-Web": "allowed",
+    "anthropic-ai": "allowed",
+    "Google-Extended": "allowed",
+    "GoogleOther": "allowed",
+    "Applebot-Extended": "allowed",
+    "CCBot": "allowed",
+    "Bytespider": "allowed",
+    "PerplexityBot": "allowed",
+    "Perplexity-User": "allowed",
+    "cohere-ai": "allowed",
+    "cohere-training-data-crawler": "allowed",
+    "Diffbot": "allowed",
+    "Omgilibot": "allowed",
+    "Amazonbot": "allowed",
+    "meta-externalagent": "allowed",
+    "meta-externalfetcher": "allowed",
+    "Timpibot": "allowed",
+    "YouBot": "allowed",
+    "ImagesiftBot": "allowed",
+    "Ai2Bot": "allowed",
+    "DuckAssistBot": "allowed"
+  },
+  "named": [],
+  "rules": {
+    "*": {
+      "disallow": [],
+      "allow": [],
+      "total": 0,
+      "total_allow": 0
+    }
+  }
+}

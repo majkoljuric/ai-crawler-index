@@ -1,0 +1,406 @@
+{
+  "schema_version": 2,
+  "checked_at": "2026-09-08T05:14:09+00:00",
+  "domain": "soundcloud.com",
+  "category": "media",
+  "robots_url": "https://soundcloud.com/robots.txt",
+  "http_status": 200,
+  "fetch_error": null,
+  "bots": {
+    "GPTBot": "partial",
+    "ChatGPT-User": "partial",
+    "OAI-SearchBot": "partial",
+    "ClaudeBot": "partial",
+    "Claude-Web": "partial",
+    "anthropic-ai": "partial",
+    "Google-Extended": "partial",
+    "GoogleOther": "partial",
+    "Applebot-Extended": "partial",
+    "CCBot": "partial",
+    "Bytespider": "partial",
+    "PerplexityBot": "partial",
+    "Perplexity-User": "partial",
+    "cohere-ai": "partial",
+    "cohere-training-data-crawler": "partial",
+    "Diffbot": "partial",
+    "Omgilibot": "partial",
+    "Amazonbot": "partial",
+    "meta-externalagent": "partial",
+    "meta-externalfetcher": "partial",
+    "Timpibot": "partial",
+    "YouBot": "partial",
+    "ImagesiftBot": "partial",
+    "Ai2Bot": "partial",
+    "DuckAssistBot": "partial"
+  },
+  "named": [
+    "GPTBot",
+    "ChatGPT-User",
+    "OAI-SearchBot",
+    "ClaudeBot",
+    "Claude-Web",
+    "anthropic-ai",
+    "Google-Extended",
+    "Applebot-Extended",
+    "CCBot",
+    "Bytespider",
+    "PerplexityBot",
+    "cohere-ai",
+    "Amazonbot",
+    "meta-externalagent"
+  ],
+  "rules": {
+    "*": {
+      "disallow": [
+        "/search",
+        "/you/",
+        "/stream",
+        "/upload",
+        "/settings",
+        "/messages",
+        "/*?"
+      ],
+      "allow": [],
+      "total": 7,
+      "total_allow": 0
+    },
+    "Amazonbot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/$",
+        "/terms-of-use",
+        "/community-guidelines",
+        "/transparency-reports",
+        "/accessibility-statement",
+        "/imprint",
+        "/discover",
+        "/stories",
+        "/topic",
+        "/pro",
+        "/download",
+        "/jobs",
+        "/go",
+        "/getstarted",
+        "/company",
+        "/sitemap",
+        "/sitemapIndex"
+      ],
+      "total": 1,
+      "total_allow": 17
+    },
+    "Applebot-Extended": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/$",
+        "/terms-of-use",
+        "/community-guidelines",
+        "/transparency-reports",
+        "/accessibility-statement",
+        "/imprint",
+        "/discover",
+        "/stories",
+        "/topic",
+        "/pro",
+        "/download",
+        "/jobs",
+        "/go",
+        "/getstarted",
+        "/company",
+        "/sitemap",
+        "/sitemapIndex"
+      ],
+      "total": 1,
+      "total_allow": 17
+    },
+    "Bytespider": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/$",
+        "/terms-of-use",
+        "/community-guidelines",
+        "/transparency-reports",
+        "/accessibility-statement",
+        "/imprint",
+        "/discover",
+        "/stories",
+        "/topic",
+        "/pro",
+        "/download",
+        "/jobs",
+        "/go",
+        "/getstarted",
+        "/company",
+        "/sitemap",
+        "/sitemapIndex"
+      ],
+      "total": 1,
+      "total_allow": 17
+    },
+    "CCBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/$",
+        "/terms-of-use",
+        "/community-guidelines",
+        "/transparency-reports",
+        "/accessibility-statement",
+        "/imprint",
+        "/discover",
+        "/stories",
+        "/topic",
+        "/pro",
+        "/download",
+        "/jobs",
+        "/go",
+        "/getstarted",
+        "/company",
+        "/sitemap",
+        "/sitemapIndex"
+      ],
+      "total": 1,
+      "total_allow": 17
+    },
+    "ChatGPT-User": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/$",
+        "/terms-of-use",
+        "/community-guidelines",
+        "/transparency-reports",
+        "/accessibility-statement",
+        "/imprint",
+        "/discover",
+        "/stories",
+        "/topic",
+        "/pro",
+        "/download",
+        "/jobs",
+        "/go",
+        "/getstarted",
+        "/company",
+        "/sitemap",
+        "/sitemapIndex"
+      ],
+      "total": 1,
+      "total_allow": 17
+    },
+    "Claude-Web": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/$",
+        "/terms-of-use",
+        "/community-guidelines",
+        "/transparency-reports",
+        "/accessibility-statement",
+        "/imprint",
+        "/discover",
+        "/stories",
+        "/topic",
+        "/pro",
+        "/download",
+        "/jobs",
+        "/go",
+        "/getstarted",
+        "/company",
+        "/sitemap",
+        "/sitemapIndex"
+      ],
+      "total": 1,
+      "total_allow": 17
+    },
+    "ClaudeBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/$",
+        "/terms-of-use",
+        "/community-guidelines",
+        "/transparency-reports",
+        "/accessibility-statement",
+        "/imprint",
+        "/discover",
+        "/stories",
+        "/topic",
+        "/pro",
+        "/download",
+        "/jobs",
+        "/go",
+        "/getstarted",
+        "/company",
+        "/sitemap",
+        "/sitemapIndex"
+      ],
+      "total": 1,
+      "total_allow": 17
+    },
+    "GPTBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/$",
+        "/terms-of-use",
+        "/community-guidelines",
+        "/transparency-reports",
+        "/accessibility-statement",
+        "/imprint",
+        "/discover",
+        "/stories",
+        "/topic",
+        "/pro",
+        "/download",
+        "/jobs",
+        "/go",
+        "/getstarted",
+        "/company",
+        "/sitemap",
+        "/sitemapIndex"
+      ],
+      "total": 1,
+      "total_allow": 17
+    },
+    "Google-Extended": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/$",
+        "/terms-of-use",
+        "/community-guidelines",
+        "/transparency-reports",
+        "/accessibility-statement",
+        "/imprint",
+        "/discover",
+        "/stories",
+        "/topic",
+        "/pro",
+        "/download",
+        "/jobs",
+        "/go",
+        "/getstarted",
+        "/company",
+        "/sitemap",
+        "/sitemapIndex"
+      ],
+      "total": 1,
+      "total_allow": 17
+    },
+    "OAI-SearchBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/$",
+        "/terms-of-use",
+        "/community-guidelines",
+        "/transparency-reports",
+        "/accessibility-statement",
+        "/imprint",
+        "/discover",
+        "/stories",
+        "/topic",
+        "/pro",
+        "/download",
+        "/jobs",
+        "/go",
+        "/getstarted",
+        "/company",
+        "/sitemap",
+        "/sitemapIndex"
+      ],
+      "total": 1,
+      "total_allow": 17
+    },
+    "PerplexityBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/$",
+        "/terms-of-use",
+        "/community-guidelines",
+        "/transparency-reports",
+        "/accessibility-statement",
+        "/imprint",
+        "/discover",
+        "/stories",
+        "/topic",
+        "/pro",
+        "/download",
+        "/jobs",
+        "/go",
+        "/getstarted",
+        "/company",
+        "/sitemap",
+        "/sitemapIndex"
+      ],
+      "total": 1,
+      "total_allow": 17
+    },
+    "anthropic-ai": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/$",
+        "/terms-of-use",
+        "/community-guidelines",
+        "/transparency-reports",
+        "/accessibility-statement",
+        "/imprint",
+        "/discover",
+        "/stories",
+        "/topic",
+        "/pro",
+        "/download",
+        "/jobs",
+        "/go",
+        "/getstarted",
+        "/company",
+        "/sitemap",
+        "/sitemapIndex"
+      ],
+      "total": 1,
+      "total_allow": 17
+    },
+    "cohere-ai": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/$",
+        "/terms-of-use",
+        "/community-guidelines",
+        "/transparency-reports",
+        "/accessibility-statement",
+        "/imprint",
+        "/discover",
+        "/stories",
+        "/topic",
+        "/pro",
+        "/download",
+        "/jobs",
+        "/go",
+        "/getstarted",
+        "/company",
+        "/sitemap",
+        "/sitemapIndex"
+      ],
+      "total": 1,
+      "total_allow": 17
+    }
+  }
+}

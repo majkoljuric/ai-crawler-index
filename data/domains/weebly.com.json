@@ -1,0 +1,71 @@
+{
+  "schema_version": 2,
+  "checked_at": "2026-09-08T05:14:09+00:00",
+  "domain": "weebly.com",
+  "category": "software",
+  "robots_url": "https://weebly.com/robots.txt",
+  "http_status": 200,
+  "fetch_error": null,
+  "bots": {
+    "GPTBot": "partial",
+    "ChatGPT-User": "partial",
+    "OAI-SearchBot": "partial",
+    "ClaudeBot": "partial",
+    "Claude-Web": "partial",
+    "anthropic-ai": "partial",
+    "Google-Extended": "partial",
+    "GoogleOther": "partial",
+    "Applebot-Extended": "partial",
+    "CCBot": "partial",
+    "Bytespider": "partial",
+    "PerplexityBot": "partial",
+    "Perplexity-User": "partial",
+    "cohere-ai": "partial",
+    "cohere-training-data-crawler": "partial",
+    "Diffbot": "partial",
+    "Omgilibot": "partial",
+    "Amazonbot": "partial",
+    "meta-externalagent": "partial",
+    "meta-externalfetcher": "partial",
+    "Timpibot": "partial",
+    "YouBot": "partial",
+    "ImagesiftBot": "partial",
+    "Ai2Bot": "partial",
+    "DuckAssistBot": "partial"
+  },
+  "named": [],
+  "rules": {
+    "*": {
+      "disallow": [
+        "/designer_pricing.php",
+        "/ipad/",
+        "/uploads/7/0/2/6/70262511/custom_themes/",
+        "/uploads/8/5/1/4/85141968/custom_themes/",
+        "/uploads/",
+        "/editor/",
+        "/weebly/",
+        "/choose-a-plan/",
+        "/free-trial/",
+        "/portfolio-site/",
+        "/start-your-blog/",
+        "/start-your-store/",
+        "/trial/",
+        "/wedding-site/",
+        "/r/",
+        "/lp/",
+        "/data-processing-terms/",
+        "/home/",
+        "/mindbody/",
+        "/app-center/oauth/authorize"
+      ],
+      "allow": [
+        "/uploads/1/_/1/",
+        "/uploads/7/0/2/6/70262511/",
+        "/uploads/8/5/1/4/85141968/",
+        "/editor/uploads/1/_/1/custom_themes/578730180640357361/files/"
+      ],
+      "total": 20,
+      "total_allow": 4
+    }
+  }
+}

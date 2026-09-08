@@ -1,0 +1,433 @@
+{
+  "schema_version": 2,
+  "checked_at": "2026-09-08T05:14:09+00:00",
+  "domain": "jimdo.com",
+  "category": "other",
+  "robots_url": "https://jimdo.com/robots.txt",
+  "http_status": 200,
+  "fetch_error": null,
+  "bots": {
+    "GPTBot": "partial",
+    "ChatGPT-User": "partial",
+    "OAI-SearchBot": "partial",
+    "ClaudeBot": "partial",
+    "Claude-Web": "partial",
+    "anthropic-ai": "partial",
+    "Google-Extended": "partial",
+    "GoogleOther": "partial",
+    "Applebot-Extended": "partial",
+    "CCBot": "partial",
+    "Bytespider": "partial",
+    "PerplexityBot": "partial",
+    "Perplexity-User": "partial",
+    "cohere-ai": "partial",
+    "cohere-training-data-crawler": "partial",
+    "Diffbot": "partial",
+    "Omgilibot": "partial",
+    "Amazonbot": "partial",
+    "meta-externalagent": "partial",
+    "meta-externalfetcher": "partial",
+    "Timpibot": "partial",
+    "YouBot": "partial",
+    "ImagesiftBot": "partial",
+    "Ai2Bot": "partial",
+    "DuckAssistBot": "partial"
+  },
+  "named": [
+    "GPTBot",
+    "ChatGPT-User",
+    "OAI-SearchBot",
+    "ClaudeBot",
+    "Claude-Web",
+    "anthropic-ai",
+    "Google-Extended",
+    "Applebot-Extended",
+    "CCBot",
+    "Bytespider",
+    "PerplexityBot",
+    "Perplexity-User",
+    "cohere-ai",
+    "cohere-training-data-crawler",
+    "Diffbot",
+    "Omgilibot",
+    "Amazonbot",
+    "meta-externalagent",
+    "meta-externalfetcher",
+    "YouBot",
+    "Ai2Bot",
+    "DuckAssistBot"
+  ],
+  "rules": {
+    "*": {
+      "disallow": [
+        "/ai/",
+        "/app/",
+        "/blog/wp-admin/",
+        "/*.zip",
+        "/oidc-silent-callback/",
+        "/search/",
+        "/de/app/",
+        "/de/magazin/wp-admin/",
+        "/de/*.zip",
+        "/es/app/",
+        "/es/blog/wp-admin/",
+        "/es/*.zip",
+        "/fr/app/",
+        "/fr/blog/wp-admin/",
+        "/fr/*.zip",
+        "/it/app/",
+        "/it/blog/wp-admin/",
+        "/it/*.zip",
+        "/jp/app/",
+        "/jp/*.zip",
+        "/nl/app/",
+        "/nl/blog/wp-admin/",
+        "/nl/*.zip"
+      ],
+      "allow": [
+        "/app/module/webproduct/goto/",
+        "/app/download/",
+        "/blog/wp-admin/admin-ajax.php",
+        "/de/magazin/wp-admin/admin-ajax.php",
+        "/de/app/download/",
+        "/de/app/module/webproduct/goto/",
+        "/es/app/module/webproduct/goto/",
+        "/es/app/download/",
+        "/es/blog/wp-admin/admin-ajax.php",
+        "/fr/app/module/webproduct/goto/",
+        "/fr/app/download/",
+        "/fr/blog/wp-admin/admin-ajax.php",
+        "/it/app/module/webproduct/goto/",
+        "/it/app/download/",
+        "/it/blog/wp-admin/admin-ajax.php",
+        "/jp/app/module/webproduct/goto/",
+        "/jp/app/download/",
+        "/nl/app/module/webproduct/goto/",
+        "/nl/app/download/",
+        "/nl/blog/wp-admin/admin-ajax.php"
+      ],
+      "total": 23,
+      "total_allow": 20
+    },
+    "Amazonbot": {
+      "disallow": [
+        "/app/",
+        "/de/app/",
+        "/es/app/",
+        "/fr/app/",
+        "/it/app/",
+        "/jp/app/",
+        "/nl/app/"
+      ],
+      "allow": [
+        "/ai/"
+      ],
+      "total": 7,
+      "total_allow": 1
+    },
+    "Applebot-Extended": {
+      "disallow": [
+        "/app/",
+        "/de/app/",
+        "/es/app/",
+        "/fr/app/",
+        "/it/app/",
+        "/jp/app/",
+        "/nl/app/"
+      ],
+      "allow": [
+        "/ai/"
+      ],
+      "total": 7,
+      "total_allow": 1
+    },
+    "Bytespider": {
+      "disallow": [
+        "/app/",
+        "/de/app/",
+        "/es/app/",
+        "/fr/app/",
+        "/it/app/",
+        "/jp/app/",
+        "/nl/app/"
+      ],
+      "allow": [
+        "/ai/"
+      ],
+      "total": 7,
+      "total_allow": 1
+    },
+    "CCBot": {
+      "disallow": [
+        "/app/",
+        "/de/app/",
+        "/es/app/",
+        "/fr/app/",
+        "/it/app/",
+        "/jp/app/",
+        "/nl/app/"
+      ],
+      "allow": [
+        "/ai/"
+      ],
+      "total": 7,
+      "total_allow": 1
+    },
+    "ChatGPT-User": {
+      "disallow": [
+        "/app/",
+        "/de/app/",
+        "/es/app/",
+        "/fr/app/",
+        "/it/app/",
+        "/jp/app/",
+        "/nl/app/"
+      ],
+      "allow": [
+        "/ai/"
+      ],
+      "total": 7,
+      "total_allow": 1
+    },
+    "Claude-Web": {
+      "disallow": [
+        "/app/",
+        "/de/app/",
+        "/es/app/",
+        "/fr/app/",
+        "/it/app/",
+        "/jp/app/",
+        "/nl/app/"
+      ],
+      "allow": [
+        "/ai/"
+      ],
+      "total": 7,
+      "total_allow": 1
+    },
+    "ClaudeBot": {
+      "disallow": [
+        "/app/",
+        "/de/app/",
+        "/es/app/",
+        "/fr/app/",
+        "/it/app/",
+        "/jp/app/",
+        "/nl/app/"
+      ],
+      "allow": [
+        "/ai/"
+      ],
+      "total": 7,
+      "total_allow": 1
+    },
+    "Diffbot": {
+      "disallow": [
+        "/app/",
+        "/de/app/",
+        "/es/app/",
+        "/fr/app/",
+        "/it/app/",
+        "/jp/app/",
+        "/nl/app/"
+      ],
+      "allow": [
+        "/ai/"
+      ],
+      "total": 7,
+      "total_allow": 1
+    },
+    "DuckAssistBot": {
+      "disallow": [
+        "/app/",
+        "/de/app/",
+        "/es/app/",
+        "/fr/app/",
+        "/it/app/",
+        "/jp/app/",
+        "/nl/app/"
+      ],
+      "allow": [
+        "/ai/"
+      ],
+      "total": 7,
+      "total_allow": 1
+    },
+    "GPTBot": {
+      "disallow": [
+        "/app/",
+        "/de/app/",
+        "/es/app/",
+        "/fr/app/",
+        "/it/app/",
+        "/jp/app/",
+        "/nl/app/"
+      ],
+      "allow": [
+        "/ai/"
+      ],
+      "total": 7,
+      "total_allow": 1
+    },
+    "Google-Extended": {
+      "disallow": [
+        "/app/",
+        "/de/app/",
+        "/es/app/",
+        "/fr/app/",
+        "/it/app/",
+        "/jp/app/",
+        "/nl/app/"
+      ],
+      "allow": [
+        "/ai/"
+      ],
+      "total": 7,
+      "total_allow": 1
+    },
+    "OAI-SearchBot": {
+      "disallow": [
+        "/app/",
+        "/de/app/",
+        "/es/app/",
+        "/fr/app/",
+        "/it/app/",
+        "/jp/app/",
+        "/nl/app/"
+      ],
+      "allow": [
+        "/ai/"
+      ],
+      "total": 7,
+      "total_allow": 1
+    },
+    "Omgilibot": {
+      "disallow": [
+        "/app/",
+        "/de/app/",
+        "/es/app/",
+        "/fr/app/",
+        "/it/app/",
+        "/jp/app/",
+        "/nl/app/"
+      ],
+      "allow": [
+        "/ai/"
+      ],
+      "total": 7,
+      "total_allow": 1
+    },
+    "Perplexity-User": {
+      "disallow": [
+        "/app/",
+        "/de/app/",
+        "/es/app/",
+        "/fr/app/",
+        "/it/app/",
+        "/jp/app/",
+        "/nl/app/"
+      ],
+      "allow": [
+        "/ai/"
+      ],
+      "total": 7,
+      "total_allow": 1
+    },
+    "PerplexityBot": {
+      "disallow": [
+        "/app/",
+        "/de/app/",
+        "/es/app/",
+        "/fr/app/",
+        "/it/app/",
+        "/jp/app/",
+        "/nl/app/"
+      ],
+      "allow": [
+        "/ai/"
+      ],
+      "total": 7,
+      "total_allow": 1
+    },
+    "YouBot": {
+      "disallow": [
+        "/app/",
+        "/de/app/",
+        "/es/app/",
+        "/fr/app/",
+        "/it/app/",
+        "/jp/app/",
+        "/nl/app/"
+      ],
+      "allow": [
+        "/ai/"
+      ],
+      "total": 7,
+      "total_allow": 1
+    },
+    "anthropic-ai": {
+      "disallow": [
+        "/app/",
+        "/de/app/",
+        "/es/app/",
+        "/fr/app/",
+        "/it/app/",
+        "/jp/app/",
+        "/nl/app/"
+      ],
+      "allow": [
+        "/ai/"
+      ],
+      "total": 7,
+      "total_allow": 1
+    },
+    "cohere-ai": {
+      "disallow": [
+        "/app/",
+        "/de/app/",
+        "/es/app/",
+        "/fr/app/",
+        "/it/app/",
+        "/jp/app/",
+        "/nl/app/"
+      ],
+      "allow": [
+        "/ai/"
+      ],
+      "total": 7,
+      "total_allow": 1
+    },
+    "cohere-training-data-crawler": {
+      "disallow": [
+        "/app/",
+        "/de/app/",
+        "/es/app/",
+        "/fr/app/",
+        "/it/app/",
+        "/jp/app/",
+        "/nl/app/"
+      ],
+      "allow": [
+        "/ai/"
+      ],
+      "total": 7,
+      "total_allow": 1
+    },
+    "meta-externalagent": {
+      "disallow": [
+        "/app/",
+        "/de/app/",
+        "/es/app/",
+        "/fr/app/",
+        "/it/app/",
+        "/jp/app/",
+        "/nl/app/"
+      ],
+      "allow": [
+        "/ai/"
+      ],
+      "total": 7,
+      "total_allow": 1
+    }
+  }
+}

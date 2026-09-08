@@ -1,0 +1,116 @@
+{
+  "schema_version": 2,
+  "checked_at": "2026-09-08T05:14:09+00:00",
+  "domain": "n-tv.de",
+  "category": "other",
+  "robots_url": "https://n-tv.de/robots.txt",
+  "http_status": 200,
+  "fetch_error": null,
+  "bots": {
+    "GPTBot": "partial",
+    "ChatGPT-User": "partial",
+    "OAI-SearchBot": "partial",
+    "ClaudeBot": "partial",
+    "Claude-Web": "partial",
+    "anthropic-ai": "partial",
+    "Google-Extended": "partial",
+    "GoogleOther": "partial",
+    "Applebot-Extended": "partial",
+    "CCBot": "partial",
+    "Bytespider": "partial",
+    "PerplexityBot": "partial",
+    "Perplexity-User": "partial",
+    "cohere-ai": "partial",
+    "cohere-training-data-crawler": "partial",
+    "Diffbot": "partial",
+    "Omgilibot": "partial",
+    "Amazonbot": "partial",
+    "meta-externalagent": "partial",
+    "meta-externalfetcher": "partial",
+    "Timpibot": "partial",
+    "YouBot": "partial",
+    "ImagesiftBot": "partial",
+    "Ai2Bot": "partial",
+    "DuckAssistBot": "partial"
+  },
+  "named": [
+    "GPTBot",
+    "Google-Extended",
+    "CCBot"
+  ],
+  "rules": {
+    "*": {
+      "disallow": [
+        "/suche/",
+        "/boersenkurse/suche/",
+        "/stat/",
+        "/archiv/",
+        "/auth/",
+        "/mediathek/videos/etf-masterclass/"
+      ],
+      "allow": [],
+      "total": 6,
+      "total_allow": 0
+    },
+    "CCBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/vergleiche/",
+        "/casino-vergleich/",
+        "/sportwetten/",
+        "/wettanbieter-vergleich/",
+        "/online-sprachschule/",
+        "/kreditvergleich/",
+        "/broker-vergleich/",
+        "/webtools-im-vergleich/",
+        "/ratgeber/So-findest-du-den-Streamingdienst-der-wirklich-zu-deinem-Alltag-passt-id31165054.html",
+        "/ratgeber/Welcher-Streamingdienst-passt-zu-dir-Warum-RTL-fuer-Fans-deutscher-Serien-Reality-und-Live-TV-ideal-ist-id31160570.html",
+        "/ratgeber/Wer-fuer-eine-Waermepumpe-bis-zu-22-400-Euro-Zuschuss-erhalten-kann-id31217878.html"
+      ],
+      "total": 1,
+      "total_allow": 11
+    },
+    "GPTBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/vergleiche/",
+        "/casino-vergleich/",
+        "/sportwetten/",
+        "/wettanbieter-vergleich/",
+        "/online-sprachschule/",
+        "/kreditvergleich/",
+        "/broker-vergleich/",
+        "/webtools-im-vergleich/",
+        "/ratgeber/So-findest-du-den-Streamingdienst-der-wirklich-zu-deinem-Alltag-passt-id31165054.html",
+        "/ratgeber/Welcher-Streamingdienst-passt-zu-dir-Warum-RTL-fuer-Fans-deutscher-Serien-Reality-und-Live-TV-ideal-ist-id31160570.html",
+        "/ratgeber/Wer-fuer-eine-Waermepumpe-bis-zu-22-400-Euro-Zuschuss-erhalten-kann-id31217878.html"
+      ],
+      "total": 1,
+      "total_allow": 11
+    },
+    "Google-Extended": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/vergleiche/",
+        "/casino-vergleich/",
+        "/sportwetten/",
+        "/wettanbieter-vergleich/",
+        "/online-sprachschule/",
+        "/kreditvergleich/",
+        "/broker-vergleich/",
+        "/webtools-im-vergleich/",
+        "/ratgeber/So-findest-du-den-Streamingdienst-der-wirklich-zu-deinem-Alltag-passt-id31165054.html",
+        "/ratgeber/Welcher-Streamingdienst-passt-zu-dir-Warum-RTL-fuer-Fans-deutscher-Serien-Reality-und-Live-TV-ideal-ist-id31160570.html",
+        "/ratgeber/Wer-fuer-eine-Waermepumpe-bis-zu-22-400-Euro-Zuschuss-erhalten-kann-id31217878.html"
+      ],
+      "total": 1,
+      "total_allow": 11
+    }
+  }
+}

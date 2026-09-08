@@ -1,0 +1,243 @@
+{
+  "schema_version": 2,
+  "checked_at": "2026-09-08T05:14:09+00:00",
+  "domain": "corriere.it",
+  "category": "news",
+  "robots_url": "https://corriere.it/robots.txt",
+  "http_status": 200,
+  "fetch_error": null,
+  "bots": {
+    "GPTBot": "blocked",
+    "ChatGPT-User": "partial",
+    "OAI-SearchBot": "partial",
+    "ClaudeBot": "blocked",
+    "Claude-Web": "partial",
+    "anthropic-ai": "blocked",
+    "Google-Extended": "blocked",
+    "GoogleOther": "partial",
+    "Applebot-Extended": "blocked",
+    "CCBot": "blocked",
+    "Bytespider": "blocked",
+    "PerplexityBot": "partial",
+    "Perplexity-User": "partial",
+    "cohere-ai": "partial",
+    "cohere-training-data-crawler": "partial",
+    "Diffbot": "partial",
+    "Omgilibot": "partial",
+    "Amazonbot": "blocked",
+    "meta-externalagent": "blocked",
+    "meta-externalfetcher": "partial",
+    "Timpibot": "blocked",
+    "YouBot": "blocked",
+    "ImagesiftBot": "partial",
+    "Ai2Bot": "partial",
+    "DuckAssistBot": "partial"
+  },
+  "named": [
+    "GPTBot",
+    "ClaudeBot",
+    "anthropic-ai",
+    "Google-Extended",
+    "Applebot-Extended",
+    "CCBot",
+    "Bytespider",
+    "Amazonbot",
+    "meta-externalagent",
+    "Timpibot",
+    "YouBot"
+  ],
+  "rules": {
+    "*": {
+      "disallow": [
+        "*{{data.c.link_offerId}}",
+        "*(none)",
+        "*?RedirectUrl",
+        "/privacy.shtml",
+        "/abbonati.Suspended/",
+        "/corcommunitynew/accesso/LogOut.do",
+        "/indexMethodeProve.shtml",
+        "/apw.js",
+        "/salute/cardiologia/sintomi-infartosintomi-infarto",
+        "/salute/cardiologia/sintomi-infartoheart-attack-symptoms",
+        "/salute/cardiologia/sintomi-infartos\u00c3\u00adntomas-ataque-card\u00c3\u00adaco",
+        "/salute/cardiologia/sintomi-infartosymptomes-infarctus",
+        "/salute/cardiologia/sintomi-infarto\u00d1\u0081\u00d0\u00b8\u00d0\u00bc\u00d0\u00bf\u00d1\u201a\u00d0\u00be\u00d0\u00bc\u00d1\u2039-\u00d0\u00b8\u00d0\u00bd\u00d1\u201e\u00d0\u00b0\u00d1\u20ac\u00d0\u00ba\u00d1\u201a\u00d0\u00b0",
+        "/salute/cardiologia/sintomi-infarto\u00e5\u00bf\u0192\u00e8\u201a\u0152\u00e6\u00a2\u2014\u00e5\u00a1\u017e\u00e7\u2014\u2021\u00e7\u0160\u00b6",
+        "/salute/cardiologia/sintomi-infarto\u00d8\u00b7\u00d8\u00a8 \u00d8\u00a7\u00d9\u201e\u00d9\u201a\u00d9\u201e\u00d8\u00a8",
+        "/salute/cardiologia/sintomi-infartosimptome-de-atac-de-cord",
+        "/salute/sportello_cancro/jsp/*",
+        "/corrierecalcio/app/formazione/",
+        "/preview/",
+        "/dwc-xalok/",
+        "/ssi/",
+        "/tools/",
+        "/linked_webroots/",
+        "/english/includes_methode/",
+        "/includes_methode/",
+        "/community-corriere/",
+        "/widget/",
+        "/dwc/",
+        "/digital-edition/",
+        "/correlati/",
+        "/cinema/icortissimi-ended/",
+        "/ZCestino/",
+        "/prova/",
+        "/test/",
+        "/landing/wrapped-2023/",
+        "/test_mf/",
+        "/piano-511/",
+        "/b2b/",
+        "/_template/",
+        "/_docs/",
+        "/_temp/",
+        "/cf/",
+        "/servizi/",
+        "/salute/dizionario/dizionarioSearch.jsp",
+        "/sportello-cancro/dizionario/",
+        "/dilatua/proRecensione.do",
+        "/newsletter/nl_economia.html",
+        "/ultima_ora/",
+        "/salute/dizionario/dizionarioSearch.jsp",
+        "/salute/dizionario/pages/results.jsp",
+        "/cronache/speciali/2010/maturita/test-universita.shtml",
+        "/smallApp/tellafriend/",
+        "/*_print.html$",
+        "/*.xml",
+        "/account/",
+        "/account/login?",
+        "/gallery/*/vuoto.shtml",
+        "*pwcmp=",
+        "*reader_id=",
+        "/cruciverba_old/",
+        "/corrierepedia",
+        "/firme/pierluigi-battista_80",
+        "/cook/ricette/ricerca",
+        "/CorriereAppNews/",
+        "/corrierepoint/",
+        "/index_mobile_tst_hp_mob_b.shtml",
+        "/*app_v2",
+        "/*app_v1",
+        "/*?q=",
+        "/*?f=",
+        "/*?s=",
+        "/*?searchType=",
+        "/*articleurl=",
+        "/economia/quiz/",
+        "/offerta-speciale-limitata/",
+        "/*?*rid=*&*destination=*",
+        "/*?*destination=*&*rid=*",
+        "/nazionale-2025/"
+      ],
+      "allow": [
+        "/account/login$",
+        "/salute/il-medico-risponde/sitemap.xml",
+        "/salute/il-medico-risponde/news/sitemap.xml",
+        "/salute/sitemap-dizionario-corriere-salute.xml",
+        "/dynamic-sitemap/sitemap-last-100/*.xml",
+        "/dynamic-feed/*.xml",
+        "/cook*sitemap*.xml",
+        "/guida-autovelox-e-codice-della-strada/sitemap.xml",
+        "/radio/$",
+        "/radio/index.shtml",
+        "/servizi/$",
+        "/ultima_ora/agrnews.jsp",
+        "/showcase/*.xml",
+        "/economia/chiedi-esperto/sitemap.xml",
+        "/economia/chiedi-esperto/news/sitemap.xml",
+        "/sette/speciale-presidenziali-usa-2024-harris-contro-trump/rss/*.xml",
+        "/dynamic-sitemap/corriere/video/lezioni*sitemap*.xml",
+        "/sitemap*.xml",
+        "/rss/*.xml",
+        "/salute/sitemap-dizionario.xml",
+        "/rss/ultimora.xml",
+        "/feed-hp/homepage-restyle-2025.xml",
+        "/editorspicks/",
+        "/oroscopo/sitemap.xml",
+        "/sport/risultati-live/sitemap.xml",
+        "/elezioni/*.xml"
+      ],
+      "total": 78,
+      "total_allow": 26
+    },
+    "Amazonbot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "Applebot-Extended": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "Bytespider": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "CCBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "ClaudeBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "GPTBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "Google-Extended": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "Timpibot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "YouBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "anthropic-ai": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    }
+  }
+}

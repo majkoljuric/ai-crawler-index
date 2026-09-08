@@ -1,0 +1,104 @@
+{
+  "schema_version": 2,
+  "checked_at": "2026-09-08T05:14:09+00:00",
+  "domain": "otto.de",
+  "category": "other",
+  "robots_url": "https://otto.de/robots.txt",
+  "http_status": 200,
+  "fetch_error": null,
+  "bots": {
+    "GPTBot": "partial",
+    "ChatGPT-User": "partial",
+    "OAI-SearchBot": "partial",
+    "ClaudeBot": "partial",
+    "Claude-Web": "partial",
+    "anthropic-ai": "partial",
+    "Google-Extended": "partial",
+    "GoogleOther": "partial",
+    "Applebot-Extended": "partial",
+    "CCBot": "partial",
+    "Bytespider": "partial",
+    "PerplexityBot": "partial",
+    "Perplexity-User": "partial",
+    "cohere-ai": "partial",
+    "cohere-training-data-crawler": "partial",
+    "Diffbot": "partial",
+    "Omgilibot": "partial",
+    "Amazonbot": "partial",
+    "meta-externalagent": "partial",
+    "meta-externalfetcher": "partial",
+    "Timpibot": "partial",
+    "YouBot": "partial",
+    "ImagesiftBot": "partial",
+    "Ai2Bot": "partial",
+    "DuckAssistBot": "partial"
+  },
+  "named": [
+    "GPTBot",
+    "ChatGPT-User",
+    "OAI-SearchBot",
+    "PerplexityBot",
+    "Perplexity-User"
+  ],
+  "rules": {
+    "*": {
+      "disallow": [
+        "/gate/",
+        "/onex/",
+        "/cdn-cgi/",
+        "/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/"
+      ],
+      "allow": [],
+      "total": 4,
+      "total_allow": 0
+    },
+    "ChatGPT-User": {
+      "disallow": [
+        "/kundenbewertungen/",
+        "/gate/",
+        "/onex/",
+        "/cdn-cgi/",
+        "/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/"
+      ],
+      "allow": [],
+      "total": 5,
+      "total_allow": 0
+    },
+    "GPTBot": {
+      "disallow": [
+        "/kundenbewertungen/",
+        "/gate/",
+        "/onex/",
+        "/cdn-cgi/",
+        "/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/"
+      ],
+      "allow": [],
+      "total": 5,
+      "total_allow": 0
+    },
+    "Perplexity-User": {
+      "disallow": [
+        "/kundenbewertungen/",
+        "/gate/",
+        "/onex/",
+        "/cdn-cgi/",
+        "/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/"
+      ],
+      "allow": [],
+      "total": 5,
+      "total_allow": 0
+    },
+    "PerplexityBot": {
+      "disallow": [
+        "/kundenbewertungen/",
+        "/gate/",
+        "/onex/",
+        "/cdn-cgi/",
+        "/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/"
+      ],
+      "allow": [],
+      "total": 5,
+      "total_allow": 0
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "schema_version": 2,
+  "checked_at": "2026-09-08T05:14:09+00:00",
+  "domain": "webmd.com",
+  "category": "health",
+  "robots_url": "https://webmd.com/robots.txt",
+  "http_status": 200,
+  "fetch_error": null,
+  "bots": {
+    "GPTBot": "blocked",
+    "ChatGPT-User": "partial",
+    "OAI-SearchBot": "partial",
+    "ClaudeBot": "blocked",
+    "Claude-Web": "partial",
+    "anthropic-ai": "partial",
+    "Google-Extended": "partial",
+    "GoogleOther": "partial",
+    "Applebot-Extended": "partial",
+    "CCBot": "blocked",
+    "Bytespider": "partial",
+    "PerplexityBot": "partial",
+    "Perplexity-User": "partial",
+    "cohere-ai": "partial",
+    "cohere-training-data-crawler": "partial",
+    "Diffbot": "partial",
+    "Omgilibot": "partial",
+    "Amazonbot": "partial",
+    "meta-externalagent": "partial",
+    "meta-externalfetcher": "partial",
+    "Timpibot": "partial",
+    "YouBot": "partial",
+    "ImagesiftBot": "partial",
+    "Ai2Bot": "partial",
+    "DuckAssistBot": "partial"
+  },
+  "named": [
+    "GPTBot",
+    "ClaudeBot",
+    "CCBot"
+  ],
+  "rules": {
+    "*": {
+      "disallow": [
+        "*/search/search_results/",
+        "/500",
+        "/aim/",
+        "/api/",
+        "/bipolar-disorder/video/bipolar-fatherhood",
+        "/bipolar-disorder/video/bipolar-toolbox",
+        "/breast-cancer/bc-treatment-21/provider-select",
+        "/click*",
+        "/dna",
+        "/drugs/2/search*",
+        "/drugs/ReportAbuse.aspx*",
+        "/kapi/",
+        "/mm/",
+        "/my-library",
+        "/news/header.php",
+        "/pill-identification/search-results*",
+        "/search/2/api/",
+        "/Share.aspx*",
+        "/sponsored/",
+        "/static/",
+        "/story/",
+        "/webmd_static_vue/"
+      ],
+      "allow": [],
+      "total": 22,
+      "total_allow": 0
+    },
+    "CCBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "ClaudeBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "GPTBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    }
+  }
+}

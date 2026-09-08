@@ -1,0 +1,96 @@
+{
+  "schema_version": 2,
+  "checked_at": "2026-09-08T05:14:09+00:00",
+  "domain": "sohu.com",
+  "category": "software",
+  "robots_url": "https://sohu.com/robots.txt",
+  "http_status": 200,
+  "fetch_error": null,
+  "bots": {
+    "GPTBot": "blocked",
+    "ChatGPT-User": "blocked",
+    "OAI-SearchBot": "blocked",
+    "ClaudeBot": "blocked",
+    "Claude-Web": "blocked",
+    "anthropic-ai": "blocked",
+    "Google-Extended": "blocked",
+    "GoogleOther": "blocked",
+    "Applebot-Extended": "blocked",
+    "CCBot": "blocked",
+    "Bytespider": "partial",
+    "PerplexityBot": "blocked",
+    "Perplexity-User": "blocked",
+    "cohere-ai": "blocked",
+    "cohere-training-data-crawler": "blocked",
+    "Diffbot": "blocked",
+    "Omgilibot": "blocked",
+    "Amazonbot": "blocked",
+    "meta-externalagent": "blocked",
+    "meta-externalfetcher": "blocked",
+    "Timpibot": "blocked",
+    "YouBot": "blocked",
+    "ImagesiftBot": "blocked",
+    "Ai2Bot": "blocked",
+    "DuckAssistBot": "blocked"
+  },
+  "named": [
+    "Bytespider"
+  ],
+  "rules": {
+    "*": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "Bytespider": {
+      "disallow": [
+        "/*?*"
+      ],
+      "allow": [
+        "/a/*?*",
+        "/abroad_a/*?*",
+        "/picture/*?*",
+        "/*_a(/qihoo_a)/*?*",
+        "/collection/*?*",
+        "/ab_a/*?*",
+        "/classic*?*",
+        "/?*$",
+        "/new*?*",
+        "/business*?*",
+        "/it*?*",
+        "/fashion*?*",
+        "/leaening*?*",
+        "/health*?*",
+        "/yule*?*",
+        "/mt*?*",
+        "/travel*?*",
+        "/baobao*?*",
+        "/chihe*?*",
+        "/cul*?*",
+        "/history*?*",
+        "/gov*?*",
+        "/gongyi*?*",
+        "/police*?*",
+        "/mil*?*",
+        "/acg*?*",
+        "/astro*?*",
+        "/game*?*",
+        "/pets*?*",
+        "/sports*?*",
+        "/subject/*?*",
+        "/integration-api/*?*",
+        "/public-api/*?*",
+        "/xtopic/*?*",
+        "/xchannel/*?*",
+        "/kindfeed/*?*",
+        "/kindlist/*?*",
+        "/sitemap/*?*"
+      ],
+      "total": 1,
+      "total_allow": 38
+    }
+  }
+}

@@ -1,0 +1,383 @@
+{
+  "schema_version": 2,
+  "checked_at": "2026-09-08T05:14:09+00:00",
+  "domain": "nbcnews.com",
+  "category": "news",
+  "robots_url": "https://nbcnews.com/robots.txt",
+  "http_status": 200,
+  "fetch_error": null,
+  "bots": {
+    "GPTBot": "partial",
+    "ChatGPT-User": "partial",
+    "OAI-SearchBot": "partial",
+    "ClaudeBot": "partial",
+    "Claude-Web": "partial",
+    "anthropic-ai": "partial",
+    "Google-Extended": "partial",
+    "GoogleOther": "partial",
+    "Applebot-Extended": "partial",
+    "CCBot": "partial",
+    "Bytespider": "partial",
+    "PerplexityBot": "partial",
+    "Perplexity-User": "partial",
+    "cohere-ai": "partial",
+    "cohere-training-data-crawler": "partial",
+    "Diffbot": "partial",
+    "Omgilibot": "partial",
+    "Amazonbot": "partial",
+    "meta-externalagent": "partial",
+    "meta-externalfetcher": "partial",
+    "Timpibot": "partial",
+    "YouBot": "partial",
+    "ImagesiftBot": "partial",
+    "Ai2Bot": "partial",
+    "DuckAssistBot": "partial"
+  },
+  "named": [
+    "GPTBot",
+    "ChatGPT-User",
+    "OAI-SearchBot",
+    "ClaudeBot",
+    "Claude-Web",
+    "anthropic-ai",
+    "Google-Extended",
+    "Applebot-Extended",
+    "CCBot",
+    "Bytespider",
+    "PerplexityBot",
+    "Perplexity-User",
+    "cohere-ai",
+    "Diffbot",
+    "Omgilibot",
+    "Amazonbot",
+    "meta-externalagent",
+    "YouBot"
+  ],
+  "rules": {
+    "*": {
+      "disallow": [
+        "/search",
+        "/pages/search/",
+        "/pages/news-connect",
+        "/error404.aspx",
+        "/widget/",
+        "/*ns/local_news*",
+        "/bentoapi/",
+        "/akam/",
+        "/sigma.html",
+        "/sports/world-cup/fifa-world-cup-2026-bracket-challenge/group",
+        "/mynewsapi/",
+        "/*?*canonicalCard="
+      ],
+      "allow": [],
+      "total": 12,
+      "total_allow": 0
+    },
+    "Amazonbot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/select",
+        "/select/",
+        "/information/nbc-news-info/about-nbc-news-digital-n1232178",
+        "/subscribe/supplemental-terms",
+        "/information/nbc-news-info/contact-us-n1232521",
+        "/news/us-news/nbc-news-digital-editors-n893846",
+        "/tips",
+        "/tips/",
+        "/information/nbc-news-info/closed-captioning-n1307063"
+      ],
+      "total": 1,
+      "total_allow": 9
+    },
+    "Applebot-Extended": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/select",
+        "/select/",
+        "/information/nbc-news-info/about-nbc-news-digital-n1232178",
+        "/subscribe/supplemental-terms",
+        "/information/nbc-news-info/contact-us-n1232521",
+        "/news/us-news/nbc-news-digital-editors-n893846",
+        "/tips",
+        "/tips/",
+        "/information/nbc-news-info/closed-captioning-n1307063"
+      ],
+      "total": 1,
+      "total_allow": 9
+    },
+    "Bytespider": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/select",
+        "/select/",
+        "/information/nbc-news-info/about-nbc-news-digital-n1232178",
+        "/subscribe/supplemental-terms",
+        "/information/nbc-news-info/contact-us-n1232521",
+        "/news/us-news/nbc-news-digital-editors-n893846",
+        "/tips",
+        "/tips/",
+        "/information/nbc-news-info/closed-captioning-n1307063"
+      ],
+      "total": 1,
+      "total_allow": 9
+    },
+    "CCBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/select",
+        "/select/",
+        "/information/nbc-news-info/about-nbc-news-digital-n1232178",
+        "/subscribe/supplemental-terms",
+        "/information/nbc-news-info/contact-us-n1232521",
+        "/news/us-news/nbc-news-digital-editors-n893846",
+        "/tips",
+        "/tips/",
+        "/information/nbc-news-info/closed-captioning-n1307063"
+      ],
+      "total": 1,
+      "total_allow": 9
+    },
+    "ChatGPT-User": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/select",
+        "/select/",
+        "/information/nbc-news-info/about-nbc-news-digital-n1232178",
+        "/subscribe/supplemental-terms",
+        "/information/nbc-news-info/contact-us-n1232521",
+        "/news/us-news/nbc-news-digital-editors-n893846",
+        "/tips",
+        "/tips/",
+        "/information/nbc-news-info/closed-captioning-n1307063"
+      ],
+      "total": 1,
+      "total_allow": 9
+    },
+    "Claude-Web": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/select",
+        "/select/",
+        "/information/nbc-news-info/about-nbc-news-digital-n1232178",
+        "/subscribe/supplemental-terms",
+        "/information/nbc-news-info/contact-us-n1232521",
+        "/news/us-news/nbc-news-digital-editors-n893846",
+        "/tips",
+        "/tips/",
+        "/information/nbc-news-info/closed-captioning-n1307063"
+      ],
+      "total": 1,
+      "total_allow": 9
+    },
+    "ClaudeBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/select",
+        "/select/",
+        "/information/nbc-news-info/about-nbc-news-digital-n1232178",
+        "/subscribe/supplemental-terms",
+        "/information/nbc-news-info/contact-us-n1232521",
+        "/news/us-news/nbc-news-digital-editors-n893846",
+        "/tips",
+        "/tips/",
+        "/information/nbc-news-info/closed-captioning-n1307063"
+      ],
+      "total": 1,
+      "total_allow": 9
+    },
+    "Diffbot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/select",
+        "/select/",
+        "/information/nbc-news-info/about-nbc-news-digital-n1232178",
+        "/subscribe/supplemental-terms",
+        "/information/nbc-news-info/contact-us-n1232521",
+        "/news/us-news/nbc-news-digital-editors-n893846",
+        "/tips",
+        "/tips/",
+        "/information/nbc-news-info/closed-captioning-n1307063"
+      ],
+      "total": 1,
+      "total_allow": 9
+    },
+    "GPTBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/select",
+        "/select/",
+        "/information/nbc-news-info/about-nbc-news-digital-n1232178",
+        "/subscribe/supplemental-terms",
+        "/information/nbc-news-info/contact-us-n1232521",
+        "/news/us-news/nbc-news-digital-editors-n893846",
+        "/tips",
+        "/tips/",
+        "/information/nbc-news-info/closed-captioning-n1307063"
+      ],
+      "total": 1,
+      "total_allow": 9
+    },
+    "Google-Extended": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/select",
+        "/select/",
+        "/information/nbc-news-info/about-nbc-news-digital-n1232178",
+        "/subscribe/supplemental-terms",
+        "/information/nbc-news-info/contact-us-n1232521",
+        "/news/us-news/nbc-news-digital-editors-n893846",
+        "/tips",
+        "/tips/",
+        "/information/nbc-news-info/closed-captioning-n1307063"
+      ],
+      "total": 1,
+      "total_allow": 9
+    },
+    "OAI-SearchBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/select",
+        "/select/",
+        "/information/nbc-news-info/about-nbc-news-digital-n1232178",
+        "/subscribe/supplemental-terms",
+        "/information/nbc-news-info/contact-us-n1232521",
+        "/news/us-news/nbc-news-digital-editors-n893846",
+        "/tips",
+        "/tips/",
+        "/information/nbc-news-info/closed-captioning-n1307063"
+      ],
+      "total": 1,
+      "total_allow": 9
+    },
+    "Perplexity-User": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/select",
+        "/select/",
+        "/information/nbc-news-info/about-nbc-news-digital-n1232178",
+        "/subscribe/supplemental-terms",
+        "/information/nbc-news-info/contact-us-n1232521",
+        "/news/us-news/nbc-news-digital-editors-n893846",
+        "/tips",
+        "/tips/",
+        "/information/nbc-news-info/closed-captioning-n1307063"
+      ],
+      "total": 1,
+      "total_allow": 9
+    },
+    "PerplexityBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/select",
+        "/select/",
+        "/information/nbc-news-info/about-nbc-news-digital-n1232178",
+        "/subscribe/supplemental-terms",
+        "/information/nbc-news-info/contact-us-n1232521",
+        "/news/us-news/nbc-news-digital-editors-n893846",
+        "/tips",
+        "/tips/",
+        "/information/nbc-news-info/closed-captioning-n1307063"
+      ],
+      "total": 1,
+      "total_allow": 9
+    },
+    "YouBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/select",
+        "/select/",
+        "/information/nbc-news-info/about-nbc-news-digital-n1232178",
+        "/subscribe/supplemental-terms",
+        "/information/nbc-news-info/contact-us-n1232521",
+        "/news/us-news/nbc-news-digital-editors-n893846",
+        "/tips",
+        "/tips/",
+        "/information/nbc-news-info/closed-captioning-n1307063"
+      ],
+      "total": 1,
+      "total_allow": 9
+    },
+    "anthropic-ai": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/select",
+        "/select/",
+        "/information/nbc-news-info/about-nbc-news-digital-n1232178",
+        "/subscribe/supplemental-terms",
+        "/information/nbc-news-info/contact-us-n1232521",
+        "/news/us-news/nbc-news-digital-editors-n893846",
+        "/tips",
+        "/tips/",
+        "/information/nbc-news-info/closed-captioning-n1307063"
+      ],
+      "total": 1,
+      "total_allow": 9
+    },
+    "cohere-ai": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/select",
+        "/select/",
+        "/information/nbc-news-info/about-nbc-news-digital-n1232178",
+        "/subscribe/supplemental-terms",
+        "/information/nbc-news-info/contact-us-n1232521",
+        "/news/us-news/nbc-news-digital-editors-n893846",
+        "/tips",
+        "/tips/",
+        "/information/nbc-news-info/closed-captioning-n1307063"
+      ],
+      "total": 1,
+      "total_allow": 9
+    },
+    "meta-externalagent": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/select",
+        "/select/",
+        "/information/nbc-news-info/about-nbc-news-digital-n1232178",
+        "/subscribe/supplemental-terms",
+        "/information/nbc-news-info/contact-us-n1232521",
+        "/news/us-news/nbc-news-digital-editors-n893846",
+        "/tips",
+        "/tips/",
+        "/information/nbc-news-info/closed-captioning-n1307063"
+      ],
+      "total": 1,
+      "total_allow": 9
+    }
+  }
+}

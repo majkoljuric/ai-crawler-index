@@ -1,0 +1,12 @@
+{
+  "schema_version": 2,
+  "checked_at": "2026-09-08T05:14:09+00:00",
+  "domain": "us.com",
+  "category": "other",
+  "robots_url": "https://us.com/robots.txt",
+  "http_status": 200,
+  "fetch_error": null,
+  "bots": {},
+  "named": [],
+  "rules": {}
+}

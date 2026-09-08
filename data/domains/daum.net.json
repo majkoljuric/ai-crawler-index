@@ -1,0 +1,63 @@
+{
+  "schema_version": 2,
+  "checked_at": "2026-09-08T05:14:09+00:00",
+  "domain": "daum.net",
+  "category": "other",
+  "robots_url": "https://daum.net/robots.txt",
+  "http_status": 200,
+  "fetch_error": null,
+  "bots": {
+    "GPTBot": "partial",
+    "ChatGPT-User": "partial",
+    "OAI-SearchBot": "partial",
+    "ClaudeBot": "partial",
+    "Claude-Web": "partial",
+    "anthropic-ai": "partial",
+    "Google-Extended": "partial",
+    "GoogleOther": "partial",
+    "Applebot-Extended": "partial",
+    "CCBot": "partial",
+    "Bytespider": "partial",
+    "PerplexityBot": "partial",
+    "Perplexity-User": "partial",
+    "cohere-ai": "partial",
+    "cohere-training-data-crawler": "partial",
+    "Diffbot": "partial",
+    "Omgilibot": "partial",
+    "Amazonbot": "partial",
+    "meta-externalagent": "partial",
+    "meta-externalfetcher": "partial",
+    "Timpibot": "partial",
+    "YouBot": "partial",
+    "ImagesiftBot": "partial",
+    "Ai2Bot": "partial",
+    "DuckAssistBot": "partial"
+  },
+  "named": [
+    "GoogleOther"
+  ],
+  "rules": {
+    "*": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/$",
+        "/ads.txt",
+        "/app-ads.txt"
+      ],
+      "total": 1,
+      "total_allow": 3
+    },
+    "GoogleOther": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/.well-known/privacy-sandbox-attestations.json"
+      ],
+      "total": 1,
+      "total_allow": 1
+    }
+  }
+}

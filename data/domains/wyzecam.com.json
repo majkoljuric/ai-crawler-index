@@ -1,0 +1,155 @@
+{
+  "schema_version": 2,
+  "checked_at": "2026-09-08T05:14:09+00:00",
+  "domain": "wyzecam.com",
+  "category": "other",
+  "robots_url": "https://wyzecam.com/robots.txt",
+  "http_status": 200,
+  "fetch_error": null,
+  "bots": {
+    "GPTBot": "allowed",
+    "ChatGPT-User": "partial",
+    "OAI-SearchBot": "allowed",
+    "ClaudeBot": "allowed",
+    "Claude-Web": "partial",
+    "anthropic-ai": "partial",
+    "Google-Extended": "allowed",
+    "GoogleOther": "partial",
+    "Applebot-Extended": "partial",
+    "CCBot": "partial",
+    "Bytespider": "partial",
+    "PerplexityBot": "allowed",
+    "Perplexity-User": "partial",
+    "cohere-ai": "partial",
+    "cohere-training-data-crawler": "partial",
+    "Diffbot": "partial",
+    "Omgilibot": "partial",
+    "Amazonbot": "partial",
+    "meta-externalagent": "allowed",
+    "meta-externalfetcher": "partial",
+    "Timpibot": "partial",
+    "YouBot": "partial",
+    "ImagesiftBot": "partial",
+    "Ai2Bot": "partial",
+    "DuckAssistBot": "partial"
+  },
+  "named": [
+    "GPTBot",
+    "OAI-SearchBot",
+    "ClaudeBot",
+    "Google-Extended",
+    "CCBot",
+    "PerplexityBot",
+    "meta-externalagent"
+  ],
+  "rules": {
+    "*": {
+      "disallow": [
+        "/a/downloads/-/*",
+        "/admin",
+        "/cart",
+        "/orders",
+        "/checkouts/",
+        "/checkout",
+        "/58004504738/checkouts",
+        "/58004504738/orders",
+        "/carts",
+        "/account",
+        "/collections/*sort_by*",
+        "/*/collections/*sort_by*",
+        "/collections/*+*",
+        "/collections/*%2B*",
+        "/collections/*%2b*",
+        "/*/collections/*+*",
+        "/*/collections/*%2B*",
+        "/*/collections/*%2b*",
+        "*/collections/*filter*&*filter*",
+        "/blogs/*+*",
+        "/blogs/*%2B*",
+        "/blogs/*%2b*",
+        "/*/blogs/*+*",
+        "/*/blogs/*%2B*",
+        "/*/blogs/*%2b*",
+        "/*?*oseid=*",
+        "/*preview_theme_id*",
+        "/*preview_script_id*",
+        "/policies/",
+        "/*/policies/",
+        "/*/*?*ls=*&ls=*",
+        "/*/*?*ls%3D*%3Fls%3D*",
+        "/*/*?*ls%3d*%3fls%3d*",
+        "/search",
+        "/apple-app-site-association",
+        "/.well-known/shopify/monorail",
+        "/cdn/wpm/*.js",
+        "/recommendations/products",
+        "/*/recommendations/products",
+        "/services/login_with_shop",
+        "/products/*-[a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9]-remote",
+        "/*/products/*-[a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9]-remote",
+        "/collections/*/products/*-[a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9]-remote",
+        "/*/collections/*/products/*-[a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9]-remote"
+      ],
+      "allow": [],
+      "total": 44,
+      "total_allow": 0
+    },
+    "CCBot": {
+      "disallow": [
+        "/checkouts/",
+        "/checkout",
+        "/carts",
+        "/orders",
+        "/*?*oseid=*",
+        "/*preview_theme_id*",
+        "/*preview_script_id*",
+        "/services/login_with_shop"
+      ],
+      "allow": [
+        "/"
+      ],
+      "total": 8,
+      "total_allow": 1
+    },
+    "ClaudeBot": {
+      "disallow": [],
+      "allow": [
+        "/"
+      ],
+      "total": 0,
+      "total_allow": 1
+    },
+    "GPTBot": {
+      "disallow": [],
+      "allow": [
+        "/"
+      ],
+      "total": 0,
+      "total_allow": 1
+    },
+    "Google-Extended": {
+      "disallow": [],
+      "allow": [
+        "/"
+      ],
+      "total": 0,
+      "total_allow": 1
+    },
+    "OAI-SearchBot": {
+      "disallow": [],
+      "allow": [
+        "/"
+      ],
+      "total": 0,
+      "total_allow": 1
+    },
+    "PerplexityBot": {
+      "disallow": [],
+      "allow": [
+        "/"
+      ],
+      "total": 0,
+      "total_allow": 1
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "schema_version": 2,
+  "checked_at": "2026-09-08T05:14:09+00:00",
+  "domain": "wattpad.com",
+  "category": "other",
+  "robots_url": "https://wattpad.com/robots.txt",
+  "http_status": 200,
+  "fetch_error": null,
+  "bots": {
+    "GPTBot": "blocked",
+    "ChatGPT-User": "partial",
+    "OAI-SearchBot": "partial",
+    "ClaudeBot": "partial",
+    "Claude-Web": "partial",
+    "anthropic-ai": "partial",
+    "Google-Extended": "partial",
+    "GoogleOther": "partial",
+    "Applebot-Extended": "partial",
+    "CCBot": "partial",
+    "Bytespider": "partial",
+    "PerplexityBot": "partial",
+    "Perplexity-User": "partial",
+    "cohere-ai": "partial",
+    "cohere-training-data-crawler": "partial",
+    "Diffbot": "partial",
+    "Omgilibot": "partial",
+    "Amazonbot": "partial",
+    "meta-externalagent": "partial",
+    "meta-externalfetcher": "partial",
+    "Timpibot": "partial",
+    "YouBot": "partial",
+    "ImagesiftBot": "partial",
+    "Ai2Bot": "partial",
+    "DuckAssistBot": "partial"
+  },
+  "named": [
+    "GPTBot"
+  ],
+  "rules": {
+    "*": {
+      "disallow": [
+        "/logout$",
+        "/?nextUrl=*",
+        "/forgot?nextUrl=*",
+        "/library$",
+        "/myworks$",
+        "/newsfeed$",
+        "/notifications$",
+        "/user_inbox$",
+        "/inbox$",
+        "/*/followers$",
+        "/*/following$",
+        "/user/*/following",
+        "/user/*/followers",
+        "/user_profile$",
+        "/go/romance-books/",
+        "/go/fanfiction/",
+        "/go/supernatural-fanfiction/",
+        "/go/teenwolf-fanfiction/",
+        "/go/directory",
+        "/go/turkey",
+        "/afterdark",
+        "/publishedwriters/",
+        "/wewantyou/",
+        "/clubs/*",
+        "/club/*",
+        "/forums/*",
+        "/help/*",
+        "/rss/*",
+        "/wap/*",
+        "/docs/*",
+        "/apiv2/*",
+        "/fonts/*",
+        "/dialog/*",
+        "/workers/*",
+        "/writers/writing-tips/",
+        "/press/founders/",
+        "/press/leadership/",
+        "/afterdark/hot",
+        "/hybe_stories/",
+        "/.*",
+        "/user/.*"
+      ],
+      "allow": [
+        "/.well-known/"
+      ],
+      "total": 41,
+      "total_allow": 1
+    },
+    "GPTBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    }
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "schema_version": 2,
+  "checked_at": "2026-09-08T05:14:09+00:00",
+  "domain": "bandcamp.com",
+  "category": "media",
+  "robots_url": "https://bandcamp.com/robots.txt",
+  "http_status": 200,
+  "fetch_error": null,
+  "bots": {
+    "GPTBot": "blocked",
+    "ChatGPT-User": "partial",
+    "OAI-SearchBot": "partial",
+    "ClaudeBot": "blocked",
+    "Claude-Web": "partial",
+    "anthropic-ai": "partial",
+    "Google-Extended": "blocked",
+    "GoogleOther": "partial",
+    "Applebot-Extended": "partial",
+    "CCBot": "blocked",
+    "Bytespider": "blocked",
+    "PerplexityBot": "partial",
+    "Perplexity-User": "partial",
+    "cohere-ai": "partial",
+    "cohere-training-data-crawler": "partial",
+    "Diffbot": "blocked",
+    "Omgilibot": "partial",
+    "Amazonbot": "blocked",
+    "meta-externalagent": "blocked",
+    "meta-externalfetcher": "partial",
+    "Timpibot": "partial",
+    "YouBot": "partial",
+    "ImagesiftBot": "blocked",
+    "Ai2Bot": "partial",
+    "DuckAssistBot": "partial"
+  },
+  "named": [
+    "GPTBot",
+    "ClaudeBot",
+    "Google-Extended",
+    "CCBot",
+    "Bytespider",
+    "Diffbot",
+    "Amazonbot",
+    "meta-externalagent",
+    "ImagesiftBot"
+  ],
+  "rules": {
+    "*": {
+      "disallow": [
+        "/tools",
+        "/checkout",
+        "/download_check",
+        "/cart/",
+        "/corpbanner/",
+        "/stream",
+        "/api/",
+        "/design_tokens",
+        "/search",
+        "/*_cb$"
+      ],
+      "allow": [
+        "/api/currency_data/",
+        "/api/discover/1/discover_mobile_web",
+        "/api/discover/1/discover_web",
+        "/api/tag_search/2/related_tags"
+      ],
+      "total": 10,
+      "total_allow": 4
+    },
+    "Amazonbot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "Bytespider": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "CCBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "ClaudeBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "Diffbot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "GPTBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "Google-Extended": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "ImagesiftBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "meta-externalagent": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    }
+  }
+}

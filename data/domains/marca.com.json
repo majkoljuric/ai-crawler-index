@@ -1,0 +1,144 @@
+{
+  "schema_version": 2,
+  "checked_at": "2026-09-08T05:14:09+00:00",
+  "domain": "marca.com",
+  "category": "other",
+  "robots_url": "https://marca.com/robots.txt",
+  "http_status": 200,
+  "fetch_error": null,
+  "bots": {
+    "GPTBot": "partial",
+    "ChatGPT-User": "partial",
+    "OAI-SearchBot": "partial",
+    "ClaudeBot": "partial",
+    "Claude-Web": "partial",
+    "anthropic-ai": "partial",
+    "Google-Extended": "partial",
+    "GoogleOther": "partial",
+    "Applebot-Extended": "partial",
+    "CCBot": "partial",
+    "Bytespider": "partial",
+    "PerplexityBot": "partial",
+    "Perplexity-User": "partial",
+    "cohere-ai": "partial",
+    "cohere-training-data-crawler": "partial",
+    "Diffbot": "partial",
+    "Omgilibot": "blocked",
+    "Amazonbot": "partial",
+    "meta-externalagent": "partial",
+    "meta-externalfetcher": "partial",
+    "Timpibot": "partial",
+    "YouBot": "partial",
+    "ImagesiftBot": "partial",
+    "Ai2Bot": "partial",
+    "DuckAssistBot": "partial"
+  },
+  "named": [
+    "GPTBot",
+    "ChatGPT-User",
+    "OAI-SearchBot",
+    "anthropic-ai",
+    "Google-Extended",
+    "CCBot",
+    "PerplexityBot",
+    "Omgilibot"
+  ],
+  "rules": {
+    "*": {
+      "disallow": [
+        "/s/",
+        "/micuenta/",
+        "/2012/11/03/en/football/spanish_football/1351965522.html",
+        "/2012/11/03/futbol/1adivision/1351945508.html",
+        "/albumes/2015/03/03/nba_malditos_muertos/*",
+        "/eventos/directo/*",
+        "/eventos/marcador/*",
+        "/estadisticas/*",
+        "/encuentros/*",
+        "/apw.js*",
+        "/nydus*",
+        "/edge-services/user-geo.html*"
+      ],
+      "allow": [],
+      "total": 12,
+      "total_allow": 0
+    },
+    "CCBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/uestudio/",
+        "/regalos-promociones/"
+      ],
+      "total": 1,
+      "total_allow": 2
+    },
+    "ChatGPT-User": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/uestudio/",
+        "/regalos-promociones/"
+      ],
+      "total": 1,
+      "total_allow": 2
+    },
+    "GPTBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/uestudio/",
+        "/regalos-promociones/"
+      ],
+      "total": 1,
+      "total_allow": 2
+    },
+    "Google-Extended": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/uestudio/",
+        "/regalos-promociones/"
+      ],
+      "total": 1,
+      "total_allow": 2
+    },
+    "OAI-SearchBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/uestudio/",
+        "/regalos-promociones/"
+      ],
+      "total": 1,
+      "total_allow": 2
+    },
+    "PerplexityBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/uestudio/",
+        "/regalos-promociones/"
+      ],
+      "total": 1,
+      "total_allow": 2
+    },
+    "anthropic-ai": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/uestudio/",
+        "/regalos-promociones/"
+      ],
+      "total": 1,
+      "total_allow": 2
+    }
+  }
+}

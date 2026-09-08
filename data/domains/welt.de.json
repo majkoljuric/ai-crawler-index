@@ -1,0 +1,201 @@
+{
+  "schema_version": 2,
+  "checked_at": "2026-09-08T05:14:09+00:00",
+  "domain": "welt.de",
+  "category": "other",
+  "robots_url": "https://welt.de/robots.txt",
+  "http_status": 200,
+  "fetch_error": null,
+  "bots": {
+    "GPTBot": "partial",
+    "ChatGPT-User": "partial",
+    "OAI-SearchBot": "partial",
+    "ClaudeBot": "partial",
+    "Claude-Web": "partial",
+    "anthropic-ai": "partial",
+    "Google-Extended": "partial",
+    "GoogleOther": "partial",
+    "Applebot-Extended": "blocked",
+    "CCBot": "blocked",
+    "Bytespider": "blocked",
+    "PerplexityBot": "blocked",
+    "Perplexity-User": "blocked",
+    "cohere-ai": "blocked",
+    "cohere-training-data-crawler": "blocked",
+    "Diffbot": "blocked",
+    "Omgilibot": "blocked",
+    "Amazonbot": "partial",
+    "meta-externalagent": "partial",
+    "meta-externalfetcher": "partial",
+    "Timpibot": "blocked",
+    "YouBot": "blocked",
+    "ImagesiftBot": "blocked",
+    "Ai2Bot": "blocked",
+    "DuckAssistBot": "blocked"
+  },
+  "named": [
+    "Applebot-Extended",
+    "CCBot",
+    "Bytespider",
+    "PerplexityBot",
+    "Perplexity-User",
+    "cohere-ai",
+    "cohere-training-data-crawler",
+    "Diffbot",
+    "Omgilibot",
+    "Timpibot",
+    "YouBot",
+    "ImagesiftBot",
+    "Ai2Bot",
+    "DuckAssistBot"
+  ],
+  "rules": {
+    "*": {
+      "disallow": [
+        "/channels-extern/",
+        "/sportdaten/",
+        "/testgpr/",
+        "/boerse/data/",
+        "/partner/",
+        "/reisetipps/",
+        "/z/",
+        "/appl/",
+        "/woa/",
+        "/am-sonntag/vorproduktion/",
+        "/audiofiles/",
+        "/out-of-home/",
+        "/immobilien/expose",
+        "/suche",
+        "/onward/",
+        "/api/",
+        "/*?config",
+        "/*?config=newsmli_bloomberg2",
+        "/*.xmli",
+        "/*?service=ajax",
+        "/*?service=Ajax",
+        "/*?ajax",
+        "/*?ajax&wid",
+        "/*?config=print",
+        "/*?config=articleidfromurl",
+        "/*?config=endscreen",
+        "/*?config=iframewelt",
+        "/*?config=langeslestueck",
+        "/*?config=latest_videos",
+        "/*?config=menu_home",
+        "/*?config=mostviewed_videos",
+        "/*?config=recommended_videos",
+        "/*?config=regioarticlemarginal",
+        "/*?config=zoom",
+        "/*?config=zoomopener",
+        "/*?noredirect=true&config=standalone",
+        "/*?config=standalone",
+        "/*?wtmc=XING",
+        "/*?config=articleidfromurl",
+        "/*?print=yes",
+        "/*?tabPane",
+        "/video/embeded/",
+        "/img/*-wWIDTH*.jpg",
+        "/assets/public/fonts/"
+      ],
+      "allow": [],
+      "total": 44,
+      "total_allow": 0
+    },
+    "Applebot-Extended": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "Bytespider": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "CCBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "Diffbot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "DuckAssistBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "ImagesiftBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "Perplexity-User": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "PerplexityBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "Timpibot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "YouBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "cohere-ai": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "cohere-training-data-crawler": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    }
+  }
+}

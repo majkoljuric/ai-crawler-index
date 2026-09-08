@@ -1,0 +1,102 @@
+{
+  "schema_version": 2,
+  "checked_at": "2026-09-08T05:14:09+00:00",
+  "domain": "threads.com",
+  "category": "other",
+  "robots_url": "https://threads.com/robots.txt",
+  "http_status": 200,
+  "fetch_error": null,
+  "bots": {
+    "GPTBot": "blocked",
+    "ChatGPT-User": "blocked",
+    "OAI-SearchBot": "blocked",
+    "ClaudeBot": "blocked",
+    "Claude-Web": "blocked",
+    "anthropic-ai": "blocked",
+    "Google-Extended": "blocked",
+    "GoogleOther": "blocked",
+    "Applebot-Extended": "blocked",
+    "CCBot": "blocked",
+    "Bytespider": "blocked",
+    "PerplexityBot": "blocked",
+    "Perplexity-User": "blocked",
+    "cohere-ai": "blocked",
+    "cohere-training-data-crawler": "blocked",
+    "Diffbot": "blocked",
+    "Omgilibot": "blocked",
+    "Amazonbot": "blocked",
+    "meta-externalagent": "blocked",
+    "meta-externalfetcher": "blocked",
+    "Timpibot": "blocked",
+    "YouBot": "blocked",
+    "ImagesiftBot": "blocked",
+    "Ai2Bot": "blocked",
+    "DuckAssistBot": "blocked"
+  },
+  "named": [
+    "GPTBot",
+    "ClaudeBot",
+    "Google-Extended",
+    "Applebot-Extended",
+    "PerplexityBot",
+    "Amazonbot"
+  ],
+  "rules": {
+    "*": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "Amazonbot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "Applebot-Extended": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "ClaudeBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "GPTBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "Google-Extended": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "PerplexityBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    }
+  }
+}

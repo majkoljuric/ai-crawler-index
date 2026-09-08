@@ -1,0 +1,308 @@
+{
+  "schema_version": 2,
+  "checked_at": "2026-09-08T05:14:09+00:00",
+  "domain": "trendmicro.com",
+  "category": "other",
+  "robots_url": "https://trendmicro.com/robots.txt",
+  "http_status": 200,
+  "fetch_error": null,
+  "bots": {
+    "GPTBot": "partial",
+    "ChatGPT-User": "partial",
+    "OAI-SearchBot": "partial",
+    "ClaudeBot": "partial",
+    "Claude-Web": "partial",
+    "anthropic-ai": "partial",
+    "Google-Extended": "partial",
+    "GoogleOther": "partial",
+    "Applebot-Extended": "partial",
+    "CCBot": "partial",
+    "Bytespider": "partial",
+    "PerplexityBot": "partial",
+    "Perplexity-User": "partial",
+    "cohere-ai": "partial",
+    "cohere-training-data-crawler": "partial",
+    "Diffbot": "partial",
+    "Omgilibot": "partial",
+    "Amazonbot": "partial",
+    "meta-externalagent": "partial",
+    "meta-externalfetcher": "partial",
+    "Timpibot": "partial",
+    "YouBot": "partial",
+    "ImagesiftBot": "partial",
+    "Ai2Bot": "partial",
+    "DuckAssistBot": "partial"
+  },
+  "named": [
+    "ChatGPT-User",
+    "OAI-SearchBot",
+    "ClaudeBot",
+    "Claude-Web",
+    "Google-Extended",
+    "CCBot",
+    "Bytespider",
+    "PerplexityBot",
+    "Perplexity-User",
+    "cohere-ai",
+    "Amazonbot",
+    "meta-externalagent",
+    "DuckAssistBot"
+  ],
+  "rules": {
+    "*": {
+      "disallow": [
+        "/*.pdf$",
+        "/*/config/",
+        "/*/common/",
+        "/*/error-messages/",
+        "/*/business/trials_parsing_pages/",
+        "/*/business/parsing-pages/",
+        "/download/*",
+        "/form/",
+        "/ftp/",
+        "/go/",
+        "/housecall/",
+        "/housecall/us/",
+        "/housecall7/",
+        "/ja_jp/forHome/xsp/",
+        "/machform/",
+        "/tools/*",
+        "/*?bvstate=*",
+        "/cloudoneconformity-staging/*"
+      ],
+      "allow": [
+        "/core/docs/datasheets/*.pdf$"
+      ],
+      "total": 18,
+      "total_allow": 1
+    },
+    "Amazonbot": {
+      "disallow": [
+        "/*/config/",
+        "/*/common/",
+        "/*/error-messages/",
+        "/ftp/",
+        "/housecall/",
+        "/housecall/us/",
+        "/housecall7/",
+        "/ja_jp/forHome/xsp/",
+        "/machform/",
+        "/*?bvstate=*"
+      ],
+      "allow": [
+        "*.pdf$"
+      ],
+      "total": 10,
+      "total_allow": 1
+    },
+    "Bytespider": {
+      "disallow": [
+        "/*/config/",
+        "/*/common/",
+        "/*/error-messages/",
+        "/ftp/",
+        "/housecall/",
+        "/housecall/us/",
+        "/housecall7/",
+        "/ja_jp/forHome/xsp/",
+        "/machform/",
+        "/*?bvstate=*"
+      ],
+      "allow": [
+        "*.pdf$"
+      ],
+      "total": 10,
+      "total_allow": 1
+    },
+    "CCBot": {
+      "disallow": [
+        "/*/config/",
+        "/*/common/",
+        "/*/error-messages/",
+        "/ftp/",
+        "/housecall/",
+        "/housecall/us/",
+        "/housecall7/",
+        "/ja_jp/forHome/xsp/",
+        "/machform/",
+        "/*?bvstate=*"
+      ],
+      "allow": [
+        "*.pdf$"
+      ],
+      "total": 10,
+      "total_allow": 1
+    },
+    "ChatGPT-User": {
+      "disallow": [
+        "/*/config/",
+        "/*/common/",
+        "/*/error-messages/",
+        "/ftp/",
+        "/housecall/",
+        "/housecall/us/",
+        "/housecall7/",
+        "/ja_jp/forHome/xsp/",
+        "/machform/",
+        "/*?bvstate=*"
+      ],
+      "allow": [
+        "*.pdf$"
+      ],
+      "total": 10,
+      "total_allow": 1
+    },
+    "ClaudeBot": {
+      "disallow": [
+        "/*/config/",
+        "/*/common/",
+        "/*/error-messages/",
+        "/ftp/",
+        "/housecall/",
+        "/housecall/us/",
+        "/housecall7/",
+        "/ja_jp/forHome/xsp/",
+        "/machform/",
+        "/*?bvstate=*"
+      ],
+      "allow": [
+        "*.pdf$"
+      ],
+      "total": 10,
+      "total_allow": 1
+    },
+    "DuckAssistBot": {
+      "disallow": [
+        "/*/config/",
+        "/*/common/",
+        "/*/error-messages/",
+        "/ftp/",
+        "/housecall/",
+        "/housecall/us/",
+        "/housecall7/",
+        "/ja_jp/forHome/xsp/",
+        "/machform/",
+        "/*?bvstate=*"
+      ],
+      "allow": [
+        "*.pdf$"
+      ],
+      "total": 10,
+      "total_allow": 1
+    },
+    "Google-Extended": {
+      "disallow": [
+        "/*/config/",
+        "/*/common/",
+        "/*/error-messages/",
+        "/ftp/",
+        "/housecall/",
+        "/housecall/us/",
+        "/housecall7/",
+        "/ja_jp/forHome/xsp/",
+        "/machform/",
+        "/*?bvstate=*"
+      ],
+      "allow": [
+        "*.pdf$"
+      ],
+      "total": 10,
+      "total_allow": 1
+    },
+    "OAI-SearchBot": {
+      "disallow": [
+        "/*/config/",
+        "/*/common/",
+        "/*/error-messages/",
+        "/ftp/",
+        "/housecall/",
+        "/housecall/us/",
+        "/housecall7/",
+        "/ja_jp/forHome/xsp/",
+        "/machform/",
+        "/*?bvstate=*"
+      ],
+      "allow": [
+        "*.pdf$"
+      ],
+      "total": 10,
+      "total_allow": 1
+    },
+    "Perplexity-User": {
+      "disallow": [
+        "/*/config/",
+        "/*/common/",
+        "/*/error-messages/",
+        "/ftp/",
+        "/housecall/",
+        "/housecall/us/",
+        "/housecall7/",
+        "/ja_jp/forHome/xsp/",
+        "/machform/",
+        "/*?bvstate=*"
+      ],
+      "allow": [
+        "*.pdf$"
+      ],
+      "total": 10,
+      "total_allow": 1
+    },
+    "PerplexityBot": {
+      "disallow": [
+        "/*/config/",
+        "/*/common/",
+        "/*/error-messages/",
+        "/ftp/",
+        "/housecall/",
+        "/housecall/us/",
+        "/housecall7/",
+        "/ja_jp/forHome/xsp/",
+        "/machform/",
+        "/*?bvstate=*"
+      ],
+      "allow": [
+        "*.pdf$"
+      ],
+      "total": 10,
+      "total_allow": 1
+    },
+    "cohere-ai": {
+      "disallow": [
+        "/*/config/",
+        "/*/common/",
+        "/*/error-messages/",
+        "/ftp/",
+        "/housecall/",
+        "/housecall/us/",
+        "/housecall7/",
+        "/ja_jp/forHome/xsp/",
+        "/machform/",
+        "/*?bvstate=*"
+      ],
+      "allow": [
+        "*.pdf$"
+      ],
+      "total": 10,
+      "total_allow": 1
+    },
+    "meta-externalagent": {
+      "disallow": [
+        "/*/config/",
+        "/*/common/",
+        "/*/error-messages/",
+        "/ftp/",
+        "/housecall/",
+        "/housecall/us/",
+        "/housecall7/",
+        "/ja_jp/forHome/xsp/",
+        "/machform/",
+        "/*?bvstate=*"
+      ],
+      "allow": [
+        "*.pdf$"
+      ],
+      "total": 10,
+      "total_allow": 1
+    }
+  }
+}

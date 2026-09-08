@@ -1,0 +1,197 @@
+{
+  "schema_version": 2,
+  "checked_at": "2026-09-08T05:14:09+00:00",
+  "domain": "forter.com",
+  "category": "other",
+  "robots_url": "https://forter.com/robots.txt",
+  "http_status": 200,
+  "fetch_error": null,
+  "bots": {
+    "GPTBot": "allowed",
+    "ChatGPT-User": "allowed",
+    "OAI-SearchBot": "allowed",
+    "ClaudeBot": "allowed",
+    "Claude-Web": "partial",
+    "anthropic-ai": "allowed",
+    "Google-Extended": "allowed",
+    "GoogleOther": "partial",
+    "Applebot-Extended": "allowed",
+    "CCBot": "blocked",
+    "Bytespider": "blocked",
+    "PerplexityBot": "allowed",
+    "Perplexity-User": "allowed",
+    "cohere-ai": "allowed",
+    "cohere-training-data-crawler": "partial",
+    "Diffbot": "blocked",
+    "Omgilibot": "blocked",
+    "Amazonbot": "allowed",
+    "meta-externalagent": "blocked",
+    "meta-externalfetcher": "partial",
+    "Timpibot": "partial",
+    "YouBot": "partial",
+    "ImagesiftBot": "blocked",
+    "Ai2Bot": "partial",
+    "DuckAssistBot": "partial"
+  },
+  "named": [
+    "GPTBot",
+    "ChatGPT-User",
+    "OAI-SearchBot",
+    "ClaudeBot",
+    "anthropic-ai",
+    "Google-Extended",
+    "Applebot-Extended",
+    "CCBot",
+    "Bytespider",
+    "PerplexityBot",
+    "Perplexity-User",
+    "cohere-ai",
+    "Diffbot",
+    "Omgilibot",
+    "Amazonbot",
+    "meta-externalagent",
+    "ImagesiftBot"
+  ],
+  "rules": {
+    "*": {
+      "disallow": [
+        "/?s=",
+        "/page/*/?s=",
+        "/search/"
+      ],
+      "allow": [
+        "/"
+      ],
+      "total": 3,
+      "total_allow": 1
+    },
+    "Amazonbot": {
+      "disallow": [],
+      "allow": [
+        "/"
+      ],
+      "total": 0,
+      "total_allow": 1
+    },
+    "Applebot-Extended": {
+      "disallow": [],
+      "allow": [
+        "/"
+      ],
+      "total": 0,
+      "total_allow": 1
+    },
+    "Bytespider": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "CCBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "ChatGPT-User": {
+      "disallow": [],
+      "allow": [
+        "/"
+      ],
+      "total": 0,
+      "total_allow": 1
+    },
+    "ClaudeBot": {
+      "disallow": [],
+      "allow": [
+        "/"
+      ],
+      "total": 0,
+      "total_allow": 1
+    },
+    "Diffbot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "GPTBot": {
+      "disallow": [],
+      "allow": [
+        "/"
+      ],
+      "total": 0,
+      "total_allow": 1
+    },
+    "Google-Extended": {
+      "disallow": [],
+      "allow": [
+        "/"
+      ],
+      "total": 0,
+      "total_allow": 1
+    },
+    "ImagesiftBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "OAI-SearchBot": {
+      "disallow": [],
+      "allow": [
+        "/"
+      ],
+      "total": 0,
+      "total_allow": 1
+    },
+    "Perplexity-User": {
+      "disallow": [],
+      "allow": [
+        "/"
+      ],
+      "total": 0,
+      "total_allow": 1
+    },
+    "PerplexityBot": {
+      "disallow": [],
+      "allow": [
+        "/"
+      ],
+      "total": 0,
+      "total_allow": 1
+    },
+    "anthropic-ai": {
+      "disallow": [],
+      "allow": [
+        "/"
+      ],
+      "total": 0,
+      "total_allow": 1
+    },
+    "cohere-ai": {
+      "disallow": [],
+      "allow": [
+        "/"
+      ],
+      "total": 0,
+      "total_allow": 1
+    },
+    "meta-externalagent": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "schema_version": 2,
+  "checked_at": "2026-09-08T05:14:09+00:00",
+  "domain": "ea.com",
+  "category": "software",
+  "robots_url": "https://ea.com/robots.txt",
+  "http_status": 200,
+  "fetch_error": null,
+  "bots": {
+    "GPTBot": "partial",
+    "ChatGPT-User": "partial",
+    "OAI-SearchBot": "partial",
+    "ClaudeBot": "partial",
+    "Claude-Web": "partial",
+    "anthropic-ai": "partial",
+    "Google-Extended": "partial",
+    "GoogleOther": "partial",
+    "Applebot-Extended": "partial",
+    "CCBot": "partial",
+    "Bytespider": "blocked",
+    "PerplexityBot": "partial",
+    "Perplexity-User": "partial",
+    "cohere-ai": "blocked",
+    "cohere-training-data-crawler": "blocked",
+    "Diffbot": "partial",
+    "Omgilibot": "partial",
+    "Amazonbot": "partial",
+    "meta-externalagent": "blocked",
+    "meta-externalfetcher": "partial",
+    "Timpibot": "partial",
+    "YouBot": "partial",
+    "ImagesiftBot": "partial",
+    "Ai2Bot": "blocked",
+    "DuckAssistBot": "partial"
+  },
+  "named": [
+    "Bytespider",
+    "cohere-ai",
+    "cohere-training-data-crawler",
+    "meta-externalagent",
+    "Ai2Bot"
+  ],
+  "rules": {
+    "*": {
+      "disallow": [
+        "/results",
+        "/games/the-sims/the-sims-4/home/",
+        "/games/the-sims/the-sims-4/store-public-api/",
+        "/games/the-sims/the-sims-4/store-pages/loginredirect",
+        "/games/the-sims/the-sims-4/store-pages/logoutredirect",
+        "/games/the-sims/the-sims-4/store-pages/paymentredirect",
+        "/*/games/the-sims/the-sims-4/home/",
+        "/*/games/the-sims/the-sims-4/store-public-api/",
+        "/*/games/the-sims/the-sims-4/store-pages/loginredirect",
+        "/*/games/the-sims/the-sims-4/store-pages/logoutredirect",
+        "/*/games/the-sims/the-sims-4/store-pages/paymentredirect"
+      ],
+      "allow": [],
+      "total": 11,
+      "total_allow": 0
+    },
+    "Bytespider": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "cohere-ai": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "cohere-training-data-crawler": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    }
+  }
+}

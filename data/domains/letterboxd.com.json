@@ -1,0 +1,142 @@
+{
+  "schema_version": 2,
+  "checked_at": "2026-09-08T05:14:09+00:00",
+  "domain": "letterboxd.com",
+  "category": "other",
+  "robots_url": "https://letterboxd.com/robots.txt",
+  "http_status": 200,
+  "fetch_error": null,
+  "bots": {
+    "GPTBot": "blocked",
+    "ChatGPT-User": "partial",
+    "OAI-SearchBot": "partial",
+    "ClaudeBot": "blocked",
+    "Claude-Web": "partial",
+    "anthropic-ai": "partial",
+    "Google-Extended": "blocked",
+    "GoogleOther": "partial",
+    "Applebot-Extended": "blocked",
+    "CCBot": "blocked",
+    "Bytespider": "blocked",
+    "PerplexityBot": "partial",
+    "Perplexity-User": "partial",
+    "cohere-ai": "partial",
+    "cohere-training-data-crawler": "blocked",
+    "Diffbot": "blocked",
+    "Omgilibot": "partial",
+    "Amazonbot": "partial",
+    "meta-externalagent": "blocked",
+    "meta-externalfetcher": "partial",
+    "Timpibot": "blocked",
+    "YouBot": "partial",
+    "ImagesiftBot": "partial",
+    "Ai2Bot": "blocked",
+    "DuckAssistBot": "partial"
+  },
+  "named": [
+    "GPTBot",
+    "ClaudeBot",
+    "Google-Extended",
+    "Applebot-Extended",
+    "CCBot",
+    "Bytespider",
+    "cohere-training-data-crawler",
+    "Diffbot",
+    "meta-externalagent",
+    "Timpibot",
+    "Ai2Bot"
+  ],
+  "rules": {
+    "*": {
+      "disallow": [
+        "/*/by/*",
+        "/*/popular/this/*",
+        "/*/on/*",
+        "/*/tag/*",
+        "/*/genre/*",
+        "/*/country/*",
+        "/*/language/*",
+        "/*/decade/*",
+        "/films/year/*",
+        "/films/*/year/*",
+        "/films/*/size/large/*",
+        "/*/friends/*"
+      ],
+      "allow": [],
+      "total": 12,
+      "total_allow": 0
+    },
+    "Applebot-Extended": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "Bytespider": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "CCBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "ClaudeBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "Diffbot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "GPTBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "Google-Extended": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "Timpibot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "cohere-training-data-crawler": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    }
+  }
+}

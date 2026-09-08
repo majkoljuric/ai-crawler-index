@@ -54,6 +54,9 @@ jobs:
           mkdir -p _site
           cp site/index.html _site/index.html
           cp site/CNAME _site/CNAME
+          cp site/favicon.svg _site/favicon.svg
+          cp -r site/assets _site/assets
+          cp scraper/bots.json _site/bots.json
           cp -r data _site/data
           touch _site/.nojekyll
       - uses: actions/upload-pages-artifact@v3

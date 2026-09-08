@@ -1,0 +1,12 @@
+{
+  "schema_version": 2,
+  "checked_at": "2026-09-08T05:14:09+00:00",
+  "domain": "fandom.com",
+  "category": "reference",
+  "robots_url": "https://fandom.com/robots.txt",
+  "http_status": 403,
+  "fetch_error": "HTTPError 403",
+  "bots": {},
+  "named": [],
+  "rules": {}
+}

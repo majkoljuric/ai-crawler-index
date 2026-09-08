@@ -1,0 +1,195 @@
+{
+  "schema_version": 2,
+  "checked_at": "2026-09-08T05:14:09+00:00",
+  "domain": "android.com",
+  "category": "other",
+  "robots_url": "https://android.com/robots.txt",
+  "http_status": 200,
+  "fetch_error": null,
+  "bots": {
+    "GPTBot": "partial",
+    "ChatGPT-User": "partial",
+    "OAI-SearchBot": "partial",
+    "ClaudeBot": "partial",
+    "Claude-Web": "partial",
+    "anthropic-ai": "partial",
+    "Google-Extended": "partial",
+    "GoogleOther": "partial",
+    "Applebot-Extended": "partial",
+    "CCBot": "partial",
+    "Bytespider": "partial",
+    "PerplexityBot": "partial",
+    "Perplexity-User": "partial",
+    "cohere-ai": "partial",
+    "cohere-training-data-crawler": "partial",
+    "Diffbot": "partial",
+    "Omgilibot": "partial",
+    "Amazonbot": "partial",
+    "meta-externalagent": "partial",
+    "meta-externalfetcher": "partial",
+    "Timpibot": "partial",
+    "YouBot": "partial",
+    "ImagesiftBot": "partial",
+    "Ai2Bot": "partial",
+    "DuckAssistBot": "partial"
+  },
+  "named": [
+    "GPTBot",
+    "OAI-SearchBot",
+    "ClaudeBot",
+    "anthropic-ai",
+    "Google-Extended",
+    "Applebot-Extended",
+    "CCBot",
+    "PerplexityBot",
+    "cohere-ai",
+    "Diffbot",
+    "YouBot"
+  ],
+  "rules": {
+    "*": {
+      "disallow": [
+        "/search",
+        "/404",
+        "/payapp/",
+        "/results/",
+        "/intl/*/results/"
+      ],
+      "allow": [],
+      "total": 5,
+      "total_allow": 0
+    },
+    "Applebot-Extended": {
+      "disallow": [
+        "/search",
+        "/404",
+        "/payapp/",
+        "/results/",
+        "/intl/*/results/"
+      ],
+      "allow": [],
+      "total": 5,
+      "total_allow": 0
+    },
+    "CCBot": {
+      "disallow": [
+        "/search",
+        "/404",
+        "/payapp/",
+        "/results/",
+        "/intl/*/results/"
+      ],
+      "allow": [],
+      "total": 5,
+      "total_allow": 0
+    },
+    "ClaudeBot": {
+      "disallow": [
+        "/search",
+        "/404",
+        "/payapp/",
+        "/results/",
+        "/intl/*/results/"
+      ],
+      "allow": [],
+      "total": 5,
+      "total_allow": 0
+    },
+    "Diffbot": {
+      "disallow": [
+        "/search",
+        "/404",
+        "/payapp/",
+        "/results/",
+        "/intl/*/results/"
+      ],
+      "allow": [],
+      "total": 5,
+      "total_allow": 0
+    },
+    "GPTBot": {
+      "disallow": [
+        "/search",
+        "/404",
+        "/payapp/",
+        "/results/",
+        "/intl/*/results/"
+      ],
+      "allow": [],
+      "total": 5,
+      "total_allow": 0
+    },
+    "Google-Extended": {
+      "disallow": [
+        "/search",
+        "/404",
+        "/payapp/",
+        "/results/",
+        "/intl/*/results/"
+      ],
+      "allow": [],
+      "total": 5,
+      "total_allow": 0
+    },
+    "OAI-SearchBot": {
+      "disallow": [
+        "/search",
+        "/404",
+        "/payapp/",
+        "/results/",
+        "/intl/*/results/"
+      ],
+      "allow": [],
+      "total": 5,
+      "total_allow": 0
+    },
+    "PerplexityBot": {
+      "disallow": [
+        "/search",
+        "/404",
+        "/payapp/",
+        "/results/",
+        "/intl/*/results/"
+      ],
+      "allow": [],
+      "total": 5,
+      "total_allow": 0
+    },
+    "YouBot": {
+      "disallow": [
+        "/search",
+        "/404",
+        "/payapp/",
+        "/results/",
+        "/intl/*/results/"
+      ],
+      "allow": [],
+      "total": 5,
+      "total_allow": 0
+    },
+    "anthropic-ai": {
+      "disallow": [
+        "/search",
+        "/404",
+        "/payapp/",
+        "/results/",
+        "/intl/*/results/"
+      ],
+      "allow": [],
+      "total": 5,
+      "total_allow": 0
+    },
+    "cohere-ai": {
+      "disallow": [
+        "/search",
+        "/404",
+        "/payapp/",
+        "/results/",
+        "/intl/*/results/"
+      ],
+      "allow": [],
+      "total": 5,
+      "total_allow": 0
+    }
+  }
+}

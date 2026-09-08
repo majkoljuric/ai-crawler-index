@@ -1,0 +1,154 @@
+{
+  "schema_version": 2,
+  "checked_at": "2026-09-08T05:14:09+00:00",
+  "domain": "pixiv.net",
+  "category": "other",
+  "robots_url": "https://pixiv.net/robots.txt",
+  "http_status": 200,
+  "fetch_error": null,
+  "bots": {
+    "GPTBot": "blocked",
+    "ChatGPT-User": "partial",
+    "OAI-SearchBot": "partial",
+    "ClaudeBot": "blocked",
+    "Claude-Web": "partial",
+    "anthropic-ai": "blocked",
+    "Google-Extended": "blocked",
+    "GoogleOther": "partial",
+    "Applebot-Extended": "blocked",
+    "CCBot": "blocked",
+    "Bytespider": "partial",
+    "PerplexityBot": "partial",
+    "Perplexity-User": "partial",
+    "cohere-ai": "blocked",
+    "cohere-training-data-crawler": "partial",
+    "Diffbot": "blocked",
+    "Omgilibot": "blocked",
+    "Amazonbot": "partial",
+    "meta-externalagent": "blocked",
+    "meta-externalfetcher": "partial",
+    "Timpibot": "partial",
+    "YouBot": "partial",
+    "ImagesiftBot": "partial",
+    "Ai2Bot": "partial",
+    "DuckAssistBot": "partial"
+  },
+  "named": [
+    "GPTBot",
+    "ClaudeBot",
+    "anthropic-ai",
+    "Google-Extended",
+    "Applebot-Extended",
+    "CCBot",
+    "cohere-ai",
+    "Diffbot",
+    "Omgilibot",
+    "meta-externalagent"
+  ],
+  "rules": {
+    "*": {
+      "disallow": [
+        "/cdn-cgi/",
+        "/rpc/index.php?mode=profile_module_illusts&user_id=*&illust_id=*",
+        "/ajax/illust/*/recommend/init",
+        "*return_to*",
+        "/?return_to=",
+        "/login.php?return_to=",
+        "/index.php?return_to=",
+        "/artworks/unlisted/*",
+        "/users/*/followers",
+        "/users/*/mypixiv",
+        "/users/*/bookmarks",
+        "/novel/comments.php?id=",
+        "/novels/unlisted/*",
+        "/en/group",
+        "/en/search/",
+        "/en/users/*/followers",
+        "/en/users/*/mypixiv",
+        "/en/users/*/bookmarks",
+        "/en/novel/comments.php?id=",
+        "/fanbox/search",
+        "/fanbox/tag",
+        "/comic-indies/"
+      ],
+      "allow": [
+        "/comic-indies/$",
+        "/comic-indies/about"
+      ],
+      "total": 22,
+      "total_allow": 2
+    },
+    "Applebot-Extended": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "CCBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "ClaudeBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "Diffbot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "GPTBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "Google-Extended": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "anthropic-ai": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "cohere-ai": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "meta-externalagent": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    }
+  }
+}

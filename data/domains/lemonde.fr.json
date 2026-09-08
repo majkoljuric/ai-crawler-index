@@ -1,0 +1,217 @@
+{
+  "schema_version": 2,
+  "checked_at": "2026-09-08T05:14:09+00:00",
+  "domain": "lemonde.fr",
+  "category": "news",
+  "robots_url": "https://lemonde.fr/robots.txt",
+  "http_status": 200,
+  "fetch_error": null,
+  "bots": {
+    "GPTBot": "partial",
+    "ChatGPT-User": "partial",
+    "OAI-SearchBot": "partial",
+    "ClaudeBot": "blocked",
+    "Claude-Web": "blocked",
+    "anthropic-ai": "blocked",
+    "Google-Extended": "blocked",
+    "GoogleOther": "blocked",
+    "Applebot-Extended": "blocked",
+    "CCBot": "blocked",
+    "Bytespider": "blocked",
+    "PerplexityBot": "partial",
+    "Perplexity-User": "partial",
+    "cohere-ai": "blocked",
+    "cohere-training-data-crawler": "blocked",
+    "Diffbot": "blocked",
+    "Omgilibot": "blocked",
+    "Amazonbot": "blocked",
+    "meta-externalagent": "partial",
+    "meta-externalfetcher": "partial",
+    "Timpibot": "blocked",
+    "YouBot": "blocked",
+    "ImagesiftBot": "partial",
+    "Ai2Bot": "blocked",
+    "DuckAssistBot": "blocked"
+  },
+  "named": [
+    "ClaudeBot",
+    "Claude-Web",
+    "anthropic-ai",
+    "Google-Extended",
+    "GoogleOther",
+    "Applebot-Extended",
+    "CCBot",
+    "Bytespider",
+    "cohere-ai",
+    "cohere-training-data-crawler",
+    "Diffbot",
+    "Omgilibot",
+    "Amazonbot",
+    "Timpibot",
+    "YouBot",
+    "Ai2Bot",
+    "DuckAssistBot"
+  ],
+  "rules": {
+    "*": {
+      "disallow": [
+        "/ajax/",
+        "/ajah/",
+        "/api/",
+        "/beta",
+        "/element/commun/afficher/",
+        "/petites-annonces/",
+        "/qui-sommes-nous/",
+        "/txt/",
+        "/verification/source/*",
+        "/noscript/",
+        "/ws/*",
+        "/lemonde-beta/*",
+        "/_rprt/*",
+        "/layout/*",
+        "/cgi-bin/*",
+        "/envoyer-par-email/*",
+        "/lmdgft/*",
+        "/article-offert/*",
+        "/*?s=43260*",
+        "/*?contributions",
+        "*/reactions/",
+        "*/mmpub/",
+        "/blog/*/wp-admin/",
+        "/blog/*/wp-includes/",
+        "/blog/*/wp-content/plugins/",
+        "/blog/*/wp-content/themes/",
+        "/blog/*/wp-login.php",
+        "/blog/*/wp-register.php",
+        "/blog/*/author/admin/",
+        "/recherche/?*search_keywords=*"
+      ],
+      "allow": [
+        "/ws/1/live/*",
+        "/ws/1/related_content/*"
+      ],
+      "total": 30,
+      "total_allow": 2
+    },
+    "Amazonbot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "Applebot-Extended": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "Bytespider": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "CCBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "Claude-Web": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "ClaudeBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "Diffbot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "DuckAssistBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "Google-Extended": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "GoogleOther": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "Timpibot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "YouBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "anthropic-ai": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "cohere-ai": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "cohere-training-data-crawler": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    }
+  }
+}

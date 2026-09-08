@@ -1,0 +1,347 @@
+{
+  "schema_version": 2,
+  "checked_at": "2026-09-08T05:14:09+00:00",
+  "domain": "nytimes.com",
+  "category": "news",
+  "robots_url": "https://nytimes.com/robots.txt",
+  "http_status": 200,
+  "fetch_error": null,
+  "bots": {
+    "GPTBot": "blocked",
+    "ChatGPT-User": "blocked",
+    "OAI-SearchBot": "blocked",
+    "ClaudeBot": "blocked",
+    "Claude-Web": "blocked",
+    "anthropic-ai": "blocked",
+    "Google-Extended": "blocked",
+    "GoogleOther": "partial",
+    "Applebot-Extended": "blocked",
+    "CCBot": "blocked",
+    "Bytespider": "blocked",
+    "PerplexityBot": "blocked",
+    "Perplexity-User": "blocked",
+    "cohere-ai": "blocked",
+    "cohere-training-data-crawler": "partial",
+    "Diffbot": "blocked",
+    "Omgilibot": "blocked",
+    "Amazonbot": "partial",
+    "meta-externalagent": "blocked",
+    "meta-externalfetcher": "blocked",
+    "Timpibot": "blocked",
+    "YouBot": "blocked",
+    "ImagesiftBot": "blocked",
+    "Ai2Bot": "partial",
+    "DuckAssistBot": "blocked"
+  },
+  "named": [
+    "GPTBot",
+    "ChatGPT-User",
+    "OAI-SearchBot",
+    "ClaudeBot",
+    "Claude-Web",
+    "anthropic-ai",
+    "Google-Extended",
+    "Applebot-Extended",
+    "CCBot",
+    "Bytespider",
+    "PerplexityBot",
+    "Perplexity-User",
+    "cohere-ai",
+    "Diffbot",
+    "Omgilibot",
+    "Amazonbot",
+    "meta-externalagent",
+    "meta-externalfetcher",
+    "Timpibot",
+    "YouBot",
+    "ImagesiftBot",
+    "DuckAssistBot"
+  ],
+  "rules": {
+    "*": {
+      "disallow": [
+        "/ads/",
+        "/adx/bin/",
+        "/athletic/wp/wp-admin/",
+        "/athletic/async-*",
+        "/athletic/search/*",
+        "/athletic/checkout/",
+        "/athletic/checkout?plan_id*",
+        "/athletic/checkout2*",
+        "/athletic/login/",
+        "/athletic/login?login_source*",
+        "/athletic/login?ref_page*",
+        "/athletic/login2/",
+        "/athletic/login2?login_source*",
+        "/athletic/login2?ref_page*",
+        "/athletic/report/",
+        "/athletic/*/discuss/*",
+        "/athletic/register/",
+        "/athletic/register?welcome_redirect*",
+        "/athletic/register2/",
+        "/athletic/register2?welcome_redirect*",
+        "/athletic/betmgm-redirect*",
+        "/athletic/cdn-cgi/",
+        "/athletic/verizon/*",
+        "/athletic/forgot-password/*",
+        "/athletic/forgot-password2/*",
+        "/athletic/amp-social-login*",
+        "/athletic/track-analytics/",
+        "/athletic/amp-auth/",
+        "/athletic/rss-feed/",
+        "/athletic/*?*rss=1",
+        "/athletic/global-color-test.php",
+        "/athletic/global-font-test.php",
+        "/athletic/graphql*",
+        "/athletic/api*",
+        "/athletic/ip*",
+        "/athletic/call-set-cookie-with-context/*",
+        "/athletic/get-current-user/",
+        "/athletic/pv.json",
+        "/athletic/following-feed-test/*",
+        "/athletic*/boxscore/*",
+        "/athletic/feed-test/",
+        "/athletic*/signed-mp3-redirect-url/*",
+        "/athletic/embedded-interactive/*",
+        "/card/panel/",
+        "/panel/",
+        "/puzzles/leaderboards/invite/*",
+        "/svc",
+        "/video/embedded/*",
+        "/search",
+        "/multiproduct/",
+        "/hd/",
+        "/inyt/",
+        "/*?*query=",
+        "/*.pdf$",
+        "/*?*login=",
+        "/*?*campaignId=",
+        "/*?*mcubz=",
+        "/*?*smprod=",
+        "/*?*ProfileID=",
+        "/*?*ListingID=",
+        "/*?*campaign_id=",
+        "/*?*hybrid=",
+        "/*?*entry=",
+        "/*?*embed=",
+        "/*?ls=",
+        "/*?*&ls=",
+        "/v1/initialize*",
+        "/v1/rgstr*",
+        "/wirecutter/wp-admin/",
+        "/wirecutter/*.zip$",
+        "/wirecutter/*.csv$",
+        "/wirecutter/deals/beta",
+        "/wirecutter/data-requests",
+        "/wirecutter/search",
+        "/wirecutter/*?s=",
+        "/wirecutter/*&xid=",
+        "/wirecutter/*?q=",
+        "/wirecutter/*?l=",
+        "/wirecutter/*?merchant=",
+        "/wirecutter/out/",
+        "/search",
+        "/subscription/*?*source=",
+        "/subscription/*?*onboarded=",
+        "/*?*smid=",
+        "/*?*partner=",
+        "/*?*utm_source="
+      ],
+      "allow": [
+        "/athletic/wp/wp-admin/admin-ajax.php",
+        "/athletic/search/$",
+        "/athletic/checkout/$",
+        "/athletic/login/$",
+        "/athletic/login2/$",
+        "/athletic/live-blogs/discuss/",
+        "/athletic/mlb/game/discuss/",
+        "/svc/crosswords",
+        "/svc/games",
+        "/svc/letter-boxed",
+        "/svc/spelling-bee",
+        "/svc/wordle",
+        "/svc/connections",
+        "/svc/sudoku",
+        "/svc/strands",
+        "/svc/pips",
+        "/wirecutter/*?*utm_source=",
+        "/ads/public/",
+        "/svc/news/v3/all/pshb.rss",
+        "/wirecutter/reviews/*?*utm_source=",
+        "/wirecutter/blog/*?*utm_source=",
+        "/wirecutter/lists/*?*utm_source=",
+        "/wirecutter/gifts/*?*utm_source="
+      ],
+      "total": 86,
+      "total_allow": 23
+    },
+    "Amazonbot": {
+      "disallow": [
+        "/wirecutter/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "Applebot-Extended": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "Bytespider": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "CCBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "ChatGPT-User": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "Claude-Web": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "ClaudeBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "Diffbot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "DuckAssistBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "GPTBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "Google-Extended": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "ImagesiftBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "OAI-SearchBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "Perplexity-User": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "PerplexityBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "Timpibot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "YouBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "anthropic-ai": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "cohere-ai": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "meta-externalagent": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "meta-externalfetcher": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    }
+  }
+}

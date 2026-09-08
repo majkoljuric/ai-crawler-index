@@ -1,0 +1,127 @@
+{
+  "schema_version": 2,
+  "checked_at": "2026-09-08T05:14:09+00:00",
+  "domain": "wordpress.org",
+  "category": "nonprofit",
+  "robots_url": "https://wordpress.org/robots.txt",
+  "http_status": 200,
+  "fetch_error": null,
+  "bots": {
+    "GPTBot": "allowed",
+    "ChatGPT-User": "partial",
+    "OAI-SearchBot": "partial",
+    "ClaudeBot": "allowed",
+    "Claude-Web": "partial",
+    "anthropic-ai": "allowed",
+    "Google-Extended": "allowed",
+    "GoogleOther": "partial",
+    "Applebot-Extended": "allowed",
+    "CCBot": "allowed",
+    "Bytespider": "allowed",
+    "PerplexityBot": "allowed",
+    "Perplexity-User": "partial",
+    "cohere-ai": "partial",
+    "cohere-training-data-crawler": "partial",
+    "Diffbot": "partial",
+    "Omgilibot": "partial",
+    "Amazonbot": "partial",
+    "meta-externalagent": "partial",
+    "meta-externalfetcher": "partial",
+    "Timpibot": "partial",
+    "YouBot": "partial",
+    "ImagesiftBot": "partial",
+    "Ai2Bot": "partial",
+    "DuckAssistBot": "partial"
+  },
+  "named": [
+    "GPTBot",
+    "ClaudeBot",
+    "anthropic-ai",
+    "Google-Extended",
+    "Applebot-Extended",
+    "CCBot",
+    "Bytespider",
+    "PerplexityBot"
+  ],
+  "rules": {
+    "*": {
+      "disallow": [
+        "/wp-admin/",
+        "/search",
+        "/?s=",
+        "/plugins/search/"
+      ],
+      "allow": [
+        "/wp-admin/admin-ajax.php",
+        "/wp-admin/load-scripts.php",
+        "/wp-admin/load-styles.php"
+      ],
+      "total": 4,
+      "total_allow": 3
+    },
+    "Applebot-Extended": {
+      "disallow": [],
+      "allow": [
+        "/"
+      ],
+      "total": 0,
+      "total_allow": 1
+    },
+    "Bytespider": {
+      "disallow": [],
+      "allow": [
+        "/"
+      ],
+      "total": 0,
+      "total_allow": 1
+    },
+    "CCBot": {
+      "disallow": [],
+      "allow": [
+        "/"
+      ],
+      "total": 0,
+      "total_allow": 1
+    },
+    "ClaudeBot": {
+      "disallow": [],
+      "allow": [
+        "/"
+      ],
+      "total": 0,
+      "total_allow": 1
+    },
+    "GPTBot": {
+      "disallow": [],
+      "allow": [
+        "/"
+      ],
+      "total": 0,
+      "total_allow": 1
+    },
+    "Google-Extended": {
+      "disallow": [],
+      "allow": [
+        "/"
+      ],
+      "total": 0,
+      "total_allow": 1
+    },
+    "PerplexityBot": {
+      "disallow": [],
+      "allow": [
+        "/"
+      ],
+      "total": 0,
+      "total_allow": 1
+    },
+    "anthropic-ai": {
+      "disallow": [],
+      "allow": [
+        "/"
+      ],
+      "total": 0,
+      "total_allow": 1
+    }
+  }
+}

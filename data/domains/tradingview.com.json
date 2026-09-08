@@ -1,0 +1,217 @@
+{
+  "schema_version": 2,
+  "checked_at": "2026-09-08T05:14:09+00:00",
+  "domain": "tradingview.com",
+  "category": "other",
+  "robots_url": "https://tradingview.com/robots.txt",
+  "http_status": 200,
+  "fetch_error": null,
+  "bots": {
+    "GPTBot": "partial",
+    "ChatGPT-User": "partial",
+    "OAI-SearchBot": "partial",
+    "ClaudeBot": "partial",
+    "Claude-Web": "partial",
+    "anthropic-ai": "partial",
+    "Google-Extended": "partial",
+    "GoogleOther": "partial",
+    "Applebot-Extended": "partial",
+    "CCBot": "partial",
+    "Bytespider": "partial",
+    "PerplexityBot": "partial",
+    "Perplexity-User": "partial",
+    "cohere-ai": "partial",
+    "cohere-training-data-crawler": "partial",
+    "Diffbot": "partial",
+    "Omgilibot": "partial",
+    "Amazonbot": "partial",
+    "meta-externalagent": "partial",
+    "meta-externalfetcher": "partial",
+    "Timpibot": "partial",
+    "YouBot": "partial",
+    "ImagesiftBot": "partial",
+    "Ai2Bot": "partial",
+    "DuckAssistBot": "partial"
+  },
+  "named": [
+    "ClaudeBot",
+    "Google-Extended",
+    "GoogleOther",
+    "Applebot-Extended",
+    "Bytespider",
+    "PerplexityBot",
+    "cohere-training-data-crawler",
+    "Omgilibot",
+    "Amazonbot",
+    "meta-externalagent",
+    "Ai2Bot"
+  ],
+  "rules": {
+    "*": {
+      "disallow": [
+        "/chat/m/",
+        "/search/",
+        "/ideas/search/",
+        "/scripts/search/",
+        "/idea-popup/",
+        "/*mobileapp=true",
+        "/*popup=true",
+        "/*dark=false&popup=true",
+        "/widgetembed/",
+        "/embed-widget/",
+        "/*?support",
+        "/badbrowser/",
+        "/accounts/",
+        "/options/volatility/",
+        "/options/chain/"
+      ],
+      "allow": [],
+      "total": 15,
+      "total_allow": 0
+    },
+    "Amazonbot": {
+      "disallow": [
+        "/ideas/*",
+        "/scripts/*",
+        "/script/*",
+        "/v/*",
+        "/symbols/*/minds/*",
+        "/u/*",
+        "/chat/*",
+        "/chart/*",
+        "/watchlists/*"
+      ],
+      "allow": [],
+      "total": 9,
+      "total_allow": 0
+    },
+    "Applebot-Extended": {
+      "disallow": [
+        "/ideas/*",
+        "/scripts/*",
+        "/script/*",
+        "/v/*",
+        "/symbols/*/minds/*",
+        "/u/*",
+        "/chat/*",
+        "/chart/*",
+        "/watchlists/*"
+      ],
+      "allow": [],
+      "total": 9,
+      "total_allow": 0
+    },
+    "Bytespider": {
+      "disallow": [
+        "/ideas/*",
+        "/scripts/*",
+        "/script/*",
+        "/v/*",
+        "/symbols/*/minds/*",
+        "/u/*",
+        "/chat/*",
+        "/chart/*",
+        "/watchlists/*"
+      ],
+      "allow": [],
+      "total": 9,
+      "total_allow": 0
+    },
+    "ClaudeBot": {
+      "disallow": [
+        "/ideas/*",
+        "/scripts/*",
+        "/script/*",
+        "/v/*",
+        "/symbols/*/minds/*",
+        "/u/*",
+        "/chat/*",
+        "/chart/*",
+        "/watchlists/*"
+      ],
+      "allow": [],
+      "total": 9,
+      "total_allow": 0
+    },
+    "Google-Extended": {
+      "disallow": [
+        "/ideas/*",
+        "/scripts/*",
+        "/script/*",
+        "/v/*",
+        "/symbols/*/minds/*",
+        "/u/*",
+        "/chat/*",
+        "/chart/*",
+        "/watchlists/*"
+      ],
+      "allow": [],
+      "total": 9,
+      "total_allow": 0
+    },
+    "GoogleOther": {
+      "disallow": [
+        "/ideas/*",
+        "/scripts/*",
+        "/script/*",
+        "/v/*",
+        "/symbols/*/minds/*",
+        "/u/*",
+        "/chat/*",
+        "/chart/*",
+        "/watchlists/*"
+      ],
+      "allow": [],
+      "total": 9,
+      "total_allow": 0
+    },
+    "PerplexityBot": {
+      "disallow": [
+        "/ideas/*",
+        "/scripts/*",
+        "/script/*",
+        "/v/*",
+        "/symbols/*/minds/*",
+        "/u/*",
+        "/chat/*",
+        "/chart/*",
+        "/watchlists/*"
+      ],
+      "allow": [],
+      "total": 9,
+      "total_allow": 0
+    },
+    "cohere-training-data-crawler": {
+      "disallow": [
+        "/ideas/*",
+        "/scripts/*",
+        "/script/*",
+        "/v/*",
+        "/symbols/*/minds/*",
+        "/u/*",
+        "/chat/*",
+        "/chart/*",
+        "/watchlists/*"
+      ],
+      "allow": [],
+      "total": 9,
+      "total_allow": 0
+    },
+    "meta-externalagent": {
+      "disallow": [
+        "/ideas/*",
+        "/scripts/*",
+        "/script/*",
+        "/v/*",
+        "/symbols/*/minds/*",
+        "/u/*",
+        "/chat/*",
+        "/chart/*",
+        "/watchlists/*"
+      ],
+      "allow": [],
+      "total": 9,
+      "total_allow": 0
+    }
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "schema_version": 2,
+  "checked_at": "2026-09-08T05:14:09+00:00",
+  "domain": "espn.com",
+  "category": "sports",
+  "robots_url": "https://espn.com/robots.txt",
+  "http_status": 200,
+  "fetch_error": null,
+  "bots": {
+    "GPTBot": "blocked",
+    "ChatGPT-User": "blocked",
+    "OAI-SearchBot": "partial",
+    "ClaudeBot": "partial",
+    "Claude-Web": "partial",
+    "anthropic-ai": "blocked",
+    "Google-Extended": "blocked",
+    "GoogleOther": "partial",
+    "Applebot-Extended": "partial",
+    "CCBot": "blocked",
+    "Bytespider": "blocked",
+    "PerplexityBot": "partial",
+    "Perplexity-User": "partial",
+    "cohere-ai": "partial",
+    "cohere-training-data-crawler": "partial",
+    "Diffbot": "partial",
+    "Omgilibot": "blocked",
+    "Amazonbot": "partial",
+    "meta-externalagent": "partial",
+    "meta-externalfetcher": "partial",
+    "Timpibot": "partial",
+    "YouBot": "partial",
+    "ImagesiftBot": "partial",
+    "Ai2Bot": "partial",
+    "DuckAssistBot": "partial"
+  },
+  "named": [
+    "GPTBot",
+    "ChatGPT-User",
+    "anthropic-ai",
+    "Google-Extended",
+    "CCBot",
+    "Bytespider",
+    "Omgilibot"
+  ],
+  "rules": {
+    "*": {
+      "disallow": [
+        "*/admin/",
+        "*/boxscore?",
+        "*/calendar/",
+        "*/cat/",
+        "*/conversation?",
+        "*/conversation/",
+        "*/conversations?",
+        "*/conversations/",
+        "*/databaseresults/",
+        "*/date/",
+        "*/deportes/",
+        "*/flash/",
+        "*/login?",
+        "*/login/",
+        "*/order/",
+        "*/photoId/",
+        "*/playbyplay?",
+        "/watch/*?*lang=",
+        "/watch/*?*rb=",
+        "/watch/*?*country=",
+        "/watch/*?*search=",
+        "/watch/*?*device=",
+        "/watch/*?*partner=",
+        "/watch/*?*redirected=",
+        "/watch/_/redirected/*",
+        "/watch/*?*om-navmethod=",
+        "*/print?id",
+        "*/printschedule/",
+        "*/season/200",
+        "*/split/",
+        "*/start/",
+        "*/swf/",
+        "*/util/",
+        "*/webslices/",
+        "*/year/200",
+        "/*?ex_cid=",
+        "/*?innings=",
+        "/*?user=",
+        "/*&action=login",
+        "/*&full=",
+        "/*&order=",
+        "/*&photoId=",
+        "/*&sort=*",
+        "/ad/",
+        "/broadband/",
+        "/cgi",
+        "/community/",
+        "/composer/",
+        "/contests/",
+        "/espn/now",
+        "/espnradio/podcast/feeds/easports/",
+        "/index?sport=*&topId=*",
+        "/index?sport=*&type=replay",
+        "/members/",
+        "/personalization/",
+        "/sports*/index?topId=*",
+        "/travel/passport/",
+        "/video/clipDeportes",
+        "/video/search",
+        "/nba/tradeMachine/?tradeId=*",
+        "*/wire?",
+        "/load_video_player/*",
+        "/football/conversation?gameId=*",
+        "*/channels/*",
+        "*/crossdomain/*",
+        "*/makecorsrequest/*",
+        "*/utils/*",
+        "*/strategies/*",
+        "*/child/*",
+        "*/message/*",
+        "*/units/*",
+        "*/om-navmethod/*",
+        "*/null",
+        "*/null/*",
+        "*/undefined",
+        "*/undefined/*",
+        "*ESPNPlusAdobeTracking/",
+        "*/modifier/*",
+        "/*&xhr=1",
+        "/*&wsVar=*",
+        "/*&_slug_=*",
+        "/*.com",
+        "/*.net",
+        "/*.org",
+        "/*.co.uk",
+        "*/platform/*",
+        "/*&platform=",
+        "/*?platform=",
+        "/football/matchstats",
+        "/football/lineups",
+        "/football/commentary",
+        "/soccer/matchstats",
+        "/football/video",
+        "/soccer/lineups",
+        "/soccer/commentary",
+        "/soccer/video",
+        "//*",
+        "/*?*::*",
+        "/rugby?*",
+        "/jayski/tracks/archive/story/_/id/*/*/*",
+        "*/baltimore-ravens-head-coach-john-harbaugh-clocks-long-hours-prep-game-day-espn-magazine",
+        "*/kansas-city-royals-manager-ned-yost-lightning-rod-criticism",
+        "*/wwe-aj-styles-retains-top-spot-narrowest-margins-kevin-owens-john-cena"
+      ],
+      "allow": [
+        "*/platform/amp*",
+        "/*&platform=amp",
+        "/*?platform=amp",
+        "/.well-known/amphtml/apikey.pub"
+      ],
+      "total": 103,
+      "total_allow": 4
+    },
+    "Bytespider": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "CCBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "ChatGPT-User": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "GPTBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "Google-Extended": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "Omgilibot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "anthropic-ai": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    }
+  }
+}

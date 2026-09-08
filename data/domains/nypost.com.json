@@ -1,0 +1,278 @@
+{
+  "schema_version": 2,
+  "checked_at": "2026-09-08T05:14:09+00:00",
+  "domain": "nypost.com",
+  "category": "news",
+  "robots_url": "https://nypost.com/robots.txt",
+  "http_status": 200,
+  "fetch_error": null,
+  "bots": {
+    "GPTBot": "partial",
+    "ChatGPT-User": "partial",
+    "OAI-SearchBot": "partial",
+    "ClaudeBot": "blocked",
+    "Claude-Web": "blocked",
+    "anthropic-ai": "blocked",
+    "Google-Extended": "blocked",
+    "GoogleOther": "partial",
+    "Applebot-Extended": "blocked",
+    "CCBot": "blocked",
+    "Bytespider": "blocked",
+    "PerplexityBot": "blocked",
+    "Perplexity-User": "partial",
+    "cohere-ai": "blocked",
+    "cohere-training-data-crawler": "partial",
+    "Diffbot": "blocked",
+    "Omgilibot": "blocked",
+    "Amazonbot": "blocked",
+    "meta-externalagent": "blocked",
+    "meta-externalfetcher": "blocked",
+    "Timpibot": "partial",
+    "YouBot": "partial",
+    "ImagesiftBot": "blocked",
+    "Ai2Bot": "partial",
+    "DuckAssistBot": "partial"
+  },
+  "named": [
+    "ClaudeBot",
+    "Claude-Web",
+    "anthropic-ai",
+    "Google-Extended",
+    "Applebot-Extended",
+    "CCBot",
+    "Bytespider",
+    "PerplexityBot",
+    "cohere-ai",
+    "Diffbot",
+    "Omgilibot",
+    "Amazonbot",
+    "meta-externalagent",
+    "meta-externalfetcher",
+    "ImagesiftBot"
+  ],
+  "rules": {
+    "*": {
+      "disallow": [
+        "/wp-admin/",
+        "/wp-json/",
+        "/wp-login.php",
+        "/tag/credible/",
+        "/personal-finance/",
+        "/banking/",
+        "/credit-cards/",
+        "/loans/",
+        "/personal-loans/",
+        "/refinance-student-loans/",
+        "/student-loans/",
+        "/mortgages/",
+        "/home-equity/",
+        "/mortgage-rates/",
+        "/mortgage-refinance/",
+        "/account/",
+        "/search/",
+        "/horoscope/",
+        "/*?x=",
+        "/*?action=",
+        "/*&action=",
+        "/*?adid=",
+        "/*&adid=",
+        "/*?bitrate=",
+        "/*&bitrate=",
+        "/*?channel=",
+        "/*&channel=",
+        "/*?clipid=",
+        "/*&clipid=",
+        "/*?contentCollection=",
+        "/*&contentCollection=",
+        "/*?contentId=",
+        "/*&contentId=",
+        "/*?ei=",
+        "/*&ei=",
+        "/*?format=",
+        "/*&format=",
+        "/*?height=",
+        "/*&height=",
+        "/*?iframe=",
+        "/*&iframe=",
+        "/*?mediaId=",
+        "/*&mediaId=",
+        "/*?module=",
+        "/*&module=",
+        "/*?monthnum=",
+        "/*&monthnum=",
+        "/*?pgtype=",
+        "/*&pgtype=",
+        "/*?preview=",
+        "/*&preview=",
+        "/*?priority=",
+        "/*&priority=",
+        "/*?ref=",
+        "/*&ref=",
+        "/*?referrer=",
+        "/*&referrer=",
+        "/*?sa=",
+        "/*&sa=",
+        "/*?section=",
+        "/*&section=",
+        "/*?share=",
+        "/*&share=",
+        "/*?TB_iframe=",
+        "/*&TB_iframe=",
+        "/*?TBL_Prod100Page=",
+        "/*&TBL_Prod100Page=",
+        "/*?theme_preview=",
+        "/*&theme_preview=",
+        "/*?usg=",
+        "/*&usg=",
+        "/*?ved=",
+        "/*&ved=",
+        "/*?version=",
+        "/*&version=",
+        "/*?VID=",
+        "/*&VID=",
+        "/*?vxBitrate=",
+        "/*&vxBitrate=",
+        "/*?vxChannel=",
+        "/*&vxChannel=",
+        "/*?vxClipId=",
+        "/*&vxClipId=",
+        "/*?vxSiteId=",
+        "/*&vxSiteId=",
+        "/*?width=",
+        "/*&width=",
+        "/*?year=",
+        "/*&year=",
+        "/*.xml?uuid=",
+        "/*?post_type=feedback&p=",
+        "/*?wptouch_preview_theme=",
+        "/*&gt;",
+        "/?attachment_id=",
+        "/affiliate/",
+        "/ai_log/",
+        "/*?*pg99.asia*",
+        "/*&*pg99.asia*",
+        "/*?*gg155.cn*",
+        "/*&*gg155.cn*",
+        "/*?*To66.Asia*",
+        "/*&*To66.Asia*",
+        "/new-york-post-instagram-feed/",
+        "/new-york-post-tiktok-feed/",
+        "/alexa-new-york-post-instagram-feed/",
+        "/alexa-new-york-post-tiktok-feed/"
+      ],
+      "allow": [
+        "/wp-admin/admin-ajax.php",
+        "/account/subscribe"
+      ],
+      "total": 106,
+      "total_allow": 2
+    },
+    "Applebot-Extended": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "Bytespider": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "CCBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "Claude-Web": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "ClaudeBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "Diffbot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "Google-Extended": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "ImagesiftBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "PerplexityBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "anthropic-ai": {
+      "disallow": [
+        "/",
+        "/"
+      ],
+      "allow": [],
+      "total": 2,
+      "total_allow": 0
+    },
+    "cohere-ai": {
+      "disallow": [
+        "/",
+        "/"
+      ],
+      "allow": [],
+      "total": 2,
+      "total_allow": 0
+    },
+    "meta-externalagent": {
+      "disallow": [
+        "/",
+        "/"
+      ],
+      "allow": [],
+      "total": 2,
+      "total_allow": 0
+    },
+    "meta-externalfetcher": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    }
+  }
+}

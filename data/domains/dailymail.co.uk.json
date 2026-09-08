@@ -1,0 +1,309 @@
+{
+  "schema_version": 2,
+  "checked_at": "2026-09-08T05:14:09+00:00",
+  "domain": "dailymail.co.uk",
+  "category": "news",
+  "robots_url": "https://dailymail.co.uk/robots.txt",
+  "http_status": 200,
+  "fetch_error": null,
+  "bots": {
+    "GPTBot": "partial",
+    "ChatGPT-User": "partial",
+    "OAI-SearchBot": "partial",
+    "ClaudeBot": "partial",
+    "Claude-Web": "partial",
+    "anthropic-ai": "partial",
+    "Google-Extended": "partial",
+    "GoogleOther": "allowed",
+    "Applebot-Extended": "partial",
+    "CCBot": "partial",
+    "Bytespider": "partial",
+    "PerplexityBot": "partial",
+    "Perplexity-User": "partial",
+    "cohere-ai": "partial",
+    "cohere-training-data-crawler": "partial",
+    "Diffbot": "partial",
+    "Omgilibot": "partial",
+    "Amazonbot": "partial",
+    "meta-externalagent": "partial",
+    "meta-externalfetcher": "partial",
+    "Timpibot": "partial",
+    "YouBot": "partial",
+    "ImagesiftBot": "partial",
+    "Ai2Bot": "partial",
+    "DuckAssistBot": "partial"
+  },
+  "named": [
+    "GPTBot",
+    "ChatGPT-User",
+    "OAI-SearchBot",
+    "ClaudeBot",
+    "Claude-Web",
+    "anthropic-ai",
+    "Google-Extended",
+    "GoogleOther",
+    "Applebot-Extended",
+    "CCBot",
+    "Bytespider",
+    "PerplexityBot",
+    "Perplexity-User",
+    "cohere-ai",
+    "Diffbot",
+    "Omgilibot",
+    "Amazonbot",
+    "meta-externalagent",
+    "meta-externalfetcher",
+    "Timpibot",
+    "YouBot",
+    "ImagesiftBot",
+    "Ai2Bot",
+    "DuckAssistBot"
+  ],
+  "rules": {
+    "*": {
+      "disallow": [
+        "/*readcommentshtml*",
+        "/*login?redirectPath=",
+        "/*logout?redirectPath=",
+        "/*nextThread.html",
+        "/*previousThread.html",
+        "/*questionId*",
+        "/*selectedImage*",
+        "/*threadIndex=*",
+        "/*topGallery*",
+        "/ce/item.cms*",
+        "/guide/*",
+        "/registration/*",
+        "/best-buys/clickout/*",
+        "/best-buys/m/clickout/*",
+        "/weather.html?latitude=*",
+        "/weather.html?old=*",
+        "/home/search.html*",
+        "/best-buys/mercury/out*",
+        "/api/infinite-list.html",
+        "/api/infinite-list.html",
+        "/mobileapps/*"
+      ],
+      "allow": [],
+      "total": 21,
+      "total_allow": 0
+    },
+    "Amazonbot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/buyline/",
+        "/*_.html"
+      ],
+      "total": 1,
+      "total_allow": 2
+    },
+    "Applebot-Extended": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/buyline/",
+        "/*_.html"
+      ],
+      "total": 1,
+      "total_allow": 2
+    },
+    "Bytespider": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/buyline/",
+        "/*_.html"
+      ],
+      "total": 1,
+      "total_allow": 2
+    },
+    "CCBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/buyline/",
+        "/*_.html"
+      ],
+      "total": 1,
+      "total_allow": 2
+    },
+    "ChatGPT-User": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/buyline/",
+        "/*_.html"
+      ],
+      "total": 1,
+      "total_allow": 2
+    },
+    "Claude-Web": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/buyline/",
+        "/*_.html"
+      ],
+      "total": 1,
+      "total_allow": 2
+    },
+    "ClaudeBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/buyline/",
+        "/*_.html"
+      ],
+      "total": 1,
+      "total_allow": 2
+    },
+    "Diffbot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/buyline/",
+        "/*_.html"
+      ],
+      "total": 1,
+      "total_allow": 2
+    },
+    "DuckAssistBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/buyline/",
+        "/*_.html"
+      ],
+      "total": 1,
+      "total_allow": 2
+    },
+    "GPTBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/buyline/",
+        "/*_.html"
+      ],
+      "total": 1,
+      "total_allow": 2
+    },
+    "Google-Extended": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/buyline/",
+        "/*_.html"
+      ],
+      "total": 1,
+      "total_allow": 2
+    },
+    "GoogleOther": {
+      "disallow": [],
+      "allow": [
+        "/.well-known/privacy-sandbox-attestations.json"
+      ],
+      "total": 0,
+      "total_allow": 1
+    },
+    "ImagesiftBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/buyline/",
+        "/*_.html"
+      ],
+      "total": 1,
+      "total_allow": 2
+    },
+    "OAI-SearchBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/buyline/",
+        "/*_.html"
+      ],
+      "total": 1,
+      "total_allow": 2
+    },
+    "Perplexity-User": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/buyline/",
+        "/*_.html"
+      ],
+      "total": 1,
+      "total_allow": 2
+    },
+    "PerplexityBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/buyline/",
+        "/*_.html"
+      ],
+      "total": 1,
+      "total_allow": 2
+    },
+    "Timpibot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/buyline/",
+        "/*_.html"
+      ],
+      "total": 1,
+      "total_allow": 2
+    },
+    "YouBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/buyline/",
+        "/*_.html"
+      ],
+      "total": 1,
+      "total_allow": 2
+    },
+    "anthropic-ai": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/buyline/",
+        "/*_.html"
+      ],
+      "total": 1,
+      "total_allow": 2
+    },
+    "cohere-ai": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/buyline/",
+        "/*_.html"
+      ],
+      "total": 1,
+      "total_allow": 2
+    }
+  }
+}

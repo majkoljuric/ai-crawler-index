@@ -1,0 +1,158 @@
+{
+  "schema_version": 2,
+  "checked_at": "2026-09-08T05:14:09+00:00",
+  "domain": "t-online.de",
+  "category": "other",
+  "robots_url": "https://t-online.de/robots.txt",
+  "http_status": 200,
+  "fetch_error": null,
+  "bots": {
+    "GPTBot": "partial",
+    "ChatGPT-User": "partial",
+    "OAI-SearchBot": "partial",
+    "ClaudeBot": "partial",
+    "Claude-Web": "partial",
+    "anthropic-ai": "partial",
+    "Google-Extended": "partial",
+    "GoogleOther": "partial",
+    "Applebot-Extended": "partial",
+    "CCBot": "partial",
+    "Bytespider": "partial",
+    "PerplexityBot": "partial",
+    "Perplexity-User": "partial",
+    "cohere-ai": "partial",
+    "cohere-training-data-crawler": "partial",
+    "Diffbot": "partial",
+    "Omgilibot": "partial",
+    "Amazonbot": "partial",
+    "meta-externalagent": "partial",
+    "meta-externalfetcher": "partial",
+    "Timpibot": "partial",
+    "YouBot": "partial",
+    "ImagesiftBot": "partial",
+    "Ai2Bot": "partial",
+    "DuckAssistBot": "partial"
+  },
+  "named": [
+    "GPTBot",
+    "ClaudeBot",
+    "Google-Extended",
+    "Applebot-Extended",
+    "CCBot",
+    "Bytespider",
+    "PerplexityBot",
+    "meta-externalagent"
+  ],
+  "rules": {
+    "*": {
+      "disallow": [
+        "/native/",
+        "/auth/",
+        "/?artid",
+        "/preisvergleich/",
+        "/spiele/weihnachtsspiele/",
+        "/studiopreview_",
+        "/vid_1/",
+        "/,ei=",
+        "/,linkId=",
+        "/,pt=pictureEnlarge",
+        "/,pt=print",
+        "/,pt=self",
+        "/,tid=print",
+        "/,vv=P5",
+        "/,vv=enlarge",
+        "*/tid_external_content_proxy/",
+        "/-/id_62530634/tid_tsr_iframe_loginbox/index",
+        "/-/id_62530634/tid_tsr_iframe_loginbox_buzz/index",
+        "/gtm.js",
+        "/metatag/",
+        "/ki-ratgeber/",
+        "/api/greenplayer/",
+        "/api/search/zero-input"
+      ],
+      "allow": [],
+      "total": 23,
+      "total_allow": 0
+    },
+    "Applebot-Extended": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/finanzen/versichern-und-vorsorgen/"
+      ],
+      "total": 1,
+      "total_allow": 1
+    },
+    "Bytespider": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/finanzen/versichern-und-vorsorgen/"
+      ],
+      "total": 1,
+      "total_allow": 1
+    },
+    "CCBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/finanzen/versichern-und-vorsorgen/"
+      ],
+      "total": 1,
+      "total_allow": 1
+    },
+    "ClaudeBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/finanzen/versichern-und-vorsorgen/"
+      ],
+      "total": 1,
+      "total_allow": 1
+    },
+    "GPTBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/finanzen/versichern-und-vorsorgen/"
+      ],
+      "total": 1,
+      "total_allow": 1
+    },
+    "Google-Extended": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/finanzen/versichern-und-vorsorgen/"
+      ],
+      "total": 1,
+      "total_allow": 1
+    },
+    "PerplexityBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/finanzen/versichern-und-vorsorgen/"
+      ],
+      "total": 1,
+      "total_allow": 1
+    },
+    "meta-externalagent": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/finanzen/versichern-und-vorsorgen/"
+      ],
+      "total": 1,
+      "total_allow": 1
+    }
+  }
+}

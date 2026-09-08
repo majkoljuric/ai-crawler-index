@@ -1,0 +1,66 @@
+{
+  "schema_version": 2,
+  "checked_at": "2026-09-08T05:14:09+00:00",
+  "domain": "segment.io",
+  "category": "other",
+  "robots_url": "https://segment.io/robots.txt",
+  "http_status": 200,
+  "fetch_error": null,
+  "bots": {
+    "GPTBot": "partial",
+    "ChatGPT-User": "partial",
+    "OAI-SearchBot": "partial",
+    "ClaudeBot": "partial",
+    "Claude-Web": "partial",
+    "anthropic-ai": "partial",
+    "Google-Extended": "partial",
+    "GoogleOther": "partial",
+    "Applebot-Extended": "partial",
+    "CCBot": "partial",
+    "Bytespider": "partial",
+    "PerplexityBot": "partial",
+    "Perplexity-User": "partial",
+    "cohere-ai": "partial",
+    "cohere-training-data-crawler": "partial",
+    "Diffbot": "partial",
+    "Omgilibot": "partial",
+    "Amazonbot": "partial",
+    "meta-externalagent": "partial",
+    "meta-externalfetcher": "partial",
+    "Timpibot": "partial",
+    "YouBot": "partial",
+    "ImagesiftBot": "partial",
+    "Ai2Bot": "partial",
+    "DuckAssistBot": "partial"
+  },
+  "named": [],
+  "rules": {
+    "*": {
+      "disallow": [
+        "/resources/",
+        "/azure",
+        "/search",
+        "/help/search",
+        "/docs/libraries/reference/twilio-php/",
+        "/docs/libraries/reference/twilio-node/",
+        "/docs/libraries/reference/twilio-java/",
+        "/docs/libraries/reference/twilio-ruby/",
+        "/docs/libraries/reference/twilio-python/",
+        "/docs/libraries/reference/twilio-csharp/",
+        "/docs/admin/",
+        "/en-us/test",
+        "/en-us/personalized-solutions"
+      ],
+      "allow": [
+        "/docs/libraries/reference/twilio-php/index.html",
+        "/docs/libraries/reference/twilio-node/index.html",
+        "/docs/libraries/reference/twilio-java/index.html",
+        "/docs/libraries/reference/twilio-ruby/index.html",
+        "/docs/libraries/reference/twilio-python/index.html",
+        "/docs/libraries/reference/twilio-csharp/index.html"
+      ],
+      "total": 13,
+      "total_allow": 6
+    }
+  }
+}

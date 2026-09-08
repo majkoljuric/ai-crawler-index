@@ -1,0 +1,95 @@
+{
+  "schema_version": 2,
+  "checked_at": "2026-09-08T05:14:09+00:00",
+  "domain": "goodreads.com",
+  "category": "reference",
+  "robots_url": "https://goodreads.com/robots.txt",
+  "http_status": 200,
+  "fetch_error": null,
+  "bots": {
+    "GPTBot": "blocked",
+    "ChatGPT-User": "partial",
+    "OAI-SearchBot": "partial",
+    "ClaudeBot": "partial",
+    "Claude-Web": "partial",
+    "anthropic-ai": "partial",
+    "Google-Extended": "partial",
+    "GoogleOther": "partial",
+    "Applebot-Extended": "partial",
+    "CCBot": "blocked",
+    "Bytespider": "partial",
+    "PerplexityBot": "partial",
+    "Perplexity-User": "partial",
+    "cohere-ai": "partial",
+    "cohere-training-data-crawler": "partial",
+    "Diffbot": "partial",
+    "Omgilibot": "partial",
+    "Amazonbot": "partial",
+    "meta-externalagent": "partial",
+    "meta-externalfetcher": "partial",
+    "Timpibot": "partial",
+    "YouBot": "partial",
+    "ImagesiftBot": "partial",
+    "Ai2Bot": "partial",
+    "DuckAssistBot": "partial"
+  },
+  "named": [
+    "GPTBot",
+    "CCBot"
+  ],
+  "rules": {
+    "*": {
+      "disallow": [
+        "/about/team_member/",
+        "/admin",
+        "/api",
+        "/blog/list_rss",
+        "/book/reviews/",
+        "/book_link/follow/",
+        "/buy_buttons/",
+        "/ebooks",
+        "/friend/add_as_friend",
+        "/home/index_rss",
+        "/oggiPlayerLoader.htm",
+        "/photo/group/",
+        "/quotes/list_rss",
+        "/review/list",
+        "/review/list_rss",
+        "/review/rate",
+        "/review/show",
+        "/search",
+        "/shelf/user_shelves",
+        "/tooltips",
+        "/track",
+        "/trivia/answer",
+        "/user/updates_rss",
+        "/user/year_in_books",
+        "/videos/",
+        "/work",
+        "/*reviewFilters"
+      ],
+      "allow": [
+        "/work/editions",
+        "/work/quotes"
+      ],
+      "total": 27,
+      "total_allow": 2
+    },
+    "CCBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "GPTBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    }
+  }
+}

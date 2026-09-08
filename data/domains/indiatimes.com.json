@@ -1,0 +1,100 @@
+{
+  "schema_version": 2,
+  "checked_at": "2026-09-08T05:14:09+00:00",
+  "domain": "indiatimes.com",
+  "category": "news",
+  "robots_url": "https://indiatimes.com/robots.txt",
+  "http_status": 200,
+  "fetch_error": null,
+  "bots": {
+    "GPTBot": "partial",
+    "ChatGPT-User": "partial",
+    "OAI-SearchBot": "partial",
+    "ClaudeBot": "partial",
+    "Claude-Web": "partial",
+    "anthropic-ai": "partial",
+    "Google-Extended": "partial",
+    "GoogleOther": "partial",
+    "Applebot-Extended": "partial",
+    "CCBot": "partial",
+    "Bytespider": "partial",
+    "PerplexityBot": "partial",
+    "Perplexity-User": "partial",
+    "cohere-ai": "partial",
+    "cohere-training-data-crawler": "partial",
+    "Diffbot": "partial",
+    "Omgilibot": "partial",
+    "Amazonbot": "partial",
+    "meta-externalagent": "blocked",
+    "meta-externalfetcher": "partial",
+    "Timpibot": "partial",
+    "YouBot": "partial",
+    "ImagesiftBot": "partial",
+    "Ai2Bot": "partial",
+    "DuckAssistBot": "partial"
+  },
+  "named": [
+    "meta-externalagent"
+  ],
+  "rules": {
+    "*": {
+      "disallow": [
+        "*.php*",
+        "*/7176/*",
+        "*/whatshot/*",
+        "*/wattpad/*",
+        "*/uc_feed/*",
+        "*/brief/*",
+        "*/search/*",
+        "*/user/*",
+        "*/idtoin/*",
+        "*/video_player/*",
+        "*/blog/*",
+        "*/content/*",
+        "*/seoarchive/*",
+        "*/trends/audios/*",
+        "*/trends/videos/*",
+        "*{*",
+        "*?ref=*",
+        "*?v=*",
+        "*?no_fullscreen_*",
+        "*?symbol=*",
+        "*/?date=*",
+        "*?fb_comment_id=*",
+        "*?_twitter*",
+        "*/2011/*",
+        "*/2012/*",
+        "*/2013/*",
+        "*/2014/*",
+        "*/2015/*",
+        "*/2016/*",
+        "*/2017/*",
+        "*/2018/*",
+        "*/2019/*",
+        "*/2020/*",
+        "*/2021/*",
+        "*/2022/*",
+        "*/2023/*",
+        "*/2024/*",
+        "*.ttf*",
+        "*.woff*",
+        "*.png*",
+        "*.jpg*",
+        "/partner"
+      ],
+      "allow": [
+        "/"
+      ],
+      "total": 42,
+      "total_allow": 1
+    },
+    "meta-externalagent": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    }
+  }
+}

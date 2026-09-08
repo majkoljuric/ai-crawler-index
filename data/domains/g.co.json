@@ -1,0 +1,12 @@
+{
+  "schema_version": 2,
+  "checked_at": "2026-09-08T05:14:09+00:00",
+  "domain": "g.co",
+  "category": "other",
+  "robots_url": "https://g.co/robots.txt",
+  "http_status": 400,
+  "fetch_error": "HTTPError 400",
+  "bots": {},
+  "named": [],
+  "rules": {}
+}

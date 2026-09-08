@@ -1,0 +1,279 @@
+{
+  "schema_version": 2,
+  "checked_at": "2026-09-08T05:14:09+00:00",
+  "domain": "bitrix24.ru",
+  "category": "other",
+  "robots_url": "https://bitrix24.ru/robots.txt",
+  "http_status": 200,
+  "fetch_error": null,
+  "bots": {
+    "GPTBot": "partial",
+    "ChatGPT-User": "partial",
+    "OAI-SearchBot": "partial",
+    "ClaudeBot": "partial",
+    "Claude-Web": "partial",
+    "anthropic-ai": "partial",
+    "Google-Extended": "partial",
+    "GoogleOther": "partial",
+    "Applebot-Extended": "partial",
+    "CCBot": "partial",
+    "Bytespider": "partial",
+    "PerplexityBot": "partial",
+    "Perplexity-User": "partial",
+    "cohere-ai": "partial",
+    "cohere-training-data-crawler": "partial",
+    "Diffbot": "partial",
+    "Omgilibot": "partial",
+    "Amazonbot": "partial",
+    "meta-externalagent": "partial",
+    "meta-externalfetcher": "partial",
+    "Timpibot": "partial",
+    "YouBot": "partial",
+    "ImagesiftBot": "partial",
+    "Ai2Bot": "partial",
+    "DuckAssistBot": "partial"
+  },
+  "named": [
+    "GPTBot",
+    "ChatGPT-User",
+    "OAI-SearchBot",
+    "ClaudeBot",
+    "Google-Extended",
+    "PerplexityBot",
+    "Perplexity-User"
+  ],
+  "rules": {
+    "*": {
+      "disallow": [
+        "/*?",
+        "/*&",
+        "/auth/",
+        "/bitrix/",
+        "/landing/",
+        "/features/landing/"
+      ],
+      "allow": [
+        "/bitrix/cache/",
+        "/bitrix/blocks/",
+        "/bitrix/components/",
+        "/bitrix/content_fonts/",
+        "/bitrix/content_vendors/",
+        "/bitrix/css/",
+        "/bitrix/js/",
+        "/bitrix/images/",
+        "/bitrix/templates/",
+        "/bitrix/panel/",
+        "/local/components/",
+        "/images/",
+        "/upload/",
+        "/*?PAGEN",
+        "/*&PAGEN"
+      ],
+      "total": 6,
+      "total_allow": 15
+    },
+    "ChatGPT-User": {
+      "disallow": [
+        "/*?",
+        "/*&",
+        "/auth/",
+        "/bitrix/",
+        "/landing/",
+        "/features/landing/",
+        "/bitrix/cache/",
+        "/bitrix/blocks/",
+        "/bitrix/components/",
+        "/bitrix/content_fonts/",
+        "/bitrix/content_vendors/",
+        "/bitrix/css/",
+        "/bitrix/js/",
+        "/bitrix/templates/",
+        "/bitrix/panel/",
+        "/local/components/"
+      ],
+      "allow": [
+        "/bitrix/images/",
+        "/images/",
+        "/upload/",
+        "/*?PAGEN",
+        "/*&PAGEN"
+      ],
+      "total": 16,
+      "total_allow": 5
+    },
+    "ClaudeBot": {
+      "disallow": [
+        "/*?",
+        "/*&",
+        "/auth/",
+        "/bitrix/",
+        "/landing/",
+        "/features/landing/",
+        "/bitrix/cache/",
+        "/bitrix/blocks/",
+        "/bitrix/components/",
+        "/bitrix/content_fonts/",
+        "/bitrix/content_vendors/",
+        "/bitrix/css/",
+        "/bitrix/js/",
+        "/bitrix/templates/",
+        "/bitrix/panel/",
+        "/local/components/"
+      ],
+      "allow": [
+        "/bitrix/images/",
+        "/images/",
+        "/upload/",
+        "/*?PAGEN",
+        "/*&PAGEN"
+      ],
+      "total": 16,
+      "total_allow": 5
+    },
+    "GPTBot": {
+      "disallow": [
+        "/*?",
+        "/*&",
+        "/auth/",
+        "/bitrix/",
+        "/landing/",
+        "/features/landing/",
+        "/bitrix/cache/",
+        "/bitrix/blocks/",
+        "/bitrix/components/",
+        "/bitrix/content_fonts/",
+        "/bitrix/content_vendors/",
+        "/bitrix/css/",
+        "/bitrix/js/",
+        "/bitrix/templates/",
+        "/bitrix/panel/",
+        "/local/components/"
+      ],
+      "allow": [
+        "/bitrix/images/",
+        "/images/",
+        "/upload/",
+        "/*?PAGEN",
+        "/*&PAGEN"
+      ],
+      "total": 16,
+      "total_allow": 5
+    },
+    "Google-Extended": {
+      "disallow": [
+        "/*?",
+        "/*&",
+        "/auth/",
+        "/bitrix/",
+        "/landing/",
+        "/features/landing/",
+        "/bitrix/cache/",
+        "/bitrix/blocks/",
+        "/bitrix/components/",
+        "/bitrix/content_fonts/",
+        "/bitrix/content_vendors/",
+        "/bitrix/css/",
+        "/bitrix/js/",
+        "/bitrix/templates/",
+        "/bitrix/panel/",
+        "/local/components/"
+      ],
+      "allow": [
+        "/bitrix/images/",
+        "/images/",
+        "/upload/",
+        "/*?PAGEN",
+        "/*&PAGEN"
+      ],
+      "total": 16,
+      "total_allow": 5
+    },
+    "OAI-SearchBot": {
+      "disallow": [
+        "/*?",
+        "/*&",
+        "/auth/",
+        "/bitrix/",
+        "/landing/",
+        "/features/landing/",
+        "/bitrix/cache/",
+        "/bitrix/blocks/",
+        "/bitrix/components/",
+        "/bitrix/content_fonts/",
+        "/bitrix/content_vendors/",
+        "/bitrix/css/",
+        "/bitrix/js/",
+        "/bitrix/templates/",
+        "/bitrix/panel/",
+        "/local/components/"
+      ],
+      "allow": [
+        "/bitrix/images/",
+        "/images/",
+        "/upload/",
+        "/*?PAGEN",
+        "/*&PAGEN"
+      ],
+      "total": 16,
+      "total_allow": 5
+    },
+    "Perplexity-User": {
+      "disallow": [
+        "/*?",
+        "/*&",
+        "/auth/",
+        "/bitrix/",
+        "/landing/",
+        "/features/landing/",
+        "/bitrix/cache/",
+        "/bitrix/blocks/",
+        "/bitrix/components/",
+        "/bitrix/content_fonts/",
+        "/bitrix/content_vendors/",
+        "/bitrix/css/",
+        "/bitrix/js/",
+        "/bitrix/templates/",
+        "/bitrix/panel/",
+        "/local/components/"
+      ],
+      "allow": [
+        "/bitrix/images/",
+        "/images/",
+        "/upload/",
+        "/*?PAGEN",
+        "/*&PAGEN"
+      ],
+      "total": 16,
+      "total_allow": 5
+    },
+    "PerplexityBot": {
+      "disallow": [
+        "/*?",
+        "/*&",
+        "/auth/",
+        "/bitrix/",
+        "/landing/",
+        "/features/landing/",
+        "/bitrix/cache/",
+        "/bitrix/blocks/",
+        "/bitrix/components/",
+        "/bitrix/content_fonts/",
+        "/bitrix/content_vendors/",
+        "/bitrix/css/",
+        "/bitrix/js/",
+        "/bitrix/templates/",
+        "/bitrix/panel/",
+        "/local/components/"
+      ],
+      "allow": [
+        "/bitrix/images/",
+        "/images/",
+        "/upload/",
+        "/*?PAGEN",
+        "/*&PAGEN"
+      ],
+      "total": 16,
+      "total_allow": 5
+    }
+  }
+}

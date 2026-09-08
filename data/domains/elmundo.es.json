@@ -1,0 +1,149 @@
+{
+  "schema_version": 2,
+  "checked_at": "2026-09-08T05:14:09+00:00",
+  "domain": "elmundo.es",
+  "category": "other",
+  "robots_url": "https://elmundo.es/robots.txt",
+  "http_status": 200,
+  "fetch_error": null,
+  "bots": {
+    "GPTBot": "partial",
+    "ChatGPT-User": "partial",
+    "OAI-SearchBot": "partial",
+    "ClaudeBot": "partial",
+    "Claude-Web": "partial",
+    "anthropic-ai": "partial",
+    "Google-Extended": "partial",
+    "GoogleOther": "partial",
+    "Applebot-Extended": "partial",
+    "CCBot": "partial",
+    "Bytespider": "partial",
+    "PerplexityBot": "partial",
+    "Perplexity-User": "partial",
+    "cohere-ai": "partial",
+    "cohere-training-data-crawler": "partial",
+    "Diffbot": "partial",
+    "Omgilibot": "blocked",
+    "Amazonbot": "partial",
+    "meta-externalagent": "partial",
+    "meta-externalfetcher": "partial",
+    "Timpibot": "partial",
+    "YouBot": "partial",
+    "ImagesiftBot": "partial",
+    "Ai2Bot": "partial",
+    "DuckAssistBot": "partial"
+  },
+  "named": [
+    "GPTBot",
+    "ChatGPT-User",
+    "OAI-SearchBot",
+    "anthropic-ai",
+    "Google-Extended",
+    "CCBot",
+    "PerplexityBot",
+    "Omgilibot"
+  ],
+  "rules": {
+    "*": {
+      "disallow": [
+        "/1998/",
+        "/2002/",
+        "/s/",
+        "/cgi-bin/",
+        "/perl/",
+        "/foros/",
+        "/yodona/hemeroteca/",
+        "/metropoli/hemeroteca/",
+        "/eventos/en-directo/*.json",
+        "/eventos/en-directo/resources.html*",
+        "/noticias/envia_noticia.html",
+        "/enviaropinion.html?*",
+        "/micuenta/",
+        "*/pruebas-abierto/*",
+        "*/elmundo/hemeroteca/*/*/*/*/*"
+      ],
+      "allow": [
+        "*/elmundo/hemeroteca/*/*/*/*/index*"
+      ],
+      "total": 15,
+      "total_allow": 1
+    },
+    "CCBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/uestudio/",
+        "/ofertas-regalos/"
+      ],
+      "total": 1,
+      "total_allow": 2
+    },
+    "ChatGPT-User": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/uestudio/",
+        "/ofertas-regalos/"
+      ],
+      "total": 1,
+      "total_allow": 2
+    },
+    "GPTBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/uestudio/",
+        "/ofertas-regalos/"
+      ],
+      "total": 1,
+      "total_allow": 2
+    },
+    "Google-Extended": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/uestudio/",
+        "/ofertas-regalos/"
+      ],
+      "total": 1,
+      "total_allow": 2
+    },
+    "OAI-SearchBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/uestudio/",
+        "/ofertas-regalos/"
+      ],
+      "total": 1,
+      "total_allow": 2
+    },
+    "PerplexityBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/uestudio/",
+        "/ofertas-regalos/"
+      ],
+      "total": 1,
+      "total_allow": 2
+    },
+    "anthropic-ai": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/uestudio/",
+        "/ofertas-regalos/"
+      ],
+      "total": 1,
+      "total_allow": 2
+    }
+  }
+}

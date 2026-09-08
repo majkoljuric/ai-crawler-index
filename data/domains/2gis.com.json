@@ -1,0 +1,69 @@
+{
+  "schema_version": 2,
+  "checked_at": "2026-09-08T05:14:09+00:00",
+  "domain": "2gis.com",
+  "category": "other",
+  "robots_url": "https://2gis.com/robots.txt",
+  "http_status": 200,
+  "fetch_error": null,
+  "bots": {
+    "GPTBot": "partial",
+    "ChatGPT-User": "partial",
+    "OAI-SearchBot": "partial",
+    "ClaudeBot": "partial",
+    "Claude-Web": "partial",
+    "anthropic-ai": "partial",
+    "Google-Extended": "partial",
+    "GoogleOther": "blocked",
+    "Applebot-Extended": "partial",
+    "CCBot": "partial",
+    "Bytespider": "partial",
+    "PerplexityBot": "partial",
+    "Perplexity-User": "partial",
+    "cohere-ai": "partial",
+    "cohere-training-data-crawler": "partial",
+    "Diffbot": "partial",
+    "Omgilibot": "partial",
+    "Amazonbot": "partial",
+    "meta-externalagent": "partial",
+    "meta-externalfetcher": "partial",
+    "Timpibot": "partial",
+    "YouBot": "partial",
+    "ImagesiftBot": "partial",
+    "Ai2Bot": "partial",
+    "DuckAssistBot": "partial"
+  },
+  "named": [
+    "GoogleOther"
+  ],
+  "rules": {
+    "*": {
+      "disallow": [
+        "/_/*",
+        "/maps_action",
+        "/*printmode=",
+        "/*login_token=",
+        "/*reference=",
+        "/*stat=",
+        "*/my$",
+        "*/my?*",
+        "*/my/*",
+        "*/user*",
+        "*/geolocation*",
+        "*?refHash*",
+        "/geo/70030076128110973"
+      ],
+      "allow": [],
+      "total": 13,
+      "total_allow": 0
+    },
+    "GoogleOther": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    }
+  }
+}

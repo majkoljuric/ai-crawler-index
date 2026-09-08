@@ -1,0 +1,343 @@
+{
+  "schema_version": 2,
+  "checked_at": "2026-09-08T05:14:09+00:00",
+  "domain": "weather.com",
+  "category": "other",
+  "robots_url": "https://weather.com/robots.txt",
+  "http_status": 200,
+  "fetch_error": null,
+  "bots": {
+    "GPTBot": "blocked",
+    "ChatGPT-User": "allowed",
+    "OAI-SearchBot": "partial",
+    "ClaudeBot": "blocked",
+    "Claude-Web": "blocked",
+    "anthropic-ai": "blocked",
+    "Google-Extended": "blocked",
+    "GoogleOther": "partial",
+    "Applebot-Extended": "blocked",
+    "CCBot": "blocked",
+    "Bytespider": "blocked",
+    "PerplexityBot": "blocked",
+    "Perplexity-User": "partial",
+    "cohere-ai": "blocked",
+    "cohere-training-data-crawler": "partial",
+    "Diffbot": "blocked",
+    "Omgilibot": "blocked",
+    "Amazonbot": "blocked",
+    "meta-externalagent": "blocked",
+    "meta-externalfetcher": "partial",
+    "Timpibot": "partial",
+    "YouBot": "partial",
+    "ImagesiftBot": "blocked",
+    "Ai2Bot": "partial",
+    "DuckAssistBot": "partial"
+  },
+  "named": [
+    "GPTBot",
+    "ChatGPT-User",
+    "ClaudeBot",
+    "Claude-Web",
+    "anthropic-ai",
+    "Google-Extended",
+    "Applebot-Extended",
+    "CCBot",
+    "Bytespider",
+    "PerplexityBot",
+    "cohere-ai",
+    "Diffbot",
+    "Omgilibot",
+    "Amazonbot",
+    "meta-externalagent",
+    "ImagesiftBot"
+  ],
+  "rules": {
+    "*": {
+      "disallow": [
+        "/includes/",
+        "/life/",
+        "/misc/",
+        "/modules/",
+        "/profiles/",
+        "/scripts/",
+        "/themes/",
+        "/api/payload",
+        "/taxonomy/",
+        "/appspromo",
+        "/CHANGELOG.txt",
+        "/cron.php",
+        "/INSTALL.mysql.txt",
+        "/INSTALL.pgsql.txt",
+        "/INSTALL.sqlite.txt",
+        "/install.php",
+        "/INSTALL.txt",
+        "/LICENSE.txt",
+        "/MAINTAINERS.txt",
+        "/update.php",
+        "/UPGRADE.txt",
+        "/xmlrpc.php",
+        "/migration/",
+        "/admin/",
+        "/comment/reply/",
+        "/filter/tips/",
+        "/node/add/",
+        "/search/",
+        "/user/register/",
+        "/user/password/",
+        "/user/login/",
+        "/user/logout/",
+        "/g00/",
+        "/g01/",
+        "/g02/",
+        "/g03/",
+        "/g04/",
+        "/g05/",
+        "/g06/",
+        "/g07/",
+        "/g08/",
+        "/g09/",
+        "/g10/",
+        "/g11/",
+        "/g12/",
+        "/g13/",
+        "/g14/",
+        "/g15/",
+        "/g16/",
+        "/g17/",
+        "/g18/",
+        "/g19/",
+        "/g20/",
+        "/g21/",
+        "/g22/",
+        "/g23/",
+        "/g24/",
+        "/g25/",
+        "/g26/",
+        "/g27/",
+        "/g28/",
+        "/g29/",
+        "/g30/",
+        "/g31/",
+        "/g32/",
+        "/g33/",
+        "/g34/",
+        "/g35/",
+        "/g36/",
+        "/g37/",
+        "/g38/",
+        "/g39/",
+        "/g40/",
+        "/g41/",
+        "/g42/",
+        "/g43/",
+        "/g44/",
+        "/g45/",
+        "/g46/",
+        "/g47/",
+        "/g48/",
+        "/g49/",
+        "/g50/",
+        "/g51/",
+        "/g52/",
+        "/g53/",
+        "/g54/",
+        "/g55/",
+        "/g56/",
+        "/g57/",
+        "/g58/",
+        "/g59/",
+        "/g60/",
+        "/g61/",
+        "/g62/",
+        "/g63/",
+        "/g64/",
+        "/g65/",
+        "/g66/",
+        "/g67/",
+        "/g68/",
+        "/g69/",
+        "/g70/",
+        "/g71/",
+        "/g72/",
+        "/g73/",
+        "/g74/",
+        "/g75/",
+        "/g76/",
+        "/g77/",
+        "/g78/",
+        "/g79/",
+        "/g80/",
+        "/g81/",
+        "/g82/",
+        "/g83/",
+        "/g84/",
+        "/g85/",
+        "/g86/",
+        "/g87/",
+        "/g88/",
+        "/g89/",
+        "/g90/",
+        "/g91/",
+        "/g92/",
+        "/g93/",
+        "/g94/",
+        "/g95/",
+        "/g96/",
+        "/g97/",
+        "/g98/",
+        "/g99/",
+        "/*?apiKey=",
+        "/*&apiKey=",
+        "/?q=admin/",
+        "/?q=comment/reply/",
+        "/?q=filter/tips/",
+        "/?q=node/add/",
+        "/?q=search/",
+        "/?q=user/password/",
+        "/?q=user/register/",
+        "/?q=user/login/",
+        "/?q=user/logout/",
+        "/sponsored",
+        "/ugc",
+        "/sponsored-content",
+        "/api/v1/p/redux-dal",
+        "/tiempo/",
+        "/clima/",
+        "/temps/",
+        "/vreme/",
+        "/idojaras/",
+        "/pogoda/",
+        "/wetter/",
+        "/vejret/",
+        "/pocasi/",
+        "/cuaca/",
+        "/weer/"
+      ],
+      "allow": [
+        "/api/payload/v1/sitemaps"
+      ],
+      "total": 158,
+      "total_allow": 1
+    },
+    "Amazonbot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "Applebot-Extended": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "Bytespider": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "CCBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "ChatGPT-User": {
+      "disallow": [],
+      "allow": [
+        "/"
+      ],
+      "total": 0,
+      "total_allow": 1
+    },
+    "Claude-Web": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "ClaudeBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "Diffbot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "GPTBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "Google-Extended": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "ImagesiftBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "PerplexityBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "anthropic-ai": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "cohere-ai": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "meta-externalagent": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    }
+  }
+}

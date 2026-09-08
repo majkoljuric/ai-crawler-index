@@ -1,0 +1,348 @@
+{
+  "schema_version": 2,
+  "checked_at": "2026-09-08T05:14:09+00:00",
+  "domain": "capcut.com",
+  "category": "software",
+  "robots_url": "https://capcut.com/robots.txt",
+  "http_status": 200,
+  "fetch_error": null,
+  "bots": {
+    "GPTBot": "partial",
+    "ChatGPT-User": "partial",
+    "OAI-SearchBot": "partial",
+    "ClaudeBot": "partial",
+    "Claude-Web": "allowed",
+    "anthropic-ai": "allowed",
+    "Google-Extended": "partial",
+    "GoogleOther": "allowed",
+    "Applebot-Extended": "partial",
+    "CCBot": "partial",
+    "Bytespider": "allowed",
+    "PerplexityBot": "partial",
+    "Perplexity-User": "partial",
+    "cohere-ai": "allowed",
+    "cohere-training-data-crawler": "allowed",
+    "Diffbot": "allowed",
+    "Omgilibot": "allowed",
+    "Amazonbot": "allowed",
+    "meta-externalagent": "allowed",
+    "meta-externalfetcher": "partial",
+    "Timpibot": "allowed",
+    "YouBot": "allowed",
+    "ImagesiftBot": "allowed",
+    "Ai2Bot": "allowed",
+    "DuckAssistBot": "partial"
+  },
+  "named": [
+    "GPTBot",
+    "ChatGPT-User",
+    "OAI-SearchBot",
+    "ClaudeBot",
+    "Google-Extended",
+    "Applebot-Extended",
+    "CCBot",
+    "PerplexityBot",
+    "Perplexity-User",
+    "meta-externalfetcher",
+    "DuckAssistBot"
+  ],
+  "rules": {
+    "Applebot-Extended": {
+      "disallow": [
+        "/t/",
+        "*/discover/*",
+        "*/kep/*",
+        "/zh-hans/template-detail/*",
+        "*/template-detail/*?*from_page=*",
+        "*/template-detail/*?*from_page_click=*",
+        "/tools/desktop-video-editor-activity",
+        "/download-guidance",
+        "/activity/download_pc",
+        "/tools/test-session-start-url",
+        "*/resource/rtl-test-page$",
+        "*/desktop/text-to-speech$",
+        "/templates/",
+        "/lvpc_web*",
+        "/activities/subscribe",
+        "/tools/ai-image-ua$",
+        "/tools/ai-video-maker-ua$",
+        "/tools/ai-design-ua$"
+      ],
+      "allow": [
+        "/"
+      ],
+      "total": 18,
+      "total_allow": 1
+    },
+    "CCBot": {
+      "disallow": [
+        "/t/",
+        "*/discover/*",
+        "*/kep/*",
+        "/zh-hans/template-detail/*",
+        "*/template-detail/*?*from_page=*",
+        "*/template-detail/*?*from_page_click=*",
+        "/tools/desktop-video-editor-activity",
+        "/download-guidance",
+        "/activity/download_pc",
+        "/tools/test-session-start-url",
+        "*/resource/rtl-test-page$",
+        "*/desktop/text-to-speech$",
+        "/templates/",
+        "/lvpc_web*",
+        "/activities/subscribe",
+        "/tools/ai-image-ua$",
+        "/tools/ai-video-maker-ua$",
+        "/tools/ai-design-ua$"
+      ],
+      "allow": [
+        "/"
+      ],
+      "total": 18,
+      "total_allow": 1
+    },
+    "ChatGPT-User": {
+      "disallow": [
+        "/t/",
+        "*/discover/*",
+        "*/kep/*",
+        "/zh-hans/template-detail/*",
+        "*/template-detail/*?*from_page=*",
+        "*/template-detail/*?*from_page_click=*",
+        "/tools/desktop-video-editor-activity",
+        "/download-guidance",
+        "/activity/download_pc",
+        "/tools/test-session-start-url",
+        "*/resource/rtl-test-page$",
+        "*/desktop/text-to-speech$",
+        "/templates/",
+        "/lvpc_web*",
+        "/activities/subscribe",
+        "/tools/ai-image-ua$",
+        "/tools/ai-video-maker-ua$",
+        "/tools/ai-design-ua$"
+      ],
+      "allow": [
+        "/"
+      ],
+      "total": 18,
+      "total_allow": 1
+    },
+    "ClaudeBot": {
+      "disallow": [
+        "/t/",
+        "*/discover/*",
+        "*/kep/*",
+        "/zh-hans/template-detail/*",
+        "*/template-detail/*?*from_page=*",
+        "*/template-detail/*?*from_page_click=*",
+        "/tools/desktop-video-editor-activity",
+        "/download-guidance",
+        "/activity/download_pc",
+        "/tools/test-session-start-url",
+        "*/resource/rtl-test-page$",
+        "*/desktop/text-to-speech$",
+        "/templates/",
+        "/lvpc_web*",
+        "/activities/subscribe",
+        "/tools/ai-image-ua$",
+        "/tools/ai-video-maker-ua$",
+        "/tools/ai-design-ua$"
+      ],
+      "allow": [
+        "/"
+      ],
+      "total": 18,
+      "total_allow": 1
+    },
+    "DuckAssistBot": {
+      "disallow": [
+        "/t/",
+        "*/discover/*",
+        "*/kep/*",
+        "/zh-hans/template-detail/*",
+        "*/template-detail/*?*from_page=*",
+        "*/template-detail/*?*from_page_click=*",
+        "/tools/desktop-video-editor-activity",
+        "/download-guidance",
+        "/activity/download_pc",
+        "/tools/test-session-start-url",
+        "*/resource/rtl-test-page$",
+        "*/desktop/text-to-speech$",
+        "/templates/",
+        "/lvpc_web*",
+        "/activities/subscribe",
+        "/tools/ai-image-ua$",
+        "/tools/ai-video-maker-ua$",
+        "/tools/ai-design-ua$"
+      ],
+      "allow": [
+        "/"
+      ],
+      "total": 18,
+      "total_allow": 1
+    },
+    "GPTBot": {
+      "disallow": [
+        "/t/",
+        "*/discover/*",
+        "*/kep/*",
+        "/zh-hans/template-detail/*",
+        "*/template-detail/*?*from_page=*",
+        "*/template-detail/*?*from_page_click=*",
+        "/tools/desktop-video-editor-activity",
+        "/download-guidance",
+        "/activity/download_pc",
+        "/tools/test-session-start-url",
+        "*/resource/rtl-test-page$",
+        "*/desktop/text-to-speech$",
+        "/templates/",
+        "/lvpc_web*",
+        "/activities/subscribe",
+        "/tools/ai-image-ua$",
+        "/tools/ai-video-maker-ua$",
+        "/tools/ai-design-ua$"
+      ],
+      "allow": [
+        "/"
+      ],
+      "total": 18,
+      "total_allow": 1
+    },
+    "Google-Extended": {
+      "disallow": [
+        "/t/",
+        "*/discover/*",
+        "*/kep/*",
+        "/zh-hans/template-detail/*",
+        "*/template-detail/*?*from_page=*",
+        "*/template-detail/*?*from_page_click=*",
+        "/tools/desktop-video-editor-activity",
+        "/download-guidance",
+        "/activity/download_pc",
+        "/tools/test-session-start-url",
+        "*/resource/rtl-test-page$",
+        "*/desktop/text-to-speech$",
+        "/templates/",
+        "/lvpc_web*",
+        "/activities/subscribe",
+        "/tools/ai-image-ua$",
+        "/tools/ai-video-maker-ua$",
+        "/tools/ai-design-ua$"
+      ],
+      "allow": [
+        "/"
+      ],
+      "total": 18,
+      "total_allow": 1
+    },
+    "OAI-SearchBot": {
+      "disallow": [
+        "/t/",
+        "*/discover/*",
+        "*/kep/*",
+        "/zh-hans/template-detail/*",
+        "*/template-detail/*?*from_page=*",
+        "*/template-detail/*?*from_page_click=*",
+        "/tools/desktop-video-editor-activity",
+        "/download-guidance",
+        "/activity/download_pc",
+        "/tools/test-session-start-url",
+        "*/resource/rtl-test-page$",
+        "*/desktop/text-to-speech$",
+        "/templates/",
+        "/lvpc_web*",
+        "/activities/subscribe",
+        "/tools/ai-image-ua$",
+        "/tools/ai-video-maker-ua$",
+        "/tools/ai-design-ua$"
+      ],
+      "allow": [
+        "/"
+      ],
+      "total": 18,
+      "total_allow": 1
+    },
+    "Perplexity-User": {
+      "disallow": [
+        "/t/",
+        "*/discover/*",
+        "*/kep/*",
+        "/zh-hans/template-detail/*",
+        "*/template-detail/*?*from_page=*",
+        "*/template-detail/*?*from_page_click=*",
+        "/tools/desktop-video-editor-activity",
+        "/download-guidance",
+        "/activity/download_pc",
+        "/tools/test-session-start-url",
+        "*/resource/rtl-test-page$",
+        "*/desktop/text-to-speech$",
+        "/templates/",
+        "/lvpc_web*",
+        "/activities/subscribe",
+        "/tools/ai-image-ua$",
+        "/tools/ai-video-maker-ua$",
+        "/tools/ai-design-ua$"
+      ],
+      "allow": [
+        "/"
+      ],
+      "total": 18,
+      "total_allow": 1
+    },
+    "PerplexityBot": {
+      "disallow": [
+        "/t/",
+        "*/discover/*",
+        "*/kep/*",
+        "/zh-hans/template-detail/*",
+        "*/template-detail/*?*from_page=*",
+        "*/template-detail/*?*from_page_click=*",
+        "/tools/desktop-video-editor-activity",
+        "/download-guidance",
+        "/activity/download_pc",
+        "/tools/test-session-start-url",
+        "*/resource/rtl-test-page$",
+        "*/desktop/text-to-speech$",
+        "/templates/",
+        "/lvpc_web*",
+        "/activities/subscribe",
+        "/tools/ai-image-ua$",
+        "/tools/ai-video-maker-ua$",
+        "/tools/ai-design-ua$"
+      ],
+      "allow": [
+        "/"
+      ],
+      "total": 18,
+      "total_allow": 1
+    },
+    "meta-externalfetcher": {
+      "disallow": [
+        "/t/",
+        "*/discover/*",
+        "*/kep/*",
+        "/zh-hans/template-detail/*",
+        "*/template-detail/*?*from_page=*",
+        "*/template-detail/*?*from_page_click=*",
+        "/tools/desktop-video-editor-activity",
+        "/download-guidance",
+        "/activity/download_pc",
+        "/tools/test-session-start-url",
+        "*/resource/rtl-test-page$",
+        "*/desktop/text-to-speech$",
+        "/templates/",
+        "/lvpc_web*",
+        "/activities/subscribe",
+        "/tools/ai-image-ua$",
+        "/tools/ai-video-maker-ua$",
+        "/tools/ai-design-ua$"
+      ],
+      "allow": [
+        "/"
+      ],
+      "total": 18,
+      "total_allow": 1
+    }
+  }
+}

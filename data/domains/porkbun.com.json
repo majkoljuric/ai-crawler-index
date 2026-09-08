@@ -1,0 +1,66 @@
+{
+  "schema_version": 2,
+  "checked_at": "2026-09-08T05:14:09+00:00",
+  "domain": "porkbun.com",
+  "category": "other",
+  "robots_url": "https://porkbun.com/robots.txt",
+  "http_status": 200,
+  "fetch_error": null,
+  "bots": {
+    "GPTBot": "partial",
+    "ChatGPT-User": "partial",
+    "OAI-SearchBot": "partial",
+    "ClaudeBot": "partial",
+    "Claude-Web": "partial",
+    "anthropic-ai": "partial",
+    "Google-Extended": "partial",
+    "GoogleOther": "partial",
+    "Applebot-Extended": "partial",
+    "CCBot": "partial",
+    "Bytespider": "partial",
+    "PerplexityBot": "partial",
+    "Perplexity-User": "partial",
+    "cohere-ai": "partial",
+    "cohere-training-data-crawler": "partial",
+    "Diffbot": "partial",
+    "Omgilibot": "partial",
+    "Amazonbot": "partial",
+    "meta-externalagent": "partial",
+    "meta-externalfetcher": "partial",
+    "Timpibot": "partial",
+    "YouBot": "partial",
+    "ImagesiftBot": "partial",
+    "Ai2Bot": "partial",
+    "DuckAssistBot": "partial"
+  },
+  "named": [],
+  "rules": {
+    "*": {
+      "disallow": [
+        "/checkout/allocation/*",
+        "/widgets/*",
+        "/checkout/*",
+        "/account/*",
+        "/api/*",
+        "/api/domains/*",
+        "/api/loader/*",
+        "/api/orders/*",
+        "/api/transfer/*",
+        "/api/user/*",
+        "/event/freeappdev",
+        "/event/freeappdevdomain",
+        "/porkbun-domain-resource-downloads",
+        "/your-first-website-in-ten-minutes",
+        "/stop-overpaying-for-domains",
+        "/launch-a-professional-website-under-30-dollars",
+        "/is-your-personal-info-public-now"
+      ],
+      "allow": [
+        "/api/json/v3/documentation",
+        "/api/json/v3/spec"
+      ],
+      "total": 17,
+      "total_allow": 2
+    }
+  }
+}

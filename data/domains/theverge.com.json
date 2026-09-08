@@ -1,0 +1,304 @@
+{
+  "schema_version": 2,
+  "checked_at": "2026-09-08T05:14:09+00:00",
+  "domain": "theverge.com",
+  "category": "tech-news",
+  "robots_url": "https://theverge.com/robots.txt",
+  "http_status": 200,
+  "fetch_error": null,
+  "bots": {
+    "GPTBot": "allowed",
+    "ChatGPT-User": "partial",
+    "OAI-SearchBot": "partial",
+    "ClaudeBot": "partial",
+    "Claude-Web": "partial",
+    "anthropic-ai": "partial",
+    "Google-Extended": "partial",
+    "GoogleOther": "partial",
+    "Applebot-Extended": "partial",
+    "CCBot": "partial",
+    "Bytespider": "partial",
+    "PerplexityBot": "partial",
+    "Perplexity-User": "partial",
+    "cohere-ai": "partial",
+    "cohere-training-data-crawler": "partial",
+    "Diffbot": "partial",
+    "Omgilibot": "partial",
+    "Amazonbot": "allowed",
+    "meta-externalagent": "partial",
+    "meta-externalfetcher": "partial",
+    "Timpibot": "partial",
+    "YouBot": "partial",
+    "ImagesiftBot": "partial",
+    "Ai2Bot": "partial",
+    "DuckAssistBot": "partial"
+  },
+  "named": [
+    "GPTBot",
+    "ChatGPT-User",
+    "ClaudeBot",
+    "Claude-Web",
+    "anthropic-ai",
+    "Google-Extended",
+    "Applebot-Extended",
+    "CCBot",
+    "Bytespider",
+    "PerplexityBot",
+    "Perplexity-User",
+    "cohere-ai",
+    "cohere-training-data-crawler",
+    "Diffbot",
+    "Omgilibot",
+    "Amazonbot",
+    "meta-externalagent",
+    "meta-externalfetcher",
+    "Timpibot",
+    "YouBot",
+    "ImagesiftBot",
+    "Ai2Bot",
+    "DuckAssistBot"
+  ],
+  "rules": {
+    "*": {
+      "disallow": [
+        "/wp-admin/",
+        "/admin",
+        "/newfanshot",
+        "/users/*/replies",
+        "/users/*/comments",
+        "/login",
+        "/account",
+        "/auth/*",
+        "/chorus_auth",
+        "/sso",
+        "/search",
+        "/the-highlight$",
+        "/share$",
+        "/share/*",
+        "/share?*"
+      ],
+      "allow": [
+        "/wp-admin/admin-ajax.php",
+        "/sp/"
+      ],
+      "total": 15,
+      "total_allow": 2
+    },
+    "Amazonbot": {
+      "disallow": [],
+      "allow": [
+        "/"
+      ],
+      "total": 0,
+      "total_allow": 1
+    },
+    "Applebot-Extended": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/sp/"
+      ],
+      "total": 1,
+      "total_allow": 1
+    },
+    "Bytespider": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/sp/"
+      ],
+      "total": 1,
+      "total_allow": 1
+    },
+    "CCBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/sp/"
+      ],
+      "total": 1,
+      "total_allow": 1
+    },
+    "ChatGPT-User": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/sp/"
+      ],
+      "total": 1,
+      "total_allow": 1
+    },
+    "Claude-Web": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/sp/"
+      ],
+      "total": 1,
+      "total_allow": 1
+    },
+    "ClaudeBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/sp/"
+      ],
+      "total": 1,
+      "total_allow": 1
+    },
+    "Diffbot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/sp/"
+      ],
+      "total": 1,
+      "total_allow": 1
+    },
+    "DuckAssistBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/sp/"
+      ],
+      "total": 1,
+      "total_allow": 1
+    },
+    "GPTBot": {
+      "disallow": [],
+      "allow": [
+        "/"
+      ],
+      "total": 0,
+      "total_allow": 1
+    },
+    "Google-Extended": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/sp/"
+      ],
+      "total": 1,
+      "total_allow": 1
+    },
+    "ImagesiftBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/sp/"
+      ],
+      "total": 1,
+      "total_allow": 1
+    },
+    "Omgilibot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/sp/"
+      ],
+      "total": 1,
+      "total_allow": 1
+    },
+    "Perplexity-User": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/sp/"
+      ],
+      "total": 1,
+      "total_allow": 1
+    },
+    "PerplexityBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/sp/"
+      ],
+      "total": 1,
+      "total_allow": 1
+    },
+    "Timpibot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/sp/"
+      ],
+      "total": 1,
+      "total_allow": 1
+    },
+    "YouBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/sp/"
+      ],
+      "total": 1,
+      "total_allow": 1
+    },
+    "anthropic-ai": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/sp/"
+      ],
+      "total": 1,
+      "total_allow": 1
+    },
+    "cohere-ai": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/sp/"
+      ],
+      "total": 1,
+      "total_allow": 1
+    },
+    "cohere-training-data-crawler": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/sp/"
+      ],
+      "total": 1,
+      "total_allow": 1
+    },
+    "meta-externalagent": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/sp/"
+      ],
+      "total": 1,
+      "total_allow": 1
+    },
+    "meta-externalfetcher": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/sp/"
+      ],
+      "total": 1,
+      "total_allow": 1
+    }
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "schema_version": 2,
+  "checked_at": "2026-09-08T05:14:09+00:00",
+  "domain": "alibaba.com",
+  "category": "ecommerce",
+  "robots_url": "https://alibaba.com/robots.txt",
+  "http_status": 200,
+  "fetch_error": null,
+  "bots": {
+    "GPTBot": "blocked",
+    "ChatGPT-User": "partial",
+    "OAI-SearchBot": "partial",
+    "ClaudeBot": "partial",
+    "Claude-Web": "partial",
+    "anthropic-ai": "partial",
+    "Google-Extended": "blocked",
+    "GoogleOther": "partial",
+    "Applebot-Extended": "partial",
+    "CCBot": "partial",
+    "Bytespider": "partial",
+    "PerplexityBot": "partial",
+    "Perplexity-User": "partial",
+    "cohere-ai": "partial",
+    "cohere-training-data-crawler": "partial",
+    "Diffbot": "partial",
+    "Omgilibot": "partial",
+    "Amazonbot": "partial",
+    "meta-externalagent": "partial",
+    "meta-externalfetcher": "partial",
+    "Timpibot": "partial",
+    "YouBot": "partial",
+    "ImagesiftBot": "partial",
+    "Ai2Bot": "partial",
+    "DuckAssistBot": "partial"
+  },
+  "named": [
+    "GPTBot",
+    "Google-Extended"
+  ],
+  "rules": {
+    "*": {
+      "disallow": [
+        "/bin/",
+        "/apps/",
+        "/buy/",
+        "/memberhome/",
+        "/minisite/",
+        "/corporations/",
+        "/buyers/",
+        "/trade/",
+        "/product/",
+        "/supplier/guide/",
+        "/catalogs/corporations/",
+        "/rss/*/*.rss",
+        "/activities/",
+        "/productshowimg/",
+        "/member/*/contactinfo.html",
+        "/member/*/company_profile.html",
+        "/member/*/productlist.html",
+        "/searchweb/*.html",
+        "/magellan/*.html",
+        "/newsuppliers/",
+        "/wholesalecheckout/",
+        "/buyofferdetail/",
+        "/industry-promotion/",
+        "/city/",
+        "/countrysearch/*/*-importer.html",
+        "/countrysearch/*/*/importers/*.html",
+        "/search/buyeroffers/*.html",
+        "/search/buyeroffers/*/*.html",
+        "/buyeroffers/*/*.html",
+        "/buyeroffers/*/*/*.html",
+        "/detail/ajax/",
+        "/ajax/seoRequest/",
+        "/event/",
+        "/cache/",
+        "/catalogs/products/",
+        "/products/",
+        "/https:/www.alibaba.com/",
+        "/compass/",
+        "/product-detail/m.alibaba.com/trade/",
+        "/messages/",
+        "/supplier-report/",
+        "/amp/",
+        "/showroom/https:/s.alicdn.com/"
+      ],
+      "allow": [
+        "/lp/*?",
+        "/*s=p",
+        "/*?_escaped_fragment_",
+        "/*src=sem_ggl",
+        "*?src=sem_ggl",
+        "/catalog/*?",
+        "/product-detail/",
+        "/showroom/",
+        "*?spm=",
+        "*?mark=google_shopping"
+      ],
+      "total": 43,
+      "total_allow": 10
+    },
+    "GPTBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "Google-Extended": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    }
+  }
+}

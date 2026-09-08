@@ -1,0 +1,258 @@
+{
+  "schema_version": 2,
+  "checked_at": "2026-09-08T05:14:09+00:00",
+  "domain": "bbc.co.uk",
+  "category": "news",
+  "robots_url": "https://bbc.co.uk/robots.txt",
+  "http_status": 200,
+  "fetch_error": null,
+  "bots": {
+    "GPTBot": "blocked",
+    "ChatGPT-User": "blocked",
+    "OAI-SearchBot": "blocked",
+    "ClaudeBot": "blocked",
+    "Claude-Web": "blocked",
+    "anthropic-ai": "blocked",
+    "Google-Extended": "blocked",
+    "GoogleOther": "partial",
+    "Applebot-Extended": "blocked",
+    "CCBot": "blocked",
+    "Bytespider": "blocked",
+    "PerplexityBot": "blocked",
+    "Perplexity-User": "blocked",
+    "cohere-ai": "blocked",
+    "cohere-training-data-crawler": "partial",
+    "Diffbot": "blocked",
+    "Omgilibot": "blocked",
+    "Amazonbot": "blocked",
+    "meta-externalagent": "blocked",
+    "meta-externalfetcher": "partial",
+    "Timpibot": "partial",
+    "YouBot": "blocked",
+    "ImagesiftBot": "partial",
+    "Ai2Bot": "partial",
+    "DuckAssistBot": "partial"
+  },
+  "named": [
+    "GPTBot",
+    "ChatGPT-User",
+    "OAI-SearchBot",
+    "ClaudeBot",
+    "Claude-Web",
+    "anthropic-ai",
+    "Google-Extended",
+    "Applebot-Extended",
+    "CCBot",
+    "Bytespider",
+    "PerplexityBot",
+    "Perplexity-User",
+    "cohere-ai",
+    "Diffbot",
+    "Omgilibot",
+    "Amazonbot",
+    "meta-externalagent",
+    "YouBot"
+  ],
+  "rules": {
+    "*": {
+      "disallow": [
+        "/asset/",
+        "/backstage/bbc-login-help/",
+        "/backstage/bbc-login-help$",
+        "/bitesize/search$",
+        "/bitesize/search/",
+        "/bitesize/search?",
+        "/cbbc/search$",
+        "/cbbc/search/",
+        "/cbbc/search?",
+        "/cbeebies/search$",
+        "/cbeebies/search/",
+        "/cbeebies/search?",
+        "/chwilio/",
+        "/chwilio$",
+        "/chwilio?",
+        "/iplayer/bigscreen/",
+        "/iplayer/cbbc/episodes/",
+        "/iplayer/cbbc/search",
+        "/iplayer/cbeebies/episodes/",
+        "/iplayer/cbeebies/search",
+        "/iplayer/search",
+        "/indepthtoolkit/smallprox$",
+        "/indepthtoolkit/smallprox/",
+        "/moderation/reports/",
+        "/modules/musicnav/language/",
+        "/news/0",
+        "/radio/aod/",
+        "/radio/aod$",
+        "/radio/imda",
+        "/radio/player/",
+        "/radio/player$",
+        "/search/",
+        "/search$",
+        "/search?",
+        "/sport/alpha/",
+        "/sounds/player/",
+        "/sounds/player$",
+        "/ugc$",
+        "/ugc/",
+        "/ugcsupport$",
+        "/ugcsupport/",
+        "/userinfo/",
+        "/userinfo",
+        "/food/favourites",
+        "/food/menus/*/shopping-list",
+        "/food/recipes/*/shopping-list",
+        "/food/search*?*",
+        "/sounds/search$",
+        "/sounds/search/",
+        "/sounds/search?",
+        "/ws/includes",
+        "/rd/search$",
+        "/rd/search/",
+        "/rd/search?",
+        "/things/search$",
+        "/things/search/",
+        "/things/search?"
+      ],
+      "allow": [],
+      "total": 57,
+      "total_allow": 0
+    },
+    "Amazonbot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "Applebot-Extended": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "Bytespider": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "CCBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "ChatGPT-User": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "Claude-Web": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "ClaudeBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "Diffbot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "GPTBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "Google-Extended": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "OAI-SearchBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "Perplexity-User": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "PerplexityBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "YouBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "anthropic-ai": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "cohere-ai": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "meta-externalagent": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    }
+  }
+}

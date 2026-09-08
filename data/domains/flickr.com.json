@@ -1,0 +1,129 @@
+{
+  "schema_version": 2,
+  "checked_at": "2026-09-08T05:14:09+00:00",
+  "domain": "flickr.com",
+  "category": "software",
+  "robots_url": "https://flickr.com/robots.txt",
+  "http_status": 200,
+  "fetch_error": null,
+  "bots": {
+    "GPTBot": "blocked",
+    "ChatGPT-User": "partial",
+    "OAI-SearchBot": "partial",
+    "ClaudeBot": "blocked",
+    "Claude-Web": "blocked",
+    "anthropic-ai": "blocked",
+    "Google-Extended": "blocked",
+    "GoogleOther": "blocked",
+    "Applebot-Extended": "blocked",
+    "CCBot": "blocked",
+    "Bytespider": "blocked",
+    "PerplexityBot": "partial",
+    "Perplexity-User": "blocked",
+    "cohere-ai": "blocked",
+    "cohere-training-data-crawler": "blocked",
+    "Diffbot": "blocked",
+    "Omgilibot": "blocked",
+    "Amazonbot": "blocked",
+    "meta-externalagent": "blocked",
+    "meta-externalfetcher": "blocked",
+    "Timpibot": "blocked",
+    "YouBot": "blocked",
+    "ImagesiftBot": "blocked",
+    "Ai2Bot": "blocked",
+    "DuckAssistBot": "blocked"
+  },
+  "named": [
+    "ChatGPT-User",
+    "OAI-SearchBot",
+    "PerplexityBot"
+  ],
+  "rules": {
+    "*": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "ChatGPT-User": {
+      "disallow": [
+        "/gp/",
+        "/report_abuse.gne",
+        "/abuse",
+        "/images/*",
+        "/apps/*",
+        "/tools/demos/*",
+        "/search",
+        "/services/oauth",
+        "/groups/10millionphotos/",
+        "/photos/youpy/",
+        "/photos/i_love_u_get_away_from_me/",
+        "/faves-i_love_u_get_away_from_me/",
+        "/photos/gbachelie/",
+        "/photos/archivesact/6011019532/nearby/",
+        "/yss_fragment.gne",
+        "/photos/tags/*/page*",
+        "/photos/*/lightbox/",
+        "/groups/*/lightbox/",
+        "/explore/*/lightbox/"
+      ],
+      "allow": [],
+      "total": 19,
+      "total_allow": 0
+    },
+    "OAI-SearchBot": {
+      "disallow": [
+        "/gp/",
+        "/report_abuse.gne",
+        "/abuse",
+        "/images/*",
+        "/apps/*",
+        "/tools/demos/*",
+        "/search",
+        "/services/oauth",
+        "/groups/10millionphotos/",
+        "/photos/youpy/",
+        "/photos/i_love_u_get_away_from_me/",
+        "/faves-i_love_u_get_away_from_me/",
+        "/photos/gbachelie/",
+        "/photos/archivesact/6011019532/nearby/",
+        "/yss_fragment.gne",
+        "/photos/tags/*/page*",
+        "/photos/*/lightbox/",
+        "/groups/*/lightbox/",
+        "/explore/*/lightbox/"
+      ],
+      "allow": [],
+      "total": 19,
+      "total_allow": 0
+    },
+    "PerplexityBot": {
+      "disallow": [
+        "/gp/",
+        "/report_abuse.gne",
+        "/abuse",
+        "/images/*",
+        "/apps/*",
+        "/tools/demos/*",
+        "/search",
+        "/services/oauth",
+        "/groups/10millionphotos/",
+        "/photos/youpy/",
+        "/photos/i_love_u_get_away_from_me/",
+        "/faves-i_love_u_get_away_from_me/",
+        "/photos/gbachelie/",
+        "/photos/archivesact/6011019532/nearby/",
+        "/yss_fragment.gne",
+        "/photos/tags/*/page*",
+        "/photos/*/lightbox/",
+        "/groups/*/lightbox/",
+        "/explore/*/lightbox/"
+      ],
+      "allow": [],
+      "total": 19,
+      "total_allow": 0
+    }
+  }
+}

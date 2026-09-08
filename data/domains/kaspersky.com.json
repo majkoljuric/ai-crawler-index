@@ -1,0 +1,184 @@
+{
+  "schema_version": 2,
+  "checked_at": "2026-09-08T05:14:09+00:00",
+  "domain": "kaspersky.com",
+  "category": "software",
+  "robots_url": "https://kaspersky.com/robots.txt",
+  "http_status": 200,
+  "fetch_error": null,
+  "bots": {
+    "GPTBot": "allowed",
+    "ChatGPT-User": "allowed",
+    "OAI-SearchBot": "allowed",
+    "ClaudeBot": "allowed",
+    "Claude-Web": "allowed",
+    "anthropic-ai": "partial",
+    "Google-Extended": "allowed",
+    "GoogleOther": "partial",
+    "Applebot-Extended": "allowed",
+    "CCBot": "allowed",
+    "Bytespider": "partial",
+    "PerplexityBot": "allowed",
+    "Perplexity-User": "allowed",
+    "cohere-ai": "partial",
+    "cohere-training-data-crawler": "partial",
+    "Diffbot": "allowed",
+    "Omgilibot": "partial",
+    "Amazonbot": "partial",
+    "meta-externalagent": "partial",
+    "meta-externalfetcher": "partial",
+    "Timpibot": "partial",
+    "YouBot": "allowed",
+    "ImagesiftBot": "partial",
+    "Ai2Bot": "partial",
+    "DuckAssistBot": "allowed"
+  },
+  "named": [
+    "GPTBot",
+    "ChatGPT-User",
+    "OAI-SearchBot",
+    "ClaudeBot",
+    "Claude-Web",
+    "Google-Extended",
+    "Applebot-Extended",
+    "CCBot",
+    "PerplexityBot",
+    "Perplexity-User",
+    "Diffbot",
+    "YouBot",
+    "DuckAssistBot"
+  ],
+  "rules": {
+    "*": {
+      "disallow": [
+        "/acq/",
+        "/search",
+        "/rss-feeds",
+        "/components/",
+        "/b2c-tools/",
+        "/entp/",
+        "/feeds/",
+        "/lp/",
+        "/go/",
+        "/_svc/",
+        "/embed/",
+        "/?slow=*",
+        "/n/",
+        "/wiki-section/feedback",
+        "/templates/site-header_main-nav.html",
+        "/templates/site-header_mega-menu__b2c.html",
+        "/templates/site-header_mega-menu__res.html",
+        "/resources/template/",
+        "/renewal-center/",
+        "/?serial=*",
+        "*.json",
+        "*/thank-you",
+        "/Date"
+      ],
+      "allow": [
+        "/lp/vpn-comparison",
+        "/.well-known/amphtml/apikey.pub",
+        "/renewal-center/home",
+        "/renewal-center/business"
+      ],
+      "total": 23,
+      "total_allow": 4
+    },
+    "Applebot-Extended": {
+      "disallow": [],
+      "allow": [
+        "/"
+      ],
+      "total": 0,
+      "total_allow": 1
+    },
+    "CCBot": {
+      "disallow": [],
+      "allow": [
+        "/"
+      ],
+      "total": 0,
+      "total_allow": 1
+    },
+    "ChatGPT-User": {
+      "disallow": [],
+      "allow": [
+        "/"
+      ],
+      "total": 0,
+      "total_allow": 1
+    },
+    "ClaudeBot": {
+      "disallow": [],
+      "allow": [
+        "/"
+      ],
+      "total": 0,
+      "total_allow": 1
+    },
+    "Diffbot": {
+      "disallow": [],
+      "allow": [
+        "/"
+      ],
+      "total": 0,
+      "total_allow": 1
+    },
+    "DuckAssistBot": {
+      "disallow": [],
+      "allow": [
+        "/"
+      ],
+      "total": 0,
+      "total_allow": 1
+    },
+    "GPTBot": {
+      "disallow": [],
+      "allow": [
+        "/"
+      ],
+      "total": 0,
+      "total_allow": 1
+    },
+    "Google-Extended": {
+      "disallow": [],
+      "allow": [
+        "/"
+      ],
+      "total": 0,
+      "total_allow": 1
+    },
+    "OAI-SearchBot": {
+      "disallow": [],
+      "allow": [
+        "/"
+      ],
+      "total": 0,
+      "total_allow": 1
+    },
+    "Perplexity-User": {
+      "disallow": [],
+      "allow": [
+        "/"
+      ],
+      "total": 0,
+      "total_allow": 1
+    },
+    "PerplexityBot": {
+      "disallow": [],
+      "allow": [
+        "/"
+      ],
+      "total": 0,
+      "total_allow": 1
+    },
+    "YouBot": {
+      "disallow": [],
+      "allow": [
+        "/"
+      ],
+      "total": 0,
+      "total_allow": 1
+    }
+  }
+}

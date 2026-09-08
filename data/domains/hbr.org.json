@@ -1,0 +1,102 @@
+{
+  "schema_version": 2,
+  "checked_at": "2026-09-08T05:14:09+00:00",
+  "domain": "hbr.org",
+  "category": "nonprofit",
+  "robots_url": "https://hbr.org/robots.txt",
+  "http_status": 200,
+  "fetch_error": null,
+  "bots": {
+    "GPTBot": "blocked",
+    "ChatGPT-User": "partial",
+    "OAI-SearchBot": "partial",
+    "ClaudeBot": "partial",
+    "Claude-Web": "partial",
+    "anthropic-ai": "partial",
+    "Google-Extended": "blocked",
+    "GoogleOther": "partial",
+    "Applebot-Extended": "partial",
+    "CCBot": "blocked",
+    "Bytespider": "partial",
+    "PerplexityBot": "partial",
+    "Perplexity-User": "partial",
+    "cohere-ai": "partial",
+    "cohere-training-data-crawler": "partial",
+    "Diffbot": "partial",
+    "Omgilibot": "partial",
+    "Amazonbot": "partial",
+    "meta-externalagent": "partial",
+    "meta-externalfetcher": "partial",
+    "Timpibot": "partial",
+    "YouBot": "partial",
+    "ImagesiftBot": "partial",
+    "Ai2Bot": "partial",
+    "DuckAssistBot": "partial"
+  },
+  "named": [
+    "GPTBot",
+    "Google-Extended",
+    "CCBot"
+  ],
+  "rules": {
+    "*": {
+      "disallow": [
+        "/resources/",
+        "/fastanswers",
+        "/my-library*",
+        "/email-colleague/",
+        "/add-to-cart/",
+        "/login*",
+        "/shopping-cart/",
+        "/shipping-payment",
+        "/review-order",
+        "/order/thank-you/",
+        "/content/ipad/",
+        "/newsletters*",
+        "/product/recommended*",
+        "/webinar-assessment",
+        "/search*",
+        "/academic-subscriptions",
+        "/alumni-subscriptions",
+        "/resources/html/error/404.html",
+        "/sponsored/2022/10/disruptors-who-are-changing-their-industries",
+        "/api/recaptcha/enabled",
+        "/register?*",
+        "/resources/css/webscripts.css"
+      ],
+      "allow": [
+        "/resources/js",
+        "/resources/css",
+        "/resources/images/",
+        "/resources/xml/sitemaps/",
+        "/resources/html/infographics/2018/ceo-activism-desktop/index.html"
+      ],
+      "total": 22,
+      "total_allow": 5
+    },
+    "CCBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "GPTBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "Google-Extended": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    }
+  }
+}

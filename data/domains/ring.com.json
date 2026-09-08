@@ -1,0 +1,169 @@
+{
+  "schema_version": 2,
+  "checked_at": "2026-09-08T05:14:09+00:00",
+  "domain": "ring.com",
+  "category": "other",
+  "robots_url": "https://ring.com/robots.txt",
+  "http_status": 200,
+  "fetch_error": null,
+  "bots": {
+    "GPTBot": "partial",
+    "ChatGPT-User": "partial",
+    "OAI-SearchBot": "partial",
+    "ClaudeBot": "partial",
+    "Claude-Web": "partial",
+    "anthropic-ai": "partial",
+    "Google-Extended": "partial",
+    "GoogleOther": "partial",
+    "Applebot-Extended": "partial",
+    "CCBot": "partial",
+    "Bytespider": "partial",
+    "PerplexityBot": "partial",
+    "Perplexity-User": "partial",
+    "cohere-ai": "partial",
+    "cohere-training-data-crawler": "partial",
+    "Diffbot": "partial",
+    "Omgilibot": "partial",
+    "Amazonbot": "partial",
+    "meta-externalagent": "partial",
+    "meta-externalfetcher": "partial",
+    "Timpibot": "partial",
+    "YouBot": "partial",
+    "ImagesiftBot": "partial",
+    "Ai2Bot": "partial",
+    "DuckAssistBot": "partial"
+  },
+  "named": [
+    "GPTBot",
+    "ChatGPT-User",
+    "ClaudeBot",
+    "anthropic-ai",
+    "Google-Extended",
+    "Applebot-Extended",
+    "PerplexityBot",
+    "cohere-ai"
+  ],
+  "rules": {
+    "*": {
+      "disallow": [
+        "/account",
+        "/admin",
+        "/checkout",
+        "/cart",
+        "/share",
+        "/search",
+        "/*?filters=*",
+        "/user-id/",
+        "/users",
+        "/?utm*",
+        "/419/es",
+        "/signin/callback"
+      ],
+      "allow": [],
+      "total": 12,
+      "total_allow": 0
+    },
+    "Applebot-Extended": {
+      "disallow": [
+        "/account",
+        "/admin",
+        "/checkout",
+        "/cart",
+        "/users",
+        "/user-id/",
+        "/signin",
+        "/share"
+      ],
+      "allow": [
+        "/"
+      ],
+      "total": 8,
+      "total_allow": 1
+    },
+    "ChatGPT-User": {
+      "disallow": [
+        "/account",
+        "/admin",
+        "/checkout",
+        "/cart",
+        "/users",
+        "/user-id/",
+        "/signin",
+        "/share"
+      ],
+      "allow": [
+        "/"
+      ],
+      "total": 8,
+      "total_allow": 1
+    },
+    "ClaudeBot": {
+      "disallow": [
+        "/account",
+        "/admin",
+        "/checkout",
+        "/cart",
+        "/users",
+        "/user-id/",
+        "/signin",
+        "/share"
+      ],
+      "allow": [
+        "/"
+      ],
+      "total": 8,
+      "total_allow": 1
+    },
+    "GPTBot": {
+      "disallow": [
+        "/account",
+        "/admin",
+        "/checkout",
+        "/cart",
+        "/users",
+        "/user-id/",
+        "/signin",
+        "/share"
+      ],
+      "allow": [
+        "/"
+      ],
+      "total": 8,
+      "total_allow": 1
+    },
+    "Google-Extended": {
+      "disallow": [
+        "/account",
+        "/admin",
+        "/checkout",
+        "/cart",
+        "/users",
+        "/user-id/",
+        "/signin",
+        "/share"
+      ],
+      "allow": [
+        "/"
+      ],
+      "total": 8,
+      "total_allow": 1
+    },
+    "PerplexityBot": {
+      "disallow": [
+        "/account",
+        "/admin",
+        "/checkout",
+        "/cart",
+        "/users",
+        "/user-id/",
+        "/signin",
+        "/share"
+      ],
+      "allow": [
+        "/"
+      ],
+      "total": 8,
+      "total_allow": 1
+    }
+  }
+}
