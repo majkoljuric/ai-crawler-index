@@ -1,84 +1,38 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-09-08T06:11:21+00:00",
+  "checked_at": "2026-09-10T02:42:37+00:00",
   "domain": "globo.com",
   "category": "news",
   "robots_url": "https://globo.com/robots.txt",
   "http_status": 200,
   "fetch_error": null,
   "bots": {
-    "GPTBot": "blocked",
-    "ChatGPT-User": "partial",
-    "OAI-SearchBot": "partial",
-    "ClaudeBot": "partial",
-    "Claude-Web": "partial",
-    "anthropic-ai": "partial",
-    "Google-Extended": "blocked",
-    "GoogleOther": "partial",
-    "Applebot-Extended": "partial",
-    "CCBot": "blocked",
-    "Bytespider": "partial",
-    "PerplexityBot": "partial",
-    "Perplexity-User": "partial",
-    "cohere-ai": "partial",
-    "cohere-training-data-crawler": "partial",
-    "Diffbot": "partial",
-    "Omgilibot": "partial",
-    "Amazonbot": "partial",
-    "meta-externalagent": "partial",
-    "meta-externalfetcher": "partial",
-    "Timpibot": "partial",
-    "YouBot": "partial",
-    "ImagesiftBot": "partial",
-    "Ai2Bot": "partial",
-    "DuckAssistBot": "partial"
+    "GPTBot": "allowed",
+    "ChatGPT-User": "allowed",
+    "OAI-SearchBot": "allowed",
+    "ClaudeBot": "allowed",
+    "Claude-Web": "allowed",
+    "anthropic-ai": "allowed",
+    "Google-Extended": "allowed",
+    "GoogleOther": "allowed",
+    "Applebot-Extended": "allowed",
+    "CCBot": "allowed",
+    "Bytespider": "allowed",
+    "PerplexityBot": "allowed",
+    "Perplexity-User": "allowed",
+    "cohere-ai": "allowed",
+    "cohere-training-data-crawler": "allowed",
+    "Diffbot": "allowed",
+    "Omgilibot": "allowed",
+    "Amazonbot": "allowed",
+    "meta-externalagent": "allowed",
+    "meta-externalfetcher": "allowed",
+    "Timpibot": "allowed",
+    "YouBot": "allowed",
+    "ImagesiftBot": "allowed",
+    "Ai2Bot": "allowed",
+    "DuckAssistBot": "allowed"
   },
-  "named": [
-    "GPTBot",
-    "Google-Extended",
-    "CCBot"
-  ],
-  "rules": {
-    "*": {
-      "disallow": [
-        "/busca/",
-        "/beta/",
-        "/historico-home/",
-        "*globo-cdn-src/*",
-        "/alt-a/",
-        "/alt-b/",
-        "/alt-c/",
-        "/alt-d/",
-        "/recomendado/",
-        "/explore/"
-      ],
-      "allow": [],
-      "total": 10,
-      "total_allow": 0
-    },
-    "CCBot": {
-      "disallow": [
-        "/"
-      ],
-      "allow": [],
-      "total": 1,
-      "total_allow": 0
-    },
-    "GPTBot": {
-      "disallow": [
-        "/"
-      ],
-      "allow": [],
-      "total": 1,
-      "total_allow": 0
-    },
-    "Google-Extended": {
-      "disallow": [
-        "/"
-      ],
-      "allow": [],
-      "total": 1,
-      "total_allow": 0
-    }
-  }
+  "named": [],
+  "rules": {}
 }

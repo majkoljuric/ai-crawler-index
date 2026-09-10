@@ -1,40 +1,58 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-09-08T06:11:21+00:00",
+  "checked_at": "2026-09-10T02:42:37+00:00",
   "domain": "sohu.com",
   "category": "software",
   "robots_url": "https://sohu.com/robots.txt",
   "http_status": 200,
   "fetch_error": null,
   "bots": {
-    "GPTBot": "blocked",
-    "ChatGPT-User": "blocked",
-    "OAI-SearchBot": "blocked",
-    "ClaudeBot": "blocked",
-    "Claude-Web": "blocked",
-    "anthropic-ai": "blocked",
-    "Google-Extended": "blocked",
+    "GPTBot": "partial",
+    "ChatGPT-User": "partial",
+    "OAI-SearchBot": "partial",
+    "ClaudeBot": "partial",
+    "Claude-Web": "partial",
+    "anthropic-ai": "partial",
+    "Google-Extended": "partial",
     "GoogleOther": "blocked",
-    "Applebot-Extended": "blocked",
-    "CCBot": "blocked",
+    "Applebot-Extended": "partial",
+    "CCBot": "partial",
     "Bytespider": "partial",
-    "PerplexityBot": "blocked",
-    "Perplexity-User": "blocked",
-    "cohere-ai": "blocked",
+    "PerplexityBot": "partial",
+    "Perplexity-User": "partial",
+    "cohere-ai": "partial",
     "cohere-training-data-crawler": "blocked",
-    "Diffbot": "blocked",
+    "Diffbot": "partial",
     "Omgilibot": "blocked",
-    "Amazonbot": "blocked",
-    "meta-externalagent": "blocked",
-    "meta-externalfetcher": "blocked",
+    "Amazonbot": "partial",
+    "meta-externalagent": "partial",
+    "meta-externalfetcher": "partial",
     "Timpibot": "blocked",
-    "YouBot": "blocked",
+    "YouBot": "partial",
     "ImagesiftBot": "blocked",
     "Ai2Bot": "blocked",
-    "DuckAssistBot": "blocked"
+    "DuckAssistBot": "partial"
   },
   "named": [
-    "Bytespider"
+    "GPTBot",
+    "ChatGPT-User",
+    "OAI-SearchBot",
+    "ClaudeBot",
+    "Claude-Web",
+    "anthropic-ai",
+    "Google-Extended",
+    "Applebot-Extended",
+    "CCBot",
+    "Bytespider",
+    "PerplexityBot",
+    "Perplexity-User",
+    "cohere-ai",
+    "Diffbot",
+    "Amazonbot",
+    "meta-externalagent",
+    "meta-externalfetcher",
+    "YouBot",
+    "DuckAssistBot"
   ],
   "rules": {
     "*": {
@@ -44,6 +62,34 @@
       "allow": [],
       "total": 1,
       "total_allow": 0
+    },
+    "Amazonbot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/?*$",
+        "/limit/",
+        "/a/",
+        "/xchannel/",
+        "/xtopic/"
+      ],
+      "total": 1,
+      "total_allow": 5
+    },
+    "Applebot-Extended": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/?*$",
+        "/limit/",
+        "/a/",
+        "/xchannel/",
+        "/xtopic/"
+      ],
+      "total": 1,
+      "total_allow": 5
     },
     "Bytespider": {
       "disallow": [
@@ -62,7 +108,7 @@
         "/business*?*",
         "/it*?*",
         "/fashion*?*",
-        "/leaening*?*",
+        "/learning*?*",
         "/health*?*",
         "/yule*?*",
         "/mt*?*",
@@ -91,6 +137,202 @@
       ],
       "total": 1,
       "total_allow": 38
+    },
+    "CCBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/?*$",
+        "/limit/",
+        "/a/",
+        "/xchannel/",
+        "/xtopic/"
+      ],
+      "total": 1,
+      "total_allow": 5
+    },
+    "ChatGPT-User": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/?*$",
+        "/limit/",
+        "/a/",
+        "/xchannel/",
+        "/xtopic/"
+      ],
+      "total": 1,
+      "total_allow": 5
+    },
+    "Claude-Web": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/?*$",
+        "/limit/",
+        "/a/",
+        "/xchannel/",
+        "/xtopic/"
+      ],
+      "total": 1,
+      "total_allow": 5
+    },
+    "ClaudeBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/?*$",
+        "/limit/",
+        "/a/",
+        "/xchannel/",
+        "/xtopic/"
+      ],
+      "total": 1,
+      "total_allow": 5
+    },
+    "Diffbot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/?*$",
+        "/limit/",
+        "/a/",
+        "/xchannel/",
+        "/xtopic/"
+      ],
+      "total": 1,
+      "total_allow": 5
+    },
+    "DuckAssistBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/?*$",
+        "/limit/",
+        "/a/",
+        "/xchannel/",
+        "/xtopic/"
+      ],
+      "total": 1,
+      "total_allow": 5
+    },
+    "GPTBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/?*$",
+        "/limit/",
+        "/a/",
+        "/xchannel/",
+        "/xtopic/"
+      ],
+      "total": 1,
+      "total_allow": 5
+    },
+    "Google-Extended": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/?*$",
+        "/limit/",
+        "/a/",
+        "/xchannel/",
+        "/xtopic/"
+      ],
+      "total": 1,
+      "total_allow": 5
+    },
+    "OAI-SearchBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/?*$",
+        "/limit/",
+        "/a/",
+        "/xchannel/",
+        "/xtopic/"
+      ],
+      "total": 1,
+      "total_allow": 5
+    },
+    "Perplexity-User": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/?*$",
+        "/limit/",
+        "/a/",
+        "/xchannel/",
+        "/xtopic/"
+      ],
+      "total": 1,
+      "total_allow": 5
+    },
+    "PerplexityBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/?*$",
+        "/limit/",
+        "/a/",
+        "/xchannel/",
+        "/xtopic/"
+      ],
+      "total": 1,
+      "total_allow": 5
+    },
+    "YouBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/?*$",
+        "/limit/",
+        "/a/",
+        "/xchannel/",
+        "/xtopic/"
+      ],
+      "total": 1,
+      "total_allow": 5
+    },
+    "anthropic-ai": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/?*$",
+        "/limit/",
+        "/a/",
+        "/xchannel/",
+        "/xtopic/"
+      ],
+      "total": 1,
+      "total_allow": 5
+    },
+    "cohere-ai": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/?*$",
+        "/limit/",
+        "/a/",
+        "/xchannel/",
+        "/xtopic/"
+      ],
+      "total": 1,
+      "total_allow": 5
     }
   }
 }

@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-09-08T06:11:21+00:00",
+  "checked_at": "2026-09-10T02:42:37+00:00",
   "domain": "change.org",
   "category": "nonprofit",
   "robots_url": "https://change.org/robots.txt",
@@ -46,6 +46,8 @@
         "/p/*/sign?*",
         "/p/*/sign-now$",
         "/p/*/sign-now?*",
+        "/p/*/feedback$",
+        "/p/*/feedback?*",
         "/account_settings$",
         "/account_settings/cancel_membership$",
         "/account_settings/cancel_membership?*",
@@ -194,7 +196,7 @@
         "/verify_your_email?*"
       ],
       "allow": [],
-      "total": 155,
+      "total": 157,
       "total_allow": 0
     }
   }

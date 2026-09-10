@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-09-08T06:11:21+00:00",
+  "checked_at": "2026-09-10T02:42:37+00:00",
   "domain": "welt.de",
   "category": "other",
   "robots_url": "https://welt.de/robots.txt",
@@ -24,7 +24,7 @@
     "cohere-training-data-crawler": "blocked",
     "Diffbot": "blocked",
     "Omgilibot": "blocked",
-    "Amazonbot": "partial",
+    "Amazonbot": "blocked",
     "meta-externalagent": "partial",
     "meta-externalfetcher": "partial",
     "Timpibot": "blocked",
@@ -43,6 +43,7 @@
     "cohere-training-data-crawler",
     "Diffbot",
     "Omgilibot",
+    "Amazonbot",
     "Timpibot",
     "YouBot",
     "ImagesiftBot",
@@ -99,6 +100,14 @@
       ],
       "allow": [],
       "total": 44,
+      "total_allow": 0
+    },
+    "Amazonbot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
       "total_allow": 0
     },
     "Applebot-Extended": {

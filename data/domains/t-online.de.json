@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-09-08T06:11:21+00:00",
+  "checked_at": "2026-09-10T02:42:37+00:00",
   "domain": "t-online.de",
   "category": "other",
   "robots_url": "https://t-online.de/robots.txt",
@@ -126,12 +126,34 @@
     },
     "Google-Extended": {
       "disallow": [
-        "/"
+        "/native/",
+        "/auth/",
+        "/?artid",
+        "/preisvergleich/",
+        "/spiele/weihnachtsspiele/",
+        "/studiopreview_",
+        "/vid_1/",
+        "/,ei=",
+        "/,linkId=",
+        "/,pt=pictureEnlarge",
+        "/,pt=print",
+        "/,pt=self",
+        "/,tid=print",
+        "/,vv=P5",
+        "/,vv=enlarge",
+        "*/tid_external_content_proxy/",
+        "/-/id_62530634/tid_tsr_iframe_loginbox/index",
+        "/-/id_62530634/tid_tsr_iframe_loginbox_buzz/index",
+        "/gtm.js",
+        "/metatag/",
+        "/ki-ratgeber/",
+        "/api/greenplayer/",
+        "/api/search/zero-input"
       ],
       "allow": [
-        "/finanzen/versichern-und-vorsorgen/"
+        "/"
       ],
-      "total": 1,
+      "total": 23,
       "total_allow": 1
     },
     "PerplexityBot": {

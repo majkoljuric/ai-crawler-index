@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-09-08T06:11:21+00:00",
+  "checked_at": "2026-09-10T02:42:37+00:00",
   "domain": "yandex.com",
   "category": "software",
   "robots_url": "https://yandex.com/robots.txt",
@@ -49,6 +49,7 @@
         "/ads/",
         "/adfox/",
         "/an/",
+        "/alice/chat/",
         "/all-supported-params",
         "/articles",
         "/blog/*?text=",
@@ -287,7 +288,7 @@
         "/medicine/doctors",
         "/medicine/clinics"
       ],
-      "total": 220,
+      "total": 221,
       "total_allow": 27
     }
   }

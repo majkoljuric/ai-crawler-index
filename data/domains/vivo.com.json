@@ -1,12 +1,61 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-09-08T06:11:21+00:00",
+  "checked_at": "2026-09-10T02:42:37+00:00",
   "domain": "vivo.com",
   "category": "other",
   "robots_url": "https://vivo.com/robots.txt",
-  "http_status": 404,
-  "fetch_error": "HTTPError 404",
-  "bots": {},
+  "http_status": 200,
+  "fetch_error": null,
+  "bots": {
+    "GPTBot": "partial",
+    "ChatGPT-User": "partial",
+    "OAI-SearchBot": "partial",
+    "ClaudeBot": "partial",
+    "Claude-Web": "partial",
+    "anthropic-ai": "partial",
+    "Google-Extended": "partial",
+    "GoogleOther": "partial",
+    "Applebot-Extended": "partial",
+    "CCBot": "partial",
+    "Bytespider": "partial",
+    "PerplexityBot": "partial",
+    "Perplexity-User": "partial",
+    "cohere-ai": "partial",
+    "cohere-training-data-crawler": "partial",
+    "Diffbot": "partial",
+    "Omgilibot": "partial",
+    "Amazonbot": "partial",
+    "meta-externalagent": "partial",
+    "meta-externalfetcher": "partial",
+    "Timpibot": "partial",
+    "YouBot": "partial",
+    "ImagesiftBot": "partial",
+    "Ai2Bot": "partial",
+    "DuckAssistBot": "partial"
+  },
   "named": [],
-  "rules": {}
+  "rules": {
+    "*": {
+      "disallow": [
+        "/*/*/support/questionByTitle",
+        "/*/support/questionByTitle",
+        "/*/*/searchData/search",
+        "/*/searchData/search",
+        "/*/*/emailSupport/success",
+        "/*/emailSupport/success",
+        "/*/*/support/generatingCodes",
+        "/*/support/generatingCodes",
+        "/*/*/intermediary?",
+        "/*/intermediary?",
+        "/*/*/preview/",
+        "/*/preview/",
+        "/portal/open/api/set/cookie",
+        "/*/*/about-vivo/news?page=-",
+        "/*/about-vivo/news?page=-"
+      ],
+      "allow": [],
+      "total": 15,
+      "total_allow": 0
+    }
+  }
 }

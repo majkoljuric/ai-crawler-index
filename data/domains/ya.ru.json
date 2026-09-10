@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-09-08T06:11:21+00:00",
+  "checked_at": "2026-09-10T02:42:37+00:00",
   "domain": "ya.ru",
   "category": "software",
   "robots_url": "https://ya.ru/robots.txt",
@@ -48,6 +48,7 @@
         "/alice/old-browser",
         "/alice/store/orders/",
         "/alice?share=",
+        "/alice/chat/",
         "/alice/*?",
         "/alice/*&",
         "/all-supported-params",
@@ -309,7 +310,7 @@
         "/archive/project/sovsport$",
         "/medicine"
       ],
-      "total": 220,
+      "total": 221,
       "total_allow": 49
     }
   }

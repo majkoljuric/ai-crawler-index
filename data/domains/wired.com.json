@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-09-08T06:11:21+00:00",
+  "checked_at": "2026-09-10T02:42:37+00:00",
   "domain": "wired.com",
   "category": "tech-news",
   "robots_url": "https://wired.com/robots.txt",
@@ -28,7 +28,7 @@
     "meta-externalagent": "blocked",
     "meta-externalfetcher": "blocked",
     "Timpibot": "blocked",
-    "YouBot": "partial",
+    "YouBot": "blocked",
     "ImagesiftBot": "partial",
     "Ai2Bot": "partial",
     "DuckAssistBot": "blocked"
@@ -49,6 +49,7 @@
     "meta-externalagent",
     "meta-externalfetcher",
     "Timpibot",
+    "YouBot",
     "DuckAssistBot"
   ],
   "rules": {
@@ -65,6 +66,7 @@
         "/cdn-cgi/",
         "/services.min.js",
         "/com.condenast/yv8",
+        "/reject-all",
         "*/testing-products-"
       ],
       "allow": [
@@ -86,7 +88,7 @@
         "/*?ref=",
         "/story/madison-square-garden-jim-dolan-surveillance-machine/?src"
       ],
-      "total": 12,
+      "total": 13,
       "total_allow": 17
     },
     "Amazonbot": {
@@ -178,6 +180,14 @@
       "total_allow": 0
     },
     "Timpibot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "YouBot": {
       "disallow": [
         "/"
       ],

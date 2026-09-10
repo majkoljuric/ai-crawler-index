@@ -1,11 +1,11 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-09-08T06:11:21+00:00",
+  "checked_at": "2026-09-10T02:42:37+00:00",
   "domain": "oup.com",
   "category": "other",
   "robots_url": "https://oup.com/robots.txt",
-  "http_status": 202,
-  "fetch_error": null,
+  "http_status": 403,
+  "fetch_error": "HTTPError 403",
   "bots": {},
   "named": [],
   "rules": {}

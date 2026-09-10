@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-09-08T06:11:21+00:00",
+  "checked_at": "2026-09-10T02:42:37+00:00",
   "domain": "dell.com",
   "category": "software",
   "robots_url": "https://dell.com/robots.txt",
@@ -72,6 +72,7 @@
         "*/apd/*/quickview$",
         "*pr_rd_page=*",
         "*bvstate=",
+        "/support/en-gb",
         "/support/kbdoc/*/000287599",
         "/support/incidents-online/*/contactus/product/",
         "/support/ips/",
@@ -1052,7 +1053,7 @@
         "/zh-tw/perspectives/",
         "/ko-kr/perspectives/"
       ],
-      "total": 426,
+      "total": 427,
       "total_allow": 584
     },
     "Bytespider": {

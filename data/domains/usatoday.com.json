@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-09-08T06:11:21+00:00",
+  "checked_at": "2026-09-10T02:42:37+00:00",
   "domain": "usatoday.com",
   "category": "news",
   "robots_url": "https://usatoday.com/robots.txt",
@@ -93,7 +93,6 @@
         "/contributor-content/",
         "/story/special/contributor-content/",
         "/money/money-management/",
-        "/branded-story/",
         "/shopping/",
         "/story/shopping/",
         "/story/sponsor-story/real-estate-ausa/2026/04/16/sell-your-home-for-top-dollar-by-beating-back-to-school-deadlines/89482853007/",
@@ -101,7 +100,7 @@
         "/story/sponsor-story/address-usa/2026/08/21/should-sellers-accept-the-first-offer-what-to-consider-beyond-price/91390104007/"
       ],
       "total": 1,
-      "total_allow": 9
+      "total_allow": 8
     },
     "Claude-Web": {
       "disallow": [
@@ -143,7 +142,6 @@
         "/contributor-content/",
         "/story/special/contributor-content/",
         "/money/money-management/",
-        "/branded-story/",
         "/shopping/",
         "/story/shopping/",
         "/story/sponsor-story/real-estate-ausa/2026/04/16/sell-your-home-for-top-dollar-by-beating-back-to-school-deadlines/89482853007/",
@@ -151,7 +149,7 @@
         "/story/sponsor-story/address-usa/2026/08/21/should-sellers-accept-the-first-offer-what-to-consider-beyond-price/91390104007/"
       ],
       "total": 1,
-      "total_allow": 9
+      "total_allow": 8
     },
     "Google-Extended": {
       "disallow": [
@@ -161,7 +159,6 @@
         "/contributor-content/",
         "/story/special/contributor-content/",
         "/money/money-management/",
-        "/branded-story/",
         "/shopping/",
         "/story/shopping/",
         "/story/sponsor-story/real-estate-ausa/2026/04/16/sell-your-home-for-top-dollar-by-beating-back-to-school-deadlines/89482853007/",
@@ -169,7 +166,7 @@
         "/story/sponsor-story/address-usa/2026/08/21/should-sellers-accept-the-first-offer-what-to-consider-beyond-price/91390104007/"
       ],
       "total": 1,
-      "total_allow": 9
+      "total_allow": 8
     },
     "GoogleOther": {
       "disallow": [
@@ -195,7 +192,6 @@
         "/contributor-content/",
         "/story/special/contributor-content/",
         "/money/money-management/",
-        "/branded-story/",
         "/shopping/",
         "/story/shopping/",
         "/story/sponsor-story/real-estate-ausa/2026/04/16/sell-your-home-for-top-dollar-by-beating-back-to-school-deadlines/89482853007/",
@@ -203,7 +199,7 @@
         "/story/sponsor-story/address-usa/2026/08/21/should-sellers-accept-the-first-offer-what-to-consider-beyond-price/91390104007/"
       ],
       "total": 1,
-      "total_allow": 9
+      "total_allow": 8
     },
     "Perplexity-User": {
       "disallow": [
@@ -221,7 +217,6 @@
         "/contributor-content/",
         "/story/special/contributor-content/",
         "/money/money-management/",
-        "/branded-story/",
         "/shopping/",
         "/story/shopping/",
         "/story/sponsor-story/real-estate-ausa/2026/04/16/sell-your-home-for-top-dollar-by-beating-back-to-school-deadlines/89482853007/",
@@ -229,7 +224,7 @@
         "/story/sponsor-story/address-usa/2026/08/21/should-sellers-accept-the-first-offer-what-to-consider-beyond-price/91390104007/"
       ],
       "total": 1,
-      "total_allow": 9
+      "total_allow": 8
     },
     "Timpibot": {
       "disallow": [
