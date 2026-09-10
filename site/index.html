@@ -112,6 +112,11 @@
     font-size:0.82rem; color:var(--text-muted);
   }
   .trust-row span{display:inline-flex; align-items:center; gap:0.4rem;}
+  /* Reserve the badge's box so the hero doesn't jump when it loads from
+     Product Hunt's CDN — it's the last thing to arrive above the fold. */
+  .ph-badge{margin-top:2rem; display:flex; justify-content:center; min-height:54px;}
+  .ph-badge a{display:inline-block; line-height:0;}
+  .ph-badge img{width:250px; height:54px;}
 
   /* ---------- stats strip ---------- */
   .stats-strip{padding:0 0 4rem;}
@@ -366,6 +371,14 @@
         <span>Refreshed weekly</span>
         <span>Every verdict traceable to the rule behind it</span>
         <span>Free to use</span>
+      </div>
+      <div class="ph-badge">
+        <a href="https://www.producthunt.com/products/dear-robots?embed=true&amp;utm_source=badge-featured&amp;utm_medium=badge&amp;utm_campaign=badge-dear-robots"
+           target="_blank" rel="noopener noreferrer">
+          <img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1246232&amp;theme=dark&amp;t=1789007530401"
+               alt="dear robots — Who the web lets AI train on it | Product Hunt"
+               width="250" height="54" />
+        </a>
       </div>
     </div>
   </section>
