@@ -1,11 +1,11 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-09-10T02:42:37+00:00",
+  "checked_at": "2026-09-14T11:32:39+00:00",
   "domain": "cdnvideo.ru",
   "category": "other",
   "robots_url": "https://cdnvideo.ru/robots.txt",
-  "http_status": 403,
-  "fetch_error": "HTTPError 403",
+  "http_status": null,
+  "fetch_error": "<urlopen error _ssl.c:993: The handshake operation timed out>",
   "bots": {},
   "named": [],
   "rules": {}

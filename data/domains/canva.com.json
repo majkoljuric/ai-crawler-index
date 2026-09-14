@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-09-10T02:42:37+00:00",
+  "checked_at": "2026-09-14T11:32:39+00:00",
   "domain": "canva.com",
   "category": "software",
   "robots_url": "https://canva.com/robots.txt",
@@ -262,10 +262,13 @@
         "/help/",
         "/*/help/",
         "/design-school/",
-        "/*/design-school/"
+        "/*/design-school/",
+        "/ai-connector/",
+        "/*/ai-connector/",
+        "/developers/"
       ],
       "total": 1,
-      "total_allow": 84
+      "total_allow": 87
     },
     "Bytespider": {
       "disallow": [
@@ -363,10 +366,13 @@
         "/help/",
         "/*/help/",
         "/design-school/",
-        "/*/design-school/"
+        "/*/design-school/",
+        "/ai-connector/",
+        "/*/ai-connector/",
+        "/developers/"
       ],
       "total": 1,
-      "total_allow": 84
+      "total_allow": 87
     },
     "Claude-Web": {
       "disallow": [
@@ -456,10 +462,13 @@
         "/help/",
         "/*/help/",
         "/design-school/",
-        "/*/design-school/"
+        "/*/design-school/",
+        "/ai-connector/",
+        "/*/ai-connector/",
+        "/developers/"
       ],
       "total": 1,
-      "total_allow": 84
+      "total_allow": 87
     },
     "ClaudeBot": {
       "disallow": [
@@ -549,10 +558,13 @@
         "/help/",
         "/*/help/",
         "/design-school/",
-        "/*/design-school/"
+        "/*/design-school/",
+        "/ai-connector/",
+        "/*/ai-connector/",
+        "/developers/"
       ],
       "total": 1,
-      "total_allow": 84
+      "total_allow": 87
     },
     "Diffbot": {
       "disallow": [
@@ -650,10 +662,13 @@
         "/help/",
         "/*/help/",
         "/design-school/",
-        "/*/design-school/"
+        "/*/design-school/",
+        "/ai-connector/",
+        "/*/ai-connector/",
+        "/developers/"
       ],
       "total": 1,
-      "total_allow": 84
+      "total_allow": 87
     },
     "ImagesiftBot": {
       "disallow": [
@@ -775,10 +790,13 @@
         "/help/",
         "/*/help/",
         "/design-school/",
-        "/*/design-school/"
+        "/*/design-school/",
+        "/ai-connector/",
+        "/*/ai-connector/",
+        "/developers/"
       ],
       "total": 1,
-      "total_allow": 84
+      "total_allow": 87
     },
     "meta-externalagent": {
       "disallow": [

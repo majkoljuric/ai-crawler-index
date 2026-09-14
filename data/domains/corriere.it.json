@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-09-10T02:42:37+00:00",
+  "checked_at": "2026-09-14T11:32:39+00:00",
   "domain": "corriere.it",
   "category": "news",
   "robots_url": "https://corriere.it/robots.txt",
@@ -9,7 +9,7 @@
   "bots": {
     "GPTBot": "blocked",
     "ChatGPT-User": "partial",
-    "OAI-SearchBot": "partial",
+    "OAI-SearchBot": "allowed",
     "ClaudeBot": "blocked",
     "Claude-Web": "partial",
     "anthropic-ai": "blocked",
@@ -18,7 +18,7 @@
     "Applebot-Extended": "blocked",
     "CCBot": "blocked",
     "Bytespider": "blocked",
-    "PerplexityBot": "partial",
+    "PerplexityBot": "allowed",
     "Perplexity-User": "partial",
     "cohere-ai": "partial",
     "cohere-training-data-crawler": "partial",
@@ -35,12 +35,16 @@
   },
   "named": [
     "GPTBot",
+    "ChatGPT-User",
+    "OAI-SearchBot",
     "ClaudeBot",
+    "Claude-Web",
     "anthropic-ai",
     "Google-Extended",
     "Applebot-Extended",
     "CCBot",
     "Bytespider",
+    "PerplexityBot",
     "Amazonbot",
     "meta-externalagent",
     "Timpibot",
@@ -129,6 +133,7 @@
         "/nazionale-2025/"
       ],
       "allow": [
+        "/",
         "/account/login$",
         "/salute/il-medico-risponde/sitemap.xml",
         "/salute/il-medico-risponde/news/sitemap.xml",
@@ -157,7 +162,7 @@
         "/elezioni/*.xml"
       ],
       "total": 78,
-      "total_allow": 26
+      "total_allow": 27
     },
     "Amazonbot": {
       "disallow": [
@@ -191,6 +196,26 @@
       "total": 1,
       "total_allow": 0
     },
+    "ChatGPT-User": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/nativeadv/"
+      ],
+      "total": 1,
+      "total_allow": 1
+    },
+    "Claude-Web": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/nativeadv/"
+      ],
+      "total": 1,
+      "total_allow": 1
+    },
     "ClaudeBot": {
       "disallow": [
         "/"
@@ -214,6 +239,22 @@
       "allow": [],
       "total": 1,
       "total_allow": 0
+    },
+    "OAI-SearchBot": {
+      "disallow": [],
+      "allow": [
+        "/"
+      ],
+      "total": 0,
+      "total_allow": 1
+    },
+    "PerplexityBot": {
+      "disallow": [],
+      "allow": [
+        "/"
+      ],
+      "total": 0,
+      "total_allow": 1
     },
     "Timpibot": {
       "disallow": [
