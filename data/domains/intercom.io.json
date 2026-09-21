@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-09-14T11:32:39+00:00",
+  "checked_at": "2026-09-21T11:46:21+00:00",
   "domain": "intercom.io",
   "category": "other",
   "robots_url": "https://intercom.io/robots.txt",
@@ -43,12 +43,10 @@
         "/blogtest",
         "/beta/*",
         "/roi/*",
-        "/legacy-drlp/*",
-        "/pricing-ab-sept-2026",
-        "/pricing-ab-sept-2026/*"
+        "/legacy-drlp/*"
       ],
       "allow": [],
-      "total": 9,
+      "total": 7,
       "total_allow": 0
     }
   }

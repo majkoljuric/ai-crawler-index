@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-09-14T11:32:39+00:00",
+  "checked_at": "2026-09-21T11:46:21+00:00",
   "domain": "moloco.com",
   "category": "other",
   "robots_url": "https://moloco.com/robots.txt",
@@ -40,7 +40,6 @@
   "rules": {
     "*": {
       "disallow": [
-        "/*page=*",
         "/search?query=*",
         "/*?edit*",
         "/*category=*",
@@ -51,7 +50,6 @@
         "/*filter_by=*",
         "/*ticket_form_id=*",
         "*?page_id=",
-        "*_page=",
         "/hc/article_attachments/",
         "/*/landing-pages/*",
         "*/untitled",
@@ -65,7 +63,7 @@
         "*/content-guideline-ads-rmg/*"
       ],
       "allow": [],
-      "total": 23,
+      "total": 21,
       "total_allow": 0
     },
     "Bytespider": {

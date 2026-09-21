@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-09-14T11:32:39+00:00",
+  "checked_at": "2026-09-21T11:46:21+00:00",
   "domain": "elpais.com",
   "category": "news",
   "robots_url": "https://elpais.com/robots.txt",
@@ -59,11 +59,12 @@
         "/Msgeskup",
         "/Profileeskup",
         "/Threadeskup",
+        "/*?*core_dmena=",
         "/t/",
         "*?preview=true$"
       ],
       "allow": [],
-      "total": 15,
+      "total": 16,
       "total_allow": 0
     },
     "Amazonbot": {

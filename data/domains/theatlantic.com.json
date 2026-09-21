@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-09-14T11:32:39+00:00",
+  "checked_at": "2026-09-21T11:46:21+00:00",
   "domain": "theatlantic.com",
   "category": "news",
   "robots_url": "https://theatlantic.com/robots.txt",
@@ -18,8 +18,8 @@
     "Applebot-Extended": "blocked",
     "CCBot": "blocked",
     "Bytespider": "blocked",
-    "PerplexityBot": "blocked",
-    "Perplexity-User": "blocked",
+    "PerplexityBot": "partial",
+    "Perplexity-User": "partial",
     "cohere-ai": "blocked",
     "cohere-training-data-crawler": "partial",
     "Diffbot": "blocked",
@@ -177,17 +177,21 @@
       "disallow": [
         "/"
       ],
-      "allow": [],
+      "allow": [
+        "/sponsored/"
+      ],
       "total": 1,
-      "total_allow": 0
+      "total_allow": 1
     },
     "PerplexityBot": {
       "disallow": [
         "/"
       ],
-      "allow": [],
+      "allow": [
+        "/sponsored/"
+      ],
       "total": 1,
-      "total_allow": 0
+      "total_allow": 1
     },
     "anthropic-ai": {
       "disallow": [

@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-09-14T11:32:39+00:00",
+  "checked_at": "2026-09-21T11:46:21+00:00",
   "domain": "faphouse.com",
   "category": "other",
   "robots_url": "https://faphouse.com/robots.txt",
@@ -90,7 +90,10 @@
         "*/models/*/store/*",
         "*/studios/*/store/*",
         "*/search/*&page=",
-        "*/search/shorts?q="
+        "*/search/shorts?q=",
+        "*/models/*/meet",
+        "*/studios/*/meet",
+        "*/pornstars/*/meet"
       ],
       "allow": [
         "/export/prohibited.xml",
@@ -104,7 +107,7 @@
         "*/search/*&page=4$",
         "*/search/*&page=5$"
       ],
-      "total": 54,
+      "total": 57,
       "total_allow": 10
     }
   }

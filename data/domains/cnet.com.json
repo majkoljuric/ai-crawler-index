@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-09-14T11:32:39+00:00",
+  "checked_at": "2026-09-21T11:46:21+00:00",
   "domain": "cnet.com",
   "category": "tech-news",
   "robots_url": "https://cnet.com/robots.txt",
@@ -119,6 +119,8 @@
       ],
       "allow": [
         "/home/internet/gigabit-internet-is-it-worth-splurging-for-a-faster-internet-plan/",
+        "/home/internet/how-to-spot-hidden-fees-and-save-money/",
+        "/home/internet/lag-free-internet-how-to-find-the-right-internet-speed-for-a-family-of-4-or-more/",
         "/home/internet/what-are-the-different-internet-connection-types/",
         "/home/internet/xfinity-vs-att-which-internet-provider-is-best/",
         "/home/internet/xfinity-vs-verizon-which-internet-provider-is-best/",
@@ -177,12 +179,18 @@
         "/paid-content/news/why-you-need-a-cutting-edge-vpn-to-keep-you-safe-online/",
         "/paid-content/news/why-you-need-an-internet-provider-with-no-data-caps/",
         "/paid-content/samsung-micro-rgb-tvs-show-you-more-colors-than-ever-before/",
+        "/paid-content/t-mobile-5g-home-internet-gets-you-online-fast-with-no-technicians-or-contracts/",
+        "/paid-content/t-mobile-fiber-vs-cable-internet-why-ultra-fast-internet-is-worth-the-upgrade/",
+        "/paid-content/whats-a-good-casetify-case-for-my-next-iphone-a-complete-guide-to-practical-protection/",
         "/paid-content/when-can-kids-get-a-debit-card-heres-how-cash-app-handles-every-age/",
         "/paid-content/how-fast-should-your-home-internet-be/",
         "/paid-content/when-can-kids-get-a-debit-card-heres-how-cash-app-handles-every-age/",
         "/paid-content/cash-app-for-teens-safety-and-parental-controls/",
         "/paid-content/what-can-ray-ban-meta-ai-glasses-do-5-use-cases-for-your-everyday-routine/",
         "/paid-content/what-to-include-in-a-heart-health-daily-regimen-from-supplements-to-home-monitors/",
+        "/paid-content/why-the-samsung-galaxy-s26-ultra-feels-like-the-first-phone-truly-built-for-ai/",
+        "/tech/mobile/apple-iphone-17-event-september-2025-what-to-expect/",
+        "/tech/mobile/i-underestimated-workout-buddy-apples-playing-the-long-game-for-ai-coaching/",
         "/tech/mobile/samsung-galaxy-s26-and-s26-plus-hands-on-first-take/",
         "/tech/mobile/samsung-galaxy-s26-ultra-vs-galaxy-s26-and-s26-plus-flagship-specs-comparison/",
         "/tech/services-and-software/a-guide-to-data-removal-services-should-you-pay-for-privacy/",
@@ -208,7 +216,7 @@
         "/videos/tax-breaks-you-might-miss-in-2026-and-how-to-find-them/"
       ],
       "total": 1,
-      "total_allow": 88
+      "total_allow": 96
     },
     "Bytespider": {
       "disallow": [
@@ -216,6 +224,8 @@
       ],
       "allow": [
         "/home/internet/gigabit-internet-is-it-worth-splurging-for-a-faster-internet-plan/",
+        "/home/internet/how-to-spot-hidden-fees-and-save-money/",
+        "/home/internet/lag-free-internet-how-to-find-the-right-internet-speed-for-a-family-of-4-or-more/",
         "/home/internet/what-are-the-different-internet-connection-types/",
         "/home/internet/xfinity-vs-att-which-internet-provider-is-best/",
         "/home/internet/xfinity-vs-verizon-which-internet-provider-is-best/",
@@ -274,12 +284,18 @@
         "/paid-content/news/why-you-need-a-cutting-edge-vpn-to-keep-you-safe-online/",
         "/paid-content/news/why-you-need-an-internet-provider-with-no-data-caps/",
         "/paid-content/samsung-micro-rgb-tvs-show-you-more-colors-than-ever-before/",
+        "/paid-content/t-mobile-5g-home-internet-gets-you-online-fast-with-no-technicians-or-contracts/",
+        "/paid-content/t-mobile-fiber-vs-cable-internet-why-ultra-fast-internet-is-worth-the-upgrade/",
+        "/paid-content/whats-a-good-casetify-case-for-my-next-iphone-a-complete-guide-to-practical-protection/",
         "/paid-content/when-can-kids-get-a-debit-card-heres-how-cash-app-handles-every-age/",
         "/paid-content/how-fast-should-your-home-internet-be/",
         "/paid-content/when-can-kids-get-a-debit-card-heres-how-cash-app-handles-every-age/",
         "/paid-content/cash-app-for-teens-safety-and-parental-controls/",
         "/paid-content/what-can-ray-ban-meta-ai-glasses-do-5-use-cases-for-your-everyday-routine/",
         "/paid-content/what-to-include-in-a-heart-health-daily-regimen-from-supplements-to-home-monitors/",
+        "/paid-content/why-the-samsung-galaxy-s26-ultra-feels-like-the-first-phone-truly-built-for-ai/",
+        "/tech/mobile/apple-iphone-17-event-september-2025-what-to-expect/",
+        "/tech/mobile/i-underestimated-workout-buddy-apples-playing-the-long-game-for-ai-coaching/",
         "/tech/mobile/samsung-galaxy-s26-and-s26-plus-hands-on-first-take/",
         "/tech/mobile/samsung-galaxy-s26-ultra-vs-galaxy-s26-and-s26-plus-flagship-specs-comparison/",
         "/tech/services-and-software/a-guide-to-data-removal-services-should-you-pay-for-privacy/",
@@ -305,7 +321,7 @@
         "/videos/tax-breaks-you-might-miss-in-2026-and-how-to-find-them/"
       ],
       "total": 1,
-      "total_allow": 88
+      "total_allow": 96
     },
     "CCBot": {
       "disallow": [
@@ -313,6 +329,8 @@
       ],
       "allow": [
         "/home/internet/gigabit-internet-is-it-worth-splurging-for-a-faster-internet-plan/",
+        "/home/internet/how-to-spot-hidden-fees-and-save-money/",
+        "/home/internet/lag-free-internet-how-to-find-the-right-internet-speed-for-a-family-of-4-or-more/",
         "/home/internet/what-are-the-different-internet-connection-types/",
         "/home/internet/xfinity-vs-att-which-internet-provider-is-best/",
         "/home/internet/xfinity-vs-verizon-which-internet-provider-is-best/",
@@ -371,12 +389,18 @@
         "/paid-content/news/why-you-need-a-cutting-edge-vpn-to-keep-you-safe-online/",
         "/paid-content/news/why-you-need-an-internet-provider-with-no-data-caps/",
         "/paid-content/samsung-micro-rgb-tvs-show-you-more-colors-than-ever-before/",
+        "/paid-content/t-mobile-5g-home-internet-gets-you-online-fast-with-no-technicians-or-contracts/",
+        "/paid-content/t-mobile-fiber-vs-cable-internet-why-ultra-fast-internet-is-worth-the-upgrade/",
+        "/paid-content/whats-a-good-casetify-case-for-my-next-iphone-a-complete-guide-to-practical-protection/",
         "/paid-content/when-can-kids-get-a-debit-card-heres-how-cash-app-handles-every-age/",
         "/paid-content/how-fast-should-your-home-internet-be/",
         "/paid-content/when-can-kids-get-a-debit-card-heres-how-cash-app-handles-every-age/",
         "/paid-content/cash-app-for-teens-safety-and-parental-controls/",
         "/paid-content/what-can-ray-ban-meta-ai-glasses-do-5-use-cases-for-your-everyday-routine/",
         "/paid-content/what-to-include-in-a-heart-health-daily-regimen-from-supplements-to-home-monitors/",
+        "/paid-content/why-the-samsung-galaxy-s26-ultra-feels-like-the-first-phone-truly-built-for-ai/",
+        "/tech/mobile/apple-iphone-17-event-september-2025-what-to-expect/",
+        "/tech/mobile/i-underestimated-workout-buddy-apples-playing-the-long-game-for-ai-coaching/",
         "/tech/mobile/samsung-galaxy-s26-and-s26-plus-hands-on-first-take/",
         "/tech/mobile/samsung-galaxy-s26-ultra-vs-galaxy-s26-and-s26-plus-flagship-specs-comparison/",
         "/tech/services-and-software/a-guide-to-data-removal-services-should-you-pay-for-privacy/",
@@ -402,7 +426,7 @@
         "/videos/tax-breaks-you-might-miss-in-2026-and-how-to-find-them/"
       ],
       "total": 1,
-      "total_allow": 88
+      "total_allow": 96
     },
     "ChatGPT-User": {
       "disallow": [
@@ -410,6 +434,8 @@
       ],
       "allow": [
         "/home/internet/gigabit-internet-is-it-worth-splurging-for-a-faster-internet-plan/",
+        "/home/internet/how-to-spot-hidden-fees-and-save-money/",
+        "/home/internet/lag-free-internet-how-to-find-the-right-internet-speed-for-a-family-of-4-or-more/",
         "/home/internet/what-are-the-different-internet-connection-types/",
         "/home/internet/xfinity-vs-att-which-internet-provider-is-best/",
         "/home/internet/xfinity-vs-verizon-which-internet-provider-is-best/",
@@ -468,12 +494,18 @@
         "/paid-content/news/why-you-need-a-cutting-edge-vpn-to-keep-you-safe-online/",
         "/paid-content/news/why-you-need-an-internet-provider-with-no-data-caps/",
         "/paid-content/samsung-micro-rgb-tvs-show-you-more-colors-than-ever-before/",
+        "/paid-content/t-mobile-5g-home-internet-gets-you-online-fast-with-no-technicians-or-contracts/",
+        "/paid-content/t-mobile-fiber-vs-cable-internet-why-ultra-fast-internet-is-worth-the-upgrade/",
+        "/paid-content/whats-a-good-casetify-case-for-my-next-iphone-a-complete-guide-to-practical-protection/",
         "/paid-content/when-can-kids-get-a-debit-card-heres-how-cash-app-handles-every-age/",
         "/paid-content/how-fast-should-your-home-internet-be/",
         "/paid-content/when-can-kids-get-a-debit-card-heres-how-cash-app-handles-every-age/",
         "/paid-content/cash-app-for-teens-safety-and-parental-controls/",
         "/paid-content/what-can-ray-ban-meta-ai-glasses-do-5-use-cases-for-your-everyday-routine/",
         "/paid-content/what-to-include-in-a-heart-health-daily-regimen-from-supplements-to-home-monitors/",
+        "/paid-content/why-the-samsung-galaxy-s26-ultra-feels-like-the-first-phone-truly-built-for-ai/",
+        "/tech/mobile/apple-iphone-17-event-september-2025-what-to-expect/",
+        "/tech/mobile/i-underestimated-workout-buddy-apples-playing-the-long-game-for-ai-coaching/",
         "/tech/mobile/samsung-galaxy-s26-and-s26-plus-hands-on-first-take/",
         "/tech/mobile/samsung-galaxy-s26-ultra-vs-galaxy-s26-and-s26-plus-flagship-specs-comparison/",
         "/tech/services-and-software/a-guide-to-data-removal-services-should-you-pay-for-privacy/",
@@ -499,7 +531,7 @@
         "/videos/tax-breaks-you-might-miss-in-2026-and-how-to-find-them/"
       ],
       "total": 1,
-      "total_allow": 88
+      "total_allow": 96
     },
     "Claude-Web": {
       "disallow": [
@@ -507,6 +539,8 @@
       ],
       "allow": [
         "/home/internet/gigabit-internet-is-it-worth-splurging-for-a-faster-internet-plan/",
+        "/home/internet/how-to-spot-hidden-fees-and-save-money/",
+        "/home/internet/lag-free-internet-how-to-find-the-right-internet-speed-for-a-family-of-4-or-more/",
         "/home/internet/what-are-the-different-internet-connection-types/",
         "/home/internet/xfinity-vs-att-which-internet-provider-is-best/",
         "/home/internet/xfinity-vs-verizon-which-internet-provider-is-best/",
@@ -565,12 +599,18 @@
         "/paid-content/news/why-you-need-a-cutting-edge-vpn-to-keep-you-safe-online/",
         "/paid-content/news/why-you-need-an-internet-provider-with-no-data-caps/",
         "/paid-content/samsung-micro-rgb-tvs-show-you-more-colors-than-ever-before/",
+        "/paid-content/t-mobile-5g-home-internet-gets-you-online-fast-with-no-technicians-or-contracts/",
+        "/paid-content/t-mobile-fiber-vs-cable-internet-why-ultra-fast-internet-is-worth-the-upgrade/",
+        "/paid-content/whats-a-good-casetify-case-for-my-next-iphone-a-complete-guide-to-practical-protection/",
         "/paid-content/when-can-kids-get-a-debit-card-heres-how-cash-app-handles-every-age/",
         "/paid-content/how-fast-should-your-home-internet-be/",
         "/paid-content/when-can-kids-get-a-debit-card-heres-how-cash-app-handles-every-age/",
         "/paid-content/cash-app-for-teens-safety-and-parental-controls/",
         "/paid-content/what-can-ray-ban-meta-ai-glasses-do-5-use-cases-for-your-everyday-routine/",
         "/paid-content/what-to-include-in-a-heart-health-daily-regimen-from-supplements-to-home-monitors/",
+        "/paid-content/why-the-samsung-galaxy-s26-ultra-feels-like-the-first-phone-truly-built-for-ai/",
+        "/tech/mobile/apple-iphone-17-event-september-2025-what-to-expect/",
+        "/tech/mobile/i-underestimated-workout-buddy-apples-playing-the-long-game-for-ai-coaching/",
         "/tech/mobile/samsung-galaxy-s26-and-s26-plus-hands-on-first-take/",
         "/tech/mobile/samsung-galaxy-s26-ultra-vs-galaxy-s26-and-s26-plus-flagship-specs-comparison/",
         "/tech/services-and-software/a-guide-to-data-removal-services-should-you-pay-for-privacy/",
@@ -596,7 +636,7 @@
         "/videos/tax-breaks-you-might-miss-in-2026-and-how-to-find-them/"
       ],
       "total": 1,
-      "total_allow": 88
+      "total_allow": 96
     },
     "ClaudeBot": {
       "disallow": [
@@ -604,6 +644,8 @@
       ],
       "allow": [
         "/home/internet/gigabit-internet-is-it-worth-splurging-for-a-faster-internet-plan/",
+        "/home/internet/how-to-spot-hidden-fees-and-save-money/",
+        "/home/internet/lag-free-internet-how-to-find-the-right-internet-speed-for-a-family-of-4-or-more/",
         "/home/internet/what-are-the-different-internet-connection-types/",
         "/home/internet/xfinity-vs-att-which-internet-provider-is-best/",
         "/home/internet/xfinity-vs-verizon-which-internet-provider-is-best/",
@@ -662,12 +704,18 @@
         "/paid-content/news/why-you-need-a-cutting-edge-vpn-to-keep-you-safe-online/",
         "/paid-content/news/why-you-need-an-internet-provider-with-no-data-caps/",
         "/paid-content/samsung-micro-rgb-tvs-show-you-more-colors-than-ever-before/",
+        "/paid-content/t-mobile-5g-home-internet-gets-you-online-fast-with-no-technicians-or-contracts/",
+        "/paid-content/t-mobile-fiber-vs-cable-internet-why-ultra-fast-internet-is-worth-the-upgrade/",
+        "/paid-content/whats-a-good-casetify-case-for-my-next-iphone-a-complete-guide-to-practical-protection/",
         "/paid-content/when-can-kids-get-a-debit-card-heres-how-cash-app-handles-every-age/",
         "/paid-content/how-fast-should-your-home-internet-be/",
         "/paid-content/when-can-kids-get-a-debit-card-heres-how-cash-app-handles-every-age/",
         "/paid-content/cash-app-for-teens-safety-and-parental-controls/",
         "/paid-content/what-can-ray-ban-meta-ai-glasses-do-5-use-cases-for-your-everyday-routine/",
         "/paid-content/what-to-include-in-a-heart-health-daily-regimen-from-supplements-to-home-monitors/",
+        "/paid-content/why-the-samsung-galaxy-s26-ultra-feels-like-the-first-phone-truly-built-for-ai/",
+        "/tech/mobile/apple-iphone-17-event-september-2025-what-to-expect/",
+        "/tech/mobile/i-underestimated-workout-buddy-apples-playing-the-long-game-for-ai-coaching/",
         "/tech/mobile/samsung-galaxy-s26-and-s26-plus-hands-on-first-take/",
         "/tech/mobile/samsung-galaxy-s26-ultra-vs-galaxy-s26-and-s26-plus-flagship-specs-comparison/",
         "/tech/services-and-software/a-guide-to-data-removal-services-should-you-pay-for-privacy/",
@@ -693,7 +741,7 @@
         "/videos/tax-breaks-you-might-miss-in-2026-and-how-to-find-them/"
       ],
       "total": 1,
-      "total_allow": 88
+      "total_allow": 96
     },
     "Diffbot": {
       "disallow": [
@@ -701,6 +749,8 @@
       ],
       "allow": [
         "/home/internet/gigabit-internet-is-it-worth-splurging-for-a-faster-internet-plan/",
+        "/home/internet/how-to-spot-hidden-fees-and-save-money/",
+        "/home/internet/lag-free-internet-how-to-find-the-right-internet-speed-for-a-family-of-4-or-more/",
         "/home/internet/what-are-the-different-internet-connection-types/",
         "/home/internet/xfinity-vs-att-which-internet-provider-is-best/",
         "/home/internet/xfinity-vs-verizon-which-internet-provider-is-best/",
@@ -759,12 +809,18 @@
         "/paid-content/news/why-you-need-a-cutting-edge-vpn-to-keep-you-safe-online/",
         "/paid-content/news/why-you-need-an-internet-provider-with-no-data-caps/",
         "/paid-content/samsung-micro-rgb-tvs-show-you-more-colors-than-ever-before/",
+        "/paid-content/t-mobile-5g-home-internet-gets-you-online-fast-with-no-technicians-or-contracts/",
+        "/paid-content/t-mobile-fiber-vs-cable-internet-why-ultra-fast-internet-is-worth-the-upgrade/",
+        "/paid-content/whats-a-good-casetify-case-for-my-next-iphone-a-complete-guide-to-practical-protection/",
         "/paid-content/when-can-kids-get-a-debit-card-heres-how-cash-app-handles-every-age/",
         "/paid-content/how-fast-should-your-home-internet-be/",
         "/paid-content/when-can-kids-get-a-debit-card-heres-how-cash-app-handles-every-age/",
         "/paid-content/cash-app-for-teens-safety-and-parental-controls/",
         "/paid-content/what-can-ray-ban-meta-ai-glasses-do-5-use-cases-for-your-everyday-routine/",
         "/paid-content/what-to-include-in-a-heart-health-daily-regimen-from-supplements-to-home-monitors/",
+        "/paid-content/why-the-samsung-galaxy-s26-ultra-feels-like-the-first-phone-truly-built-for-ai/",
+        "/tech/mobile/apple-iphone-17-event-september-2025-what-to-expect/",
+        "/tech/mobile/i-underestimated-workout-buddy-apples-playing-the-long-game-for-ai-coaching/",
         "/tech/mobile/samsung-galaxy-s26-and-s26-plus-hands-on-first-take/",
         "/tech/mobile/samsung-galaxy-s26-ultra-vs-galaxy-s26-and-s26-plus-flagship-specs-comparison/",
         "/tech/services-and-software/a-guide-to-data-removal-services-should-you-pay-for-privacy/",
@@ -790,7 +846,7 @@
         "/videos/tax-breaks-you-might-miss-in-2026-and-how-to-find-them/"
       ],
       "total": 1,
-      "total_allow": 88
+      "total_allow": 96
     },
     "DuckAssistBot": {
       "disallow": [
@@ -798,6 +854,8 @@
       ],
       "allow": [
         "/home/internet/gigabit-internet-is-it-worth-splurging-for-a-faster-internet-plan/",
+        "/home/internet/how-to-spot-hidden-fees-and-save-money/",
+        "/home/internet/lag-free-internet-how-to-find-the-right-internet-speed-for-a-family-of-4-or-more/",
         "/home/internet/what-are-the-different-internet-connection-types/",
         "/home/internet/xfinity-vs-att-which-internet-provider-is-best/",
         "/home/internet/xfinity-vs-verizon-which-internet-provider-is-best/",
@@ -856,12 +914,18 @@
         "/paid-content/news/why-you-need-a-cutting-edge-vpn-to-keep-you-safe-online/",
         "/paid-content/news/why-you-need-an-internet-provider-with-no-data-caps/",
         "/paid-content/samsung-micro-rgb-tvs-show-you-more-colors-than-ever-before/",
+        "/paid-content/t-mobile-5g-home-internet-gets-you-online-fast-with-no-technicians-or-contracts/",
+        "/paid-content/t-mobile-fiber-vs-cable-internet-why-ultra-fast-internet-is-worth-the-upgrade/",
+        "/paid-content/whats-a-good-casetify-case-for-my-next-iphone-a-complete-guide-to-practical-protection/",
         "/paid-content/when-can-kids-get-a-debit-card-heres-how-cash-app-handles-every-age/",
         "/paid-content/how-fast-should-your-home-internet-be/",
         "/paid-content/when-can-kids-get-a-debit-card-heres-how-cash-app-handles-every-age/",
         "/paid-content/cash-app-for-teens-safety-and-parental-controls/",
         "/paid-content/what-can-ray-ban-meta-ai-glasses-do-5-use-cases-for-your-everyday-routine/",
         "/paid-content/what-to-include-in-a-heart-health-daily-regimen-from-supplements-to-home-monitors/",
+        "/paid-content/why-the-samsung-galaxy-s26-ultra-feels-like-the-first-phone-truly-built-for-ai/",
+        "/tech/mobile/apple-iphone-17-event-september-2025-what-to-expect/",
+        "/tech/mobile/i-underestimated-workout-buddy-apples-playing-the-long-game-for-ai-coaching/",
         "/tech/mobile/samsung-galaxy-s26-and-s26-plus-hands-on-first-take/",
         "/tech/mobile/samsung-galaxy-s26-ultra-vs-galaxy-s26-and-s26-plus-flagship-specs-comparison/",
         "/tech/services-and-software/a-guide-to-data-removal-services-should-you-pay-for-privacy/",
@@ -887,7 +951,7 @@
         "/videos/tax-breaks-you-might-miss-in-2026-and-how-to-find-them/"
       ],
       "total": 1,
-      "total_allow": 88
+      "total_allow": 96
     },
     "GPTBot": {
       "disallow": [
@@ -895,6 +959,8 @@
       ],
       "allow": [
         "/home/internet/gigabit-internet-is-it-worth-splurging-for-a-faster-internet-plan/",
+        "/home/internet/how-to-spot-hidden-fees-and-save-money/",
+        "/home/internet/lag-free-internet-how-to-find-the-right-internet-speed-for-a-family-of-4-or-more/",
         "/home/internet/what-are-the-different-internet-connection-types/",
         "/home/internet/xfinity-vs-att-which-internet-provider-is-best/",
         "/home/internet/xfinity-vs-verizon-which-internet-provider-is-best/",
@@ -953,12 +1019,18 @@
         "/paid-content/news/why-you-need-a-cutting-edge-vpn-to-keep-you-safe-online/",
         "/paid-content/news/why-you-need-an-internet-provider-with-no-data-caps/",
         "/paid-content/samsung-micro-rgb-tvs-show-you-more-colors-than-ever-before/",
+        "/paid-content/t-mobile-5g-home-internet-gets-you-online-fast-with-no-technicians-or-contracts/",
+        "/paid-content/t-mobile-fiber-vs-cable-internet-why-ultra-fast-internet-is-worth-the-upgrade/",
+        "/paid-content/whats-a-good-casetify-case-for-my-next-iphone-a-complete-guide-to-practical-protection/",
         "/paid-content/when-can-kids-get-a-debit-card-heres-how-cash-app-handles-every-age/",
         "/paid-content/how-fast-should-your-home-internet-be/",
         "/paid-content/when-can-kids-get-a-debit-card-heres-how-cash-app-handles-every-age/",
         "/paid-content/cash-app-for-teens-safety-and-parental-controls/",
         "/paid-content/what-can-ray-ban-meta-ai-glasses-do-5-use-cases-for-your-everyday-routine/",
         "/paid-content/what-to-include-in-a-heart-health-daily-regimen-from-supplements-to-home-monitors/",
+        "/paid-content/why-the-samsung-galaxy-s26-ultra-feels-like-the-first-phone-truly-built-for-ai/",
+        "/tech/mobile/apple-iphone-17-event-september-2025-what-to-expect/",
+        "/tech/mobile/i-underestimated-workout-buddy-apples-playing-the-long-game-for-ai-coaching/",
         "/tech/mobile/samsung-galaxy-s26-and-s26-plus-hands-on-first-take/",
         "/tech/mobile/samsung-galaxy-s26-ultra-vs-galaxy-s26-and-s26-plus-flagship-specs-comparison/",
         "/tech/services-and-software/a-guide-to-data-removal-services-should-you-pay-for-privacy/",
@@ -984,7 +1056,7 @@
         "/videos/tax-breaks-you-might-miss-in-2026-and-how-to-find-them/"
       ],
       "total": 1,
-      "total_allow": 88
+      "total_allow": 96
     },
     "OAI-SearchBot": {
       "disallow": [
@@ -992,6 +1064,8 @@
       ],
       "allow": [
         "/home/internet/gigabit-internet-is-it-worth-splurging-for-a-faster-internet-plan/",
+        "/home/internet/how-to-spot-hidden-fees-and-save-money/",
+        "/home/internet/lag-free-internet-how-to-find-the-right-internet-speed-for-a-family-of-4-or-more/",
         "/home/internet/what-are-the-different-internet-connection-types/",
         "/home/internet/xfinity-vs-att-which-internet-provider-is-best/",
         "/home/internet/xfinity-vs-verizon-which-internet-provider-is-best/",
@@ -1050,12 +1124,18 @@
         "/paid-content/news/why-you-need-a-cutting-edge-vpn-to-keep-you-safe-online/",
         "/paid-content/news/why-you-need-an-internet-provider-with-no-data-caps/",
         "/paid-content/samsung-micro-rgb-tvs-show-you-more-colors-than-ever-before/",
+        "/paid-content/t-mobile-5g-home-internet-gets-you-online-fast-with-no-technicians-or-contracts/",
+        "/paid-content/t-mobile-fiber-vs-cable-internet-why-ultra-fast-internet-is-worth-the-upgrade/",
+        "/paid-content/whats-a-good-casetify-case-for-my-next-iphone-a-complete-guide-to-practical-protection/",
         "/paid-content/when-can-kids-get-a-debit-card-heres-how-cash-app-handles-every-age/",
         "/paid-content/how-fast-should-your-home-internet-be/",
         "/paid-content/when-can-kids-get-a-debit-card-heres-how-cash-app-handles-every-age/",
         "/paid-content/cash-app-for-teens-safety-and-parental-controls/",
         "/paid-content/what-can-ray-ban-meta-ai-glasses-do-5-use-cases-for-your-everyday-routine/",
         "/paid-content/what-to-include-in-a-heart-health-daily-regimen-from-supplements-to-home-monitors/",
+        "/paid-content/why-the-samsung-galaxy-s26-ultra-feels-like-the-first-phone-truly-built-for-ai/",
+        "/tech/mobile/apple-iphone-17-event-september-2025-what-to-expect/",
+        "/tech/mobile/i-underestimated-workout-buddy-apples-playing-the-long-game-for-ai-coaching/",
         "/tech/mobile/samsung-galaxy-s26-and-s26-plus-hands-on-first-take/",
         "/tech/mobile/samsung-galaxy-s26-ultra-vs-galaxy-s26-and-s26-plus-flagship-specs-comparison/",
         "/tech/services-and-software/a-guide-to-data-removal-services-should-you-pay-for-privacy/",
@@ -1081,7 +1161,7 @@
         "/videos/tax-breaks-you-might-miss-in-2026-and-how-to-find-them/"
       ],
       "total": 1,
-      "total_allow": 88
+      "total_allow": 96
     },
     "Omgilibot": {
       "disallow": [
@@ -1097,6 +1177,8 @@
       ],
       "allow": [
         "/home/internet/gigabit-internet-is-it-worth-splurging-for-a-faster-internet-plan/",
+        "/home/internet/how-to-spot-hidden-fees-and-save-money/",
+        "/home/internet/lag-free-internet-how-to-find-the-right-internet-speed-for-a-family-of-4-or-more/",
         "/home/internet/what-are-the-different-internet-connection-types/",
         "/home/internet/xfinity-vs-att-which-internet-provider-is-best/",
         "/home/internet/xfinity-vs-verizon-which-internet-provider-is-best/",
@@ -1155,12 +1237,18 @@
         "/paid-content/news/why-you-need-a-cutting-edge-vpn-to-keep-you-safe-online/",
         "/paid-content/news/why-you-need-an-internet-provider-with-no-data-caps/",
         "/paid-content/samsung-micro-rgb-tvs-show-you-more-colors-than-ever-before/",
+        "/paid-content/t-mobile-5g-home-internet-gets-you-online-fast-with-no-technicians-or-contracts/",
+        "/paid-content/t-mobile-fiber-vs-cable-internet-why-ultra-fast-internet-is-worth-the-upgrade/",
+        "/paid-content/whats-a-good-casetify-case-for-my-next-iphone-a-complete-guide-to-practical-protection/",
         "/paid-content/when-can-kids-get-a-debit-card-heres-how-cash-app-handles-every-age/",
         "/paid-content/how-fast-should-your-home-internet-be/",
         "/paid-content/when-can-kids-get-a-debit-card-heres-how-cash-app-handles-every-age/",
         "/paid-content/cash-app-for-teens-safety-and-parental-controls/",
         "/paid-content/what-can-ray-ban-meta-ai-glasses-do-5-use-cases-for-your-everyday-routine/",
         "/paid-content/what-to-include-in-a-heart-health-daily-regimen-from-supplements-to-home-monitors/",
+        "/paid-content/why-the-samsung-galaxy-s26-ultra-feels-like-the-first-phone-truly-built-for-ai/",
+        "/tech/mobile/apple-iphone-17-event-september-2025-what-to-expect/",
+        "/tech/mobile/i-underestimated-workout-buddy-apples-playing-the-long-game-for-ai-coaching/",
         "/tech/mobile/samsung-galaxy-s26-and-s26-plus-hands-on-first-take/",
         "/tech/mobile/samsung-galaxy-s26-ultra-vs-galaxy-s26-and-s26-plus-flagship-specs-comparison/",
         "/tech/services-and-software/a-guide-to-data-removal-services-should-you-pay-for-privacy/",
@@ -1186,7 +1274,7 @@
         "/videos/tax-breaks-you-might-miss-in-2026-and-how-to-find-them/"
       ],
       "total": 1,
-      "total_allow": 88
+      "total_allow": 96
     },
     "PerplexityBot": {
       "disallow": [
@@ -1194,6 +1282,8 @@
       ],
       "allow": [
         "/home/internet/gigabit-internet-is-it-worth-splurging-for-a-faster-internet-plan/",
+        "/home/internet/how-to-spot-hidden-fees-and-save-money/",
+        "/home/internet/lag-free-internet-how-to-find-the-right-internet-speed-for-a-family-of-4-or-more/",
         "/home/internet/what-are-the-different-internet-connection-types/",
         "/home/internet/xfinity-vs-att-which-internet-provider-is-best/",
         "/home/internet/xfinity-vs-verizon-which-internet-provider-is-best/",
@@ -1252,12 +1342,18 @@
         "/paid-content/news/why-you-need-a-cutting-edge-vpn-to-keep-you-safe-online/",
         "/paid-content/news/why-you-need-an-internet-provider-with-no-data-caps/",
         "/paid-content/samsung-micro-rgb-tvs-show-you-more-colors-than-ever-before/",
+        "/paid-content/t-mobile-5g-home-internet-gets-you-online-fast-with-no-technicians-or-contracts/",
+        "/paid-content/t-mobile-fiber-vs-cable-internet-why-ultra-fast-internet-is-worth-the-upgrade/",
+        "/paid-content/whats-a-good-casetify-case-for-my-next-iphone-a-complete-guide-to-practical-protection/",
         "/paid-content/when-can-kids-get-a-debit-card-heres-how-cash-app-handles-every-age/",
         "/paid-content/how-fast-should-your-home-internet-be/",
         "/paid-content/when-can-kids-get-a-debit-card-heres-how-cash-app-handles-every-age/",
         "/paid-content/cash-app-for-teens-safety-and-parental-controls/",
         "/paid-content/what-can-ray-ban-meta-ai-glasses-do-5-use-cases-for-your-everyday-routine/",
         "/paid-content/what-to-include-in-a-heart-health-daily-regimen-from-supplements-to-home-monitors/",
+        "/paid-content/why-the-samsung-galaxy-s26-ultra-feels-like-the-first-phone-truly-built-for-ai/",
+        "/tech/mobile/apple-iphone-17-event-september-2025-what-to-expect/",
+        "/tech/mobile/i-underestimated-workout-buddy-apples-playing-the-long-game-for-ai-coaching/",
         "/tech/mobile/samsung-galaxy-s26-and-s26-plus-hands-on-first-take/",
         "/tech/mobile/samsung-galaxy-s26-ultra-vs-galaxy-s26-and-s26-plus-flagship-specs-comparison/",
         "/tech/services-and-software/a-guide-to-data-removal-services-should-you-pay-for-privacy/",
@@ -1283,7 +1379,7 @@
         "/videos/tax-breaks-you-might-miss-in-2026-and-how-to-find-them/"
       ],
       "total": 1,
-      "total_allow": 88
+      "total_allow": 96
     },
     "Timpibot": {
       "disallow": [
@@ -1291,6 +1387,8 @@
       ],
       "allow": [
         "/home/internet/gigabit-internet-is-it-worth-splurging-for-a-faster-internet-plan/",
+        "/home/internet/how-to-spot-hidden-fees-and-save-money/",
+        "/home/internet/lag-free-internet-how-to-find-the-right-internet-speed-for-a-family-of-4-or-more/",
         "/home/internet/what-are-the-different-internet-connection-types/",
         "/home/internet/xfinity-vs-att-which-internet-provider-is-best/",
         "/home/internet/xfinity-vs-verizon-which-internet-provider-is-best/",
@@ -1349,12 +1447,18 @@
         "/paid-content/news/why-you-need-a-cutting-edge-vpn-to-keep-you-safe-online/",
         "/paid-content/news/why-you-need-an-internet-provider-with-no-data-caps/",
         "/paid-content/samsung-micro-rgb-tvs-show-you-more-colors-than-ever-before/",
+        "/paid-content/t-mobile-5g-home-internet-gets-you-online-fast-with-no-technicians-or-contracts/",
+        "/paid-content/t-mobile-fiber-vs-cable-internet-why-ultra-fast-internet-is-worth-the-upgrade/",
+        "/paid-content/whats-a-good-casetify-case-for-my-next-iphone-a-complete-guide-to-practical-protection/",
         "/paid-content/when-can-kids-get-a-debit-card-heres-how-cash-app-handles-every-age/",
         "/paid-content/how-fast-should-your-home-internet-be/",
         "/paid-content/when-can-kids-get-a-debit-card-heres-how-cash-app-handles-every-age/",
         "/paid-content/cash-app-for-teens-safety-and-parental-controls/",
         "/paid-content/what-can-ray-ban-meta-ai-glasses-do-5-use-cases-for-your-everyday-routine/",
         "/paid-content/what-to-include-in-a-heart-health-daily-regimen-from-supplements-to-home-monitors/",
+        "/paid-content/why-the-samsung-galaxy-s26-ultra-feels-like-the-first-phone-truly-built-for-ai/",
+        "/tech/mobile/apple-iphone-17-event-september-2025-what-to-expect/",
+        "/tech/mobile/i-underestimated-workout-buddy-apples-playing-the-long-game-for-ai-coaching/",
         "/tech/mobile/samsung-galaxy-s26-and-s26-plus-hands-on-first-take/",
         "/tech/mobile/samsung-galaxy-s26-ultra-vs-galaxy-s26-and-s26-plus-flagship-specs-comparison/",
         "/tech/services-and-software/a-guide-to-data-removal-services-should-you-pay-for-privacy/",
@@ -1380,7 +1484,7 @@
         "/videos/tax-breaks-you-might-miss-in-2026-and-how-to-find-them/"
       ],
       "total": 1,
-      "total_allow": 88
+      "total_allow": 96
     },
     "YouBot": {
       "disallow": [
@@ -1388,6 +1492,8 @@
       ],
       "allow": [
         "/home/internet/gigabit-internet-is-it-worth-splurging-for-a-faster-internet-plan/",
+        "/home/internet/how-to-spot-hidden-fees-and-save-money/",
+        "/home/internet/lag-free-internet-how-to-find-the-right-internet-speed-for-a-family-of-4-or-more/",
         "/home/internet/what-are-the-different-internet-connection-types/",
         "/home/internet/xfinity-vs-att-which-internet-provider-is-best/",
         "/home/internet/xfinity-vs-verizon-which-internet-provider-is-best/",
@@ -1446,12 +1552,18 @@
         "/paid-content/news/why-you-need-a-cutting-edge-vpn-to-keep-you-safe-online/",
         "/paid-content/news/why-you-need-an-internet-provider-with-no-data-caps/",
         "/paid-content/samsung-micro-rgb-tvs-show-you-more-colors-than-ever-before/",
+        "/paid-content/t-mobile-5g-home-internet-gets-you-online-fast-with-no-technicians-or-contracts/",
+        "/paid-content/t-mobile-fiber-vs-cable-internet-why-ultra-fast-internet-is-worth-the-upgrade/",
+        "/paid-content/whats-a-good-casetify-case-for-my-next-iphone-a-complete-guide-to-practical-protection/",
         "/paid-content/when-can-kids-get-a-debit-card-heres-how-cash-app-handles-every-age/",
         "/paid-content/how-fast-should-your-home-internet-be/",
         "/paid-content/when-can-kids-get-a-debit-card-heres-how-cash-app-handles-every-age/",
         "/paid-content/cash-app-for-teens-safety-and-parental-controls/",
         "/paid-content/what-can-ray-ban-meta-ai-glasses-do-5-use-cases-for-your-everyday-routine/",
         "/paid-content/what-to-include-in-a-heart-health-daily-regimen-from-supplements-to-home-monitors/",
+        "/paid-content/why-the-samsung-galaxy-s26-ultra-feels-like-the-first-phone-truly-built-for-ai/",
+        "/tech/mobile/apple-iphone-17-event-september-2025-what-to-expect/",
+        "/tech/mobile/i-underestimated-workout-buddy-apples-playing-the-long-game-for-ai-coaching/",
         "/tech/mobile/samsung-galaxy-s26-and-s26-plus-hands-on-first-take/",
         "/tech/mobile/samsung-galaxy-s26-ultra-vs-galaxy-s26-and-s26-plus-flagship-specs-comparison/",
         "/tech/services-and-software/a-guide-to-data-removal-services-should-you-pay-for-privacy/",
@@ -1477,7 +1589,7 @@
         "/videos/tax-breaks-you-might-miss-in-2026-and-how-to-find-them/"
       ],
       "total": 1,
-      "total_allow": 88
+      "total_allow": 96
     },
     "anthropic-ai": {
       "disallow": [
@@ -1485,6 +1597,8 @@
       ],
       "allow": [
         "/home/internet/gigabit-internet-is-it-worth-splurging-for-a-faster-internet-plan/",
+        "/home/internet/how-to-spot-hidden-fees-and-save-money/",
+        "/home/internet/lag-free-internet-how-to-find-the-right-internet-speed-for-a-family-of-4-or-more/",
         "/home/internet/what-are-the-different-internet-connection-types/",
         "/home/internet/xfinity-vs-att-which-internet-provider-is-best/",
         "/home/internet/xfinity-vs-verizon-which-internet-provider-is-best/",
@@ -1543,12 +1657,18 @@
         "/paid-content/news/why-you-need-a-cutting-edge-vpn-to-keep-you-safe-online/",
         "/paid-content/news/why-you-need-an-internet-provider-with-no-data-caps/",
         "/paid-content/samsung-micro-rgb-tvs-show-you-more-colors-than-ever-before/",
+        "/paid-content/t-mobile-5g-home-internet-gets-you-online-fast-with-no-technicians-or-contracts/",
+        "/paid-content/t-mobile-fiber-vs-cable-internet-why-ultra-fast-internet-is-worth-the-upgrade/",
+        "/paid-content/whats-a-good-casetify-case-for-my-next-iphone-a-complete-guide-to-practical-protection/",
         "/paid-content/when-can-kids-get-a-debit-card-heres-how-cash-app-handles-every-age/",
         "/paid-content/how-fast-should-your-home-internet-be/",
         "/paid-content/when-can-kids-get-a-debit-card-heres-how-cash-app-handles-every-age/",
         "/paid-content/cash-app-for-teens-safety-and-parental-controls/",
         "/paid-content/what-can-ray-ban-meta-ai-glasses-do-5-use-cases-for-your-everyday-routine/",
         "/paid-content/what-to-include-in-a-heart-health-daily-regimen-from-supplements-to-home-monitors/",
+        "/paid-content/why-the-samsung-galaxy-s26-ultra-feels-like-the-first-phone-truly-built-for-ai/",
+        "/tech/mobile/apple-iphone-17-event-september-2025-what-to-expect/",
+        "/tech/mobile/i-underestimated-workout-buddy-apples-playing-the-long-game-for-ai-coaching/",
         "/tech/mobile/samsung-galaxy-s26-and-s26-plus-hands-on-first-take/",
         "/tech/mobile/samsung-galaxy-s26-ultra-vs-galaxy-s26-and-s26-plus-flagship-specs-comparison/",
         "/tech/services-and-software/a-guide-to-data-removal-services-should-you-pay-for-privacy/",
@@ -1574,7 +1694,7 @@
         "/videos/tax-breaks-you-might-miss-in-2026-and-how-to-find-them/"
       ],
       "total": 1,
-      "total_allow": 88
+      "total_allow": 96
     },
     "cohere-ai": {
       "disallow": [
@@ -1582,6 +1702,8 @@
       ],
       "allow": [
         "/home/internet/gigabit-internet-is-it-worth-splurging-for-a-faster-internet-plan/",
+        "/home/internet/how-to-spot-hidden-fees-and-save-money/",
+        "/home/internet/lag-free-internet-how-to-find-the-right-internet-speed-for-a-family-of-4-or-more/",
         "/home/internet/what-are-the-different-internet-connection-types/",
         "/home/internet/xfinity-vs-att-which-internet-provider-is-best/",
         "/home/internet/xfinity-vs-verizon-which-internet-provider-is-best/",
@@ -1640,12 +1762,18 @@
         "/paid-content/news/why-you-need-a-cutting-edge-vpn-to-keep-you-safe-online/",
         "/paid-content/news/why-you-need-an-internet-provider-with-no-data-caps/",
         "/paid-content/samsung-micro-rgb-tvs-show-you-more-colors-than-ever-before/",
+        "/paid-content/t-mobile-5g-home-internet-gets-you-online-fast-with-no-technicians-or-contracts/",
+        "/paid-content/t-mobile-fiber-vs-cable-internet-why-ultra-fast-internet-is-worth-the-upgrade/",
+        "/paid-content/whats-a-good-casetify-case-for-my-next-iphone-a-complete-guide-to-practical-protection/",
         "/paid-content/when-can-kids-get-a-debit-card-heres-how-cash-app-handles-every-age/",
         "/paid-content/how-fast-should-your-home-internet-be/",
         "/paid-content/when-can-kids-get-a-debit-card-heres-how-cash-app-handles-every-age/",
         "/paid-content/cash-app-for-teens-safety-and-parental-controls/",
         "/paid-content/what-can-ray-ban-meta-ai-glasses-do-5-use-cases-for-your-everyday-routine/",
         "/paid-content/what-to-include-in-a-heart-health-daily-regimen-from-supplements-to-home-monitors/",
+        "/paid-content/why-the-samsung-galaxy-s26-ultra-feels-like-the-first-phone-truly-built-for-ai/",
+        "/tech/mobile/apple-iphone-17-event-september-2025-what-to-expect/",
+        "/tech/mobile/i-underestimated-workout-buddy-apples-playing-the-long-game-for-ai-coaching/",
         "/tech/mobile/samsung-galaxy-s26-and-s26-plus-hands-on-first-take/",
         "/tech/mobile/samsung-galaxy-s26-ultra-vs-galaxy-s26-and-s26-plus-flagship-specs-comparison/",
         "/tech/services-and-software/a-guide-to-data-removal-services-should-you-pay-for-privacy/",
@@ -1671,7 +1799,7 @@
         "/videos/tax-breaks-you-might-miss-in-2026-and-how-to-find-them/"
       ],
       "total": 1,
-      "total_allow": 88
+      "total_allow": 96
     },
     "cohere-training-data-crawler": {
       "disallow": [
@@ -1679,6 +1807,8 @@
       ],
       "allow": [
         "/home/internet/gigabit-internet-is-it-worth-splurging-for-a-faster-internet-plan/",
+        "/home/internet/how-to-spot-hidden-fees-and-save-money/",
+        "/home/internet/lag-free-internet-how-to-find-the-right-internet-speed-for-a-family-of-4-or-more/",
         "/home/internet/what-are-the-different-internet-connection-types/",
         "/home/internet/xfinity-vs-att-which-internet-provider-is-best/",
         "/home/internet/xfinity-vs-verizon-which-internet-provider-is-best/",
@@ -1737,12 +1867,18 @@
         "/paid-content/news/why-you-need-a-cutting-edge-vpn-to-keep-you-safe-online/",
         "/paid-content/news/why-you-need-an-internet-provider-with-no-data-caps/",
         "/paid-content/samsung-micro-rgb-tvs-show-you-more-colors-than-ever-before/",
+        "/paid-content/t-mobile-5g-home-internet-gets-you-online-fast-with-no-technicians-or-contracts/",
+        "/paid-content/t-mobile-fiber-vs-cable-internet-why-ultra-fast-internet-is-worth-the-upgrade/",
+        "/paid-content/whats-a-good-casetify-case-for-my-next-iphone-a-complete-guide-to-practical-protection/",
         "/paid-content/when-can-kids-get-a-debit-card-heres-how-cash-app-handles-every-age/",
         "/paid-content/how-fast-should-your-home-internet-be/",
         "/paid-content/when-can-kids-get-a-debit-card-heres-how-cash-app-handles-every-age/",
         "/paid-content/cash-app-for-teens-safety-and-parental-controls/",
         "/paid-content/what-can-ray-ban-meta-ai-glasses-do-5-use-cases-for-your-everyday-routine/",
         "/paid-content/what-to-include-in-a-heart-health-daily-regimen-from-supplements-to-home-monitors/",
+        "/paid-content/why-the-samsung-galaxy-s26-ultra-feels-like-the-first-phone-truly-built-for-ai/",
+        "/tech/mobile/apple-iphone-17-event-september-2025-what-to-expect/",
+        "/tech/mobile/i-underestimated-workout-buddy-apples-playing-the-long-game-for-ai-coaching/",
         "/tech/mobile/samsung-galaxy-s26-and-s26-plus-hands-on-first-take/",
         "/tech/mobile/samsung-galaxy-s26-ultra-vs-galaxy-s26-and-s26-plus-flagship-specs-comparison/",
         "/tech/services-and-software/a-guide-to-data-removal-services-should-you-pay-for-privacy/",
@@ -1768,7 +1904,7 @@
         "/videos/tax-breaks-you-might-miss-in-2026-and-how-to-find-them/"
       ],
       "total": 1,
-      "total_allow": 88
+      "total_allow": 96
     },
     "meta-externalagent": {
       "disallow": [
@@ -1776,6 +1912,8 @@
       ],
       "allow": [
         "/home/internet/gigabit-internet-is-it-worth-splurging-for-a-faster-internet-plan/",
+        "/home/internet/how-to-spot-hidden-fees-and-save-money/",
+        "/home/internet/lag-free-internet-how-to-find-the-right-internet-speed-for-a-family-of-4-or-more/",
         "/home/internet/what-are-the-different-internet-connection-types/",
         "/home/internet/xfinity-vs-att-which-internet-provider-is-best/",
         "/home/internet/xfinity-vs-verizon-which-internet-provider-is-best/",
@@ -1834,12 +1972,18 @@
         "/paid-content/news/why-you-need-a-cutting-edge-vpn-to-keep-you-safe-online/",
         "/paid-content/news/why-you-need-an-internet-provider-with-no-data-caps/",
         "/paid-content/samsung-micro-rgb-tvs-show-you-more-colors-than-ever-before/",
+        "/paid-content/t-mobile-5g-home-internet-gets-you-online-fast-with-no-technicians-or-contracts/",
+        "/paid-content/t-mobile-fiber-vs-cable-internet-why-ultra-fast-internet-is-worth-the-upgrade/",
+        "/paid-content/whats-a-good-casetify-case-for-my-next-iphone-a-complete-guide-to-practical-protection/",
         "/paid-content/when-can-kids-get-a-debit-card-heres-how-cash-app-handles-every-age/",
         "/paid-content/how-fast-should-your-home-internet-be/",
         "/paid-content/when-can-kids-get-a-debit-card-heres-how-cash-app-handles-every-age/",
         "/paid-content/cash-app-for-teens-safety-and-parental-controls/",
         "/paid-content/what-can-ray-ban-meta-ai-glasses-do-5-use-cases-for-your-everyday-routine/",
         "/paid-content/what-to-include-in-a-heart-health-daily-regimen-from-supplements-to-home-monitors/",
+        "/paid-content/why-the-samsung-galaxy-s26-ultra-feels-like-the-first-phone-truly-built-for-ai/",
+        "/tech/mobile/apple-iphone-17-event-september-2025-what-to-expect/",
+        "/tech/mobile/i-underestimated-workout-buddy-apples-playing-the-long-game-for-ai-coaching/",
         "/tech/mobile/samsung-galaxy-s26-and-s26-plus-hands-on-first-take/",
         "/tech/mobile/samsung-galaxy-s26-ultra-vs-galaxy-s26-and-s26-plus-flagship-specs-comparison/",
         "/tech/services-and-software/a-guide-to-data-removal-services-should-you-pay-for-privacy/",
@@ -1865,7 +2009,7 @@
         "/videos/tax-breaks-you-might-miss-in-2026-and-how-to-find-them/"
       ],
       "total": 1,
-      "total_allow": 88
+      "total_allow": 96
     },
     "meta-externalfetcher": {
       "disallow": [
@@ -1873,6 +2017,8 @@
       ],
       "allow": [
         "/home/internet/gigabit-internet-is-it-worth-splurging-for-a-faster-internet-plan/",
+        "/home/internet/how-to-spot-hidden-fees-and-save-money/",
+        "/home/internet/lag-free-internet-how-to-find-the-right-internet-speed-for-a-family-of-4-or-more/",
         "/home/internet/what-are-the-different-internet-connection-types/",
         "/home/internet/xfinity-vs-att-which-internet-provider-is-best/",
         "/home/internet/xfinity-vs-verizon-which-internet-provider-is-best/",
@@ -1931,12 +2077,18 @@
         "/paid-content/news/why-you-need-a-cutting-edge-vpn-to-keep-you-safe-online/",
         "/paid-content/news/why-you-need-an-internet-provider-with-no-data-caps/",
         "/paid-content/samsung-micro-rgb-tvs-show-you-more-colors-than-ever-before/",
+        "/paid-content/t-mobile-5g-home-internet-gets-you-online-fast-with-no-technicians-or-contracts/",
+        "/paid-content/t-mobile-fiber-vs-cable-internet-why-ultra-fast-internet-is-worth-the-upgrade/",
+        "/paid-content/whats-a-good-casetify-case-for-my-next-iphone-a-complete-guide-to-practical-protection/",
         "/paid-content/when-can-kids-get-a-debit-card-heres-how-cash-app-handles-every-age/",
         "/paid-content/how-fast-should-your-home-internet-be/",
         "/paid-content/when-can-kids-get-a-debit-card-heres-how-cash-app-handles-every-age/",
         "/paid-content/cash-app-for-teens-safety-and-parental-controls/",
         "/paid-content/what-can-ray-ban-meta-ai-glasses-do-5-use-cases-for-your-everyday-routine/",
         "/paid-content/what-to-include-in-a-heart-health-daily-regimen-from-supplements-to-home-monitors/",
+        "/paid-content/why-the-samsung-galaxy-s26-ultra-feels-like-the-first-phone-truly-built-for-ai/",
+        "/tech/mobile/apple-iphone-17-event-september-2025-what-to-expect/",
+        "/tech/mobile/i-underestimated-workout-buddy-apples-playing-the-long-game-for-ai-coaching/",
         "/tech/mobile/samsung-galaxy-s26-and-s26-plus-hands-on-first-take/",
         "/tech/mobile/samsung-galaxy-s26-ultra-vs-galaxy-s26-and-s26-plus-flagship-specs-comparison/",
         "/tech/services-and-software/a-guide-to-data-removal-services-should-you-pay-for-privacy/",
@@ -1962,7 +2114,7 @@
         "/videos/tax-breaks-you-might-miss-in-2026-and-how-to-find-them/"
       ],
       "total": 1,
-      "total_allow": 88
+      "total_allow": 96
     }
   }
 }

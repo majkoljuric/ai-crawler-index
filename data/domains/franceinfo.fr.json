@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-09-14T11:32:39+00:00",
+  "checked_at": "2026-09-21T11:46:21+00:00",
   "domain": "franceinfo.fr",
   "category": "other",
   "robots_url": "https://franceinfo.fr/robots.txt",
@@ -22,16 +22,16 @@
     "Perplexity-User": "blocked",
     "cohere-ai": "blocked",
     "cohere-training-data-crawler": "blocked",
-    "Diffbot": "partial",
-    "Omgilibot": "partial",
+    "Diffbot": "blocked",
+    "Omgilibot": "blocked",
     "Amazonbot": "blocked",
     "meta-externalagent": "blocked",
-    "meta-externalfetcher": "partial",
-    "Timpibot": "partial",
-    "YouBot": "partial",
-    "ImagesiftBot": "partial",
-    "Ai2Bot": "partial",
-    "DuckAssistBot": "partial"
+    "meta-externalfetcher": "blocked",
+    "Timpibot": "blocked",
+    "YouBot": "blocked",
+    "ImagesiftBot": "blocked",
+    "Ai2Bot": "blocked",
+    "DuckAssistBot": "blocked"
   },
   "named": [
     "GPTBot",
@@ -48,8 +48,16 @@
     "Perplexity-User",
     "cohere-ai",
     "cohere-training-data-crawler",
+    "Diffbot",
+    "Omgilibot",
     "Amazonbot",
-    "meta-externalagent"
+    "meta-externalagent",
+    "meta-externalfetcher",
+    "Timpibot",
+    "YouBot",
+    "ImagesiftBot",
+    "Ai2Bot",
+    "DuckAssistBot"
   ],
   "rules": {
     "*": {
@@ -151,6 +159,22 @@
       "total": 1,
       "total_allow": 0
     },
+    "Diffbot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "DuckAssistBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
     "GPTBot": {
       "disallow": [
         "/"
@@ -167,7 +191,23 @@
       "total": 1,
       "total_allow": 0
     },
+    "ImagesiftBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
     "OAI-SearchBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "Omgilibot": {
       "disallow": [
         "/"
       ],
@@ -184,6 +224,14 @@
       "total_allow": 0
     },
     "PerplexityBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "YouBot": {
       "disallow": [
         "/"
       ],
@@ -208,6 +256,22 @@
       "total_allow": 0
     },
     "cohere-training-data-crawler": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "meta-externalagent": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "meta-externalfetcher": {
       "disallow": [
         "/"
       ],

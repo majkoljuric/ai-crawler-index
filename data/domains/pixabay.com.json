@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-09-14T11:32:39+00:00",
+  "checked_at": "2026-09-21T11:46:21+00:00",
   "domain": "pixabay.com",
   "category": "other",
   "robots_url": "https://pixabay.com/robots.txt",
@@ -173,10 +173,14 @@
       "allow": [
         "/api/docs/",
         "/static/*.*",
+        "/*/search/forum/",
+        "/*/search/feeds/",
+        "/*/search/like/",
+        "/*/search/bootstrap/",
         "/"
       ],
       "total": 125,
-      "total_allow": 3
+      "total_allow": 7
     },
     "Applebot-Extended": {
       "disallow": [
