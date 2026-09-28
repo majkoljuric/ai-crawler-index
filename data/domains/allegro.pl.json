@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-09-21T11:46:21+00:00",
+  "checked_at": "2026-09-28T12:41:37+00:00",
   "domain": "allegro.pl",
   "category": "software",
   "robots_url": "https://allegro.pl/robots.txt",
@@ -68,14 +68,15 @@
         "/*?*=*&*=*&*=*&*=*&*=*&*=*&*=*&*=*&*=*&*=*&*",
         "/kategoria/*?*=*&*=*&*=*&*=*&*=*&*=*&*",
         "/moje-allegro/",
-        "/transakcja/"
+        "/transakcja/",
+        "/z-drugiej-reki"
       ],
       "allow": [
         "/uzytkownik/notfound?string*",
         "/uzytkownik/*bi_s=archiwum_allegro*",
         "/kategoria/*bi_s=archiwum_allegro*"
       ],
-      "total": 32,
+      "total": 33,
       "total_allow": 3
     }
   }

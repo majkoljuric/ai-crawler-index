@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-09-21T11:46:21+00:00",
+  "checked_at": "2026-09-28T12:41:37+00:00",
   "domain": "dailymail.co.uk",
   "category": "news",
   "robots_url": "https://dailymail.co.uk/robots.txt",
@@ -93,121 +93,110 @@
         "/"
       ],
       "allow": [
-        "/buyline/",
         "/*_.html"
       ],
       "total": 1,
-      "total_allow": 2
+      "total_allow": 1
     },
     "Applebot-Extended": {
       "disallow": [
         "/"
       ],
       "allow": [
-        "/buyline/",
         "/*_.html"
       ],
       "total": 1,
-      "total_allow": 2
+      "total_allow": 1
     },
     "Bytespider": {
       "disallow": [
         "/"
       ],
       "allow": [
-        "/buyline/",
         "/*_.html"
       ],
       "total": 1,
-      "total_allow": 2
+      "total_allow": 1
     },
     "CCBot": {
       "disallow": [
         "/"
       ],
       "allow": [
-        "/buyline/",
         "/*_.html"
       ],
       "total": 1,
-      "total_allow": 2
+      "total_allow": 1
     },
     "ChatGPT-User": {
       "disallow": [
         "/"
       ],
       "allow": [
-        "/buyline/",
         "/*_.html"
       ],
       "total": 1,
-      "total_allow": 2
+      "total_allow": 1
     },
     "Claude-Web": {
       "disallow": [
         "/"
       ],
       "allow": [
-        "/buyline/",
         "/*_.html"
       ],
       "total": 1,
-      "total_allow": 2
+      "total_allow": 1
     },
     "ClaudeBot": {
       "disallow": [
         "/"
       ],
       "allow": [
-        "/buyline/",
         "/*_.html"
       ],
       "total": 1,
-      "total_allow": 2
+      "total_allow": 1
     },
     "Diffbot": {
       "disallow": [
         "/"
       ],
       "allow": [
-        "/buyline/",
         "/*_.html"
       ],
       "total": 1,
-      "total_allow": 2
+      "total_allow": 1
     },
     "DuckAssistBot": {
       "disallow": [
         "/"
       ],
       "allow": [
-        "/buyline/",
         "/*_.html"
       ],
       "total": 1,
-      "total_allow": 2
+      "total_allow": 1
     },
     "GPTBot": {
       "disallow": [
         "/"
       ],
       "allow": [
-        "/buyline/",
         "/*_.html"
       ],
       "total": 1,
-      "total_allow": 2
+      "total_allow": 1
     },
     "Google-Extended": {
       "disallow": [
         "/"
       ],
       "allow": [
-        "/buyline/",
         "/*_.html"
       ],
       "total": 1,
-      "total_allow": 2
+      "total_allow": 1
     },
     "GoogleOther": {
       "disallow": [],
@@ -222,88 +211,80 @@
         "/"
       ],
       "allow": [
-        "/buyline/",
         "/*_.html"
       ],
       "total": 1,
-      "total_allow": 2
+      "total_allow": 1
     },
     "OAI-SearchBot": {
       "disallow": [
         "/"
       ],
       "allow": [
-        "/buyline/",
         "/*_.html"
       ],
       "total": 1,
-      "total_allow": 2
+      "total_allow": 1
     },
     "Perplexity-User": {
       "disallow": [
         "/"
       ],
       "allow": [
-        "/buyline/",
         "/*_.html"
       ],
       "total": 1,
-      "total_allow": 2
+      "total_allow": 1
     },
     "PerplexityBot": {
       "disallow": [
         "/"
       ],
       "allow": [
-        "/buyline/",
         "/*_.html"
       ],
       "total": 1,
-      "total_allow": 2
+      "total_allow": 1
     },
     "Timpibot": {
       "disallow": [
         "/"
       ],
       "allow": [
-        "/buyline/",
         "/*_.html"
       ],
       "total": 1,
-      "total_allow": 2
+      "total_allow": 1
     },
     "YouBot": {
       "disallow": [
         "/"
       ],
       "allow": [
-        "/buyline/",
         "/*_.html"
       ],
       "total": 1,
-      "total_allow": 2
+      "total_allow": 1
     },
     "anthropic-ai": {
       "disallow": [
         "/"
       ],
       "allow": [
-        "/buyline/",
         "/*_.html"
       ],
       "total": 1,
-      "total_allow": 2
+      "total_allow": 1
     },
     "cohere-ai": {
       "disallow": [
         "/"
       ],
       "allow": [
-        "/buyline/",
         "/*_.html"
       ],
       "total": 1,
-      "total_allow": 2
+      "total_allow": 1
     }
   }
 }

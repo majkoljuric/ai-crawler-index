@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-09-21T11:46:21+00:00",
+  "checked_at": "2026-09-28T12:41:37+00:00",
   "domain": "aboutads.info",
   "category": "other",
   "robots_url": "https://aboutads.info/robots.txt",
-  "http_status": 200,
+  "http_status": 202,
   "fetch_error": null,
   "bots": {
     "GPTBot": "allowed",

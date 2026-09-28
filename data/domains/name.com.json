@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-09-21T11:46:21+00:00",
+  "checked_at": "2026-09-28T12:41:37+00:00",
   "domain": "name.com",
   "category": "other",
   "robots_url": "https://name.com/robots.txt",
@@ -25,7 +25,7 @@
     "Diffbot": "partial",
     "Omgilibot": "partial",
     "Amazonbot": "partial",
-    "meta-externalagent": "partial",
+    "meta-externalagent": "blocked",
     "meta-externalfetcher": "partial",
     "Timpibot": "partial",
     "YouBot": "partial",
@@ -33,7 +33,9 @@
     "Ai2Bot": "partial",
     "DuckAssistBot": "partial"
   },
-  "named": [],
+  "named": [
+    "meta-externalagent"
+  ],
   "rules": {
     "*": {
       "disallow": [
@@ -120,6 +122,14 @@
       ],
       "total": 76,
       "total_allow": 2
+    },
+    "meta-externalagent": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
     }
   }
 }

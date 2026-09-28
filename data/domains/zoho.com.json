@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-09-21T11:46:21+00:00",
+  "checked_at": "2026-09-28T12:41:37+00:00",
   "domain": "zoho.com",
   "category": "other",
   "robots_url": "https://zoho.com/robots.txt",
@@ -119,8 +119,7 @@
         "/store/marketing-agency/help/",
         "/us/payroll/v1/help/",
         "/sa/payroll/",
-        "/cards/",
-        "/en-gb/payroll/",
+        "/uk/payroll/",
         "/sites/zweb/images/crm/sales-cadence.pdf",
         "/sites/zweb/images/workplace/pdf/saas-affiliate-marketing.pdf",
         "/sites/zweb/images/workplace/pdf/affiliate-marketing-guide.pdf",
@@ -150,7 +149,7 @@
         "*/crm/lp/",
         "/.well-known/"
       ],
-      "total": 108,
+      "total": 107,
       "total_allow": 2
     }
   }

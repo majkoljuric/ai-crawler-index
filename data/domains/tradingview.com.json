@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-09-21T11:46:21+00:00",
+  "checked_at": "2026-09-28T12:41:37+00:00",
   "domain": "tradingview.com",
   "category": "other",
   "robots_url": "https://tradingview.com/robots.txt",
@@ -34,6 +34,8 @@
     "DuckAssistBot": "partial"
   },
   "named": [
+    "ChatGPT-User",
+    "OAI-SearchBot",
     "ClaudeBot",
     "Google-Extended",
     "GoogleOther",
@@ -117,6 +119,22 @@
       "total": 9,
       "total_allow": 0
     },
+    "ChatGPT-User": {
+      "disallow": [
+        "/ideas/*",
+        "/scripts/*",
+        "/script/*",
+        "/v/*",
+        "/symbols/*/minds/*",
+        "/u/*",
+        "/chat/*",
+        "/chart/*",
+        "/watchlists/*"
+      ],
+      "allow": [],
+      "total": 9,
+      "total_allow": 0
+    },
     "ClaudeBot": {
       "disallow": [
         "/ideas/*",
@@ -150,6 +168,22 @@
       "total_allow": 0
     },
     "GoogleOther": {
+      "disallow": [
+        "/ideas/*",
+        "/scripts/*",
+        "/script/*",
+        "/v/*",
+        "/symbols/*/minds/*",
+        "/u/*",
+        "/chat/*",
+        "/chart/*",
+        "/watchlists/*"
+      ],
+      "allow": [],
+      "total": 9,
+      "total_allow": 0
+    },
+    "OAI-SearchBot": {
       "disallow": [
         "/ideas/*",
         "/scripts/*",

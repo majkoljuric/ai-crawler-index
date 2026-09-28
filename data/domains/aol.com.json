@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-09-21T11:46:21+00:00",
+  "checked_at": "2026-09-28T12:41:37+00:00",
   "domain": "aol.com",
   "category": "software",
   "robots_url": "https://aol.com/robots.txt",
@@ -8,7 +8,7 @@
   "fetch_error": null,
   "bots": {
     "GPTBot": "blocked",
-    "ChatGPT-User": "blocked",
+    "ChatGPT-User": "partial",
     "OAI-SearchBot": "partial",
     "ClaudeBot": "blocked",
     "Claude-Web": "blocked",
@@ -18,7 +18,7 @@
     "Applebot-Extended": "partial",
     "CCBot": "blocked",
     "Bytespider": "blocked",
-    "PerplexityBot": "blocked",
+    "PerplexityBot": "partial",
     "Perplexity-User": "partial",
     "cohere-ai": "blocked",
     "cohere-training-data-crawler": "partial",
@@ -94,11 +94,29 @@
     },
     "ChatGPT-User": {
       "disallow": [
+        "/forward",
+        "/traffic",
+        "/mm_track",
+        "/dl_track",
+        "/_uac/adpage.html",
+        "/api/",
+        "/amp-proxy/",
+        "/auth",
+        "/login",
+        "/logout",
+        "/config",
+        "/_/authenticate/",
+        "/video/play/",
+        "/m/",
+        "/article/m/",
+        "/metrics/pageView",
+        "/game/playUpdate"
+      ],
+      "allow": [
         "/"
       ],
-      "allow": [],
-      "total": 1,
-      "total_allow": 0
+      "total": 17,
+      "total_allow": 1
     },
     "Claude-Web": {
       "disallow": [
@@ -150,11 +168,29 @@
     },
     "PerplexityBot": {
       "disallow": [
+        "/forward",
+        "/traffic",
+        "/mm_track",
+        "/dl_track",
+        "/_uac/adpage.html",
+        "/api/",
+        "/amp-proxy/",
+        "/auth",
+        "/login",
+        "/logout",
+        "/config",
+        "/_/authenticate/",
+        "/video/play/",
+        "/m/",
+        "/article/m/",
+        "/metrics/pageView",
+        "/game/playUpdate"
+      ],
+      "allow": [
         "/"
       ],
-      "allow": [],
-      "total": 1,
-      "total_allow": 0
+      "total": 17,
+      "total_allow": 1
     },
     "YouBot": {
       "disallow": [

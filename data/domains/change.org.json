@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-09-21T11:46:21+00:00",
+  "checked_at": "2026-09-28T12:41:37+00:00",
   "domain": "change.org",
   "category": "nonprofit",
   "robots_url": "https://change.org/robots.txt",
@@ -86,10 +86,6 @@
         "/ambassadors/terms?*",
         "/decision-maker/*$",
         "/decision-maker/*?*",
-        "/decision-makers/*/admin_accounts$",
-        "/decision-makers/*/admin_accounts?*",
-        "/decision-makers/*/edit$",
-        "/decision-makers/*/edit?*",
         "/login_or_join$",
         "/login_or_join?*",
         "/member$",
@@ -160,6 +156,8 @@
         "/p/*/signed-petition-home?*",
         "/p/*/sponsors/new$",
         "/p/*/sponsors/new?*",
+        "/p/*/start-strong$",
+        "/p/*/start-strong?*",
         "/p/*/starter-onboarding/*$",
         "/p/*/starter-onboarding/*?*",
         "/p/*/u/*/edit$",
@@ -196,7 +194,7 @@
         "/verify_your_email?*"
       ],
       "allow": [],
-      "total": 157,
+      "total": 155,
       "total_allow": 0
     }
   }

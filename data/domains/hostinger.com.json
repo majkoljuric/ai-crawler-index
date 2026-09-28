@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-09-21T11:46:21+00:00",
+  "checked_at": "2026-09-28T12:41:37+00:00",
   "domain": "hostinger.com",
   "category": "software",
   "robots_url": "https://hostinger.com/robots.txt",
@@ -71,6 +71,7 @@
         "/cdn-cgi/",
         "/cake/",
         "/domain-name-results",
+        "/transfer-domain-results",
         "/special/000webhost",
         "/special/webhost",
         "/ae/special/000webhost",
@@ -322,7 +323,7 @@
         "/uk/tutorials/?s=*"
       ],
       "allow": [],
-      "total": 269,
+      "total": 270,
       "total_allow": 0
     },
     "CCBot": {
@@ -355,6 +356,7 @@
         "/cdn-cgi/",
         "/cake/",
         "/domain-name-results",
+        "/transfer-domain-results",
         "/special/000webhost",
         "/special/webhost",
         "/ae/special/000webhost",
@@ -541,7 +543,7 @@
       "allow": [
         "/"
       ],
-      "total": 202,
+      "total": 203,
       "total_allow": 1
     },
     "ClaudeBot": {
@@ -566,6 +568,7 @@
         "/cdn-cgi/",
         "/cake/",
         "/domain-name-results",
+        "/transfer-domain-results",
         "/special/000webhost",
         "/special/webhost",
         "/ae/special/000webhost",
@@ -752,7 +755,7 @@
       "allow": [
         "/"
       ],
-      "total": 202,
+      "total": 203,
       "total_allow": 1
     },
     "DuckAssistBot": {
@@ -777,6 +780,7 @@
         "/cdn-cgi/",
         "/cake/",
         "/domain-name-results",
+        "/transfer-domain-results",
         "/special/000webhost",
         "/special/webhost",
         "/ae/special/000webhost",
@@ -963,7 +967,7 @@
       "allow": [
         "/"
       ],
-      "total": 202,
+      "total": 203,
       "total_allow": 1
     },
     "GPTBot": {
@@ -988,6 +992,7 @@
         "/cdn-cgi/",
         "/cake/",
         "/domain-name-results",
+        "/transfer-domain-results",
         "/special/000webhost",
         "/special/webhost",
         "/ae/special/000webhost",
@@ -1174,7 +1179,7 @@
       "allow": [
         "/"
       ],
-      "total": 202,
+      "total": 203,
       "total_allow": 1
     },
     "Google-Extended": {
@@ -1199,6 +1204,7 @@
         "/cdn-cgi/",
         "/cake/",
         "/domain-name-results",
+        "/transfer-domain-results",
         "/special/000webhost",
         "/special/webhost",
         "/ae/special/000webhost",
@@ -1385,7 +1391,7 @@
       "allow": [
         "/"
       ],
-      "total": 202,
+      "total": 203,
       "total_allow": 1
     },
     "OAI-SearchBot": {
@@ -1410,6 +1416,7 @@
         "/cdn-cgi/",
         "/cake/",
         "/domain-name-results",
+        "/transfer-domain-results",
         "/special/000webhost",
         "/special/webhost",
         "/ae/special/000webhost",
@@ -1596,7 +1603,7 @@
       "allow": [
         "/"
       ],
-      "total": 202,
+      "total": 203,
       "total_allow": 1
     },
     "Perplexity-User": {
@@ -1621,6 +1628,7 @@
         "/cdn-cgi/",
         "/cake/",
         "/domain-name-results",
+        "/transfer-domain-results",
         "/special/000webhost",
         "/special/webhost",
         "/ae/special/000webhost",
@@ -1807,7 +1815,7 @@
       "allow": [
         "/"
       ],
-      "total": 202,
+      "total": 203,
       "total_allow": 1
     },
     "PerplexityBot": {
@@ -1832,6 +1840,7 @@
         "/cdn-cgi/",
         "/cake/",
         "/domain-name-results",
+        "/transfer-domain-results",
         "/special/000webhost",
         "/special/webhost",
         "/ae/special/000webhost",
@@ -2018,7 +2027,7 @@
       "allow": [
         "/"
       ],
-      "total": 202,
+      "total": 203,
       "total_allow": 1
     },
     "YouBot": {
@@ -2043,6 +2052,7 @@
         "/cdn-cgi/",
         "/cake/",
         "/domain-name-results",
+        "/transfer-domain-results",
         "/special/000webhost",
         "/special/webhost",
         "/ae/special/000webhost",
@@ -2229,7 +2239,7 @@
       "allow": [
         "/"
       ],
-      "total": 202,
+      "total": 203,
       "total_allow": 1
     }
   }

@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-09-21T11:46:21+00:00",
+  "checked_at": "2026-09-28T12:41:37+00:00",
   "domain": "dell.com",
   "category": "software",
   "robots_url": "https://dell.com/robots.txt",
@@ -39,13 +39,6 @@
   "rules": {
     "*": {
       "disallow": [
-        "*/shop/*/ar/*/appref=*",
-        "*/sac/*/*/*/appref=*",
-        "*/spd/*",
-        "*/lp/",
-        "*/shop/*/ar/*",
-        "*/shop/*/apd/*",
-        "*/shop/*/scr/*",
         "/csbapi/unified-communication/*",
         "*.less$",
         "/en-ca/shop/sfc/sf/alienware-desktops",
@@ -78,7 +71,6 @@
         "*/apd/*/quickview$",
         "*pr_rd_page=*",
         "*bvstate=",
-        "/support/en-gb",
         "/support/kbdoc/*/000287599",
         "/support/incidents-online/*/contactus/product/",
         "/support/ips/",
@@ -1022,7 +1014,7 @@
         "/zh-tw/blog/",
         "/ko-kr/blog/"
       ],
-      "total": 427,
+      "total": 419,
       "total_allow": 553
     },
     "Bytespider": {

@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-09-21T11:46:21+00:00",
+  "checked_at": "2026-09-28T12:41:37+00:00",
   "domain": "cnet.com",
   "category": "tech-news",
   "robots_url": "https://cnet.com/robots.txt",
@@ -118,8 +118,13 @@
         "/"
       ],
       "allow": [
+        "/home/internet/do-you-need-symmetrical-internet-speeds-what-to-know-before-you-upgrade/",
+        "/home/internet/equipment-for-fast-home-internet/",
+        "/home/internet/fix-wi-fi-dead-spots-how-to-get-internet-throughout-your-home/",
         "/home/internet/gigabit-internet-is-it-worth-splurging-for-a-faster-internet-plan/",
         "/home/internet/how-to-spot-hidden-fees-and-save-money/",
+        "/home/internet/internet-data-caps-explained-avoid-extra-charges-and-make-most-of-your-internet-plan/",
+        "/home/internet/is-your-internet-connection-delivering-on-the-speeds-you-pay-for-heres-how-to-tell/",
         "/home/internet/lag-free-internet-how-to-find-the-right-internet-speed-for-a-family-of-4-or-more/",
         "/home/internet/what-are-the-different-internet-connection-types/",
         "/home/internet/xfinity-vs-att-which-internet-provider-is-best/",
@@ -189,10 +194,12 @@
         "/paid-content/what-can-ray-ban-meta-ai-glasses-do-5-use-cases-for-your-everyday-routine/",
         "/paid-content/what-to-include-in-a-heart-health-daily-regimen-from-supplements-to-home-monitors/",
         "/paid-content/why-the-samsung-galaxy-s26-ultra-feels-like-the-first-phone-truly-built-for-ai/",
+        "/paid-content/how-to-check-if-t-mobile-fiber-is-available-at-your-address/",
         "/tech/mobile/apple-iphone-17-event-september-2025-what-to-expect/",
         "/tech/mobile/i-underestimated-workout-buddy-apples-playing-the-long-game-for-ai-coaching/",
         "/tech/mobile/samsung-galaxy-s26-and-s26-plus-hands-on-first-take/",
         "/tech/mobile/samsung-galaxy-s26-ultra-vs-galaxy-s26-and-s26-plus-flagship-specs-comparison/",
+        "/tech/mobile/tomorrow-we-could-see-the-iphone-17-debut-with-a-long-overdue-update/",
         "/tech/services-and-software/a-guide-to-data-removal-services-should-you-pay-for-privacy/",
         "/tech/services-and-software/complex-income-tax-filing-rules-2026/",
         "/tech/services-and-software/crypto-new-tax-form-rules/",
@@ -202,6 +209,7 @@
         "/tech/services-and-software/free-tax-software-cost-upgrades/",
         "/tech/services-and-software/how-h-r-block-helps-freelancers-and-gig-workers-stay-ahead-of-tax-season/",
         "/tech/services-and-software/how-to-prevent-irs-penalties-and-delays-this-tax-season/",
+        "/tech/services-and-software/ios-27-is-almost-here-but-you-should-check-out-all-these-ios-26-features-first/",
         "/tech/services-and-software/married-single-or-self-employed-how-your-filing-status-changes-everything/",
         "/tech/services-and-software/proxies-web-scraping-ultimate-guide/",
         "/tech/services-and-software/qualified-tips-overtime-tax-deduction-rules/",
@@ -216,15 +224,20 @@
         "/videos/tax-breaks-you-might-miss-in-2026-and-how-to-find-them/"
       ],
       "total": 1,
-      "total_allow": 96
+      "total_allow": 104
     },
     "Bytespider": {
       "disallow": [
         "/"
       ],
       "allow": [
+        "/home/internet/do-you-need-symmetrical-internet-speeds-what-to-know-before-you-upgrade/",
+        "/home/internet/equipment-for-fast-home-internet/",
+        "/home/internet/fix-wi-fi-dead-spots-how-to-get-internet-throughout-your-home/",
         "/home/internet/gigabit-internet-is-it-worth-splurging-for-a-faster-internet-plan/",
         "/home/internet/how-to-spot-hidden-fees-and-save-money/",
+        "/home/internet/internet-data-caps-explained-avoid-extra-charges-and-make-most-of-your-internet-plan/",
+        "/home/internet/is-your-internet-connection-delivering-on-the-speeds-you-pay-for-heres-how-to-tell/",
         "/home/internet/lag-free-internet-how-to-find-the-right-internet-speed-for-a-family-of-4-or-more/",
         "/home/internet/what-are-the-different-internet-connection-types/",
         "/home/internet/xfinity-vs-att-which-internet-provider-is-best/",
@@ -294,10 +307,12 @@
         "/paid-content/what-can-ray-ban-meta-ai-glasses-do-5-use-cases-for-your-everyday-routine/",
         "/paid-content/what-to-include-in-a-heart-health-daily-regimen-from-supplements-to-home-monitors/",
         "/paid-content/why-the-samsung-galaxy-s26-ultra-feels-like-the-first-phone-truly-built-for-ai/",
+        "/paid-content/how-to-check-if-t-mobile-fiber-is-available-at-your-address/",
         "/tech/mobile/apple-iphone-17-event-september-2025-what-to-expect/",
         "/tech/mobile/i-underestimated-workout-buddy-apples-playing-the-long-game-for-ai-coaching/",
         "/tech/mobile/samsung-galaxy-s26-and-s26-plus-hands-on-first-take/",
         "/tech/mobile/samsung-galaxy-s26-ultra-vs-galaxy-s26-and-s26-plus-flagship-specs-comparison/",
+        "/tech/mobile/tomorrow-we-could-see-the-iphone-17-debut-with-a-long-overdue-update/",
         "/tech/services-and-software/a-guide-to-data-removal-services-should-you-pay-for-privacy/",
         "/tech/services-and-software/complex-income-tax-filing-rules-2026/",
         "/tech/services-and-software/crypto-new-tax-form-rules/",
@@ -307,6 +322,7 @@
         "/tech/services-and-software/free-tax-software-cost-upgrades/",
         "/tech/services-and-software/how-h-r-block-helps-freelancers-and-gig-workers-stay-ahead-of-tax-season/",
         "/tech/services-and-software/how-to-prevent-irs-penalties-and-delays-this-tax-season/",
+        "/tech/services-and-software/ios-27-is-almost-here-but-you-should-check-out-all-these-ios-26-features-first/",
         "/tech/services-and-software/married-single-or-self-employed-how-your-filing-status-changes-everything/",
         "/tech/services-and-software/proxies-web-scraping-ultimate-guide/",
         "/tech/services-and-software/qualified-tips-overtime-tax-deduction-rules/",
@@ -321,15 +337,20 @@
         "/videos/tax-breaks-you-might-miss-in-2026-and-how-to-find-them/"
       ],
       "total": 1,
-      "total_allow": 96
+      "total_allow": 104
     },
     "CCBot": {
       "disallow": [
         "/"
       ],
       "allow": [
+        "/home/internet/do-you-need-symmetrical-internet-speeds-what-to-know-before-you-upgrade/",
+        "/home/internet/equipment-for-fast-home-internet/",
+        "/home/internet/fix-wi-fi-dead-spots-how-to-get-internet-throughout-your-home/",
         "/home/internet/gigabit-internet-is-it-worth-splurging-for-a-faster-internet-plan/",
         "/home/internet/how-to-spot-hidden-fees-and-save-money/",
+        "/home/internet/internet-data-caps-explained-avoid-extra-charges-and-make-most-of-your-internet-plan/",
+        "/home/internet/is-your-internet-connection-delivering-on-the-speeds-you-pay-for-heres-how-to-tell/",
         "/home/internet/lag-free-internet-how-to-find-the-right-internet-speed-for-a-family-of-4-or-more/",
         "/home/internet/what-are-the-different-internet-connection-types/",
         "/home/internet/xfinity-vs-att-which-internet-provider-is-best/",
@@ -399,10 +420,12 @@
         "/paid-content/what-can-ray-ban-meta-ai-glasses-do-5-use-cases-for-your-everyday-routine/",
         "/paid-content/what-to-include-in-a-heart-health-daily-regimen-from-supplements-to-home-monitors/",
         "/paid-content/why-the-samsung-galaxy-s26-ultra-feels-like-the-first-phone-truly-built-for-ai/",
+        "/paid-content/how-to-check-if-t-mobile-fiber-is-available-at-your-address/",
         "/tech/mobile/apple-iphone-17-event-september-2025-what-to-expect/",
         "/tech/mobile/i-underestimated-workout-buddy-apples-playing-the-long-game-for-ai-coaching/",
         "/tech/mobile/samsung-galaxy-s26-and-s26-plus-hands-on-first-take/",
         "/tech/mobile/samsung-galaxy-s26-ultra-vs-galaxy-s26-and-s26-plus-flagship-specs-comparison/",
+        "/tech/mobile/tomorrow-we-could-see-the-iphone-17-debut-with-a-long-overdue-update/",
         "/tech/services-and-software/a-guide-to-data-removal-services-should-you-pay-for-privacy/",
         "/tech/services-and-software/complex-income-tax-filing-rules-2026/",
         "/tech/services-and-software/crypto-new-tax-form-rules/",
@@ -412,6 +435,7 @@
         "/tech/services-and-software/free-tax-software-cost-upgrades/",
         "/tech/services-and-software/how-h-r-block-helps-freelancers-and-gig-workers-stay-ahead-of-tax-season/",
         "/tech/services-and-software/how-to-prevent-irs-penalties-and-delays-this-tax-season/",
+        "/tech/services-and-software/ios-27-is-almost-here-but-you-should-check-out-all-these-ios-26-features-first/",
         "/tech/services-and-software/married-single-or-self-employed-how-your-filing-status-changes-everything/",
         "/tech/services-and-software/proxies-web-scraping-ultimate-guide/",
         "/tech/services-and-software/qualified-tips-overtime-tax-deduction-rules/",
@@ -426,15 +450,20 @@
         "/videos/tax-breaks-you-might-miss-in-2026-and-how-to-find-them/"
       ],
       "total": 1,
-      "total_allow": 96
+      "total_allow": 104
     },
     "ChatGPT-User": {
       "disallow": [
         "/"
       ],
       "allow": [
+        "/home/internet/do-you-need-symmetrical-internet-speeds-what-to-know-before-you-upgrade/",
+        "/home/internet/equipment-for-fast-home-internet/",
+        "/home/internet/fix-wi-fi-dead-spots-how-to-get-internet-throughout-your-home/",
         "/home/internet/gigabit-internet-is-it-worth-splurging-for-a-faster-internet-plan/",
         "/home/internet/how-to-spot-hidden-fees-and-save-money/",
+        "/home/internet/internet-data-caps-explained-avoid-extra-charges-and-make-most-of-your-internet-plan/",
+        "/home/internet/is-your-internet-connection-delivering-on-the-speeds-you-pay-for-heres-how-to-tell/",
         "/home/internet/lag-free-internet-how-to-find-the-right-internet-speed-for-a-family-of-4-or-more/",
         "/home/internet/what-are-the-different-internet-connection-types/",
         "/home/internet/xfinity-vs-att-which-internet-provider-is-best/",
@@ -504,10 +533,12 @@
         "/paid-content/what-can-ray-ban-meta-ai-glasses-do-5-use-cases-for-your-everyday-routine/",
         "/paid-content/what-to-include-in-a-heart-health-daily-regimen-from-supplements-to-home-monitors/",
         "/paid-content/why-the-samsung-galaxy-s26-ultra-feels-like-the-first-phone-truly-built-for-ai/",
+        "/paid-content/how-to-check-if-t-mobile-fiber-is-available-at-your-address/",
         "/tech/mobile/apple-iphone-17-event-september-2025-what-to-expect/",
         "/tech/mobile/i-underestimated-workout-buddy-apples-playing-the-long-game-for-ai-coaching/",
         "/tech/mobile/samsung-galaxy-s26-and-s26-plus-hands-on-first-take/",
         "/tech/mobile/samsung-galaxy-s26-ultra-vs-galaxy-s26-and-s26-plus-flagship-specs-comparison/",
+        "/tech/mobile/tomorrow-we-could-see-the-iphone-17-debut-with-a-long-overdue-update/",
         "/tech/services-and-software/a-guide-to-data-removal-services-should-you-pay-for-privacy/",
         "/tech/services-and-software/complex-income-tax-filing-rules-2026/",
         "/tech/services-and-software/crypto-new-tax-form-rules/",
@@ -517,6 +548,7 @@
         "/tech/services-and-software/free-tax-software-cost-upgrades/",
         "/tech/services-and-software/how-h-r-block-helps-freelancers-and-gig-workers-stay-ahead-of-tax-season/",
         "/tech/services-and-software/how-to-prevent-irs-penalties-and-delays-this-tax-season/",
+        "/tech/services-and-software/ios-27-is-almost-here-but-you-should-check-out-all-these-ios-26-features-first/",
         "/tech/services-and-software/married-single-or-self-employed-how-your-filing-status-changes-everything/",
         "/tech/services-and-software/proxies-web-scraping-ultimate-guide/",
         "/tech/services-and-software/qualified-tips-overtime-tax-deduction-rules/",
@@ -531,15 +563,20 @@
         "/videos/tax-breaks-you-might-miss-in-2026-and-how-to-find-them/"
       ],
       "total": 1,
-      "total_allow": 96
+      "total_allow": 104
     },
     "Claude-Web": {
       "disallow": [
         "/"
       ],
       "allow": [
+        "/home/internet/do-you-need-symmetrical-internet-speeds-what-to-know-before-you-upgrade/",
+        "/home/internet/equipment-for-fast-home-internet/",
+        "/home/internet/fix-wi-fi-dead-spots-how-to-get-internet-throughout-your-home/",
         "/home/internet/gigabit-internet-is-it-worth-splurging-for-a-faster-internet-plan/",
         "/home/internet/how-to-spot-hidden-fees-and-save-money/",
+        "/home/internet/internet-data-caps-explained-avoid-extra-charges-and-make-most-of-your-internet-plan/",
+        "/home/internet/is-your-internet-connection-delivering-on-the-speeds-you-pay-for-heres-how-to-tell/",
         "/home/internet/lag-free-internet-how-to-find-the-right-internet-speed-for-a-family-of-4-or-more/",
         "/home/internet/what-are-the-different-internet-connection-types/",
         "/home/internet/xfinity-vs-att-which-internet-provider-is-best/",
@@ -609,10 +646,12 @@
         "/paid-content/what-can-ray-ban-meta-ai-glasses-do-5-use-cases-for-your-everyday-routine/",
         "/paid-content/what-to-include-in-a-heart-health-daily-regimen-from-supplements-to-home-monitors/",
         "/paid-content/why-the-samsung-galaxy-s26-ultra-feels-like-the-first-phone-truly-built-for-ai/",
+        "/paid-content/how-to-check-if-t-mobile-fiber-is-available-at-your-address/",
         "/tech/mobile/apple-iphone-17-event-september-2025-what-to-expect/",
         "/tech/mobile/i-underestimated-workout-buddy-apples-playing-the-long-game-for-ai-coaching/",
         "/tech/mobile/samsung-galaxy-s26-and-s26-plus-hands-on-first-take/",
         "/tech/mobile/samsung-galaxy-s26-ultra-vs-galaxy-s26-and-s26-plus-flagship-specs-comparison/",
+        "/tech/mobile/tomorrow-we-could-see-the-iphone-17-debut-with-a-long-overdue-update/",
         "/tech/services-and-software/a-guide-to-data-removal-services-should-you-pay-for-privacy/",
         "/tech/services-and-software/complex-income-tax-filing-rules-2026/",
         "/tech/services-and-software/crypto-new-tax-form-rules/",
@@ -622,6 +661,7 @@
         "/tech/services-and-software/free-tax-software-cost-upgrades/",
         "/tech/services-and-software/how-h-r-block-helps-freelancers-and-gig-workers-stay-ahead-of-tax-season/",
         "/tech/services-and-software/how-to-prevent-irs-penalties-and-delays-this-tax-season/",
+        "/tech/services-and-software/ios-27-is-almost-here-but-you-should-check-out-all-these-ios-26-features-first/",
         "/tech/services-and-software/married-single-or-self-employed-how-your-filing-status-changes-everything/",
         "/tech/services-and-software/proxies-web-scraping-ultimate-guide/",
         "/tech/services-and-software/qualified-tips-overtime-tax-deduction-rules/",
@@ -636,15 +676,20 @@
         "/videos/tax-breaks-you-might-miss-in-2026-and-how-to-find-them/"
       ],
       "total": 1,
-      "total_allow": 96
+      "total_allow": 104
     },
     "ClaudeBot": {
       "disallow": [
         "/"
       ],
       "allow": [
+        "/home/internet/do-you-need-symmetrical-internet-speeds-what-to-know-before-you-upgrade/",
+        "/home/internet/equipment-for-fast-home-internet/",
+        "/home/internet/fix-wi-fi-dead-spots-how-to-get-internet-throughout-your-home/",
         "/home/internet/gigabit-internet-is-it-worth-splurging-for-a-faster-internet-plan/",
         "/home/internet/how-to-spot-hidden-fees-and-save-money/",
+        "/home/internet/internet-data-caps-explained-avoid-extra-charges-and-make-most-of-your-internet-plan/",
+        "/home/internet/is-your-internet-connection-delivering-on-the-speeds-you-pay-for-heres-how-to-tell/",
         "/home/internet/lag-free-internet-how-to-find-the-right-internet-speed-for-a-family-of-4-or-more/",
         "/home/internet/what-are-the-different-internet-connection-types/",
         "/home/internet/xfinity-vs-att-which-internet-provider-is-best/",
@@ -714,10 +759,12 @@
         "/paid-content/what-can-ray-ban-meta-ai-glasses-do-5-use-cases-for-your-everyday-routine/",
         "/paid-content/what-to-include-in-a-heart-health-daily-regimen-from-supplements-to-home-monitors/",
         "/paid-content/why-the-samsung-galaxy-s26-ultra-feels-like-the-first-phone-truly-built-for-ai/",
+        "/paid-content/how-to-check-if-t-mobile-fiber-is-available-at-your-address/",
         "/tech/mobile/apple-iphone-17-event-september-2025-what-to-expect/",
         "/tech/mobile/i-underestimated-workout-buddy-apples-playing-the-long-game-for-ai-coaching/",
         "/tech/mobile/samsung-galaxy-s26-and-s26-plus-hands-on-first-take/",
         "/tech/mobile/samsung-galaxy-s26-ultra-vs-galaxy-s26-and-s26-plus-flagship-specs-comparison/",
+        "/tech/mobile/tomorrow-we-could-see-the-iphone-17-debut-with-a-long-overdue-update/",
         "/tech/services-and-software/a-guide-to-data-removal-services-should-you-pay-for-privacy/",
         "/tech/services-and-software/complex-income-tax-filing-rules-2026/",
         "/tech/services-and-software/crypto-new-tax-form-rules/",
@@ -727,6 +774,7 @@
         "/tech/services-and-software/free-tax-software-cost-upgrades/",
         "/tech/services-and-software/how-h-r-block-helps-freelancers-and-gig-workers-stay-ahead-of-tax-season/",
         "/tech/services-and-software/how-to-prevent-irs-penalties-and-delays-this-tax-season/",
+        "/tech/services-and-software/ios-27-is-almost-here-but-you-should-check-out-all-these-ios-26-features-first/",
         "/tech/services-and-software/married-single-or-self-employed-how-your-filing-status-changes-everything/",
         "/tech/services-and-software/proxies-web-scraping-ultimate-guide/",
         "/tech/services-and-software/qualified-tips-overtime-tax-deduction-rules/",
@@ -741,15 +789,20 @@
         "/videos/tax-breaks-you-might-miss-in-2026-and-how-to-find-them/"
       ],
       "total": 1,
-      "total_allow": 96
+      "total_allow": 104
     },
     "Diffbot": {
       "disallow": [
         "/"
       ],
       "allow": [
+        "/home/internet/do-you-need-symmetrical-internet-speeds-what-to-know-before-you-upgrade/",
+        "/home/internet/equipment-for-fast-home-internet/",
+        "/home/internet/fix-wi-fi-dead-spots-how-to-get-internet-throughout-your-home/",
         "/home/internet/gigabit-internet-is-it-worth-splurging-for-a-faster-internet-plan/",
         "/home/internet/how-to-spot-hidden-fees-and-save-money/",
+        "/home/internet/internet-data-caps-explained-avoid-extra-charges-and-make-most-of-your-internet-plan/",
+        "/home/internet/is-your-internet-connection-delivering-on-the-speeds-you-pay-for-heres-how-to-tell/",
         "/home/internet/lag-free-internet-how-to-find-the-right-internet-speed-for-a-family-of-4-or-more/",
         "/home/internet/what-are-the-different-internet-connection-types/",
         "/home/internet/xfinity-vs-att-which-internet-provider-is-best/",
@@ -819,10 +872,12 @@
         "/paid-content/what-can-ray-ban-meta-ai-glasses-do-5-use-cases-for-your-everyday-routine/",
         "/paid-content/what-to-include-in-a-heart-health-daily-regimen-from-supplements-to-home-monitors/",
         "/paid-content/why-the-samsung-galaxy-s26-ultra-feels-like-the-first-phone-truly-built-for-ai/",
+        "/paid-content/how-to-check-if-t-mobile-fiber-is-available-at-your-address/",
         "/tech/mobile/apple-iphone-17-event-september-2025-what-to-expect/",
         "/tech/mobile/i-underestimated-workout-buddy-apples-playing-the-long-game-for-ai-coaching/",
         "/tech/mobile/samsung-galaxy-s26-and-s26-plus-hands-on-first-take/",
         "/tech/mobile/samsung-galaxy-s26-ultra-vs-galaxy-s26-and-s26-plus-flagship-specs-comparison/",
+        "/tech/mobile/tomorrow-we-could-see-the-iphone-17-debut-with-a-long-overdue-update/",
         "/tech/services-and-software/a-guide-to-data-removal-services-should-you-pay-for-privacy/",
         "/tech/services-and-software/complex-income-tax-filing-rules-2026/",
         "/tech/services-and-software/crypto-new-tax-form-rules/",
@@ -832,6 +887,7 @@
         "/tech/services-and-software/free-tax-software-cost-upgrades/",
         "/tech/services-and-software/how-h-r-block-helps-freelancers-and-gig-workers-stay-ahead-of-tax-season/",
         "/tech/services-and-software/how-to-prevent-irs-penalties-and-delays-this-tax-season/",
+        "/tech/services-and-software/ios-27-is-almost-here-but-you-should-check-out-all-these-ios-26-features-first/",
         "/tech/services-and-software/married-single-or-self-employed-how-your-filing-status-changes-everything/",
         "/tech/services-and-software/proxies-web-scraping-ultimate-guide/",
         "/tech/services-and-software/qualified-tips-overtime-tax-deduction-rules/",
@@ -846,15 +902,20 @@
         "/videos/tax-breaks-you-might-miss-in-2026-and-how-to-find-them/"
       ],
       "total": 1,
-      "total_allow": 96
+      "total_allow": 104
     },
     "DuckAssistBot": {
       "disallow": [
         "/"
       ],
       "allow": [
+        "/home/internet/do-you-need-symmetrical-internet-speeds-what-to-know-before-you-upgrade/",
+        "/home/internet/equipment-for-fast-home-internet/",
+        "/home/internet/fix-wi-fi-dead-spots-how-to-get-internet-throughout-your-home/",
         "/home/internet/gigabit-internet-is-it-worth-splurging-for-a-faster-internet-plan/",
         "/home/internet/how-to-spot-hidden-fees-and-save-money/",
+        "/home/internet/internet-data-caps-explained-avoid-extra-charges-and-make-most-of-your-internet-plan/",
+        "/home/internet/is-your-internet-connection-delivering-on-the-speeds-you-pay-for-heres-how-to-tell/",
         "/home/internet/lag-free-internet-how-to-find-the-right-internet-speed-for-a-family-of-4-or-more/",
         "/home/internet/what-are-the-different-internet-connection-types/",
         "/home/internet/xfinity-vs-att-which-internet-provider-is-best/",
@@ -924,10 +985,12 @@
         "/paid-content/what-can-ray-ban-meta-ai-glasses-do-5-use-cases-for-your-everyday-routine/",
         "/paid-content/what-to-include-in-a-heart-health-daily-regimen-from-supplements-to-home-monitors/",
         "/paid-content/why-the-samsung-galaxy-s26-ultra-feels-like-the-first-phone-truly-built-for-ai/",
+        "/paid-content/how-to-check-if-t-mobile-fiber-is-available-at-your-address/",
         "/tech/mobile/apple-iphone-17-event-september-2025-what-to-expect/",
         "/tech/mobile/i-underestimated-workout-buddy-apples-playing-the-long-game-for-ai-coaching/",
         "/tech/mobile/samsung-galaxy-s26-and-s26-plus-hands-on-first-take/",
         "/tech/mobile/samsung-galaxy-s26-ultra-vs-galaxy-s26-and-s26-plus-flagship-specs-comparison/",
+        "/tech/mobile/tomorrow-we-could-see-the-iphone-17-debut-with-a-long-overdue-update/",
         "/tech/services-and-software/a-guide-to-data-removal-services-should-you-pay-for-privacy/",
         "/tech/services-and-software/complex-income-tax-filing-rules-2026/",
         "/tech/services-and-software/crypto-new-tax-form-rules/",
@@ -937,6 +1000,7 @@
         "/tech/services-and-software/free-tax-software-cost-upgrades/",
         "/tech/services-and-software/how-h-r-block-helps-freelancers-and-gig-workers-stay-ahead-of-tax-season/",
         "/tech/services-and-software/how-to-prevent-irs-penalties-and-delays-this-tax-season/",
+        "/tech/services-and-software/ios-27-is-almost-here-but-you-should-check-out-all-these-ios-26-features-first/",
         "/tech/services-and-software/married-single-or-self-employed-how-your-filing-status-changes-everything/",
         "/tech/services-and-software/proxies-web-scraping-ultimate-guide/",
         "/tech/services-and-software/qualified-tips-overtime-tax-deduction-rules/",
@@ -951,15 +1015,20 @@
         "/videos/tax-breaks-you-might-miss-in-2026-and-how-to-find-them/"
       ],
       "total": 1,
-      "total_allow": 96
+      "total_allow": 104
     },
     "GPTBot": {
       "disallow": [
         "/"
       ],
       "allow": [
+        "/home/internet/do-you-need-symmetrical-internet-speeds-what-to-know-before-you-upgrade/",
+        "/home/internet/equipment-for-fast-home-internet/",
+        "/home/internet/fix-wi-fi-dead-spots-how-to-get-internet-throughout-your-home/",
         "/home/internet/gigabit-internet-is-it-worth-splurging-for-a-faster-internet-plan/",
         "/home/internet/how-to-spot-hidden-fees-and-save-money/",
+        "/home/internet/internet-data-caps-explained-avoid-extra-charges-and-make-most-of-your-internet-plan/",
+        "/home/internet/is-your-internet-connection-delivering-on-the-speeds-you-pay-for-heres-how-to-tell/",
         "/home/internet/lag-free-internet-how-to-find-the-right-internet-speed-for-a-family-of-4-or-more/",
         "/home/internet/what-are-the-different-internet-connection-types/",
         "/home/internet/xfinity-vs-att-which-internet-provider-is-best/",
@@ -1029,10 +1098,12 @@
         "/paid-content/what-can-ray-ban-meta-ai-glasses-do-5-use-cases-for-your-everyday-routine/",
         "/paid-content/what-to-include-in-a-heart-health-daily-regimen-from-supplements-to-home-monitors/",
         "/paid-content/why-the-samsung-galaxy-s26-ultra-feels-like-the-first-phone-truly-built-for-ai/",
+        "/paid-content/how-to-check-if-t-mobile-fiber-is-available-at-your-address/",
         "/tech/mobile/apple-iphone-17-event-september-2025-what-to-expect/",
         "/tech/mobile/i-underestimated-workout-buddy-apples-playing-the-long-game-for-ai-coaching/",
         "/tech/mobile/samsung-galaxy-s26-and-s26-plus-hands-on-first-take/",
         "/tech/mobile/samsung-galaxy-s26-ultra-vs-galaxy-s26-and-s26-plus-flagship-specs-comparison/",
+        "/tech/mobile/tomorrow-we-could-see-the-iphone-17-debut-with-a-long-overdue-update/",
         "/tech/services-and-software/a-guide-to-data-removal-services-should-you-pay-for-privacy/",
         "/tech/services-and-software/complex-income-tax-filing-rules-2026/",
         "/tech/services-and-software/crypto-new-tax-form-rules/",
@@ -1042,6 +1113,7 @@
         "/tech/services-and-software/free-tax-software-cost-upgrades/",
         "/tech/services-and-software/how-h-r-block-helps-freelancers-and-gig-workers-stay-ahead-of-tax-season/",
         "/tech/services-and-software/how-to-prevent-irs-penalties-and-delays-this-tax-season/",
+        "/tech/services-and-software/ios-27-is-almost-here-but-you-should-check-out-all-these-ios-26-features-first/",
         "/tech/services-and-software/married-single-or-self-employed-how-your-filing-status-changes-everything/",
         "/tech/services-and-software/proxies-web-scraping-ultimate-guide/",
         "/tech/services-and-software/qualified-tips-overtime-tax-deduction-rules/",
@@ -1056,15 +1128,20 @@
         "/videos/tax-breaks-you-might-miss-in-2026-and-how-to-find-them/"
       ],
       "total": 1,
-      "total_allow": 96
+      "total_allow": 104
     },
     "OAI-SearchBot": {
       "disallow": [
         "/"
       ],
       "allow": [
+        "/home/internet/do-you-need-symmetrical-internet-speeds-what-to-know-before-you-upgrade/",
+        "/home/internet/equipment-for-fast-home-internet/",
+        "/home/internet/fix-wi-fi-dead-spots-how-to-get-internet-throughout-your-home/",
         "/home/internet/gigabit-internet-is-it-worth-splurging-for-a-faster-internet-plan/",
         "/home/internet/how-to-spot-hidden-fees-and-save-money/",
+        "/home/internet/internet-data-caps-explained-avoid-extra-charges-and-make-most-of-your-internet-plan/",
+        "/home/internet/is-your-internet-connection-delivering-on-the-speeds-you-pay-for-heres-how-to-tell/",
         "/home/internet/lag-free-internet-how-to-find-the-right-internet-speed-for-a-family-of-4-or-more/",
         "/home/internet/what-are-the-different-internet-connection-types/",
         "/home/internet/xfinity-vs-att-which-internet-provider-is-best/",
@@ -1134,10 +1211,12 @@
         "/paid-content/what-can-ray-ban-meta-ai-glasses-do-5-use-cases-for-your-everyday-routine/",
         "/paid-content/what-to-include-in-a-heart-health-daily-regimen-from-supplements-to-home-monitors/",
         "/paid-content/why-the-samsung-galaxy-s26-ultra-feels-like-the-first-phone-truly-built-for-ai/",
+        "/paid-content/how-to-check-if-t-mobile-fiber-is-available-at-your-address/",
         "/tech/mobile/apple-iphone-17-event-september-2025-what-to-expect/",
         "/tech/mobile/i-underestimated-workout-buddy-apples-playing-the-long-game-for-ai-coaching/",
         "/tech/mobile/samsung-galaxy-s26-and-s26-plus-hands-on-first-take/",
         "/tech/mobile/samsung-galaxy-s26-ultra-vs-galaxy-s26-and-s26-plus-flagship-specs-comparison/",
+        "/tech/mobile/tomorrow-we-could-see-the-iphone-17-debut-with-a-long-overdue-update/",
         "/tech/services-and-software/a-guide-to-data-removal-services-should-you-pay-for-privacy/",
         "/tech/services-and-software/complex-income-tax-filing-rules-2026/",
         "/tech/services-and-software/crypto-new-tax-form-rules/",
@@ -1147,6 +1226,7 @@
         "/tech/services-and-software/free-tax-software-cost-upgrades/",
         "/tech/services-and-software/how-h-r-block-helps-freelancers-and-gig-workers-stay-ahead-of-tax-season/",
         "/tech/services-and-software/how-to-prevent-irs-penalties-and-delays-this-tax-season/",
+        "/tech/services-and-software/ios-27-is-almost-here-but-you-should-check-out-all-these-ios-26-features-first/",
         "/tech/services-and-software/married-single-or-self-employed-how-your-filing-status-changes-everything/",
         "/tech/services-and-software/proxies-web-scraping-ultimate-guide/",
         "/tech/services-and-software/qualified-tips-overtime-tax-deduction-rules/",
@@ -1161,7 +1241,7 @@
         "/videos/tax-breaks-you-might-miss-in-2026-and-how-to-find-them/"
       ],
       "total": 1,
-      "total_allow": 96
+      "total_allow": 104
     },
     "Omgilibot": {
       "disallow": [
@@ -1176,8 +1256,13 @@
         "/"
       ],
       "allow": [
+        "/home/internet/do-you-need-symmetrical-internet-speeds-what-to-know-before-you-upgrade/",
+        "/home/internet/equipment-for-fast-home-internet/",
+        "/home/internet/fix-wi-fi-dead-spots-how-to-get-internet-throughout-your-home/",
         "/home/internet/gigabit-internet-is-it-worth-splurging-for-a-faster-internet-plan/",
         "/home/internet/how-to-spot-hidden-fees-and-save-money/",
+        "/home/internet/internet-data-caps-explained-avoid-extra-charges-and-make-most-of-your-internet-plan/",
+        "/home/internet/is-your-internet-connection-delivering-on-the-speeds-you-pay-for-heres-how-to-tell/",
         "/home/internet/lag-free-internet-how-to-find-the-right-internet-speed-for-a-family-of-4-or-more/",
         "/home/internet/what-are-the-different-internet-connection-types/",
         "/home/internet/xfinity-vs-att-which-internet-provider-is-best/",
@@ -1247,10 +1332,12 @@
         "/paid-content/what-can-ray-ban-meta-ai-glasses-do-5-use-cases-for-your-everyday-routine/",
         "/paid-content/what-to-include-in-a-heart-health-daily-regimen-from-supplements-to-home-monitors/",
         "/paid-content/why-the-samsung-galaxy-s26-ultra-feels-like-the-first-phone-truly-built-for-ai/",
+        "/paid-content/how-to-check-if-t-mobile-fiber-is-available-at-your-address/",
         "/tech/mobile/apple-iphone-17-event-september-2025-what-to-expect/",
         "/tech/mobile/i-underestimated-workout-buddy-apples-playing-the-long-game-for-ai-coaching/",
         "/tech/mobile/samsung-galaxy-s26-and-s26-plus-hands-on-first-take/",
         "/tech/mobile/samsung-galaxy-s26-ultra-vs-galaxy-s26-and-s26-plus-flagship-specs-comparison/",
+        "/tech/mobile/tomorrow-we-could-see-the-iphone-17-debut-with-a-long-overdue-update/",
         "/tech/services-and-software/a-guide-to-data-removal-services-should-you-pay-for-privacy/",
         "/tech/services-and-software/complex-income-tax-filing-rules-2026/",
         "/tech/services-and-software/crypto-new-tax-form-rules/",
@@ -1260,6 +1347,7 @@
         "/tech/services-and-software/free-tax-software-cost-upgrades/",
         "/tech/services-and-software/how-h-r-block-helps-freelancers-and-gig-workers-stay-ahead-of-tax-season/",
         "/tech/services-and-software/how-to-prevent-irs-penalties-and-delays-this-tax-season/",
+        "/tech/services-and-software/ios-27-is-almost-here-but-you-should-check-out-all-these-ios-26-features-first/",
         "/tech/services-and-software/married-single-or-self-employed-how-your-filing-status-changes-everything/",
         "/tech/services-and-software/proxies-web-scraping-ultimate-guide/",
         "/tech/services-and-software/qualified-tips-overtime-tax-deduction-rules/",
@@ -1274,15 +1362,20 @@
         "/videos/tax-breaks-you-might-miss-in-2026-and-how-to-find-them/"
       ],
       "total": 1,
-      "total_allow": 96
+      "total_allow": 104
     },
     "PerplexityBot": {
       "disallow": [
         "/"
       ],
       "allow": [
+        "/home/internet/do-you-need-symmetrical-internet-speeds-what-to-know-before-you-upgrade/",
+        "/home/internet/equipment-for-fast-home-internet/",
+        "/home/internet/fix-wi-fi-dead-spots-how-to-get-internet-throughout-your-home/",
         "/home/internet/gigabit-internet-is-it-worth-splurging-for-a-faster-internet-plan/",
         "/home/internet/how-to-spot-hidden-fees-and-save-money/",
+        "/home/internet/internet-data-caps-explained-avoid-extra-charges-and-make-most-of-your-internet-plan/",
+        "/home/internet/is-your-internet-connection-delivering-on-the-speeds-you-pay-for-heres-how-to-tell/",
         "/home/internet/lag-free-internet-how-to-find-the-right-internet-speed-for-a-family-of-4-or-more/",
         "/home/internet/what-are-the-different-internet-connection-types/",
         "/home/internet/xfinity-vs-att-which-internet-provider-is-best/",
@@ -1352,10 +1445,12 @@
         "/paid-content/what-can-ray-ban-meta-ai-glasses-do-5-use-cases-for-your-everyday-routine/",
         "/paid-content/what-to-include-in-a-heart-health-daily-regimen-from-supplements-to-home-monitors/",
         "/paid-content/why-the-samsung-galaxy-s26-ultra-feels-like-the-first-phone-truly-built-for-ai/",
+        "/paid-content/how-to-check-if-t-mobile-fiber-is-available-at-your-address/",
         "/tech/mobile/apple-iphone-17-event-september-2025-what-to-expect/",
         "/tech/mobile/i-underestimated-workout-buddy-apples-playing-the-long-game-for-ai-coaching/",
         "/tech/mobile/samsung-galaxy-s26-and-s26-plus-hands-on-first-take/",
         "/tech/mobile/samsung-galaxy-s26-ultra-vs-galaxy-s26-and-s26-plus-flagship-specs-comparison/",
+        "/tech/mobile/tomorrow-we-could-see-the-iphone-17-debut-with-a-long-overdue-update/",
         "/tech/services-and-software/a-guide-to-data-removal-services-should-you-pay-for-privacy/",
         "/tech/services-and-software/complex-income-tax-filing-rules-2026/",
         "/tech/services-and-software/crypto-new-tax-form-rules/",
@@ -1365,6 +1460,7 @@
         "/tech/services-and-software/free-tax-software-cost-upgrades/",
         "/tech/services-and-software/how-h-r-block-helps-freelancers-and-gig-workers-stay-ahead-of-tax-season/",
         "/tech/services-and-software/how-to-prevent-irs-penalties-and-delays-this-tax-season/",
+        "/tech/services-and-software/ios-27-is-almost-here-but-you-should-check-out-all-these-ios-26-features-first/",
         "/tech/services-and-software/married-single-or-self-employed-how-your-filing-status-changes-everything/",
         "/tech/services-and-software/proxies-web-scraping-ultimate-guide/",
         "/tech/services-and-software/qualified-tips-overtime-tax-deduction-rules/",
@@ -1379,15 +1475,20 @@
         "/videos/tax-breaks-you-might-miss-in-2026-and-how-to-find-them/"
       ],
       "total": 1,
-      "total_allow": 96
+      "total_allow": 104
     },
     "Timpibot": {
       "disallow": [
         "/"
       ],
       "allow": [
+        "/home/internet/do-you-need-symmetrical-internet-speeds-what-to-know-before-you-upgrade/",
+        "/home/internet/equipment-for-fast-home-internet/",
+        "/home/internet/fix-wi-fi-dead-spots-how-to-get-internet-throughout-your-home/",
         "/home/internet/gigabit-internet-is-it-worth-splurging-for-a-faster-internet-plan/",
         "/home/internet/how-to-spot-hidden-fees-and-save-money/",
+        "/home/internet/internet-data-caps-explained-avoid-extra-charges-and-make-most-of-your-internet-plan/",
+        "/home/internet/is-your-internet-connection-delivering-on-the-speeds-you-pay-for-heres-how-to-tell/",
         "/home/internet/lag-free-internet-how-to-find-the-right-internet-speed-for-a-family-of-4-or-more/",
         "/home/internet/what-are-the-different-internet-connection-types/",
         "/home/internet/xfinity-vs-att-which-internet-provider-is-best/",
@@ -1457,10 +1558,12 @@
         "/paid-content/what-can-ray-ban-meta-ai-glasses-do-5-use-cases-for-your-everyday-routine/",
         "/paid-content/what-to-include-in-a-heart-health-daily-regimen-from-supplements-to-home-monitors/",
         "/paid-content/why-the-samsung-galaxy-s26-ultra-feels-like-the-first-phone-truly-built-for-ai/",
+        "/paid-content/how-to-check-if-t-mobile-fiber-is-available-at-your-address/",
         "/tech/mobile/apple-iphone-17-event-september-2025-what-to-expect/",
         "/tech/mobile/i-underestimated-workout-buddy-apples-playing-the-long-game-for-ai-coaching/",
         "/tech/mobile/samsung-galaxy-s26-and-s26-plus-hands-on-first-take/",
         "/tech/mobile/samsung-galaxy-s26-ultra-vs-galaxy-s26-and-s26-plus-flagship-specs-comparison/",
+        "/tech/mobile/tomorrow-we-could-see-the-iphone-17-debut-with-a-long-overdue-update/",
         "/tech/services-and-software/a-guide-to-data-removal-services-should-you-pay-for-privacy/",
         "/tech/services-and-software/complex-income-tax-filing-rules-2026/",
         "/tech/services-and-software/crypto-new-tax-form-rules/",
@@ -1470,6 +1573,7 @@
         "/tech/services-and-software/free-tax-software-cost-upgrades/",
         "/tech/services-and-software/how-h-r-block-helps-freelancers-and-gig-workers-stay-ahead-of-tax-season/",
         "/tech/services-and-software/how-to-prevent-irs-penalties-and-delays-this-tax-season/",
+        "/tech/services-and-software/ios-27-is-almost-here-but-you-should-check-out-all-these-ios-26-features-first/",
         "/tech/services-and-software/married-single-or-self-employed-how-your-filing-status-changes-everything/",
         "/tech/services-and-software/proxies-web-scraping-ultimate-guide/",
         "/tech/services-and-software/qualified-tips-overtime-tax-deduction-rules/",
@@ -1484,15 +1588,20 @@
         "/videos/tax-breaks-you-might-miss-in-2026-and-how-to-find-them/"
       ],
       "total": 1,
-      "total_allow": 96
+      "total_allow": 104
     },
     "YouBot": {
       "disallow": [
         "/"
       ],
       "allow": [
+        "/home/internet/do-you-need-symmetrical-internet-speeds-what-to-know-before-you-upgrade/",
+        "/home/internet/equipment-for-fast-home-internet/",
+        "/home/internet/fix-wi-fi-dead-spots-how-to-get-internet-throughout-your-home/",
         "/home/internet/gigabit-internet-is-it-worth-splurging-for-a-faster-internet-plan/",
         "/home/internet/how-to-spot-hidden-fees-and-save-money/",
+        "/home/internet/internet-data-caps-explained-avoid-extra-charges-and-make-most-of-your-internet-plan/",
+        "/home/internet/is-your-internet-connection-delivering-on-the-speeds-you-pay-for-heres-how-to-tell/",
         "/home/internet/lag-free-internet-how-to-find-the-right-internet-speed-for-a-family-of-4-or-more/",
         "/home/internet/what-are-the-different-internet-connection-types/",
         "/home/internet/xfinity-vs-att-which-internet-provider-is-best/",
@@ -1562,10 +1671,12 @@
         "/paid-content/what-can-ray-ban-meta-ai-glasses-do-5-use-cases-for-your-everyday-routine/",
         "/paid-content/what-to-include-in-a-heart-health-daily-regimen-from-supplements-to-home-monitors/",
         "/paid-content/why-the-samsung-galaxy-s26-ultra-feels-like-the-first-phone-truly-built-for-ai/",
+        "/paid-content/how-to-check-if-t-mobile-fiber-is-available-at-your-address/",
         "/tech/mobile/apple-iphone-17-event-september-2025-what-to-expect/",
         "/tech/mobile/i-underestimated-workout-buddy-apples-playing-the-long-game-for-ai-coaching/",
         "/tech/mobile/samsung-galaxy-s26-and-s26-plus-hands-on-first-take/",
         "/tech/mobile/samsung-galaxy-s26-ultra-vs-galaxy-s26-and-s26-plus-flagship-specs-comparison/",
+        "/tech/mobile/tomorrow-we-could-see-the-iphone-17-debut-with-a-long-overdue-update/",
         "/tech/services-and-software/a-guide-to-data-removal-services-should-you-pay-for-privacy/",
         "/tech/services-and-software/complex-income-tax-filing-rules-2026/",
         "/tech/services-and-software/crypto-new-tax-form-rules/",
@@ -1575,6 +1686,7 @@
         "/tech/services-and-software/free-tax-software-cost-upgrades/",
         "/tech/services-and-software/how-h-r-block-helps-freelancers-and-gig-workers-stay-ahead-of-tax-season/",
         "/tech/services-and-software/how-to-prevent-irs-penalties-and-delays-this-tax-season/",
+        "/tech/services-and-software/ios-27-is-almost-here-but-you-should-check-out-all-these-ios-26-features-first/",
         "/tech/services-and-software/married-single-or-self-employed-how-your-filing-status-changes-everything/",
         "/tech/services-and-software/proxies-web-scraping-ultimate-guide/",
         "/tech/services-and-software/qualified-tips-overtime-tax-deduction-rules/",
@@ -1589,15 +1701,20 @@
         "/videos/tax-breaks-you-might-miss-in-2026-and-how-to-find-them/"
       ],
       "total": 1,
-      "total_allow": 96
+      "total_allow": 104
     },
     "anthropic-ai": {
       "disallow": [
         "/"
       ],
       "allow": [
+        "/home/internet/do-you-need-symmetrical-internet-speeds-what-to-know-before-you-upgrade/",
+        "/home/internet/equipment-for-fast-home-internet/",
+        "/home/internet/fix-wi-fi-dead-spots-how-to-get-internet-throughout-your-home/",
         "/home/internet/gigabit-internet-is-it-worth-splurging-for-a-faster-internet-plan/",
         "/home/internet/how-to-spot-hidden-fees-and-save-money/",
+        "/home/internet/internet-data-caps-explained-avoid-extra-charges-and-make-most-of-your-internet-plan/",
+        "/home/internet/is-your-internet-connection-delivering-on-the-speeds-you-pay-for-heres-how-to-tell/",
         "/home/internet/lag-free-internet-how-to-find-the-right-internet-speed-for-a-family-of-4-or-more/",
         "/home/internet/what-are-the-different-internet-connection-types/",
         "/home/internet/xfinity-vs-att-which-internet-provider-is-best/",
@@ -1667,10 +1784,12 @@
         "/paid-content/what-can-ray-ban-meta-ai-glasses-do-5-use-cases-for-your-everyday-routine/",
         "/paid-content/what-to-include-in-a-heart-health-daily-regimen-from-supplements-to-home-monitors/",
         "/paid-content/why-the-samsung-galaxy-s26-ultra-feels-like-the-first-phone-truly-built-for-ai/",
+        "/paid-content/how-to-check-if-t-mobile-fiber-is-available-at-your-address/",
         "/tech/mobile/apple-iphone-17-event-september-2025-what-to-expect/",
         "/tech/mobile/i-underestimated-workout-buddy-apples-playing-the-long-game-for-ai-coaching/",
         "/tech/mobile/samsung-galaxy-s26-and-s26-plus-hands-on-first-take/",
         "/tech/mobile/samsung-galaxy-s26-ultra-vs-galaxy-s26-and-s26-plus-flagship-specs-comparison/",
+        "/tech/mobile/tomorrow-we-could-see-the-iphone-17-debut-with-a-long-overdue-update/",
         "/tech/services-and-software/a-guide-to-data-removal-services-should-you-pay-for-privacy/",
         "/tech/services-and-software/complex-income-tax-filing-rules-2026/",
         "/tech/services-and-software/crypto-new-tax-form-rules/",
@@ -1680,6 +1799,7 @@
         "/tech/services-and-software/free-tax-software-cost-upgrades/",
         "/tech/services-and-software/how-h-r-block-helps-freelancers-and-gig-workers-stay-ahead-of-tax-season/",
         "/tech/services-and-software/how-to-prevent-irs-penalties-and-delays-this-tax-season/",
+        "/tech/services-and-software/ios-27-is-almost-here-but-you-should-check-out-all-these-ios-26-features-first/",
         "/tech/services-and-software/married-single-or-self-employed-how-your-filing-status-changes-everything/",
         "/tech/services-and-software/proxies-web-scraping-ultimate-guide/",
         "/tech/services-and-software/qualified-tips-overtime-tax-deduction-rules/",
@@ -1694,15 +1814,20 @@
         "/videos/tax-breaks-you-might-miss-in-2026-and-how-to-find-them/"
       ],
       "total": 1,
-      "total_allow": 96
+      "total_allow": 104
     },
     "cohere-ai": {
       "disallow": [
         "/"
       ],
       "allow": [
+        "/home/internet/do-you-need-symmetrical-internet-speeds-what-to-know-before-you-upgrade/",
+        "/home/internet/equipment-for-fast-home-internet/",
+        "/home/internet/fix-wi-fi-dead-spots-how-to-get-internet-throughout-your-home/",
         "/home/internet/gigabit-internet-is-it-worth-splurging-for-a-faster-internet-plan/",
         "/home/internet/how-to-spot-hidden-fees-and-save-money/",
+        "/home/internet/internet-data-caps-explained-avoid-extra-charges-and-make-most-of-your-internet-plan/",
+        "/home/internet/is-your-internet-connection-delivering-on-the-speeds-you-pay-for-heres-how-to-tell/",
         "/home/internet/lag-free-internet-how-to-find-the-right-internet-speed-for-a-family-of-4-or-more/",
         "/home/internet/what-are-the-different-internet-connection-types/",
         "/home/internet/xfinity-vs-att-which-internet-provider-is-best/",
@@ -1772,10 +1897,12 @@
         "/paid-content/what-can-ray-ban-meta-ai-glasses-do-5-use-cases-for-your-everyday-routine/",
         "/paid-content/what-to-include-in-a-heart-health-daily-regimen-from-supplements-to-home-monitors/",
         "/paid-content/why-the-samsung-galaxy-s26-ultra-feels-like-the-first-phone-truly-built-for-ai/",
+        "/paid-content/how-to-check-if-t-mobile-fiber-is-available-at-your-address/",
         "/tech/mobile/apple-iphone-17-event-september-2025-what-to-expect/",
         "/tech/mobile/i-underestimated-workout-buddy-apples-playing-the-long-game-for-ai-coaching/",
         "/tech/mobile/samsung-galaxy-s26-and-s26-plus-hands-on-first-take/",
         "/tech/mobile/samsung-galaxy-s26-ultra-vs-galaxy-s26-and-s26-plus-flagship-specs-comparison/",
+        "/tech/mobile/tomorrow-we-could-see-the-iphone-17-debut-with-a-long-overdue-update/",
         "/tech/services-and-software/a-guide-to-data-removal-services-should-you-pay-for-privacy/",
         "/tech/services-and-software/complex-income-tax-filing-rules-2026/",
         "/tech/services-and-software/crypto-new-tax-form-rules/",
@@ -1785,6 +1912,7 @@
         "/tech/services-and-software/free-tax-software-cost-upgrades/",
         "/tech/services-and-software/how-h-r-block-helps-freelancers-and-gig-workers-stay-ahead-of-tax-season/",
         "/tech/services-and-software/how-to-prevent-irs-penalties-and-delays-this-tax-season/",
+        "/tech/services-and-software/ios-27-is-almost-here-but-you-should-check-out-all-these-ios-26-features-first/",
         "/tech/services-and-software/married-single-or-self-employed-how-your-filing-status-changes-everything/",
         "/tech/services-and-software/proxies-web-scraping-ultimate-guide/",
         "/tech/services-and-software/qualified-tips-overtime-tax-deduction-rules/",
@@ -1799,15 +1927,20 @@
         "/videos/tax-breaks-you-might-miss-in-2026-and-how-to-find-them/"
       ],
       "total": 1,
-      "total_allow": 96
+      "total_allow": 104
     },
     "cohere-training-data-crawler": {
       "disallow": [
         "/"
       ],
       "allow": [
+        "/home/internet/do-you-need-symmetrical-internet-speeds-what-to-know-before-you-upgrade/",
+        "/home/internet/equipment-for-fast-home-internet/",
+        "/home/internet/fix-wi-fi-dead-spots-how-to-get-internet-throughout-your-home/",
         "/home/internet/gigabit-internet-is-it-worth-splurging-for-a-faster-internet-plan/",
         "/home/internet/how-to-spot-hidden-fees-and-save-money/",
+        "/home/internet/internet-data-caps-explained-avoid-extra-charges-and-make-most-of-your-internet-plan/",
+        "/home/internet/is-your-internet-connection-delivering-on-the-speeds-you-pay-for-heres-how-to-tell/",
         "/home/internet/lag-free-internet-how-to-find-the-right-internet-speed-for-a-family-of-4-or-more/",
         "/home/internet/what-are-the-different-internet-connection-types/",
         "/home/internet/xfinity-vs-att-which-internet-provider-is-best/",
@@ -1877,10 +2010,12 @@
         "/paid-content/what-can-ray-ban-meta-ai-glasses-do-5-use-cases-for-your-everyday-routine/",
         "/paid-content/what-to-include-in-a-heart-health-daily-regimen-from-supplements-to-home-monitors/",
         "/paid-content/why-the-samsung-galaxy-s26-ultra-feels-like-the-first-phone-truly-built-for-ai/",
+        "/paid-content/how-to-check-if-t-mobile-fiber-is-available-at-your-address/",
         "/tech/mobile/apple-iphone-17-event-september-2025-what-to-expect/",
         "/tech/mobile/i-underestimated-workout-buddy-apples-playing-the-long-game-for-ai-coaching/",
         "/tech/mobile/samsung-galaxy-s26-and-s26-plus-hands-on-first-take/",
         "/tech/mobile/samsung-galaxy-s26-ultra-vs-galaxy-s26-and-s26-plus-flagship-specs-comparison/",
+        "/tech/mobile/tomorrow-we-could-see-the-iphone-17-debut-with-a-long-overdue-update/",
         "/tech/services-and-software/a-guide-to-data-removal-services-should-you-pay-for-privacy/",
         "/tech/services-and-software/complex-income-tax-filing-rules-2026/",
         "/tech/services-and-software/crypto-new-tax-form-rules/",
@@ -1890,6 +2025,7 @@
         "/tech/services-and-software/free-tax-software-cost-upgrades/",
         "/tech/services-and-software/how-h-r-block-helps-freelancers-and-gig-workers-stay-ahead-of-tax-season/",
         "/tech/services-and-software/how-to-prevent-irs-penalties-and-delays-this-tax-season/",
+        "/tech/services-and-software/ios-27-is-almost-here-but-you-should-check-out-all-these-ios-26-features-first/",
         "/tech/services-and-software/married-single-or-self-employed-how-your-filing-status-changes-everything/",
         "/tech/services-and-software/proxies-web-scraping-ultimate-guide/",
         "/tech/services-and-software/qualified-tips-overtime-tax-deduction-rules/",
@@ -1904,15 +2040,20 @@
         "/videos/tax-breaks-you-might-miss-in-2026-and-how-to-find-them/"
       ],
       "total": 1,
-      "total_allow": 96
+      "total_allow": 104
     },
     "meta-externalagent": {
       "disallow": [
         "/"
       ],
       "allow": [
+        "/home/internet/do-you-need-symmetrical-internet-speeds-what-to-know-before-you-upgrade/",
+        "/home/internet/equipment-for-fast-home-internet/",
+        "/home/internet/fix-wi-fi-dead-spots-how-to-get-internet-throughout-your-home/",
         "/home/internet/gigabit-internet-is-it-worth-splurging-for-a-faster-internet-plan/",
         "/home/internet/how-to-spot-hidden-fees-and-save-money/",
+        "/home/internet/internet-data-caps-explained-avoid-extra-charges-and-make-most-of-your-internet-plan/",
+        "/home/internet/is-your-internet-connection-delivering-on-the-speeds-you-pay-for-heres-how-to-tell/",
         "/home/internet/lag-free-internet-how-to-find-the-right-internet-speed-for-a-family-of-4-or-more/",
         "/home/internet/what-are-the-different-internet-connection-types/",
         "/home/internet/xfinity-vs-att-which-internet-provider-is-best/",
@@ -1982,10 +2123,12 @@
         "/paid-content/what-can-ray-ban-meta-ai-glasses-do-5-use-cases-for-your-everyday-routine/",
         "/paid-content/what-to-include-in-a-heart-health-daily-regimen-from-supplements-to-home-monitors/",
         "/paid-content/why-the-samsung-galaxy-s26-ultra-feels-like-the-first-phone-truly-built-for-ai/",
+        "/paid-content/how-to-check-if-t-mobile-fiber-is-available-at-your-address/",
         "/tech/mobile/apple-iphone-17-event-september-2025-what-to-expect/",
         "/tech/mobile/i-underestimated-workout-buddy-apples-playing-the-long-game-for-ai-coaching/",
         "/tech/mobile/samsung-galaxy-s26-and-s26-plus-hands-on-first-take/",
         "/tech/mobile/samsung-galaxy-s26-ultra-vs-galaxy-s26-and-s26-plus-flagship-specs-comparison/",
+        "/tech/mobile/tomorrow-we-could-see-the-iphone-17-debut-with-a-long-overdue-update/",
         "/tech/services-and-software/a-guide-to-data-removal-services-should-you-pay-for-privacy/",
         "/tech/services-and-software/complex-income-tax-filing-rules-2026/",
         "/tech/services-and-software/crypto-new-tax-form-rules/",
@@ -1995,6 +2138,7 @@
         "/tech/services-and-software/free-tax-software-cost-upgrades/",
         "/tech/services-and-software/how-h-r-block-helps-freelancers-and-gig-workers-stay-ahead-of-tax-season/",
         "/tech/services-and-software/how-to-prevent-irs-penalties-and-delays-this-tax-season/",
+        "/tech/services-and-software/ios-27-is-almost-here-but-you-should-check-out-all-these-ios-26-features-first/",
         "/tech/services-and-software/married-single-or-self-employed-how-your-filing-status-changes-everything/",
         "/tech/services-and-software/proxies-web-scraping-ultimate-guide/",
         "/tech/services-and-software/qualified-tips-overtime-tax-deduction-rules/",
@@ -2009,15 +2153,20 @@
         "/videos/tax-breaks-you-might-miss-in-2026-and-how-to-find-them/"
       ],
       "total": 1,
-      "total_allow": 96
+      "total_allow": 104
     },
     "meta-externalfetcher": {
       "disallow": [
         "/"
       ],
       "allow": [
+        "/home/internet/do-you-need-symmetrical-internet-speeds-what-to-know-before-you-upgrade/",
+        "/home/internet/equipment-for-fast-home-internet/",
+        "/home/internet/fix-wi-fi-dead-spots-how-to-get-internet-throughout-your-home/",
         "/home/internet/gigabit-internet-is-it-worth-splurging-for-a-faster-internet-plan/",
         "/home/internet/how-to-spot-hidden-fees-and-save-money/",
+        "/home/internet/internet-data-caps-explained-avoid-extra-charges-and-make-most-of-your-internet-plan/",
+        "/home/internet/is-your-internet-connection-delivering-on-the-speeds-you-pay-for-heres-how-to-tell/",
         "/home/internet/lag-free-internet-how-to-find-the-right-internet-speed-for-a-family-of-4-or-more/",
         "/home/internet/what-are-the-different-internet-connection-types/",
         "/home/internet/xfinity-vs-att-which-internet-provider-is-best/",
@@ -2087,10 +2236,12 @@
         "/paid-content/what-can-ray-ban-meta-ai-glasses-do-5-use-cases-for-your-everyday-routine/",
         "/paid-content/what-to-include-in-a-heart-health-daily-regimen-from-supplements-to-home-monitors/",
         "/paid-content/why-the-samsung-galaxy-s26-ultra-feels-like-the-first-phone-truly-built-for-ai/",
+        "/paid-content/how-to-check-if-t-mobile-fiber-is-available-at-your-address/",
         "/tech/mobile/apple-iphone-17-event-september-2025-what-to-expect/",
         "/tech/mobile/i-underestimated-workout-buddy-apples-playing-the-long-game-for-ai-coaching/",
         "/tech/mobile/samsung-galaxy-s26-and-s26-plus-hands-on-first-take/",
         "/tech/mobile/samsung-galaxy-s26-ultra-vs-galaxy-s26-and-s26-plus-flagship-specs-comparison/",
+        "/tech/mobile/tomorrow-we-could-see-the-iphone-17-debut-with-a-long-overdue-update/",
         "/tech/services-and-software/a-guide-to-data-removal-services-should-you-pay-for-privacy/",
         "/tech/services-and-software/complex-income-tax-filing-rules-2026/",
         "/tech/services-and-software/crypto-new-tax-form-rules/",
@@ -2100,6 +2251,7 @@
         "/tech/services-and-software/free-tax-software-cost-upgrades/",
         "/tech/services-and-software/how-h-r-block-helps-freelancers-and-gig-workers-stay-ahead-of-tax-season/",
         "/tech/services-and-software/how-to-prevent-irs-penalties-and-delays-this-tax-season/",
+        "/tech/services-and-software/ios-27-is-almost-here-but-you-should-check-out-all-these-ios-26-features-first/",
         "/tech/services-and-software/married-single-or-self-employed-how-your-filing-status-changes-everything/",
         "/tech/services-and-software/proxies-web-scraping-ultimate-guide/",
         "/tech/services-and-software/qualified-tips-overtime-tax-deduction-rules/",
@@ -2114,7 +2266,7 @@
         "/videos/tax-breaks-you-might-miss-in-2026-and-how-to-find-them/"
       ],
       "total": 1,
-      "total_allow": 96
+      "total_allow": 104
     }
   }
 }

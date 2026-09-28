@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-09-21T11:46:21+00:00",
+  "checked_at": "2026-09-28T12:41:37+00:00",
   "domain": "ibm.com",
   "category": "software",
   "robots_url": "https://ibm.com/robots.txt",
@@ -98,10 +98,11 @@
         "/zshowcase",
         "/widgets-admin",
         "/w3",
-        "/mintlify-assets"
+        "/mintlify-assets",
+        "/industries/federal/fedcat/ibm-automation-services-for-government"
       ],
       "allow": [],
-      "total": 62,
+      "total": 63,
       "total_allow": 0
     }
   }

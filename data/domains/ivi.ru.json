@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-09-21T11:46:21+00:00",
+  "checked_at": "2026-09-28T12:41:37+00:00",
   "domain": "ivi.ru",
   "category": "other",
   "robots_url": "https://ivi.ru/robots.txt",
@@ -133,7 +133,11 @@
         "/watch/holop-3-film-o-filme/*",
         "/watch/vsyo-v-tvoih-rukah-2026/*",
         "/watch/holod/655286",
-        "/watch/neslomlennaya-2026/*"
+        "/watch/neslomlennaya-2026/*",
+        "/watch/vse-v-tvoih-rukah-rossiya/*",
+        "/watch/kogda-vanya-vstretil-anyu-2026/*",
+        "/watch/lyubov-s-tretego-vzglyada-2026/*",
+        "/watch/istoriya-ego-sluzhanki-1/*"
       ],
       "allow": [
         "/css/",
@@ -141,7 +145,7 @@
         "/scripts/",
         "/player/trailer*"
       ],
-      "total": 97,
+      "total": 101,
       "total_allow": 4
     }
   }

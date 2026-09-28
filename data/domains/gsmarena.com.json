@@ -1,15 +1,15 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-09-21T11:46:21+00:00",
+  "checked_at": "2026-09-28T12:41:37+00:00",
   "domain": "gsmarena.com",
   "category": "other",
   "robots_url": "https://gsmarena.com/robots.txt",
   "http_status": 200,
   "fetch_error": null,
   "bots": {
-    "GPTBot": "partial",
+    "GPTBot": "blocked",
     "ChatGPT-User": "blocked",
-    "OAI-SearchBot": "blocked",
+    "OAI-SearchBot": "partial",
     "ClaudeBot": "blocked",
     "Claude-Web": "partial",
     "anthropic-ai": "blocked",
@@ -34,8 +34,8 @@
     "DuckAssistBot": "partial"
   },
   "named": [
+    "GPTBot",
     "ChatGPT-User",
-    "OAI-SearchBot",
     "ClaudeBot",
     "anthropic-ai",
     "CCBot",
@@ -120,7 +120,7 @@
       "total": 1,
       "total_allow": 0
     },
-    "ImagesiftBot": {
+    "GPTBot": {
       "disallow": [
         "/"
       ],
@@ -128,7 +128,7 @@
       "total": 1,
       "total_allow": 0
     },
-    "OAI-SearchBot": {
+    "ImagesiftBot": {
       "disallow": [
         "/"
       ],

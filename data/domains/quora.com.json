@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-09-21T11:46:21+00:00",
+  "checked_at": "2026-09-28T12:41:37+00:00",
   "domain": "quora.com",
   "category": "forum",
   "robots_url": "https://quora.com/robots.txt",
@@ -51,6 +51,8 @@
       "disallow": [
         "/",
         "/ajax/",
+        "/*_POST$",
+        "/*_POST/",
         "/@async",
         "/*/@async",
         "/log/",
@@ -98,8 +100,6 @@
         "/widgets/content_iframe/",
         "/widgets/content_js/",
         "/_/",
-        "/*_POST$",
-        "/*_POST/",
         "/webnode2/",
         "/anonymous/",
         "/q/*/admin_log",
@@ -128,6 +128,8 @@
     "Amazonbot": {
       "disallow": [
         "/ajax/",
+        "/*_POST$",
+        "/*_POST/",
         "/@async",
         "/*/@async",
         "/log/",
@@ -175,8 +177,6 @@
         "/widgets/content_iframe/",
         "/widgets/content_js/",
         "/_/",
-        "/*_POST$",
-        "/*_POST/",
         "/webnode2/",
         "/anonymous/",
         "/q/*/admin_log",
@@ -245,6 +245,8 @@
     "Google-Extended": {
       "disallow": [
         "/ajax/",
+        "/*_POST$",
+        "/*_POST/",
         "/@async",
         "/*/@async",
         "/log/",
@@ -292,8 +294,6 @@
         "/widgets/content_iframe/",
         "/widgets/content_js/",
         "/_/",
-        "/*_POST$",
-        "/*_POST/",
         "/webnode2/",
         "/anonymous/",
         "/q/*/admin_log",
