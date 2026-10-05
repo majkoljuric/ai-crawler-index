@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-09-28T12:41:37+00:00",
+  "checked_at": "2026-10-05T13:22:36+00:00",
   "domain": "finn.no",
   "category": "software",
   "robots_url": "https://finn.no/robots.txt",
@@ -36,7 +36,15 @@
   "named": [
     "GPTBot",
     "ChatGPT-User",
-    "OAI-SearchBot"
+    "OAI-SearchBot",
+    "ClaudeBot",
+    "anthropic-ai",
+    "Google-Extended",
+    "Applebot-Extended",
+    "CCBot",
+    "Bytespider",
+    "Amazonbot",
+    "meta-externalagent"
   ],
   "rules": {
     "*": {
@@ -52,6 +60,8 @@
         "/map/",
         "/profile*",
         "/report/item/",
+        "/*?sort=",
+        "/*&sort=",
         "*/gallery.html",
         "/bap.html",
         "/job.html",
@@ -198,8 +208,40 @@
         "/realestate/projectunitleisure/ad.html",
         "/bedriftskunde"
       ],
-      "total": 71,
+      "total": 73,
       "total_allow": 83
+    },
+    "Amazonbot": {
+      "disallow": [
+        "/realestate/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "Applebot-Extended": {
+      "disallow": [
+        "/realestate/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "Bytespider": {
+      "disallow": [
+        "/realestate/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "CCBot": {
+      "disallow": [
+        "/realestate/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
     },
     "ChatGPT-User": {
       "disallow": [
@@ -214,9 +256,25 @@
       "total": 1,
       "total_allow": 4
     },
+    "ClaudeBot": {
+      "disallow": [
+        "/realestate/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
     "GPTBot": {
       "disallow": [
         "/job/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "Google-Extended": {
+      "disallow": [
+        "/realestate/"
       ],
       "allow": [],
       "total": 1,
@@ -234,6 +292,14 @@
       ],
       "total": 1,
       "total_allow": 4
+    },
+    "anthropic-ai": {
+      "disallow": [
+        "/realestate/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
     }
   }
 }

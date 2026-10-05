@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-09-28T12:41:37+00:00",
+  "checked_at": "2026-10-05T13:22:36+00:00",
   "domain": "chatgpt.com",
   "category": "software",
   "robots_url": "https://chatgpt.com/robots.txt",
@@ -147,7 +147,12 @@
         "/*/remote",
         "/work",
         "/*/work",
+        "/dots",
+        "/*/dots",
         "/sites",
+        "/*/sites",
+        "/space",
+        "/*/space",
         "/import-to-chatgpt",
         "/*/import-to-chatgpt",
         "/am/$",
@@ -215,7 +220,7 @@
         "/zh-HK/$"
       ],
       "total": 6,
-      "total_allow": 160
+      "total_allow": 165
     },
     "Bytespider": {
       "disallow": [

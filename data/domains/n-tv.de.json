@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-09-28T12:41:37+00:00",
+  "checked_at": "2026-10-05T13:22:36+00:00",
   "domain": "n-tv.de",
   "category": "other",
   "robots_url": "https://n-tv.de/robots.txt",
@@ -67,10 +67,11 @@
         "/webtools-im-vergleich/",
         "/ratgeber/So-findest-du-den-Streamingdienst-der-wirklich-zu-deinem-Alltag-passt-id31165054.html",
         "/ratgeber/Welcher-Streamingdienst-passt-zu-dir-Warum-RTL-fuer-Fans-deutscher-Serien-Reality-und-Live-TV-ideal-ist-id31160570.html",
-        "/ratgeber/Wer-fuer-eine-Waermepumpe-bis-zu-22-400-Euro-Zuschuss-erhalten-kann-id31217878.html"
+        "/ratgeber/Wer-fuer-eine-Waermepumpe-bis-zu-22-400-Euro-Zuschuss-erhalten-kann-id31217878.html",
+        "/ratgeber/Wann-sich-der-Umstieg-finanziell-rechnet-id31358008.html"
       ],
       "total": 1,
-      "total_allow": 11
+      "total_allow": 12
     },
     "GPTBot": {
       "disallow": [
@@ -87,10 +88,11 @@
         "/webtools-im-vergleich/",
         "/ratgeber/So-findest-du-den-Streamingdienst-der-wirklich-zu-deinem-Alltag-passt-id31165054.html",
         "/ratgeber/Welcher-Streamingdienst-passt-zu-dir-Warum-RTL-fuer-Fans-deutscher-Serien-Reality-und-Live-TV-ideal-ist-id31160570.html",
-        "/ratgeber/Wer-fuer-eine-Waermepumpe-bis-zu-22-400-Euro-Zuschuss-erhalten-kann-id31217878.html"
+        "/ratgeber/Wer-fuer-eine-Waermepumpe-bis-zu-22-400-Euro-Zuschuss-erhalten-kann-id31217878.html",
+        "/ratgeber/Wann-sich-der-Umstieg-finanziell-rechnet-id31358008.html"
       ],
       "total": 1,
-      "total_allow": 11
+      "total_allow": 12
     },
     "Google-Extended": {
       "disallow": [
@@ -107,10 +109,11 @@
         "/webtools-im-vergleich/",
         "/ratgeber/So-findest-du-den-Streamingdienst-der-wirklich-zu-deinem-Alltag-passt-id31165054.html",
         "/ratgeber/Welcher-Streamingdienst-passt-zu-dir-Warum-RTL-fuer-Fans-deutscher-Serien-Reality-und-Live-TV-ideal-ist-id31160570.html",
-        "/ratgeber/Wer-fuer-eine-Waermepumpe-bis-zu-22-400-Euro-Zuschuss-erhalten-kann-id31217878.html"
+        "/ratgeber/Wer-fuer-eine-Waermepumpe-bis-zu-22-400-Euro-Zuschuss-erhalten-kann-id31217878.html",
+        "/ratgeber/Wann-sich-der-Umstieg-finanziell-rechnet-id31358008.html"
       ],
       "total": 1,
-      "total_allow": 11
+      "total_allow": 12
     }
   }
 }

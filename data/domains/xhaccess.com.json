@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-09-28T12:41:37+00:00",
+  "checked_at": "2026-10-05T13:22:36+00:00",
   "domain": "xhaccess.com",
   "category": "other",
   "robots_url": "https://xhaccess.com/robots.txt",
@@ -133,6 +133,13 @@
         "*/search/*sort=views",
         "*/search/*angle=",
         "*/search/*dimension=",
+        "*/search/*exclude=",
+        "*/search/*fps=",
+        "*/search/*sort=relevance",
+        "*/search/*sort=rjib",
+        "*/search/*quality=781",
+        "*/search/*quality=hd",
+        "*/search/*format=px",
         "*/search/*format=vr",
         "*/search/*page=",
         "*?skip=",
@@ -181,7 +188,7 @@
         "*/search/*?sort=best&page=9$",
         "*/search/*?sort=best&page=10$"
       ],
-      "total": 110,
+      "total": 117,
       "total_allow": 31
     }
   }

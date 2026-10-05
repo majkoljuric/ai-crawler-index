@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-09-28T12:41:37+00:00",
+  "checked_at": "2026-10-05T13:22:36+00:00",
   "domain": "odoo.com",
   "category": "other",
   "robots_url": "https://odoo.com/robots.txt",
@@ -41,6 +41,7 @@
         "/*/my/*",
         "/groups/*",
         "*/groups/*",
+        "*/sign/*",
         "*/typo?domain=",
         "*?*orderby=",
         "*?*order=",
@@ -95,7 +96,7 @@
         "*/groups/*-528918$",
         "*/groups/*-528918/"
       ],
-      "total": 51,
+      "total": 52,
       "total_allow": 4
     }
   }

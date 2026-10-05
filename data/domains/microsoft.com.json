@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-09-28T12:41:37+00:00",
+  "checked_at": "2026-10-05T13:22:36+00:00",
   "domain": "microsoft.com",
   "category": "software",
   "robots_url": "https://microsoft.com/robots.txt",
@@ -152,6 +152,7 @@
         "/de-de/corporate/rechtliche-hinweise/impressum_de.aspx",
         "/en/microsoft-365",
         "/en/microsoft-365/",
+        "/en/microsoft-365/",
         "/es/microsoft-365",
         "/es/microsoft-365/",
         "/fr/microsoft-365",
@@ -225,12 +226,23 @@
         "/en/microsoft-365/publisher",
         "/en/microsoft-365/products-apps-services",
         "/en/microsoft-365/onenote/digital-note-taking-app",
+        "/en/microsoft-365/powerpoint",
+        "/en/microsoft-365/excel",
+        "/en/microsoft-365/microsoft-office",
+        "/en/microsoft-365/business/microsoft-365-administration",
+        "/en/microsoft-365-copilot/microsoft-copilot-studio",
+        "/en/microsoft-365/project/project-management-software",
+        "/en/microsoft-365/project/microsoft-project-enterprise-plans-and-pricing",
+        "/en/microsoft-365/onedrive/online-cloud-storage",
+        "/en/microsoft-365/business",
+        "/en/microsoft-365/clipchamp",
+        "/en/microsoft-viva/engage",
         "/wp-admin/admin-ajax.php",
         "/wp-content/uploads/",
         "/?display=wide"
       ],
-      "total": 153,
-      "total_allow": 36
+      "total": 154,
+      "total_allow": 47
     }
   }
 }
