@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-10-05T13:22:36+00:00",
+  "checked_at": "2026-10-12T14:12:07+00:00",
   "domain": "finn.no",
   "category": "software",
   "robots_url": "https://finn.no/robots.txt",
@@ -90,6 +90,7 @@
         "/bap/webstore/search.html",
         "/job*industry=*occupation=*",
         "/job/employer/company/*activeAds*",
+        "/job/search?*abTestKey=",
         "/pw/search",
         "/pw/ad",
         "/reise/flybilletter/result",
@@ -208,7 +209,7 @@
         "/realestate/projectunitleisure/ad.html",
         "/bedriftskunde"
       ],
-      "total": 73,
+      "total": 74,
       "total_allow": 83
     },
     "Amazonbot": {

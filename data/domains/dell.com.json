@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-10-05T13:22:36+00:00",
+  "checked_at": "2026-10-12T14:12:07+00:00",
   "domain": "dell.com",
   "category": "software",
   "robots_url": "https://dell.com/robots.txt",
@@ -72,12 +72,9 @@
         "*pr_rd_page=*",
         "*bvstate=",
         "/support/kbdoc/*/000287599",
-        "/support/incidents-online/*/contactus/product/",
         "/support/ips/",
         "/support/*/ru/ru/",
         "/support/order-status/*/packingslip*",
-        "/support/search/",
-        "/support/Search/",
         "/support/home/cassette.axd/*",
         "/support/home/*/*/*/Diagnostics/*",
         "/support/home/*/*/*/Drivers/DownloadList/*",
@@ -90,9 +87,6 @@
         "/support/*/tab_mob/",
         "/support/coveo-dell/*",
         "/support/components/*",
-        "/support/article{lwp}/*",
-        "/support/*/servicetag/*",
-        "/support/*/ServiceTag/*",
         "/support/Diagnostics/*",
         "/support/diagnostics/*",
         "/support/*/chat/*",
@@ -104,7 +98,6 @@
         "*/support/*/ua/uk/",
         "*/support/*/ua/en/",
         "/support/*/ips/",
-        "/support/productsmfe/",
         "*/ru-ru",
         "/cs-cz/",
         "/cs-cz/",
@@ -459,6 +452,7 @@
         "/community/en/users/64c1061fe454291792ef4814"
       ],
       "allow": [
+        "/en-gb/blog/",
         "*/home/*/product-support/servicetag/*/configuration*",
         "/cs-cz/lp$",
         "/cs-cz/lp/contact-us",
@@ -1010,8 +1004,8 @@
         "/zh-tw/blog/",
         "/ko-kr/blog/"
       ],
-      "total": 418,
-      "total_allow": 550
+      "total": 411,
+      "total_allow": 551
     },
     "Bytespider": {
       "disallow": [

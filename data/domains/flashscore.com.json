@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-10-05T13:22:36+00:00",
+  "checked_at": "2026-10-12T14:12:07+00:00",
   "domain": "flashscore.com",
   "category": "other",
   "robots_url": "https://flashscore.com/robots.txt",
@@ -16,7 +16,7 @@
     "Google-Extended": "partial",
     "GoogleOther": "partial",
     "Applebot-Extended": "partial",
-    "CCBot": "blocked",
+    "CCBot": "partial",
     "Bytespider": "blocked",
     "PerplexityBot": "partial",
     "Perplexity-User": "partial",
@@ -25,8 +25,8 @@
     "Diffbot": "blocked",
     "Omgilibot": "blocked",
     "Amazonbot": "partial",
-    "meta-externalagent": "blocked",
-    "meta-externalfetcher": "blocked",
+    "meta-externalagent": "partial",
+    "meta-externalfetcher": "partial",
     "Timpibot": "blocked",
     "YouBot": "blocked",
     "ImagesiftBot": "blocked",
@@ -34,13 +34,10 @@
     "DuckAssistBot": "blocked"
   },
   "named": [
-    "CCBot",
     "Bytespider",
     "cohere-ai",
     "Diffbot",
     "Omgilibot",
-    "meta-externalagent",
-    "meta-externalfetcher",
     "Timpibot",
     "YouBot",
     "ImagesiftBot",
@@ -272,14 +269,6 @@
       "total_allow": 0
     },
     "Bytespider": {
-      "disallow": [
-        "/"
-      ],
-      "allow": [],
-      "total": 1,
-      "total_allow": 0
-    },
-    "CCBot": {
       "disallow": [
         "/"
       ],

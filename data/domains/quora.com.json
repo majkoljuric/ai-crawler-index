@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-10-05T13:22:36+00:00",
+  "checked_at": "2026-10-12T14:12:07+00:00",
   "domain": "quora.com",
   "category": "forum",
   "robots_url": "https://quora.com/robots.txt",
@@ -9,7 +9,7 @@
   "bots": {
     "GPTBot": "blocked",
     "ChatGPT-User": "blocked",
-    "OAI-SearchBot": "blocked",
+    "OAI-SearchBot": "partial",
     "ClaudeBot": "blocked",
     "Claude-Web": "partial",
     "anthropic-ai": "partial",
@@ -323,9 +323,14 @@
       "disallow": [
         "/"
       ],
-      "allow": [],
+      "allow": [
+        "/*drinking-water",
+        "/*Drinking-water",
+        "/*Drinking-Water",
+        "/*drinking-Water"
+      ],
       "total": 1,
-      "total_allow": 0
+      "total_allow": 4
     },
     "PerplexityBot": {
       "disallow": [
