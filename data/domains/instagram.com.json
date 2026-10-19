@@ -1,30 +1,30 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-10-12T14:12:07+00:00",
+  "checked_at": "2026-10-19T11:53:02+00:00",
   "domain": "instagram.com",
   "category": "social",
   "robots_url": "https://instagram.com/robots.txt",
   "http_status": 200,
   "fetch_error": null,
   "bots": {
-    "GPTBot": "partial",
+    "GPTBot": "blocked",
     "ChatGPT-User": "blocked",
     "OAI-SearchBot": "blocked",
-    "ClaudeBot": "partial",
+    "ClaudeBot": "blocked",
     "Claude-Web": "blocked",
     "anthropic-ai": "blocked",
-    "Google-Extended": "partial",
+    "Google-Extended": "blocked",
     "GoogleOther": "blocked",
-    "Applebot-Extended": "partial",
+    "Applebot-Extended": "blocked",
     "CCBot": "blocked",
     "Bytespider": "blocked",
-    "PerplexityBot": "partial",
+    "PerplexityBot": "blocked",
     "Perplexity-User": "blocked",
     "cohere-ai": "blocked",
     "cohere-training-data-crawler": "blocked",
     "Diffbot": "blocked",
     "Omgilibot": "blocked",
-    "Amazonbot": "partial",
+    "Amazonbot": "blocked",
     "meta-externalagent": "blocked",
     "meta-externalfetcher": "blocked",
     "Timpibot": "blocked",
@@ -52,105 +52,51 @@
     },
     "Amazonbot": {
       "disallow": [
-        "/accounts/login/*?next=",
-        "/ajax/",
-        "/client_error/",
-        "/direct/",
-        "/logging/",
-        "/publicapi/",
-        "/qp/batch_fetch_web/",
-        "/query/"
+        "/"
       ],
-      "allow": [
-        "/places/c/"
-      ],
-      "total": 8,
-      "total_allow": 1
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
     },
     "Applebot-Extended": {
       "disallow": [
-        "/accounts/login/*?next=",
-        "/ajax/",
-        "/client_error/",
-        "/direct/",
-        "/logging/",
-        "/publicapi/",
-        "/qp/batch_fetch_web/",
-        "/query/"
+        "/"
       ],
-      "allow": [
-        "/places/c/"
-      ],
-      "total": 8,
-      "total_allow": 1
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
     },
     "ClaudeBot": {
       "disallow": [
-        "/accounts/login/*?next=",
-        "/ajax/",
-        "/client_error/",
-        "/direct/",
-        "/logging/",
-        "/publicapi/",
-        "/qp/batch_fetch_web/",
-        "/query/"
+        "/"
       ],
-      "allow": [
-        "/places/c/"
-      ],
-      "total": 8,
-      "total_allow": 1
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
     },
     "GPTBot": {
       "disallow": [
-        "/accounts/login/*?next=",
-        "/ajax/",
-        "/client_error/",
-        "/direct/",
-        "/logging/",
-        "/publicapi/",
-        "/qp/batch_fetch_web/",
-        "/query/"
+        "/"
       ],
-      "allow": [
-        "/places/c/"
-      ],
-      "total": 8,
-      "total_allow": 1
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
     },
     "Google-Extended": {
       "disallow": [
-        "/accounts/login/*?next=",
-        "/ajax/",
-        "/client_error/",
-        "/direct/",
-        "/logging/",
-        "/publicapi/",
-        "/qp/batch_fetch_web/",
-        "/query/"
+        "/"
       ],
-      "allow": [
-        "/places/c/"
-      ],
-      "total": 8,
-      "total_allow": 1
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
     },
     "PerplexityBot": {
       "disallow": [
-        "/accounts/login/*?next=",
-        "/ajax/",
-        "/client_error/",
-        "/direct/",
-        "/logging/",
-        "/publicapi/",
-        "/qp/batch_fetch_web/",
-        "/query/"
+        "/"
       ],
-      "allow": [
-        "/places/c/"
-      ],
-      "total": 8,
-      "total_allow": 1
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
     }
   }
 }

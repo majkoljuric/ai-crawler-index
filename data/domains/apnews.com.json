@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-10-12T14:12:07+00:00",
+  "checked_at": "2026-10-19T11:53:02+00:00",
   "domain": "apnews.com",
   "category": "news",
   "robots_url": "https://apnews.com/robots.txt",
@@ -65,10 +65,12 @@
         "/article/border-immigration-election-2182fec11fa008ec96c4202e5656d19e",
         "/api/v2/feed/",
         "/press-release/*",
-        "/*/widgets/"
+        "/*/widgets/",
+        "/*/widget/",
+        "/*/scripts/"
       ],
       "allow": [],
-      "total": 18,
+      "total": 20,
       "total_allow": 0
     },
     "Amazonbot": {

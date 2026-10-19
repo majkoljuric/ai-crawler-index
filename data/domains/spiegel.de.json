@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-10-12T14:12:07+00:00",
+  "checked_at": "2026-10-19T11:53:02+00:00",
   "domain": "spiegel.de",
   "category": "news",
   "robots_url": "https://spiegel.de/robots.txt",
@@ -24,7 +24,7 @@
     "cohere-training-data-crawler": "blocked",
     "Diffbot": "blocked",
     "Omgilibot": "blocked",
-    "Amazonbot": "blocked",
+    "Amazonbot": "partial",
     "meta-externalagent": "blocked",
     "meta-externalfetcher": "partial",
     "Timpibot": "blocked",
@@ -47,7 +47,6 @@
     "cohere-training-data-crawler",
     "Diffbot",
     "Omgilibot",
-    "Amazonbot",
     "meta-externalagent",
     "Timpibot",
     "YouBot",
@@ -64,14 +63,6 @@
       ],
       "total": 1,
       "total_allow": 1
-    },
-    "Amazonbot": {
-      "disallow": [
-        "/"
-      ],
-      "allow": [],
-      "total": 1,
-      "total_allow": 0
     },
     "Applebot-Extended": {
       "disallow": [

@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-10-12T14:12:07+00:00",
+  "checked_at": "2026-10-19T11:53:02+00:00",
   "domain": "finn.no",
   "category": "software",
   "robots_url": "https://finn.no/robots.txt",
@@ -214,34 +214,38 @@
     },
     "Amazonbot": {
       "disallow": [
-        "/realestate/"
+        "/realestate/",
+        "/job/"
       ],
       "allow": [],
-      "total": 1,
+      "total": 2,
       "total_allow": 0
     },
     "Applebot-Extended": {
       "disallow": [
-        "/realestate/"
+        "/realestate/",
+        "/job/"
       ],
       "allow": [],
-      "total": 1,
+      "total": 2,
       "total_allow": 0
     },
     "Bytespider": {
       "disallow": [
-        "/realestate/"
+        "/realestate/",
+        "/job/"
       ],
       "allow": [],
-      "total": 1,
+      "total": 2,
       "total_allow": 0
     },
     "CCBot": {
       "disallow": [
-        "/realestate/"
+        "/realestate/",
+        "/job/"
       ],
       "allow": [],
-      "total": 1,
+      "total": 2,
       "total_allow": 0
     },
     "ChatGPT-User": {
@@ -259,26 +263,33 @@
     },
     "ClaudeBot": {
       "disallow": [
-        "/realestate/"
+        "/realestate/",
+        "/job/"
       ],
       "allow": [],
-      "total": 1,
+      "total": 2,
       "total_allow": 0
     },
     "GPTBot": {
       "disallow": [
-        "/job/"
+        "/job/salary/"
       ],
-      "allow": [],
+      "allow": [
+        "/job/salary/$",
+        "/job/salary$",
+        "/job/salary/explore",
+        "/job/salary/onboarding/landing"
+      ],
       "total": 1,
-      "total_allow": 0
+      "total_allow": 4
     },
     "Google-Extended": {
       "disallow": [
-        "/realestate/"
+        "/realestate/",
+        "/job/"
       ],
       "allow": [],
-      "total": 1,
+      "total": 2,
       "total_allow": 0
     },
     "OAI-SearchBot": {
@@ -296,10 +307,11 @@
     },
     "anthropic-ai": {
       "disallow": [
-        "/realestate/"
+        "/realestate/",
+        "/job/"
       ],
       "allow": [],
-      "total": 1,
+      "total": 2,
       "total_allow": 0
     }
   }

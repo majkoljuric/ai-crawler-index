@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-10-12T14:12:07+00:00",
+  "checked_at": "2026-10-19T11:53:02+00:00",
   "domain": "nytimes.com",
   "category": "news",
   "robots_url": "https://nytimes.com/robots.txt",
@@ -154,7 +154,7 @@
         "/athletic/login/$",
         "/athletic/login2/$",
         "/athletic/live-blogs/discuss/",
-        "/athletic/mlb/game/discuss/",
+        "/athletic/nfl/game/discuss/",
         "/svc/crosswords",
         "/svc/games",
         "/svc/letter-boxed",
