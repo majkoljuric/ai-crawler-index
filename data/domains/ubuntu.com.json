@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-10-19T11:53:02+00:00",
+  "checked_at": "2026-10-26T12:06:46+00:00",
   "domain": "ubuntu.com",
   "category": "other",
   "robots_url": "https://ubuntu.com/robots.txt",
@@ -98,9 +98,11 @@
         "/devices/*",
         "/credentials/exam*"
       ],
-      "allow": [],
+      "allow": [
+        "/certified/search"
+      ],
       "total": 46,
-      "total_allow": 0
+      "total_allow": 1
     },
     "Applebot-Extended": {
       "disallow": [
@@ -222,10 +224,11 @@
         "/tutorials",
         "/appliance",
         "/cpu-compatibility",
-        "/what-is-enterprise-linux"
+        "/what-is-enterprise-linux",
+        "/certified/search"
       ],
       "total": 71,
-      "total_allow": 46
+      "total_allow": 47
     },
     "Bytespider": {
       "disallow": [
@@ -347,10 +350,11 @@
         "/tutorials",
         "/appliance",
         "/cpu-compatibility",
-        "/what-is-enterprise-linux"
+        "/what-is-enterprise-linux",
+        "/certified/search"
       ],
       "total": 71,
-      "total_allow": 46
+      "total_allow": 47
     },
     "ChatGPT-User": {
       "disallow": [
@@ -472,10 +476,11 @@
         "/tutorials",
         "/appliance",
         "/cpu-compatibility",
-        "/what-is-enterprise-linux"
+        "/what-is-enterprise-linux",
+        "/certified/search"
       ],
       "total": 71,
-      "total_allow": 46
+      "total_allow": 47
     },
     "Claude-Web": {
       "disallow": [
@@ -597,10 +602,11 @@
         "/tutorials",
         "/appliance",
         "/cpu-compatibility",
-        "/what-is-enterprise-linux"
+        "/what-is-enterprise-linux",
+        "/certified/search"
       ],
       "total": 71,
-      "total_allow": 46
+      "total_allow": 47
     },
     "ClaudeBot": {
       "disallow": [
@@ -722,10 +728,11 @@
         "/tutorials",
         "/appliance",
         "/cpu-compatibility",
-        "/what-is-enterprise-linux"
+        "/what-is-enterprise-linux",
+        "/certified/search"
       ],
       "total": 71,
-      "total_allow": 46
+      "total_allow": 47
     },
     "GPTBot": {
       "disallow": [
@@ -847,10 +854,11 @@
         "/tutorials",
         "/appliance",
         "/cpu-compatibility",
-        "/what-is-enterprise-linux"
+        "/what-is-enterprise-linux",
+        "/certified/search"
       ],
       "total": 71,
-      "total_allow": 46
+      "total_allow": 47
     },
     "Google-Extended": {
       "disallow": [
@@ -972,10 +980,11 @@
         "/tutorials",
         "/appliance",
         "/cpu-compatibility",
-        "/what-is-enterprise-linux"
+        "/what-is-enterprise-linux",
+        "/certified/search"
       ],
       "total": 71,
-      "total_allow": 46
+      "total_allow": 47
     },
     "OAI-SearchBot": {
       "disallow": [
@@ -1097,10 +1106,11 @@
         "/tutorials",
         "/appliance",
         "/cpu-compatibility",
-        "/what-is-enterprise-linux"
+        "/what-is-enterprise-linux",
+        "/certified/search"
       ],
       "total": 71,
-      "total_allow": 46
+      "total_allow": 47
     },
     "Perplexity-User": {
       "disallow": [
@@ -1222,10 +1232,11 @@
         "/tutorials",
         "/appliance",
         "/cpu-compatibility",
-        "/what-is-enterprise-linux"
+        "/what-is-enterprise-linux",
+        "/certified/search"
       ],
       "total": 71,
-      "total_allow": 46
+      "total_allow": 47
     },
     "PerplexityBot": {
       "disallow": [
@@ -1347,10 +1358,11 @@
         "/tutorials",
         "/appliance",
         "/cpu-compatibility",
-        "/what-is-enterprise-linux"
+        "/what-is-enterprise-linux",
+        "/certified/search"
       ],
       "total": 71,
-      "total_allow": 46
+      "total_allow": 47
     },
     "anthropic-ai": {
       "disallow": [
@@ -1472,10 +1484,11 @@
         "/tutorials",
         "/appliance",
         "/cpu-compatibility",
-        "/what-is-enterprise-linux"
+        "/what-is-enterprise-linux",
+        "/certified/search"
       ],
       "total": 71,
-      "total_allow": 46
+      "total_allow": 47
     },
     "cohere-ai": {
       "disallow": [
@@ -1597,10 +1610,11 @@
         "/tutorials",
         "/appliance",
         "/cpu-compatibility",
-        "/what-is-enterprise-linux"
+        "/what-is-enterprise-linux",
+        "/certified/search"
       ],
       "total": 71,
-      "total_allow": 46
+      "total_allow": 47
     },
     "meta-externalagent": {
       "disallow": [
@@ -1722,10 +1736,11 @@
         "/tutorials",
         "/appliance",
         "/cpu-compatibility",
-        "/what-is-enterprise-linux"
+        "/what-is-enterprise-linux",
+        "/certified/search"
       ],
       "total": 71,
-      "total_allow": 46
+      "total_allow": 47
     }
   }
 }

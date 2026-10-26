@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-10-19T11:53:02+00:00",
+  "checked_at": "2026-10-26T12:06:46+00:00",
   "domain": "chatgpt.com",
   "category": "software",
   "robots_url": "https://chatgpt.com/robots.txt",
@@ -53,6 +53,7 @@
         "/account-link/*"
       ],
       "allow": [
+        "/unauth-mweb/assets/",
         "/$",
         "/?*",
         "/api/share/og/",
@@ -83,9 +84,7 @@
         "/public-api/",
         "/sitemap.xml",
         "/marketing-sitemap.xml",
-        "/images-sitemap.xml",
         "/writing-tools-sitemap.xml",
-        "/football-sitemap.xml",
         "/acquisition-landing-pages-sitemap.xml",
         "/100chats",
         "/api/public_content/",
@@ -220,7 +219,7 @@
         "/zh-HK/$"
       ],
       "total": 6,
-      "total_allow": 165
+      "total_allow": 164
     },
     "Bytespider": {
       "disallow": [

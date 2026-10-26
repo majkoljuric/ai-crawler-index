@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-10-19T11:53:02+00:00",
+  "checked_at": "2026-10-26T12:06:46+00:00",
   "domain": "nbcnews.com",
   "category": "news",
   "robots_url": "https://nbcnews.com/robots.txt",
@@ -51,6 +51,7 @@
     "Omgilibot",
     "Amazonbot",
     "meta-externalagent",
+    "meta-externalfetcher",
     "YouBot"
   ],
   "rules": {
@@ -62,7 +63,6 @@
         "/error404.aspx",
         "/widget/",
         "/*ns/local_news*",
-        "/bentoapi/",
         "/akam/",
         "/sigma.html",
         "/sports/world-cup/fifa-world-cup-2026-bracket-challenge/group",
@@ -70,7 +70,7 @@
         "/*?*canonicalCard="
       ],
       "allow": [],
-      "total": 12,
+      "total": 11,
       "total_allow": 0
     },
     "Amazonbot": {
@@ -362,6 +362,24 @@
       "total_allow": 9
     },
     "meta-externalagent": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/select",
+        "/select/",
+        "/information/nbc-news-info/about-nbc-news-digital-n1232178",
+        "/subscribe/supplemental-terms",
+        "/information/nbc-news-info/contact-us-n1232521",
+        "/news/us-news/nbc-news-digital-editors-n893846",
+        "/tips",
+        "/tips/",
+        "/information/nbc-news-info/closed-captioning-n1307063"
+      ],
+      "total": 1,
+      "total_allow": 9
+    },
+    "meta-externalfetcher": {
       "disallow": [
         "/"
       ],

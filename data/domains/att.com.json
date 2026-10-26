@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-10-19T11:53:02+00:00",
+  "checked_at": "2026-10-26T12:06:46+00:00",
   "domain": "att.com",
   "category": "other",
   "robots_url": "https://att.com/robots.txt",
@@ -43,6 +43,7 @@
         "/redressH/",
         "/redressT/",
         "/redressC/",
+        "/smart-home-manager/*",
         "/es-us/local/*",
         "/es-us/local/internet/*",
         "/es-us/local/fiber/*",
@@ -187,7 +188,7 @@
         "/es-us/buy/bundles?product_suite=NBB",
         "/es-us/mktg/v1/_next/"
       ],
-      "total": 123,
+      "total": 124,
       "total_allow": 24
     }
   }

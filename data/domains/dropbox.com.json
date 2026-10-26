@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-10-19T11:53:02+00:00",
+  "checked_at": "2026-10-26T12:06:46+00:00",
   "domain": "dropbox.com",
   "category": "software",
   "robots_url": "https://dropbox.com/robots.txt",
@@ -59,7 +59,8 @@
         "/s/",
         "/sh/",
         "/scl/",
-        "/sc/"
+        "/sc/",
+        "/?q="
       ],
       "allow": [
         "/static/css/",
@@ -67,7 +68,7 @@
         "/static/js/",
         "/llms.txt"
       ],
-      "total": 23,
+      "total": 24,
       "total_allow": 4
     }
   }

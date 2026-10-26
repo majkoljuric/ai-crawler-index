@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-10-19T11:53:02+00:00",
+  "checked_at": "2026-10-26T12:06:46+00:00",
   "domain": "wired.com",
   "category": "tech-news",
   "robots_url": "https://wired.com/robots.txt",
@@ -68,7 +68,9 @@
         "/com.condenast/yv8",
         "/reject-all",
         "*/c_limit/",
-        "*/testing-products-"
+        "/uk",
+        "*/testing-products-",
+        "/uk/"
       ],
       "allow": [
         "/*?page",
@@ -89,7 +91,7 @@
         "/*?ref=",
         "/story/madison-square-garden-jim-dolan-surveillance-machine/?src"
       ],
-      "total": 14,
+      "total": 16,
       "total_allow": 17
     },
     "Amazonbot": {

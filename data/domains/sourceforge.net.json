@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-10-19T11:53:02+00:00",
+  "checked_at": "2026-10-26T12:06:46+00:00",
   "domain": "sourceforge.net",
   "category": "other",
   "robots_url": "https://sourceforge.net/robots.txt",
@@ -190,7 +190,8 @@
         "/about/maxnav",
         "/hi",
         "/directory/*?",
-        "/directory/*?q*&",
+        "/directory/*?q=*&",
+        "/directory/*?page=*&",
         "*?style=flat",
         "*&style=flat",
         "*?style=threaded",
@@ -213,10 +214,10 @@
         "/rest/*/activity",
         "/u/*/profile/$",
         "/llms.txt",
-        "/directory/*?q",
+        "/directory/*?q=",
         "/directory/*?page="
       ],
-      "total": 164,
+      "total": 165,
       "total_allow": 12
     }
   }
