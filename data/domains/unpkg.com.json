@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-10-26T12:06:46+00:00",
+  "checked_at": "2026-11-02T14:34:05+00:00",
   "domain": "unpkg.com",
   "category": "other",
   "robots_url": "https://unpkg.com/robots.txt",
@@ -33,9 +33,65 @@
     "Ai2Bot": "allowed",
     "DuckAssistBot": "allowed"
   },
-  "named": [],
+  "named": [
+    "GPTBot",
+    "ClaudeBot",
+    "Google-Extended",
+    "Applebot-Extended",
+    "CCBot",
+    "PerplexityBot",
+    "meta-externalagent"
+  ],
   "rules": {
     "*": {
+      "disallow": [],
+      "allow": [
+        "/"
+      ],
+      "total": 0,
+      "total_allow": 1
+    },
+    "Applebot-Extended": {
+      "disallow": [],
+      "allow": [
+        "/"
+      ],
+      "total": 0,
+      "total_allow": 1
+    },
+    "CCBot": {
+      "disallow": [],
+      "allow": [
+        "/"
+      ],
+      "total": 0,
+      "total_allow": 1
+    },
+    "ClaudeBot": {
+      "disallow": [],
+      "allow": [
+        "/"
+      ],
+      "total": 0,
+      "total_allow": 1
+    },
+    "GPTBot": {
+      "disallow": [],
+      "allow": [
+        "/"
+      ],
+      "total": 0,
+      "total_allow": 1
+    },
+    "Google-Extended": {
+      "disallow": [],
+      "allow": [
+        "/"
+      ],
+      "total": 0,
+      "total_allow": 1
+    },
+    "PerplexityBot": {
       "disallow": [],
       "allow": [
         "/"

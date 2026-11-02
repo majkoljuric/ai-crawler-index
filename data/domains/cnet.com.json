@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-10-26T12:06:46+00:00",
+  "checked_at": "2026-11-02T14:34:05+00:00",
   "domain": "cnet.com",
   "category": "tech-news",
   "robots_url": "https://cnet.com/robots.txt",
@@ -139,6 +139,7 @@
         "/paid-content/cash-app-families-guide-how-to-set-up-a-teen-or-child-account-step-by-step/",
         "/paid-content/cash-app-for-teens-safety-and-parental-controls/",
         "/paid-content/cash-apps-new-kids-debit-card-what-parents-need-to-know/",
+        "/paid-content/can-you-use-an-alienware-laptop-for-both-gaming-and-professional-work/",
         "/paid-content/cricket-wireless-offers-reliable-prepaid-nationwide-5g/",
         "/paid-content/dji-builds-on-12-years-of-handheld-imaging-innovation-with-the-dji-osmo-360-ii/",
         "/paid-content/dji-osmo-pocket-4p-is-a-powerful-tool-for-independent-filmmakers/",
@@ -253,6 +254,7 @@
         "/paid-content/t-mobile-fiber-vs-cable-internet-why-ultra-fast-internet-is-worth-the-upgrade/",
         "/paid-content/tempos-fresh-chef-crafted-meals-make-your-meal-prep-smarter-and-tastier/",
         "/paid-content/the-dell-xps-13-is-subtle-luxury-in-laptop-form/",
+        "/paid-content/the-dell-14-plus-is-a-copilot-pc-heres-what-that-actually-means/",
         "/paid-content/the-difference-between-fiber-to-the-home-and-fiber-powered-internet/",
         "/paid-content/the-nordictrack-commercial-2450-combines-big-speed-with-smart-adjustment-features/",
         "/paid-content/the-nordictrack-treadmill-you-actually-need-for-the-12-3-30-workout/",
@@ -260,6 +262,7 @@
         "/paid-content/upgrade-your-summer-content-with-a-portable-digital-camera/",
         "/paid-content/what-americans-pay-for-internet-in-2026-and-how-xfinity-helps-you-save/",
         "/paid-content/what-is-a-wearable-exoskeleton-and-who-actually-needs-one/",
+        "/paid-content/what-is-an-all-in-one-printer-and-do-you-need-one/",
         "/paid-content/whats-a-good-casetify-case-for-my-next-iphone-a-complete-guide-to-practical-protection/",
         "/paid-content/when-can-kids-get-a-debit-card-heres-how-cash-app-handles-every-age/",
         "/paid-content/how-fast-should-your-home-internet-be/",
@@ -267,6 +270,7 @@
         "/paid-content/cash-app-for-teens-safety-and-parental-controls/",
         "/paid-content/what-can-ray-ban-meta-ai-glasses-do-5-use-cases-for-your-everyday-routine/",
         "/paid-content/what-to-include-in-a-heart-health-daily-regimen-from-supplements-to-home-monitors/",
+        "/paid-content/what-does-an-npu-actually-do-and-does-your-laptop-need-one/",
         "/paid-content/which-dell-laptops-are-actually-ai-ready-in-canada/",
         "/paid-content/why-a-reliable-fiber-powered-network-from-xfinity-is-the-ultimate-solution-for-home-wi-fi/",
         "/paid-content/why-tax-filers-are-choosing-h-r-block-this-season/",
@@ -275,6 +279,9 @@
         "/paid-content/why-you-need-a-cutting-edge-vpn-to-keep-you-safe-online/",
         "/paid-content/why-you-need-an-internet-provider-with-no-data-caps/",
         "/tech/mobile/apple-iphone-17-event-september-2025-what-to-expect/",
+        "/tech/mobile/best-android-phone/",
+        "/tech/mobile/best-cheap-phone/",
+        "/tech/mobile/best-phone/",
         "/tech/mobile/i-underestimated-workout-buddy-apples-playing-the-long-game-for-ai-coaching/",
         "/tech/mobile/new-iphone-buying-guide-carrier-vs-apple-unlocked/",
         "/tech/mobile/phone-deals-carrier-bill-credits-installment-plan-buying-guide/",
@@ -310,7 +317,7 @@
         "/videos/tax-breaks-you-might-miss-in-2026-and-how-to-find-them/"
       ],
       "total": 1,
-      "total_allow": 190
+      "total_allow": 197
     },
     "Bytespider": {
       "disallow": [
@@ -338,6 +345,7 @@
         "/paid-content/cash-app-families-guide-how-to-set-up-a-teen-or-child-account-step-by-step/",
         "/paid-content/cash-app-for-teens-safety-and-parental-controls/",
         "/paid-content/cash-apps-new-kids-debit-card-what-parents-need-to-know/",
+        "/paid-content/can-you-use-an-alienware-laptop-for-both-gaming-and-professional-work/",
         "/paid-content/cricket-wireless-offers-reliable-prepaid-nationwide-5g/",
         "/paid-content/dji-builds-on-12-years-of-handheld-imaging-innovation-with-the-dji-osmo-360-ii/",
         "/paid-content/dji-osmo-pocket-4p-is-a-powerful-tool-for-independent-filmmakers/",
@@ -452,6 +460,7 @@
         "/paid-content/t-mobile-fiber-vs-cable-internet-why-ultra-fast-internet-is-worth-the-upgrade/",
         "/paid-content/tempos-fresh-chef-crafted-meals-make-your-meal-prep-smarter-and-tastier/",
         "/paid-content/the-dell-xps-13-is-subtle-luxury-in-laptop-form/",
+        "/paid-content/the-dell-14-plus-is-a-copilot-pc-heres-what-that-actually-means/",
         "/paid-content/the-difference-between-fiber-to-the-home-and-fiber-powered-internet/",
         "/paid-content/the-nordictrack-commercial-2450-combines-big-speed-with-smart-adjustment-features/",
         "/paid-content/the-nordictrack-treadmill-you-actually-need-for-the-12-3-30-workout/",
@@ -459,6 +468,7 @@
         "/paid-content/upgrade-your-summer-content-with-a-portable-digital-camera/",
         "/paid-content/what-americans-pay-for-internet-in-2026-and-how-xfinity-helps-you-save/",
         "/paid-content/what-is-a-wearable-exoskeleton-and-who-actually-needs-one/",
+        "/paid-content/what-is-an-all-in-one-printer-and-do-you-need-one/",
         "/paid-content/whats-a-good-casetify-case-for-my-next-iphone-a-complete-guide-to-practical-protection/",
         "/paid-content/when-can-kids-get-a-debit-card-heres-how-cash-app-handles-every-age/",
         "/paid-content/how-fast-should-your-home-internet-be/",
@@ -466,6 +476,7 @@
         "/paid-content/cash-app-for-teens-safety-and-parental-controls/",
         "/paid-content/what-can-ray-ban-meta-ai-glasses-do-5-use-cases-for-your-everyday-routine/",
         "/paid-content/what-to-include-in-a-heart-health-daily-regimen-from-supplements-to-home-monitors/",
+        "/paid-content/what-does-an-npu-actually-do-and-does-your-laptop-need-one/",
         "/paid-content/which-dell-laptops-are-actually-ai-ready-in-canada/",
         "/paid-content/why-a-reliable-fiber-powered-network-from-xfinity-is-the-ultimate-solution-for-home-wi-fi/",
         "/paid-content/why-tax-filers-are-choosing-h-r-block-this-season/",
@@ -474,6 +485,9 @@
         "/paid-content/why-you-need-a-cutting-edge-vpn-to-keep-you-safe-online/",
         "/paid-content/why-you-need-an-internet-provider-with-no-data-caps/",
         "/tech/mobile/apple-iphone-17-event-september-2025-what-to-expect/",
+        "/tech/mobile/best-android-phone/",
+        "/tech/mobile/best-cheap-phone/",
+        "/tech/mobile/best-phone/",
         "/tech/mobile/i-underestimated-workout-buddy-apples-playing-the-long-game-for-ai-coaching/",
         "/tech/mobile/new-iphone-buying-guide-carrier-vs-apple-unlocked/",
         "/tech/mobile/phone-deals-carrier-bill-credits-installment-plan-buying-guide/",
@@ -509,7 +523,7 @@
         "/videos/tax-breaks-you-might-miss-in-2026-and-how-to-find-them/"
       ],
       "total": 1,
-      "total_allow": 190
+      "total_allow": 197
     },
     "CCBot": {
       "disallow": [
@@ -537,6 +551,7 @@
         "/paid-content/cash-app-families-guide-how-to-set-up-a-teen-or-child-account-step-by-step/",
         "/paid-content/cash-app-for-teens-safety-and-parental-controls/",
         "/paid-content/cash-apps-new-kids-debit-card-what-parents-need-to-know/",
+        "/paid-content/can-you-use-an-alienware-laptop-for-both-gaming-and-professional-work/",
         "/paid-content/cricket-wireless-offers-reliable-prepaid-nationwide-5g/",
         "/paid-content/dji-builds-on-12-years-of-handheld-imaging-innovation-with-the-dji-osmo-360-ii/",
         "/paid-content/dji-osmo-pocket-4p-is-a-powerful-tool-for-independent-filmmakers/",
@@ -651,6 +666,7 @@
         "/paid-content/t-mobile-fiber-vs-cable-internet-why-ultra-fast-internet-is-worth-the-upgrade/",
         "/paid-content/tempos-fresh-chef-crafted-meals-make-your-meal-prep-smarter-and-tastier/",
         "/paid-content/the-dell-xps-13-is-subtle-luxury-in-laptop-form/",
+        "/paid-content/the-dell-14-plus-is-a-copilot-pc-heres-what-that-actually-means/",
         "/paid-content/the-difference-between-fiber-to-the-home-and-fiber-powered-internet/",
         "/paid-content/the-nordictrack-commercial-2450-combines-big-speed-with-smart-adjustment-features/",
         "/paid-content/the-nordictrack-treadmill-you-actually-need-for-the-12-3-30-workout/",
@@ -658,6 +674,7 @@
         "/paid-content/upgrade-your-summer-content-with-a-portable-digital-camera/",
         "/paid-content/what-americans-pay-for-internet-in-2026-and-how-xfinity-helps-you-save/",
         "/paid-content/what-is-a-wearable-exoskeleton-and-who-actually-needs-one/",
+        "/paid-content/what-is-an-all-in-one-printer-and-do-you-need-one/",
         "/paid-content/whats-a-good-casetify-case-for-my-next-iphone-a-complete-guide-to-practical-protection/",
         "/paid-content/when-can-kids-get-a-debit-card-heres-how-cash-app-handles-every-age/",
         "/paid-content/how-fast-should-your-home-internet-be/",
@@ -665,6 +682,7 @@
         "/paid-content/cash-app-for-teens-safety-and-parental-controls/",
         "/paid-content/what-can-ray-ban-meta-ai-glasses-do-5-use-cases-for-your-everyday-routine/",
         "/paid-content/what-to-include-in-a-heart-health-daily-regimen-from-supplements-to-home-monitors/",
+        "/paid-content/what-does-an-npu-actually-do-and-does-your-laptop-need-one/",
         "/paid-content/which-dell-laptops-are-actually-ai-ready-in-canada/",
         "/paid-content/why-a-reliable-fiber-powered-network-from-xfinity-is-the-ultimate-solution-for-home-wi-fi/",
         "/paid-content/why-tax-filers-are-choosing-h-r-block-this-season/",
@@ -673,6 +691,9 @@
         "/paid-content/why-you-need-a-cutting-edge-vpn-to-keep-you-safe-online/",
         "/paid-content/why-you-need-an-internet-provider-with-no-data-caps/",
         "/tech/mobile/apple-iphone-17-event-september-2025-what-to-expect/",
+        "/tech/mobile/best-android-phone/",
+        "/tech/mobile/best-cheap-phone/",
+        "/tech/mobile/best-phone/",
         "/tech/mobile/i-underestimated-workout-buddy-apples-playing-the-long-game-for-ai-coaching/",
         "/tech/mobile/new-iphone-buying-guide-carrier-vs-apple-unlocked/",
         "/tech/mobile/phone-deals-carrier-bill-credits-installment-plan-buying-guide/",
@@ -708,7 +729,7 @@
         "/videos/tax-breaks-you-might-miss-in-2026-and-how-to-find-them/"
       ],
       "total": 1,
-      "total_allow": 190
+      "total_allow": 197
     },
     "ChatGPT-User": {
       "disallow": [
@@ -736,6 +757,7 @@
         "/paid-content/cash-app-families-guide-how-to-set-up-a-teen-or-child-account-step-by-step/",
         "/paid-content/cash-app-for-teens-safety-and-parental-controls/",
         "/paid-content/cash-apps-new-kids-debit-card-what-parents-need-to-know/",
+        "/paid-content/can-you-use-an-alienware-laptop-for-both-gaming-and-professional-work/",
         "/paid-content/cricket-wireless-offers-reliable-prepaid-nationwide-5g/",
         "/paid-content/dji-builds-on-12-years-of-handheld-imaging-innovation-with-the-dji-osmo-360-ii/",
         "/paid-content/dji-osmo-pocket-4p-is-a-powerful-tool-for-independent-filmmakers/",
@@ -850,6 +872,7 @@
         "/paid-content/t-mobile-fiber-vs-cable-internet-why-ultra-fast-internet-is-worth-the-upgrade/",
         "/paid-content/tempos-fresh-chef-crafted-meals-make-your-meal-prep-smarter-and-tastier/",
         "/paid-content/the-dell-xps-13-is-subtle-luxury-in-laptop-form/",
+        "/paid-content/the-dell-14-plus-is-a-copilot-pc-heres-what-that-actually-means/",
         "/paid-content/the-difference-between-fiber-to-the-home-and-fiber-powered-internet/",
         "/paid-content/the-nordictrack-commercial-2450-combines-big-speed-with-smart-adjustment-features/",
         "/paid-content/the-nordictrack-treadmill-you-actually-need-for-the-12-3-30-workout/",
@@ -857,6 +880,7 @@
         "/paid-content/upgrade-your-summer-content-with-a-portable-digital-camera/",
         "/paid-content/what-americans-pay-for-internet-in-2026-and-how-xfinity-helps-you-save/",
         "/paid-content/what-is-a-wearable-exoskeleton-and-who-actually-needs-one/",
+        "/paid-content/what-is-an-all-in-one-printer-and-do-you-need-one/",
         "/paid-content/whats-a-good-casetify-case-for-my-next-iphone-a-complete-guide-to-practical-protection/",
         "/paid-content/when-can-kids-get-a-debit-card-heres-how-cash-app-handles-every-age/",
         "/paid-content/how-fast-should-your-home-internet-be/",
@@ -864,6 +888,7 @@
         "/paid-content/cash-app-for-teens-safety-and-parental-controls/",
         "/paid-content/what-can-ray-ban-meta-ai-glasses-do-5-use-cases-for-your-everyday-routine/",
         "/paid-content/what-to-include-in-a-heart-health-daily-regimen-from-supplements-to-home-monitors/",
+        "/paid-content/what-does-an-npu-actually-do-and-does-your-laptop-need-one/",
         "/paid-content/which-dell-laptops-are-actually-ai-ready-in-canada/",
         "/paid-content/why-a-reliable-fiber-powered-network-from-xfinity-is-the-ultimate-solution-for-home-wi-fi/",
         "/paid-content/why-tax-filers-are-choosing-h-r-block-this-season/",
@@ -872,6 +897,9 @@
         "/paid-content/why-you-need-a-cutting-edge-vpn-to-keep-you-safe-online/",
         "/paid-content/why-you-need-an-internet-provider-with-no-data-caps/",
         "/tech/mobile/apple-iphone-17-event-september-2025-what-to-expect/",
+        "/tech/mobile/best-android-phone/",
+        "/tech/mobile/best-cheap-phone/",
+        "/tech/mobile/best-phone/",
         "/tech/mobile/i-underestimated-workout-buddy-apples-playing-the-long-game-for-ai-coaching/",
         "/tech/mobile/new-iphone-buying-guide-carrier-vs-apple-unlocked/",
         "/tech/mobile/phone-deals-carrier-bill-credits-installment-plan-buying-guide/",
@@ -907,7 +935,7 @@
         "/videos/tax-breaks-you-might-miss-in-2026-and-how-to-find-them/"
       ],
       "total": 1,
-      "total_allow": 190
+      "total_allow": 197
     },
     "Claude-Web": {
       "disallow": [
@@ -935,6 +963,7 @@
         "/paid-content/cash-app-families-guide-how-to-set-up-a-teen-or-child-account-step-by-step/",
         "/paid-content/cash-app-for-teens-safety-and-parental-controls/",
         "/paid-content/cash-apps-new-kids-debit-card-what-parents-need-to-know/",
+        "/paid-content/can-you-use-an-alienware-laptop-for-both-gaming-and-professional-work/",
         "/paid-content/cricket-wireless-offers-reliable-prepaid-nationwide-5g/",
         "/paid-content/dji-builds-on-12-years-of-handheld-imaging-innovation-with-the-dji-osmo-360-ii/",
         "/paid-content/dji-osmo-pocket-4p-is-a-powerful-tool-for-independent-filmmakers/",
@@ -1049,6 +1078,7 @@
         "/paid-content/t-mobile-fiber-vs-cable-internet-why-ultra-fast-internet-is-worth-the-upgrade/",
         "/paid-content/tempos-fresh-chef-crafted-meals-make-your-meal-prep-smarter-and-tastier/",
         "/paid-content/the-dell-xps-13-is-subtle-luxury-in-laptop-form/",
+        "/paid-content/the-dell-14-plus-is-a-copilot-pc-heres-what-that-actually-means/",
         "/paid-content/the-difference-between-fiber-to-the-home-and-fiber-powered-internet/",
         "/paid-content/the-nordictrack-commercial-2450-combines-big-speed-with-smart-adjustment-features/",
         "/paid-content/the-nordictrack-treadmill-you-actually-need-for-the-12-3-30-workout/",
@@ -1056,6 +1086,7 @@
         "/paid-content/upgrade-your-summer-content-with-a-portable-digital-camera/",
         "/paid-content/what-americans-pay-for-internet-in-2026-and-how-xfinity-helps-you-save/",
         "/paid-content/what-is-a-wearable-exoskeleton-and-who-actually-needs-one/",
+        "/paid-content/what-is-an-all-in-one-printer-and-do-you-need-one/",
         "/paid-content/whats-a-good-casetify-case-for-my-next-iphone-a-complete-guide-to-practical-protection/",
         "/paid-content/when-can-kids-get-a-debit-card-heres-how-cash-app-handles-every-age/",
         "/paid-content/how-fast-should-your-home-internet-be/",
@@ -1063,6 +1094,7 @@
         "/paid-content/cash-app-for-teens-safety-and-parental-controls/",
         "/paid-content/what-can-ray-ban-meta-ai-glasses-do-5-use-cases-for-your-everyday-routine/",
         "/paid-content/what-to-include-in-a-heart-health-daily-regimen-from-supplements-to-home-monitors/",
+        "/paid-content/what-does-an-npu-actually-do-and-does-your-laptop-need-one/",
         "/paid-content/which-dell-laptops-are-actually-ai-ready-in-canada/",
         "/paid-content/why-a-reliable-fiber-powered-network-from-xfinity-is-the-ultimate-solution-for-home-wi-fi/",
         "/paid-content/why-tax-filers-are-choosing-h-r-block-this-season/",
@@ -1071,6 +1103,9 @@
         "/paid-content/why-you-need-a-cutting-edge-vpn-to-keep-you-safe-online/",
         "/paid-content/why-you-need-an-internet-provider-with-no-data-caps/",
         "/tech/mobile/apple-iphone-17-event-september-2025-what-to-expect/",
+        "/tech/mobile/best-android-phone/",
+        "/tech/mobile/best-cheap-phone/",
+        "/tech/mobile/best-phone/",
         "/tech/mobile/i-underestimated-workout-buddy-apples-playing-the-long-game-for-ai-coaching/",
         "/tech/mobile/new-iphone-buying-guide-carrier-vs-apple-unlocked/",
         "/tech/mobile/phone-deals-carrier-bill-credits-installment-plan-buying-guide/",
@@ -1106,7 +1141,7 @@
         "/videos/tax-breaks-you-might-miss-in-2026-and-how-to-find-them/"
       ],
       "total": 1,
-      "total_allow": 190
+      "total_allow": 197
     },
     "ClaudeBot": {
       "disallow": [
@@ -1134,6 +1169,7 @@
         "/paid-content/cash-app-families-guide-how-to-set-up-a-teen-or-child-account-step-by-step/",
         "/paid-content/cash-app-for-teens-safety-and-parental-controls/",
         "/paid-content/cash-apps-new-kids-debit-card-what-parents-need-to-know/",
+        "/paid-content/can-you-use-an-alienware-laptop-for-both-gaming-and-professional-work/",
         "/paid-content/cricket-wireless-offers-reliable-prepaid-nationwide-5g/",
         "/paid-content/dji-builds-on-12-years-of-handheld-imaging-innovation-with-the-dji-osmo-360-ii/",
         "/paid-content/dji-osmo-pocket-4p-is-a-powerful-tool-for-independent-filmmakers/",
@@ -1248,6 +1284,7 @@
         "/paid-content/t-mobile-fiber-vs-cable-internet-why-ultra-fast-internet-is-worth-the-upgrade/",
         "/paid-content/tempos-fresh-chef-crafted-meals-make-your-meal-prep-smarter-and-tastier/",
         "/paid-content/the-dell-xps-13-is-subtle-luxury-in-laptop-form/",
+        "/paid-content/the-dell-14-plus-is-a-copilot-pc-heres-what-that-actually-means/",
         "/paid-content/the-difference-between-fiber-to-the-home-and-fiber-powered-internet/",
         "/paid-content/the-nordictrack-commercial-2450-combines-big-speed-with-smart-adjustment-features/",
         "/paid-content/the-nordictrack-treadmill-you-actually-need-for-the-12-3-30-workout/",
@@ -1255,6 +1292,7 @@
         "/paid-content/upgrade-your-summer-content-with-a-portable-digital-camera/",
         "/paid-content/what-americans-pay-for-internet-in-2026-and-how-xfinity-helps-you-save/",
         "/paid-content/what-is-a-wearable-exoskeleton-and-who-actually-needs-one/",
+        "/paid-content/what-is-an-all-in-one-printer-and-do-you-need-one/",
         "/paid-content/whats-a-good-casetify-case-for-my-next-iphone-a-complete-guide-to-practical-protection/",
         "/paid-content/when-can-kids-get-a-debit-card-heres-how-cash-app-handles-every-age/",
         "/paid-content/how-fast-should-your-home-internet-be/",
@@ -1262,6 +1300,7 @@
         "/paid-content/cash-app-for-teens-safety-and-parental-controls/",
         "/paid-content/what-can-ray-ban-meta-ai-glasses-do-5-use-cases-for-your-everyday-routine/",
         "/paid-content/what-to-include-in-a-heart-health-daily-regimen-from-supplements-to-home-monitors/",
+        "/paid-content/what-does-an-npu-actually-do-and-does-your-laptop-need-one/",
         "/paid-content/which-dell-laptops-are-actually-ai-ready-in-canada/",
         "/paid-content/why-a-reliable-fiber-powered-network-from-xfinity-is-the-ultimate-solution-for-home-wi-fi/",
         "/paid-content/why-tax-filers-are-choosing-h-r-block-this-season/",
@@ -1270,6 +1309,9 @@
         "/paid-content/why-you-need-a-cutting-edge-vpn-to-keep-you-safe-online/",
         "/paid-content/why-you-need-an-internet-provider-with-no-data-caps/",
         "/tech/mobile/apple-iphone-17-event-september-2025-what-to-expect/",
+        "/tech/mobile/best-android-phone/",
+        "/tech/mobile/best-cheap-phone/",
+        "/tech/mobile/best-phone/",
         "/tech/mobile/i-underestimated-workout-buddy-apples-playing-the-long-game-for-ai-coaching/",
         "/tech/mobile/new-iphone-buying-guide-carrier-vs-apple-unlocked/",
         "/tech/mobile/phone-deals-carrier-bill-credits-installment-plan-buying-guide/",
@@ -1305,7 +1347,7 @@
         "/videos/tax-breaks-you-might-miss-in-2026-and-how-to-find-them/"
       ],
       "total": 1,
-      "total_allow": 190
+      "total_allow": 197
     },
     "Diffbot": {
       "disallow": [
@@ -1333,6 +1375,7 @@
         "/paid-content/cash-app-families-guide-how-to-set-up-a-teen-or-child-account-step-by-step/",
         "/paid-content/cash-app-for-teens-safety-and-parental-controls/",
         "/paid-content/cash-apps-new-kids-debit-card-what-parents-need-to-know/",
+        "/paid-content/can-you-use-an-alienware-laptop-for-both-gaming-and-professional-work/",
         "/paid-content/cricket-wireless-offers-reliable-prepaid-nationwide-5g/",
         "/paid-content/dji-builds-on-12-years-of-handheld-imaging-innovation-with-the-dji-osmo-360-ii/",
         "/paid-content/dji-osmo-pocket-4p-is-a-powerful-tool-for-independent-filmmakers/",
@@ -1447,6 +1490,7 @@
         "/paid-content/t-mobile-fiber-vs-cable-internet-why-ultra-fast-internet-is-worth-the-upgrade/",
         "/paid-content/tempos-fresh-chef-crafted-meals-make-your-meal-prep-smarter-and-tastier/",
         "/paid-content/the-dell-xps-13-is-subtle-luxury-in-laptop-form/",
+        "/paid-content/the-dell-14-plus-is-a-copilot-pc-heres-what-that-actually-means/",
         "/paid-content/the-difference-between-fiber-to-the-home-and-fiber-powered-internet/",
         "/paid-content/the-nordictrack-commercial-2450-combines-big-speed-with-smart-adjustment-features/",
         "/paid-content/the-nordictrack-treadmill-you-actually-need-for-the-12-3-30-workout/",
@@ -1454,6 +1498,7 @@
         "/paid-content/upgrade-your-summer-content-with-a-portable-digital-camera/",
         "/paid-content/what-americans-pay-for-internet-in-2026-and-how-xfinity-helps-you-save/",
         "/paid-content/what-is-a-wearable-exoskeleton-and-who-actually-needs-one/",
+        "/paid-content/what-is-an-all-in-one-printer-and-do-you-need-one/",
         "/paid-content/whats-a-good-casetify-case-for-my-next-iphone-a-complete-guide-to-practical-protection/",
         "/paid-content/when-can-kids-get-a-debit-card-heres-how-cash-app-handles-every-age/",
         "/paid-content/how-fast-should-your-home-internet-be/",
@@ -1461,6 +1506,7 @@
         "/paid-content/cash-app-for-teens-safety-and-parental-controls/",
         "/paid-content/what-can-ray-ban-meta-ai-glasses-do-5-use-cases-for-your-everyday-routine/",
         "/paid-content/what-to-include-in-a-heart-health-daily-regimen-from-supplements-to-home-monitors/",
+        "/paid-content/what-does-an-npu-actually-do-and-does-your-laptop-need-one/",
         "/paid-content/which-dell-laptops-are-actually-ai-ready-in-canada/",
         "/paid-content/why-a-reliable-fiber-powered-network-from-xfinity-is-the-ultimate-solution-for-home-wi-fi/",
         "/paid-content/why-tax-filers-are-choosing-h-r-block-this-season/",
@@ -1469,6 +1515,9 @@
         "/paid-content/why-you-need-a-cutting-edge-vpn-to-keep-you-safe-online/",
         "/paid-content/why-you-need-an-internet-provider-with-no-data-caps/",
         "/tech/mobile/apple-iphone-17-event-september-2025-what-to-expect/",
+        "/tech/mobile/best-android-phone/",
+        "/tech/mobile/best-cheap-phone/",
+        "/tech/mobile/best-phone/",
         "/tech/mobile/i-underestimated-workout-buddy-apples-playing-the-long-game-for-ai-coaching/",
         "/tech/mobile/new-iphone-buying-guide-carrier-vs-apple-unlocked/",
         "/tech/mobile/phone-deals-carrier-bill-credits-installment-plan-buying-guide/",
@@ -1504,7 +1553,7 @@
         "/videos/tax-breaks-you-might-miss-in-2026-and-how-to-find-them/"
       ],
       "total": 1,
-      "total_allow": 190
+      "total_allow": 197
     },
     "DuckAssistBot": {
       "disallow": [
@@ -1532,6 +1581,7 @@
         "/paid-content/cash-app-families-guide-how-to-set-up-a-teen-or-child-account-step-by-step/",
         "/paid-content/cash-app-for-teens-safety-and-parental-controls/",
         "/paid-content/cash-apps-new-kids-debit-card-what-parents-need-to-know/",
+        "/paid-content/can-you-use-an-alienware-laptop-for-both-gaming-and-professional-work/",
         "/paid-content/cricket-wireless-offers-reliable-prepaid-nationwide-5g/",
         "/paid-content/dji-builds-on-12-years-of-handheld-imaging-innovation-with-the-dji-osmo-360-ii/",
         "/paid-content/dji-osmo-pocket-4p-is-a-powerful-tool-for-independent-filmmakers/",
@@ -1646,6 +1696,7 @@
         "/paid-content/t-mobile-fiber-vs-cable-internet-why-ultra-fast-internet-is-worth-the-upgrade/",
         "/paid-content/tempos-fresh-chef-crafted-meals-make-your-meal-prep-smarter-and-tastier/",
         "/paid-content/the-dell-xps-13-is-subtle-luxury-in-laptop-form/",
+        "/paid-content/the-dell-14-plus-is-a-copilot-pc-heres-what-that-actually-means/",
         "/paid-content/the-difference-between-fiber-to-the-home-and-fiber-powered-internet/",
         "/paid-content/the-nordictrack-commercial-2450-combines-big-speed-with-smart-adjustment-features/",
         "/paid-content/the-nordictrack-treadmill-you-actually-need-for-the-12-3-30-workout/",
@@ -1653,6 +1704,7 @@
         "/paid-content/upgrade-your-summer-content-with-a-portable-digital-camera/",
         "/paid-content/what-americans-pay-for-internet-in-2026-and-how-xfinity-helps-you-save/",
         "/paid-content/what-is-a-wearable-exoskeleton-and-who-actually-needs-one/",
+        "/paid-content/what-is-an-all-in-one-printer-and-do-you-need-one/",
         "/paid-content/whats-a-good-casetify-case-for-my-next-iphone-a-complete-guide-to-practical-protection/",
         "/paid-content/when-can-kids-get-a-debit-card-heres-how-cash-app-handles-every-age/",
         "/paid-content/how-fast-should-your-home-internet-be/",
@@ -1660,6 +1712,7 @@
         "/paid-content/cash-app-for-teens-safety-and-parental-controls/",
         "/paid-content/what-can-ray-ban-meta-ai-glasses-do-5-use-cases-for-your-everyday-routine/",
         "/paid-content/what-to-include-in-a-heart-health-daily-regimen-from-supplements-to-home-monitors/",
+        "/paid-content/what-does-an-npu-actually-do-and-does-your-laptop-need-one/",
         "/paid-content/which-dell-laptops-are-actually-ai-ready-in-canada/",
         "/paid-content/why-a-reliable-fiber-powered-network-from-xfinity-is-the-ultimate-solution-for-home-wi-fi/",
         "/paid-content/why-tax-filers-are-choosing-h-r-block-this-season/",
@@ -1668,6 +1721,9 @@
         "/paid-content/why-you-need-a-cutting-edge-vpn-to-keep-you-safe-online/",
         "/paid-content/why-you-need-an-internet-provider-with-no-data-caps/",
         "/tech/mobile/apple-iphone-17-event-september-2025-what-to-expect/",
+        "/tech/mobile/best-android-phone/",
+        "/tech/mobile/best-cheap-phone/",
+        "/tech/mobile/best-phone/",
         "/tech/mobile/i-underestimated-workout-buddy-apples-playing-the-long-game-for-ai-coaching/",
         "/tech/mobile/new-iphone-buying-guide-carrier-vs-apple-unlocked/",
         "/tech/mobile/phone-deals-carrier-bill-credits-installment-plan-buying-guide/",
@@ -1703,7 +1759,7 @@
         "/videos/tax-breaks-you-might-miss-in-2026-and-how-to-find-them/"
       ],
       "total": 1,
-      "total_allow": 190
+      "total_allow": 197
     },
     "GPTBot": {
       "disallow": [
@@ -1731,6 +1787,7 @@
         "/paid-content/cash-app-families-guide-how-to-set-up-a-teen-or-child-account-step-by-step/",
         "/paid-content/cash-app-for-teens-safety-and-parental-controls/",
         "/paid-content/cash-apps-new-kids-debit-card-what-parents-need-to-know/",
+        "/paid-content/can-you-use-an-alienware-laptop-for-both-gaming-and-professional-work/",
         "/paid-content/cricket-wireless-offers-reliable-prepaid-nationwide-5g/",
         "/paid-content/dji-builds-on-12-years-of-handheld-imaging-innovation-with-the-dji-osmo-360-ii/",
         "/paid-content/dji-osmo-pocket-4p-is-a-powerful-tool-for-independent-filmmakers/",
@@ -1845,6 +1902,7 @@
         "/paid-content/t-mobile-fiber-vs-cable-internet-why-ultra-fast-internet-is-worth-the-upgrade/",
         "/paid-content/tempos-fresh-chef-crafted-meals-make-your-meal-prep-smarter-and-tastier/",
         "/paid-content/the-dell-xps-13-is-subtle-luxury-in-laptop-form/",
+        "/paid-content/the-dell-14-plus-is-a-copilot-pc-heres-what-that-actually-means/",
         "/paid-content/the-difference-between-fiber-to-the-home-and-fiber-powered-internet/",
         "/paid-content/the-nordictrack-commercial-2450-combines-big-speed-with-smart-adjustment-features/",
         "/paid-content/the-nordictrack-treadmill-you-actually-need-for-the-12-3-30-workout/",
@@ -1852,6 +1910,7 @@
         "/paid-content/upgrade-your-summer-content-with-a-portable-digital-camera/",
         "/paid-content/what-americans-pay-for-internet-in-2026-and-how-xfinity-helps-you-save/",
         "/paid-content/what-is-a-wearable-exoskeleton-and-who-actually-needs-one/",
+        "/paid-content/what-is-an-all-in-one-printer-and-do-you-need-one/",
         "/paid-content/whats-a-good-casetify-case-for-my-next-iphone-a-complete-guide-to-practical-protection/",
         "/paid-content/when-can-kids-get-a-debit-card-heres-how-cash-app-handles-every-age/",
         "/paid-content/how-fast-should-your-home-internet-be/",
@@ -1859,6 +1918,7 @@
         "/paid-content/cash-app-for-teens-safety-and-parental-controls/",
         "/paid-content/what-can-ray-ban-meta-ai-glasses-do-5-use-cases-for-your-everyday-routine/",
         "/paid-content/what-to-include-in-a-heart-health-daily-regimen-from-supplements-to-home-monitors/",
+        "/paid-content/what-does-an-npu-actually-do-and-does-your-laptop-need-one/",
         "/paid-content/which-dell-laptops-are-actually-ai-ready-in-canada/",
         "/paid-content/why-a-reliable-fiber-powered-network-from-xfinity-is-the-ultimate-solution-for-home-wi-fi/",
         "/paid-content/why-tax-filers-are-choosing-h-r-block-this-season/",
@@ -1867,6 +1927,9 @@
         "/paid-content/why-you-need-a-cutting-edge-vpn-to-keep-you-safe-online/",
         "/paid-content/why-you-need-an-internet-provider-with-no-data-caps/",
         "/tech/mobile/apple-iphone-17-event-september-2025-what-to-expect/",
+        "/tech/mobile/best-android-phone/",
+        "/tech/mobile/best-cheap-phone/",
+        "/tech/mobile/best-phone/",
         "/tech/mobile/i-underestimated-workout-buddy-apples-playing-the-long-game-for-ai-coaching/",
         "/tech/mobile/new-iphone-buying-guide-carrier-vs-apple-unlocked/",
         "/tech/mobile/phone-deals-carrier-bill-credits-installment-plan-buying-guide/",
@@ -1902,7 +1965,7 @@
         "/videos/tax-breaks-you-might-miss-in-2026-and-how-to-find-them/"
       ],
       "total": 1,
-      "total_allow": 190
+      "total_allow": 197
     },
     "OAI-SearchBot": {
       "disallow": [
@@ -1930,6 +1993,7 @@
         "/paid-content/cash-app-families-guide-how-to-set-up-a-teen-or-child-account-step-by-step/",
         "/paid-content/cash-app-for-teens-safety-and-parental-controls/",
         "/paid-content/cash-apps-new-kids-debit-card-what-parents-need-to-know/",
+        "/paid-content/can-you-use-an-alienware-laptop-for-both-gaming-and-professional-work/",
         "/paid-content/cricket-wireless-offers-reliable-prepaid-nationwide-5g/",
         "/paid-content/dji-builds-on-12-years-of-handheld-imaging-innovation-with-the-dji-osmo-360-ii/",
         "/paid-content/dji-osmo-pocket-4p-is-a-powerful-tool-for-independent-filmmakers/",
@@ -2044,6 +2108,7 @@
         "/paid-content/t-mobile-fiber-vs-cable-internet-why-ultra-fast-internet-is-worth-the-upgrade/",
         "/paid-content/tempos-fresh-chef-crafted-meals-make-your-meal-prep-smarter-and-tastier/",
         "/paid-content/the-dell-xps-13-is-subtle-luxury-in-laptop-form/",
+        "/paid-content/the-dell-14-plus-is-a-copilot-pc-heres-what-that-actually-means/",
         "/paid-content/the-difference-between-fiber-to-the-home-and-fiber-powered-internet/",
         "/paid-content/the-nordictrack-commercial-2450-combines-big-speed-with-smart-adjustment-features/",
         "/paid-content/the-nordictrack-treadmill-you-actually-need-for-the-12-3-30-workout/",
@@ -2051,6 +2116,7 @@
         "/paid-content/upgrade-your-summer-content-with-a-portable-digital-camera/",
         "/paid-content/what-americans-pay-for-internet-in-2026-and-how-xfinity-helps-you-save/",
         "/paid-content/what-is-a-wearable-exoskeleton-and-who-actually-needs-one/",
+        "/paid-content/what-is-an-all-in-one-printer-and-do-you-need-one/",
         "/paid-content/whats-a-good-casetify-case-for-my-next-iphone-a-complete-guide-to-practical-protection/",
         "/paid-content/when-can-kids-get-a-debit-card-heres-how-cash-app-handles-every-age/",
         "/paid-content/how-fast-should-your-home-internet-be/",
@@ -2058,6 +2124,7 @@
         "/paid-content/cash-app-for-teens-safety-and-parental-controls/",
         "/paid-content/what-can-ray-ban-meta-ai-glasses-do-5-use-cases-for-your-everyday-routine/",
         "/paid-content/what-to-include-in-a-heart-health-daily-regimen-from-supplements-to-home-monitors/",
+        "/paid-content/what-does-an-npu-actually-do-and-does-your-laptop-need-one/",
         "/paid-content/which-dell-laptops-are-actually-ai-ready-in-canada/",
         "/paid-content/why-a-reliable-fiber-powered-network-from-xfinity-is-the-ultimate-solution-for-home-wi-fi/",
         "/paid-content/why-tax-filers-are-choosing-h-r-block-this-season/",
@@ -2066,6 +2133,9 @@
         "/paid-content/why-you-need-a-cutting-edge-vpn-to-keep-you-safe-online/",
         "/paid-content/why-you-need-an-internet-provider-with-no-data-caps/",
         "/tech/mobile/apple-iphone-17-event-september-2025-what-to-expect/",
+        "/tech/mobile/best-android-phone/",
+        "/tech/mobile/best-cheap-phone/",
+        "/tech/mobile/best-phone/",
         "/tech/mobile/i-underestimated-workout-buddy-apples-playing-the-long-game-for-ai-coaching/",
         "/tech/mobile/new-iphone-buying-guide-carrier-vs-apple-unlocked/",
         "/tech/mobile/phone-deals-carrier-bill-credits-installment-plan-buying-guide/",
@@ -2101,7 +2171,7 @@
         "/videos/tax-breaks-you-might-miss-in-2026-and-how-to-find-them/"
       ],
       "total": 1,
-      "total_allow": 190
+      "total_allow": 197
     },
     "Omgilibot": {
       "disallow": [
@@ -2137,6 +2207,7 @@
         "/paid-content/cash-app-families-guide-how-to-set-up-a-teen-or-child-account-step-by-step/",
         "/paid-content/cash-app-for-teens-safety-and-parental-controls/",
         "/paid-content/cash-apps-new-kids-debit-card-what-parents-need-to-know/",
+        "/paid-content/can-you-use-an-alienware-laptop-for-both-gaming-and-professional-work/",
         "/paid-content/cricket-wireless-offers-reliable-prepaid-nationwide-5g/",
         "/paid-content/dji-builds-on-12-years-of-handheld-imaging-innovation-with-the-dji-osmo-360-ii/",
         "/paid-content/dji-osmo-pocket-4p-is-a-powerful-tool-for-independent-filmmakers/",
@@ -2251,6 +2322,7 @@
         "/paid-content/t-mobile-fiber-vs-cable-internet-why-ultra-fast-internet-is-worth-the-upgrade/",
         "/paid-content/tempos-fresh-chef-crafted-meals-make-your-meal-prep-smarter-and-tastier/",
         "/paid-content/the-dell-xps-13-is-subtle-luxury-in-laptop-form/",
+        "/paid-content/the-dell-14-plus-is-a-copilot-pc-heres-what-that-actually-means/",
         "/paid-content/the-difference-between-fiber-to-the-home-and-fiber-powered-internet/",
         "/paid-content/the-nordictrack-commercial-2450-combines-big-speed-with-smart-adjustment-features/",
         "/paid-content/the-nordictrack-treadmill-you-actually-need-for-the-12-3-30-workout/",
@@ -2258,6 +2330,7 @@
         "/paid-content/upgrade-your-summer-content-with-a-portable-digital-camera/",
         "/paid-content/what-americans-pay-for-internet-in-2026-and-how-xfinity-helps-you-save/",
         "/paid-content/what-is-a-wearable-exoskeleton-and-who-actually-needs-one/",
+        "/paid-content/what-is-an-all-in-one-printer-and-do-you-need-one/",
         "/paid-content/whats-a-good-casetify-case-for-my-next-iphone-a-complete-guide-to-practical-protection/",
         "/paid-content/when-can-kids-get-a-debit-card-heres-how-cash-app-handles-every-age/",
         "/paid-content/how-fast-should-your-home-internet-be/",
@@ -2265,6 +2338,7 @@
         "/paid-content/cash-app-for-teens-safety-and-parental-controls/",
         "/paid-content/what-can-ray-ban-meta-ai-glasses-do-5-use-cases-for-your-everyday-routine/",
         "/paid-content/what-to-include-in-a-heart-health-daily-regimen-from-supplements-to-home-monitors/",
+        "/paid-content/what-does-an-npu-actually-do-and-does-your-laptop-need-one/",
         "/paid-content/which-dell-laptops-are-actually-ai-ready-in-canada/",
         "/paid-content/why-a-reliable-fiber-powered-network-from-xfinity-is-the-ultimate-solution-for-home-wi-fi/",
         "/paid-content/why-tax-filers-are-choosing-h-r-block-this-season/",
@@ -2273,6 +2347,9 @@
         "/paid-content/why-you-need-a-cutting-edge-vpn-to-keep-you-safe-online/",
         "/paid-content/why-you-need-an-internet-provider-with-no-data-caps/",
         "/tech/mobile/apple-iphone-17-event-september-2025-what-to-expect/",
+        "/tech/mobile/best-android-phone/",
+        "/tech/mobile/best-cheap-phone/",
+        "/tech/mobile/best-phone/",
         "/tech/mobile/i-underestimated-workout-buddy-apples-playing-the-long-game-for-ai-coaching/",
         "/tech/mobile/new-iphone-buying-guide-carrier-vs-apple-unlocked/",
         "/tech/mobile/phone-deals-carrier-bill-credits-installment-plan-buying-guide/",
@@ -2308,7 +2385,7 @@
         "/videos/tax-breaks-you-might-miss-in-2026-and-how-to-find-them/"
       ],
       "total": 1,
-      "total_allow": 190
+      "total_allow": 197
     },
     "PerplexityBot": {
       "disallow": [
@@ -2336,6 +2413,7 @@
         "/paid-content/cash-app-families-guide-how-to-set-up-a-teen-or-child-account-step-by-step/",
         "/paid-content/cash-app-for-teens-safety-and-parental-controls/",
         "/paid-content/cash-apps-new-kids-debit-card-what-parents-need-to-know/",
+        "/paid-content/can-you-use-an-alienware-laptop-for-both-gaming-and-professional-work/",
         "/paid-content/cricket-wireless-offers-reliable-prepaid-nationwide-5g/",
         "/paid-content/dji-builds-on-12-years-of-handheld-imaging-innovation-with-the-dji-osmo-360-ii/",
         "/paid-content/dji-osmo-pocket-4p-is-a-powerful-tool-for-independent-filmmakers/",
@@ -2450,6 +2528,7 @@
         "/paid-content/t-mobile-fiber-vs-cable-internet-why-ultra-fast-internet-is-worth-the-upgrade/",
         "/paid-content/tempos-fresh-chef-crafted-meals-make-your-meal-prep-smarter-and-tastier/",
         "/paid-content/the-dell-xps-13-is-subtle-luxury-in-laptop-form/",
+        "/paid-content/the-dell-14-plus-is-a-copilot-pc-heres-what-that-actually-means/",
         "/paid-content/the-difference-between-fiber-to-the-home-and-fiber-powered-internet/",
         "/paid-content/the-nordictrack-commercial-2450-combines-big-speed-with-smart-adjustment-features/",
         "/paid-content/the-nordictrack-treadmill-you-actually-need-for-the-12-3-30-workout/",
@@ -2457,6 +2536,7 @@
         "/paid-content/upgrade-your-summer-content-with-a-portable-digital-camera/",
         "/paid-content/what-americans-pay-for-internet-in-2026-and-how-xfinity-helps-you-save/",
         "/paid-content/what-is-a-wearable-exoskeleton-and-who-actually-needs-one/",
+        "/paid-content/what-is-an-all-in-one-printer-and-do-you-need-one/",
         "/paid-content/whats-a-good-casetify-case-for-my-next-iphone-a-complete-guide-to-practical-protection/",
         "/paid-content/when-can-kids-get-a-debit-card-heres-how-cash-app-handles-every-age/",
         "/paid-content/how-fast-should-your-home-internet-be/",
@@ -2464,6 +2544,7 @@
         "/paid-content/cash-app-for-teens-safety-and-parental-controls/",
         "/paid-content/what-can-ray-ban-meta-ai-glasses-do-5-use-cases-for-your-everyday-routine/",
         "/paid-content/what-to-include-in-a-heart-health-daily-regimen-from-supplements-to-home-monitors/",
+        "/paid-content/what-does-an-npu-actually-do-and-does-your-laptop-need-one/",
         "/paid-content/which-dell-laptops-are-actually-ai-ready-in-canada/",
         "/paid-content/why-a-reliable-fiber-powered-network-from-xfinity-is-the-ultimate-solution-for-home-wi-fi/",
         "/paid-content/why-tax-filers-are-choosing-h-r-block-this-season/",
@@ -2472,6 +2553,9 @@
         "/paid-content/why-you-need-a-cutting-edge-vpn-to-keep-you-safe-online/",
         "/paid-content/why-you-need-an-internet-provider-with-no-data-caps/",
         "/tech/mobile/apple-iphone-17-event-september-2025-what-to-expect/",
+        "/tech/mobile/best-android-phone/",
+        "/tech/mobile/best-cheap-phone/",
+        "/tech/mobile/best-phone/",
         "/tech/mobile/i-underestimated-workout-buddy-apples-playing-the-long-game-for-ai-coaching/",
         "/tech/mobile/new-iphone-buying-guide-carrier-vs-apple-unlocked/",
         "/tech/mobile/phone-deals-carrier-bill-credits-installment-plan-buying-guide/",
@@ -2507,7 +2591,7 @@
         "/videos/tax-breaks-you-might-miss-in-2026-and-how-to-find-them/"
       ],
       "total": 1,
-      "total_allow": 190
+      "total_allow": 197
     },
     "Timpibot": {
       "disallow": [
@@ -2535,6 +2619,7 @@
         "/paid-content/cash-app-families-guide-how-to-set-up-a-teen-or-child-account-step-by-step/",
         "/paid-content/cash-app-for-teens-safety-and-parental-controls/",
         "/paid-content/cash-apps-new-kids-debit-card-what-parents-need-to-know/",
+        "/paid-content/can-you-use-an-alienware-laptop-for-both-gaming-and-professional-work/",
         "/paid-content/cricket-wireless-offers-reliable-prepaid-nationwide-5g/",
         "/paid-content/dji-builds-on-12-years-of-handheld-imaging-innovation-with-the-dji-osmo-360-ii/",
         "/paid-content/dji-osmo-pocket-4p-is-a-powerful-tool-for-independent-filmmakers/",
@@ -2649,6 +2734,7 @@
         "/paid-content/t-mobile-fiber-vs-cable-internet-why-ultra-fast-internet-is-worth-the-upgrade/",
         "/paid-content/tempos-fresh-chef-crafted-meals-make-your-meal-prep-smarter-and-tastier/",
         "/paid-content/the-dell-xps-13-is-subtle-luxury-in-laptop-form/",
+        "/paid-content/the-dell-14-plus-is-a-copilot-pc-heres-what-that-actually-means/",
         "/paid-content/the-difference-between-fiber-to-the-home-and-fiber-powered-internet/",
         "/paid-content/the-nordictrack-commercial-2450-combines-big-speed-with-smart-adjustment-features/",
         "/paid-content/the-nordictrack-treadmill-you-actually-need-for-the-12-3-30-workout/",
@@ -2656,6 +2742,7 @@
         "/paid-content/upgrade-your-summer-content-with-a-portable-digital-camera/",
         "/paid-content/what-americans-pay-for-internet-in-2026-and-how-xfinity-helps-you-save/",
         "/paid-content/what-is-a-wearable-exoskeleton-and-who-actually-needs-one/",
+        "/paid-content/what-is-an-all-in-one-printer-and-do-you-need-one/",
         "/paid-content/whats-a-good-casetify-case-for-my-next-iphone-a-complete-guide-to-practical-protection/",
         "/paid-content/when-can-kids-get-a-debit-card-heres-how-cash-app-handles-every-age/",
         "/paid-content/how-fast-should-your-home-internet-be/",
@@ -2663,6 +2750,7 @@
         "/paid-content/cash-app-for-teens-safety-and-parental-controls/",
         "/paid-content/what-can-ray-ban-meta-ai-glasses-do-5-use-cases-for-your-everyday-routine/",
         "/paid-content/what-to-include-in-a-heart-health-daily-regimen-from-supplements-to-home-monitors/",
+        "/paid-content/what-does-an-npu-actually-do-and-does-your-laptop-need-one/",
         "/paid-content/which-dell-laptops-are-actually-ai-ready-in-canada/",
         "/paid-content/why-a-reliable-fiber-powered-network-from-xfinity-is-the-ultimate-solution-for-home-wi-fi/",
         "/paid-content/why-tax-filers-are-choosing-h-r-block-this-season/",
@@ -2671,6 +2759,9 @@
         "/paid-content/why-you-need-a-cutting-edge-vpn-to-keep-you-safe-online/",
         "/paid-content/why-you-need-an-internet-provider-with-no-data-caps/",
         "/tech/mobile/apple-iphone-17-event-september-2025-what-to-expect/",
+        "/tech/mobile/best-android-phone/",
+        "/tech/mobile/best-cheap-phone/",
+        "/tech/mobile/best-phone/",
         "/tech/mobile/i-underestimated-workout-buddy-apples-playing-the-long-game-for-ai-coaching/",
         "/tech/mobile/new-iphone-buying-guide-carrier-vs-apple-unlocked/",
         "/tech/mobile/phone-deals-carrier-bill-credits-installment-plan-buying-guide/",
@@ -2706,7 +2797,7 @@
         "/videos/tax-breaks-you-might-miss-in-2026-and-how-to-find-them/"
       ],
       "total": 1,
-      "total_allow": 190
+      "total_allow": 197
     },
     "YouBot": {
       "disallow": [
@@ -2734,6 +2825,7 @@
         "/paid-content/cash-app-families-guide-how-to-set-up-a-teen-or-child-account-step-by-step/",
         "/paid-content/cash-app-for-teens-safety-and-parental-controls/",
         "/paid-content/cash-apps-new-kids-debit-card-what-parents-need-to-know/",
+        "/paid-content/can-you-use-an-alienware-laptop-for-both-gaming-and-professional-work/",
         "/paid-content/cricket-wireless-offers-reliable-prepaid-nationwide-5g/",
         "/paid-content/dji-builds-on-12-years-of-handheld-imaging-innovation-with-the-dji-osmo-360-ii/",
         "/paid-content/dji-osmo-pocket-4p-is-a-powerful-tool-for-independent-filmmakers/",
@@ -2848,6 +2940,7 @@
         "/paid-content/t-mobile-fiber-vs-cable-internet-why-ultra-fast-internet-is-worth-the-upgrade/",
         "/paid-content/tempos-fresh-chef-crafted-meals-make-your-meal-prep-smarter-and-tastier/",
         "/paid-content/the-dell-xps-13-is-subtle-luxury-in-laptop-form/",
+        "/paid-content/the-dell-14-plus-is-a-copilot-pc-heres-what-that-actually-means/",
         "/paid-content/the-difference-between-fiber-to-the-home-and-fiber-powered-internet/",
         "/paid-content/the-nordictrack-commercial-2450-combines-big-speed-with-smart-adjustment-features/",
         "/paid-content/the-nordictrack-treadmill-you-actually-need-for-the-12-3-30-workout/",
@@ -2855,6 +2948,7 @@
         "/paid-content/upgrade-your-summer-content-with-a-portable-digital-camera/",
         "/paid-content/what-americans-pay-for-internet-in-2026-and-how-xfinity-helps-you-save/",
         "/paid-content/what-is-a-wearable-exoskeleton-and-who-actually-needs-one/",
+        "/paid-content/what-is-an-all-in-one-printer-and-do-you-need-one/",
         "/paid-content/whats-a-good-casetify-case-for-my-next-iphone-a-complete-guide-to-practical-protection/",
         "/paid-content/when-can-kids-get-a-debit-card-heres-how-cash-app-handles-every-age/",
         "/paid-content/how-fast-should-your-home-internet-be/",
@@ -2862,6 +2956,7 @@
         "/paid-content/cash-app-for-teens-safety-and-parental-controls/",
         "/paid-content/what-can-ray-ban-meta-ai-glasses-do-5-use-cases-for-your-everyday-routine/",
         "/paid-content/what-to-include-in-a-heart-health-daily-regimen-from-supplements-to-home-monitors/",
+        "/paid-content/what-does-an-npu-actually-do-and-does-your-laptop-need-one/",
         "/paid-content/which-dell-laptops-are-actually-ai-ready-in-canada/",
         "/paid-content/why-a-reliable-fiber-powered-network-from-xfinity-is-the-ultimate-solution-for-home-wi-fi/",
         "/paid-content/why-tax-filers-are-choosing-h-r-block-this-season/",
@@ -2870,6 +2965,9 @@
         "/paid-content/why-you-need-a-cutting-edge-vpn-to-keep-you-safe-online/",
         "/paid-content/why-you-need-an-internet-provider-with-no-data-caps/",
         "/tech/mobile/apple-iphone-17-event-september-2025-what-to-expect/",
+        "/tech/mobile/best-android-phone/",
+        "/tech/mobile/best-cheap-phone/",
+        "/tech/mobile/best-phone/",
         "/tech/mobile/i-underestimated-workout-buddy-apples-playing-the-long-game-for-ai-coaching/",
         "/tech/mobile/new-iphone-buying-guide-carrier-vs-apple-unlocked/",
         "/tech/mobile/phone-deals-carrier-bill-credits-installment-plan-buying-guide/",
@@ -2905,7 +3003,7 @@
         "/videos/tax-breaks-you-might-miss-in-2026-and-how-to-find-them/"
       ],
       "total": 1,
-      "total_allow": 190
+      "total_allow": 197
     },
     "anthropic-ai": {
       "disallow": [
@@ -2933,6 +3031,7 @@
         "/paid-content/cash-app-families-guide-how-to-set-up-a-teen-or-child-account-step-by-step/",
         "/paid-content/cash-app-for-teens-safety-and-parental-controls/",
         "/paid-content/cash-apps-new-kids-debit-card-what-parents-need-to-know/",
+        "/paid-content/can-you-use-an-alienware-laptop-for-both-gaming-and-professional-work/",
         "/paid-content/cricket-wireless-offers-reliable-prepaid-nationwide-5g/",
         "/paid-content/dji-builds-on-12-years-of-handheld-imaging-innovation-with-the-dji-osmo-360-ii/",
         "/paid-content/dji-osmo-pocket-4p-is-a-powerful-tool-for-independent-filmmakers/",
@@ -3047,6 +3146,7 @@
         "/paid-content/t-mobile-fiber-vs-cable-internet-why-ultra-fast-internet-is-worth-the-upgrade/",
         "/paid-content/tempos-fresh-chef-crafted-meals-make-your-meal-prep-smarter-and-tastier/",
         "/paid-content/the-dell-xps-13-is-subtle-luxury-in-laptop-form/",
+        "/paid-content/the-dell-14-plus-is-a-copilot-pc-heres-what-that-actually-means/",
         "/paid-content/the-difference-between-fiber-to-the-home-and-fiber-powered-internet/",
         "/paid-content/the-nordictrack-commercial-2450-combines-big-speed-with-smart-adjustment-features/",
         "/paid-content/the-nordictrack-treadmill-you-actually-need-for-the-12-3-30-workout/",
@@ -3054,6 +3154,7 @@
         "/paid-content/upgrade-your-summer-content-with-a-portable-digital-camera/",
         "/paid-content/what-americans-pay-for-internet-in-2026-and-how-xfinity-helps-you-save/",
         "/paid-content/what-is-a-wearable-exoskeleton-and-who-actually-needs-one/",
+        "/paid-content/what-is-an-all-in-one-printer-and-do-you-need-one/",
         "/paid-content/whats-a-good-casetify-case-for-my-next-iphone-a-complete-guide-to-practical-protection/",
         "/paid-content/when-can-kids-get-a-debit-card-heres-how-cash-app-handles-every-age/",
         "/paid-content/how-fast-should-your-home-internet-be/",
@@ -3061,6 +3162,7 @@
         "/paid-content/cash-app-for-teens-safety-and-parental-controls/",
         "/paid-content/what-can-ray-ban-meta-ai-glasses-do-5-use-cases-for-your-everyday-routine/",
         "/paid-content/what-to-include-in-a-heart-health-daily-regimen-from-supplements-to-home-monitors/",
+        "/paid-content/what-does-an-npu-actually-do-and-does-your-laptop-need-one/",
         "/paid-content/which-dell-laptops-are-actually-ai-ready-in-canada/",
         "/paid-content/why-a-reliable-fiber-powered-network-from-xfinity-is-the-ultimate-solution-for-home-wi-fi/",
         "/paid-content/why-tax-filers-are-choosing-h-r-block-this-season/",
@@ -3069,6 +3171,9 @@
         "/paid-content/why-you-need-a-cutting-edge-vpn-to-keep-you-safe-online/",
         "/paid-content/why-you-need-an-internet-provider-with-no-data-caps/",
         "/tech/mobile/apple-iphone-17-event-september-2025-what-to-expect/",
+        "/tech/mobile/best-android-phone/",
+        "/tech/mobile/best-cheap-phone/",
+        "/tech/mobile/best-phone/",
         "/tech/mobile/i-underestimated-workout-buddy-apples-playing-the-long-game-for-ai-coaching/",
         "/tech/mobile/new-iphone-buying-guide-carrier-vs-apple-unlocked/",
         "/tech/mobile/phone-deals-carrier-bill-credits-installment-plan-buying-guide/",
@@ -3104,7 +3209,7 @@
         "/videos/tax-breaks-you-might-miss-in-2026-and-how-to-find-them/"
       ],
       "total": 1,
-      "total_allow": 190
+      "total_allow": 197
     },
     "cohere-ai": {
       "disallow": [
@@ -3132,6 +3237,7 @@
         "/paid-content/cash-app-families-guide-how-to-set-up-a-teen-or-child-account-step-by-step/",
         "/paid-content/cash-app-for-teens-safety-and-parental-controls/",
         "/paid-content/cash-apps-new-kids-debit-card-what-parents-need-to-know/",
+        "/paid-content/can-you-use-an-alienware-laptop-for-both-gaming-and-professional-work/",
         "/paid-content/cricket-wireless-offers-reliable-prepaid-nationwide-5g/",
         "/paid-content/dji-builds-on-12-years-of-handheld-imaging-innovation-with-the-dji-osmo-360-ii/",
         "/paid-content/dji-osmo-pocket-4p-is-a-powerful-tool-for-independent-filmmakers/",
@@ -3246,6 +3352,7 @@
         "/paid-content/t-mobile-fiber-vs-cable-internet-why-ultra-fast-internet-is-worth-the-upgrade/",
         "/paid-content/tempos-fresh-chef-crafted-meals-make-your-meal-prep-smarter-and-tastier/",
         "/paid-content/the-dell-xps-13-is-subtle-luxury-in-laptop-form/",
+        "/paid-content/the-dell-14-plus-is-a-copilot-pc-heres-what-that-actually-means/",
         "/paid-content/the-difference-between-fiber-to-the-home-and-fiber-powered-internet/",
         "/paid-content/the-nordictrack-commercial-2450-combines-big-speed-with-smart-adjustment-features/",
         "/paid-content/the-nordictrack-treadmill-you-actually-need-for-the-12-3-30-workout/",
@@ -3253,6 +3360,7 @@
         "/paid-content/upgrade-your-summer-content-with-a-portable-digital-camera/",
         "/paid-content/what-americans-pay-for-internet-in-2026-and-how-xfinity-helps-you-save/",
         "/paid-content/what-is-a-wearable-exoskeleton-and-who-actually-needs-one/",
+        "/paid-content/what-is-an-all-in-one-printer-and-do-you-need-one/",
         "/paid-content/whats-a-good-casetify-case-for-my-next-iphone-a-complete-guide-to-practical-protection/",
         "/paid-content/when-can-kids-get-a-debit-card-heres-how-cash-app-handles-every-age/",
         "/paid-content/how-fast-should-your-home-internet-be/",
@@ -3260,6 +3368,7 @@
         "/paid-content/cash-app-for-teens-safety-and-parental-controls/",
         "/paid-content/what-can-ray-ban-meta-ai-glasses-do-5-use-cases-for-your-everyday-routine/",
         "/paid-content/what-to-include-in-a-heart-health-daily-regimen-from-supplements-to-home-monitors/",
+        "/paid-content/what-does-an-npu-actually-do-and-does-your-laptop-need-one/",
         "/paid-content/which-dell-laptops-are-actually-ai-ready-in-canada/",
         "/paid-content/why-a-reliable-fiber-powered-network-from-xfinity-is-the-ultimate-solution-for-home-wi-fi/",
         "/paid-content/why-tax-filers-are-choosing-h-r-block-this-season/",
@@ -3268,6 +3377,9 @@
         "/paid-content/why-you-need-a-cutting-edge-vpn-to-keep-you-safe-online/",
         "/paid-content/why-you-need-an-internet-provider-with-no-data-caps/",
         "/tech/mobile/apple-iphone-17-event-september-2025-what-to-expect/",
+        "/tech/mobile/best-android-phone/",
+        "/tech/mobile/best-cheap-phone/",
+        "/tech/mobile/best-phone/",
         "/tech/mobile/i-underestimated-workout-buddy-apples-playing-the-long-game-for-ai-coaching/",
         "/tech/mobile/new-iphone-buying-guide-carrier-vs-apple-unlocked/",
         "/tech/mobile/phone-deals-carrier-bill-credits-installment-plan-buying-guide/",
@@ -3303,7 +3415,7 @@
         "/videos/tax-breaks-you-might-miss-in-2026-and-how-to-find-them/"
       ],
       "total": 1,
-      "total_allow": 190
+      "total_allow": 197
     },
     "cohere-training-data-crawler": {
       "disallow": [
@@ -3331,6 +3443,7 @@
         "/paid-content/cash-app-families-guide-how-to-set-up-a-teen-or-child-account-step-by-step/",
         "/paid-content/cash-app-for-teens-safety-and-parental-controls/",
         "/paid-content/cash-apps-new-kids-debit-card-what-parents-need-to-know/",
+        "/paid-content/can-you-use-an-alienware-laptop-for-both-gaming-and-professional-work/",
         "/paid-content/cricket-wireless-offers-reliable-prepaid-nationwide-5g/",
         "/paid-content/dji-builds-on-12-years-of-handheld-imaging-innovation-with-the-dji-osmo-360-ii/",
         "/paid-content/dji-osmo-pocket-4p-is-a-powerful-tool-for-independent-filmmakers/",
@@ -3445,6 +3558,7 @@
         "/paid-content/t-mobile-fiber-vs-cable-internet-why-ultra-fast-internet-is-worth-the-upgrade/",
         "/paid-content/tempos-fresh-chef-crafted-meals-make-your-meal-prep-smarter-and-tastier/",
         "/paid-content/the-dell-xps-13-is-subtle-luxury-in-laptop-form/",
+        "/paid-content/the-dell-14-plus-is-a-copilot-pc-heres-what-that-actually-means/",
         "/paid-content/the-difference-between-fiber-to-the-home-and-fiber-powered-internet/",
         "/paid-content/the-nordictrack-commercial-2450-combines-big-speed-with-smart-adjustment-features/",
         "/paid-content/the-nordictrack-treadmill-you-actually-need-for-the-12-3-30-workout/",
@@ -3452,6 +3566,7 @@
         "/paid-content/upgrade-your-summer-content-with-a-portable-digital-camera/",
         "/paid-content/what-americans-pay-for-internet-in-2026-and-how-xfinity-helps-you-save/",
         "/paid-content/what-is-a-wearable-exoskeleton-and-who-actually-needs-one/",
+        "/paid-content/what-is-an-all-in-one-printer-and-do-you-need-one/",
         "/paid-content/whats-a-good-casetify-case-for-my-next-iphone-a-complete-guide-to-practical-protection/",
         "/paid-content/when-can-kids-get-a-debit-card-heres-how-cash-app-handles-every-age/",
         "/paid-content/how-fast-should-your-home-internet-be/",
@@ -3459,6 +3574,7 @@
         "/paid-content/cash-app-for-teens-safety-and-parental-controls/",
         "/paid-content/what-can-ray-ban-meta-ai-glasses-do-5-use-cases-for-your-everyday-routine/",
         "/paid-content/what-to-include-in-a-heart-health-daily-regimen-from-supplements-to-home-monitors/",
+        "/paid-content/what-does-an-npu-actually-do-and-does-your-laptop-need-one/",
         "/paid-content/which-dell-laptops-are-actually-ai-ready-in-canada/",
         "/paid-content/why-a-reliable-fiber-powered-network-from-xfinity-is-the-ultimate-solution-for-home-wi-fi/",
         "/paid-content/why-tax-filers-are-choosing-h-r-block-this-season/",
@@ -3467,6 +3583,9 @@
         "/paid-content/why-you-need-a-cutting-edge-vpn-to-keep-you-safe-online/",
         "/paid-content/why-you-need-an-internet-provider-with-no-data-caps/",
         "/tech/mobile/apple-iphone-17-event-september-2025-what-to-expect/",
+        "/tech/mobile/best-android-phone/",
+        "/tech/mobile/best-cheap-phone/",
+        "/tech/mobile/best-phone/",
         "/tech/mobile/i-underestimated-workout-buddy-apples-playing-the-long-game-for-ai-coaching/",
         "/tech/mobile/new-iphone-buying-guide-carrier-vs-apple-unlocked/",
         "/tech/mobile/phone-deals-carrier-bill-credits-installment-plan-buying-guide/",
@@ -3502,7 +3621,7 @@
         "/videos/tax-breaks-you-might-miss-in-2026-and-how-to-find-them/"
       ],
       "total": 1,
-      "total_allow": 190
+      "total_allow": 197
     },
     "meta-externalagent": {
       "disallow": [
@@ -3530,6 +3649,7 @@
         "/paid-content/cash-app-families-guide-how-to-set-up-a-teen-or-child-account-step-by-step/",
         "/paid-content/cash-app-for-teens-safety-and-parental-controls/",
         "/paid-content/cash-apps-new-kids-debit-card-what-parents-need-to-know/",
+        "/paid-content/can-you-use-an-alienware-laptop-for-both-gaming-and-professional-work/",
         "/paid-content/cricket-wireless-offers-reliable-prepaid-nationwide-5g/",
         "/paid-content/dji-builds-on-12-years-of-handheld-imaging-innovation-with-the-dji-osmo-360-ii/",
         "/paid-content/dji-osmo-pocket-4p-is-a-powerful-tool-for-independent-filmmakers/",
@@ -3644,6 +3764,7 @@
         "/paid-content/t-mobile-fiber-vs-cable-internet-why-ultra-fast-internet-is-worth-the-upgrade/",
         "/paid-content/tempos-fresh-chef-crafted-meals-make-your-meal-prep-smarter-and-tastier/",
         "/paid-content/the-dell-xps-13-is-subtle-luxury-in-laptop-form/",
+        "/paid-content/the-dell-14-plus-is-a-copilot-pc-heres-what-that-actually-means/",
         "/paid-content/the-difference-between-fiber-to-the-home-and-fiber-powered-internet/",
         "/paid-content/the-nordictrack-commercial-2450-combines-big-speed-with-smart-adjustment-features/",
         "/paid-content/the-nordictrack-treadmill-you-actually-need-for-the-12-3-30-workout/",
@@ -3651,6 +3772,7 @@
         "/paid-content/upgrade-your-summer-content-with-a-portable-digital-camera/",
         "/paid-content/what-americans-pay-for-internet-in-2026-and-how-xfinity-helps-you-save/",
         "/paid-content/what-is-a-wearable-exoskeleton-and-who-actually-needs-one/",
+        "/paid-content/what-is-an-all-in-one-printer-and-do-you-need-one/",
         "/paid-content/whats-a-good-casetify-case-for-my-next-iphone-a-complete-guide-to-practical-protection/",
         "/paid-content/when-can-kids-get-a-debit-card-heres-how-cash-app-handles-every-age/",
         "/paid-content/how-fast-should-your-home-internet-be/",
@@ -3658,6 +3780,7 @@
         "/paid-content/cash-app-for-teens-safety-and-parental-controls/",
         "/paid-content/what-can-ray-ban-meta-ai-glasses-do-5-use-cases-for-your-everyday-routine/",
         "/paid-content/what-to-include-in-a-heart-health-daily-regimen-from-supplements-to-home-monitors/",
+        "/paid-content/what-does-an-npu-actually-do-and-does-your-laptop-need-one/",
         "/paid-content/which-dell-laptops-are-actually-ai-ready-in-canada/",
         "/paid-content/why-a-reliable-fiber-powered-network-from-xfinity-is-the-ultimate-solution-for-home-wi-fi/",
         "/paid-content/why-tax-filers-are-choosing-h-r-block-this-season/",
@@ -3666,6 +3789,9 @@
         "/paid-content/why-you-need-a-cutting-edge-vpn-to-keep-you-safe-online/",
         "/paid-content/why-you-need-an-internet-provider-with-no-data-caps/",
         "/tech/mobile/apple-iphone-17-event-september-2025-what-to-expect/",
+        "/tech/mobile/best-android-phone/",
+        "/tech/mobile/best-cheap-phone/",
+        "/tech/mobile/best-phone/",
         "/tech/mobile/i-underestimated-workout-buddy-apples-playing-the-long-game-for-ai-coaching/",
         "/tech/mobile/new-iphone-buying-guide-carrier-vs-apple-unlocked/",
         "/tech/mobile/phone-deals-carrier-bill-credits-installment-plan-buying-guide/",
@@ -3701,7 +3827,7 @@
         "/videos/tax-breaks-you-might-miss-in-2026-and-how-to-find-them/"
       ],
       "total": 1,
-      "total_allow": 190
+      "total_allow": 197
     },
     "meta-externalfetcher": {
       "disallow": [
@@ -3729,6 +3855,7 @@
         "/paid-content/cash-app-families-guide-how-to-set-up-a-teen-or-child-account-step-by-step/",
         "/paid-content/cash-app-for-teens-safety-and-parental-controls/",
         "/paid-content/cash-apps-new-kids-debit-card-what-parents-need-to-know/",
+        "/paid-content/can-you-use-an-alienware-laptop-for-both-gaming-and-professional-work/",
         "/paid-content/cricket-wireless-offers-reliable-prepaid-nationwide-5g/",
         "/paid-content/dji-builds-on-12-years-of-handheld-imaging-innovation-with-the-dji-osmo-360-ii/",
         "/paid-content/dji-osmo-pocket-4p-is-a-powerful-tool-for-independent-filmmakers/",
@@ -3843,6 +3970,7 @@
         "/paid-content/t-mobile-fiber-vs-cable-internet-why-ultra-fast-internet-is-worth-the-upgrade/",
         "/paid-content/tempos-fresh-chef-crafted-meals-make-your-meal-prep-smarter-and-tastier/",
         "/paid-content/the-dell-xps-13-is-subtle-luxury-in-laptop-form/",
+        "/paid-content/the-dell-14-plus-is-a-copilot-pc-heres-what-that-actually-means/",
         "/paid-content/the-difference-between-fiber-to-the-home-and-fiber-powered-internet/",
         "/paid-content/the-nordictrack-commercial-2450-combines-big-speed-with-smart-adjustment-features/",
         "/paid-content/the-nordictrack-treadmill-you-actually-need-for-the-12-3-30-workout/",
@@ -3850,6 +3978,7 @@
         "/paid-content/upgrade-your-summer-content-with-a-portable-digital-camera/",
         "/paid-content/what-americans-pay-for-internet-in-2026-and-how-xfinity-helps-you-save/",
         "/paid-content/what-is-a-wearable-exoskeleton-and-who-actually-needs-one/",
+        "/paid-content/what-is-an-all-in-one-printer-and-do-you-need-one/",
         "/paid-content/whats-a-good-casetify-case-for-my-next-iphone-a-complete-guide-to-practical-protection/",
         "/paid-content/when-can-kids-get-a-debit-card-heres-how-cash-app-handles-every-age/",
         "/paid-content/how-fast-should-your-home-internet-be/",
@@ -3857,6 +3986,7 @@
         "/paid-content/cash-app-for-teens-safety-and-parental-controls/",
         "/paid-content/what-can-ray-ban-meta-ai-glasses-do-5-use-cases-for-your-everyday-routine/",
         "/paid-content/what-to-include-in-a-heart-health-daily-regimen-from-supplements-to-home-monitors/",
+        "/paid-content/what-does-an-npu-actually-do-and-does-your-laptop-need-one/",
         "/paid-content/which-dell-laptops-are-actually-ai-ready-in-canada/",
         "/paid-content/why-a-reliable-fiber-powered-network-from-xfinity-is-the-ultimate-solution-for-home-wi-fi/",
         "/paid-content/why-tax-filers-are-choosing-h-r-block-this-season/",
@@ -3865,6 +3995,9 @@
         "/paid-content/why-you-need-a-cutting-edge-vpn-to-keep-you-safe-online/",
         "/paid-content/why-you-need-an-internet-provider-with-no-data-caps/",
         "/tech/mobile/apple-iphone-17-event-september-2025-what-to-expect/",
+        "/tech/mobile/best-android-phone/",
+        "/tech/mobile/best-cheap-phone/",
+        "/tech/mobile/best-phone/",
         "/tech/mobile/i-underestimated-workout-buddy-apples-playing-the-long-game-for-ai-coaching/",
         "/tech/mobile/new-iphone-buying-guide-carrier-vs-apple-unlocked/",
         "/tech/mobile/phone-deals-carrier-bill-credits-installment-plan-buying-guide/",
@@ -3900,7 +4033,7 @@
         "/videos/tax-breaks-you-might-miss-in-2026-and-how-to-find-them/"
       ],
       "total": 1,
-      "total_allow": 190
+      "total_allow": 197
     }
   }
 }

@@ -1,11 +1,11 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-10-26T12:06:46+00:00",
+  "checked_at": "2026-11-02T14:34:05+00:00",
   "domain": "crpt.ru",
   "category": "software",
   "robots_url": "https://crpt.ru/robots.txt",
-  "http_status": 200,
-  "fetch_error": null,
+  "http_status": null,
+  "fetch_error": "The read operation timed out",
   "bots": {},
   "named": [],
   "rules": {}

@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-10-26T12:06:46+00:00",
+  "checked_at": "2026-11-02T14:34:05+00:00",
   "domain": "deviantart.com",
   "category": "other",
   "robots_url": "https://deviantart.com/robots.txt",
@@ -42,6 +42,7 @@
         "/join/?lang=*&",
         "/users/login?lang=*&",
         "/users/login/?lang=*&",
+        "/dreamup?",
         "/download/",
         "/checkout/",
         "/global/",
@@ -54,7 +55,7 @@
         "/users/login?lang=",
         "/users/login/?lang="
       ],
-      "total": 11,
+      "total": 12,
       "total_allow": 3
     }
   }

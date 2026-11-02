@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-10-26T12:06:46+00:00",
+  "checked_at": "2026-11-02T14:34:05+00:00",
   "domain": "faphouse.com",
   "category": "other",
   "robots_url": "https://faphouse.com/robots.txt",
@@ -78,6 +78,10 @@
         "*/search/videos*&gold=",
         "*/search/videos*&length[*]=",
         "*/search/videos*&quality[*]=",
+        "*/search/videos*&categories[*]=",
+        "*/search/videos*&orientations=",
+        "*/search/videos*&iscreator=",
+        "*/search/videos*&isstudio=",
         "*?publisher=",
         "*&publisher=",
         "*?productionCreatorSort=",
@@ -173,7 +177,7 @@
         "*/studios/*&page=5$",
         "*/studios/*&page=5&*"
       ],
-      "total": 63,
+      "total": 67,
       "total_allow": 70
     }
   }

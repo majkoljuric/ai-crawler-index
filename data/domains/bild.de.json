@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-10-26T12:06:46+00:00",
+  "checked_at": "2026-11-02T14:34:05+00:00",
   "domain": "bild.de",
   "category": "other",
   "robots_url": "https://bild.de/robots.txt",
@@ -66,10 +66,18 @@
         "/buehne/",
         "/sonstiges/intern/",
         "/vorprod/",
-        "/vorproduktion/"
+        "/vorproduktion/",
+        "/dating/go/",
+        "/games/go/",
+        "/casinos/go/",
+        "/online-apotheke/go/",
+        "/energieloesungen/go/",
+        "/energieloesungen/social/go/",
+        "/energieloesungen/vergleich/go/",
+        "/leben-im-alter/go/"
       ],
       "allow": [],
-      "total": 14,
+      "total": 22,
       "total_allow": 0
     },
     "Amazonbot": {

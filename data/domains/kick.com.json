@@ -1,31 +1,31 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-10-26T12:06:46+00:00",
+  "checked_at": "2026-11-02T14:34:05+00:00",
   "domain": "kick.com",
   "category": "other",
   "robots_url": "https://kick.com/robots.txt",
   "http_status": 200,
   "fetch_error": null,
   "bots": {
-    "GPTBot": "partial",
+    "GPTBot": "blocked",
     "ChatGPT-User": "partial",
     "OAI-SearchBot": "partial",
-    "ClaudeBot": "partial",
-    "Claude-Web": "partial",
-    "anthropic-ai": "partial",
-    "Google-Extended": "partial",
-    "GoogleOther": "partial",
-    "Applebot-Extended": "partial",
-    "CCBot": "partial",
-    "Bytespider": "partial",
+    "ClaudeBot": "blocked",
+    "Claude-Web": "blocked",
+    "anthropic-ai": "blocked",
+    "Google-Extended": "blocked",
+    "GoogleOther": "blocked",
+    "Applebot-Extended": "blocked",
+    "CCBot": "blocked",
+    "Bytespider": "blocked",
     "PerplexityBot": "partial",
     "Perplexity-User": "partial",
-    "cohere-ai": "partial",
+    "cohere-ai": "blocked",
     "cohere-training-data-crawler": "partial",
-    "Diffbot": "partial",
+    "Diffbot": "blocked",
     "Omgilibot": "partial",
-    "Amazonbot": "partial",
-    "meta-externalagent": "partial",
+    "Amazonbot": "blocked",
+    "meta-externalagent": "blocked",
     "meta-externalfetcher": "partial",
     "Timpibot": "partial",
     "YouBot": "partial",
@@ -33,7 +33,21 @@
     "Ai2Bot": "partial",
     "DuckAssistBot": "partial"
   },
-  "named": [],
+  "named": [
+    "GPTBot",
+    "ClaudeBot",
+    "Claude-Web",
+    "anthropic-ai",
+    "Google-Extended",
+    "GoogleOther",
+    "Applebot-Extended",
+    "CCBot",
+    "Bytespider",
+    "cohere-ai",
+    "Diffbot",
+    "Amazonbot",
+    "meta-externalagent"
+  ],
   "rules": {
     "*": {
       "disallow": [
@@ -53,8 +67,114 @@
         "/*?*range=",
         "/*?*filter="
       ],
-      "allow": [],
+      "allow": [
+        "/"
+      ],
       "total": 15,
+      "total_allow": 1
+    },
+    "Amazonbot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "Applebot-Extended": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "Bytespider": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "CCBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "Claude-Web": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "ClaudeBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "Diffbot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "GPTBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "Google-Extended": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "GoogleOther": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "anthropic-ai": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "cohere-ai": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "meta-externalagent": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
       "total_allow": 0
     }
   }

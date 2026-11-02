@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-10-26T12:06:46+00:00",
+  "checked_at": "2026-11-02T14:34:05+00:00",
   "domain": "marca.com",
   "category": "other",
   "robots_url": "https://marca.com/robots.txt",
@@ -23,7 +23,7 @@
     "cohere-ai": "partial",
     "cohere-training-data-crawler": "partial",
     "Diffbot": "partial",
-    "Omgilibot": "blocked",
+    "Omgilibot": "partial",
     "Amazonbot": "partial",
     "meta-externalagent": "partial",
     "meta-externalfetcher": "partial",
@@ -37,11 +37,27 @@
     "GPTBot",
     "ChatGPT-User",
     "OAI-SearchBot",
+    "ClaudeBot",
+    "Claude-Web",
     "anthropic-ai",
     "Google-Extended",
+    "Applebot-Extended",
     "CCBot",
+    "Bytespider",
     "PerplexityBot",
-    "Omgilibot"
+    "Perplexity-User",
+    "cohere-ai",
+    "cohere-training-data-crawler",
+    "Diffbot",
+    "Omgilibot",
+    "Amazonbot",
+    "meta-externalagent",
+    "meta-externalfetcher",
+    "Timpibot",
+    "YouBot",
+    "ImagesiftBot",
+    "Ai2Bot",
+    "DuckAssistBot"
   ],
   "rules": {
     "*": {
@@ -65,6 +81,39 @@
       "total": 14,
       "total_allow": 0
     },
+    "Amazonbot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/uestudio/",
+        "/regalos-promociones/"
+      ],
+      "total": 1,
+      "total_allow": 2
+    },
+    "Applebot-Extended": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/uestudio/",
+        "/regalos-promociones/"
+      ],
+      "total": 1,
+      "total_allow": 2
+    },
+    "Bytespider": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/uestudio/",
+        "/regalos-promociones/"
+      ],
+      "total": 1,
+      "total_allow": 2
+    },
     "CCBot": {
       "disallow": [
         "/"
@@ -77,6 +126,39 @@
       "total_allow": 2
     },
     "ChatGPT-User": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/uestudio/",
+        "/regalos-promociones/"
+      ],
+      "total": 1,
+      "total_allow": 2
+    },
+    "ClaudeBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/uestudio/",
+        "/regalos-promociones/"
+      ],
+      "total": 1,
+      "total_allow": 2
+    },
+    "Diffbot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/uestudio/",
+        "/regalos-promociones/"
+      ],
+      "total": 1,
+      "total_allow": 2
+    },
+    "DuckAssistBot": {
       "disallow": [
         "/"
       ],
@@ -109,7 +191,29 @@
       "total": 1,
       "total_allow": 2
     },
+    "ImagesiftBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/uestudio/",
+        "/regalos-promociones/"
+      ],
+      "total": 1,
+      "total_allow": 2
+    },
     "OAI-SearchBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/uestudio/",
+        "/regalos-promociones/"
+      ],
+      "total": 1,
+      "total_allow": 2
+    },
+    "Perplexity-User": {
       "disallow": [
         "/"
       ],
@@ -131,7 +235,51 @@
       "total": 1,
       "total_allow": 2
     },
+    "Timpibot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/uestudio/",
+        "/regalos-promociones/"
+      ],
+      "total": 1,
+      "total_allow": 2
+    },
+    "YouBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/uestudio/",
+        "/regalos-promociones/"
+      ],
+      "total": 1,
+      "total_allow": 2
+    },
     "anthropic-ai": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/uestudio/",
+        "/regalos-promociones/"
+      ],
+      "total": 1,
+      "total_allow": 2
+    },
+    "cohere-ai": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/uestudio/",
+        "/regalos-promociones/"
+      ],
+      "total": 1,
+      "total_allow": 2
+    },
+    "cohere-training-data-crawler": {
       "disallow": [
         "/"
       ],

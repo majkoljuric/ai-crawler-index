@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-10-26T12:06:46+00:00",
+  "checked_at": "2026-11-02T14:34:05+00:00",
   "domain": "dailymail.co.uk",
   "category": "news",
   "robots_url": "https://dailymail.co.uk/robots.txt",
@@ -48,6 +48,7 @@
     "PerplexityBot",
     "Perplexity-User",
     "cohere-ai",
+    "cohere-training-data-crawler",
     "Diffbot",
     "Omgilibot",
     "Amazonbot",
@@ -60,34 +61,6 @@
     "DuckAssistBot"
   ],
   "rules": {
-    "*": {
-      "disallow": [
-        "/*readcommentshtml*",
-        "/*login?redirectPath=",
-        "/*logout?redirectPath=",
-        "/*nextThread.html",
-        "/*previousThread.html",
-        "/*questionId*",
-        "/*selectedImage*",
-        "/*threadIndex=*",
-        "/*topGallery*",
-        "/ce/item.cms*",
-        "/guide/*",
-        "/registration/*",
-        "/best-buys/clickout/*",
-        "/best-buys/m/clickout/*",
-        "/weather.html?latitude=*",
-        "/weather.html?old=*",
-        "/home/search.html*",
-        "/best-buys/mercury/out*",
-        "/api/infinite-list.html",
-        "/api/infinite-list.html",
-        "/mobileapps/*"
-      ],
-      "allow": [],
-      "total": 21,
-      "total_allow": 0
-    },
     "Amazonbot": {
       "disallow": [
         "/"
@@ -295,6 +268,17 @@
       "total_allow": 2
     },
     "cohere-ai": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [
+        "/*_.html",
+        "/llms.txt"
+      ],
+      "total": 1,
+      "total_allow": 2
+    },
+    "cohere-training-data-crawler": {
       "disallow": [
         "/"
       ],

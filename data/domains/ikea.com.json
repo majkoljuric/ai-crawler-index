@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-10-26T12:06:46+00:00",
+  "checked_at": "2026-11-02T14:34:05+00:00",
   "domain": "ikea.com",
   "category": "ecommerce",
   "robots_url": "https://ikea.com/robots.txt",
@@ -24,7 +24,7 @@
     "cohere-training-data-crawler": "partial",
     "Diffbot": "partial",
     "Omgilibot": "partial",
-    "Amazonbot": "partial",
+    "Amazonbot": "blocked",
     "meta-externalagent": "partial",
     "meta-externalfetcher": "partial",
     "Timpibot": "partial",
@@ -33,7 +33,9 @@
     "Ai2Bot": "partial",
     "DuckAssistBot": "partial"
   },
-  "named": [],
+  "named": [
+    "Amazonbot"
+  ],
   "rules": {
     "*": {
       "disallow": [
@@ -137,6 +139,14 @@
       ],
       "total": 92,
       "total_allow": 3
+    },
+    "Amazonbot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
     }
   }
 }

@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-10-26T12:06:46+00:00",
+  "checked_at": "2026-11-02T14:34:05+00:00",
   "domain": "vimeo.com",
   "category": "media",
   "robots_url": "https://vimeo.com/robots.txt",
@@ -85,6 +85,11 @@
         "/*/videos/",
         "/legal/~gitbook/",
         "/manage/showcase",
+        "/api/v3/me$",
+        "/api/v3/me/",
+        "/api/v3/me?",
+        "/api/v3/modworld",
+        "/api/v3/*/comments",
         "/*?_=",
         "/*?_hsenc=",
         "/*?_hsmi=",
@@ -672,7 +677,7 @@
         "/*/*?w=",
         "/*/*?ysclid="
       ],
-      "total": 325,
+      "total": 330,
       "total_allow": 296
     },
     "Bytespider": {

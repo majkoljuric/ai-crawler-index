@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-10-26T12:06:46+00:00",
+  "checked_at": "2026-11-02T14:34:05+00:00",
   "domain": "franceinfo.fr",
   "category": "other",
   "robots_url": "https://franceinfo.fr/robots.txt",
@@ -14,7 +14,7 @@
     "Claude-Web": "blocked",
     "anthropic-ai": "blocked",
     "Google-Extended": "blocked",
-    "GoogleOther": "partial",
+    "GoogleOther": "blocked",
     "Applebot-Extended": "blocked",
     "CCBot": "blocked",
     "Bytespider": "blocked",
@@ -41,6 +41,7 @@
     "Claude-Web",
     "anthropic-ai",
     "Google-Extended",
+    "GoogleOther",
     "Applebot-Extended",
     "CCBot",
     "Bytespider",
@@ -60,49 +61,6 @@
     "DuckAssistBot"
   ],
   "rules": {
-    "*": {
-      "disallow": [
-        "/*.json",
-        "/profile/",
-        "/mail/",
-        "/user/",
-        "/auth/",
-        "/esi-block/",
-        "/esi/www/taxonomy/",
-        "/cgu.html",
-        "/nous-contacter.html",
-        "/charte-deontologique.html",
-        "/webview/",
-        "/en-direct/message/",
-        "/live/message/",
-        "/live/iframe/",
-        "/elections/carto/map-embed?",
-        "/histogramme-us-elector-embed*.html",
-        "/preview-examens/",
-        "/*/recherche/?*",
-        "/*/widget_recherche.html",
-        "/*/*_resultat-eleve*.html",
-        "/*.html?callV1",
-        "/*.html?google_editors_picks=",
-        "/*.html?*twitter_impression=",
-        "/*.html?Echobox=",
-        "/*.html?fbclid=",
-        "/*.html?gclid=",
-        "/*.html?source=",
-        "/*.html?mobile-app=",
-        "/*.html?viewType=",
-        "/*.html?title=",
-        "/*.html?print=",
-        "/*.html?*format=",
-        "/*.html?noamp=",
-        "/*.html?tblci=",
-        "/*.html?fr=",
-        "/shuffle-app/"
-      ],
-      "allow": [],
-      "total": 36,
-      "total_allow": 0
-    },
     "Amazonbot": {
       "disallow": [
         "/"
@@ -184,6 +142,14 @@
       "total_allow": 0
     },
     "Google-Extended": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "GoogleOther": {
       "disallow": [
         "/"
       ],

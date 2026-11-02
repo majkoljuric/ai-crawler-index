@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-10-26T12:06:46+00:00",
+  "checked_at": "2026-11-02T14:34:05+00:00",
   "domain": "google.com",
   "category": "software",
   "robots_url": "https://google.com/robots.txt",
@@ -146,6 +146,7 @@
         "/phone/compare/?",
         "/travel/clk",
         "/travel/lodging/clk",
+        "/travel/lodging/imp",
         "/travel/entity",
         "/travel/search",
         "/travel/flights/booking",
@@ -273,7 +274,7 @@
         "/maps/reserve/partners",
         "/localservices/coupon/"
       ],
-      "total": 169,
+      "total": 170,
       "total_allow": 64
     }
   }

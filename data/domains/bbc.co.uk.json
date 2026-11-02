@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-10-26T12:06:46+00:00",
+  "checked_at": "2026-11-02T14:34:05+00:00",
   "domain": "bbc.co.uk",
   "category": "news",
   "robots_url": "https://bbc.co.uk/robots.txt",
@@ -31,7 +31,7 @@
     "YouBot": "blocked",
     "ImagesiftBot": "partial",
     "Ai2Bot": "partial",
-    "DuckAssistBot": "partial"
+    "DuckAssistBot": "blocked"
   },
   "named": [
     "GPTBot",
@@ -51,7 +51,8 @@
     "Omgilibot",
     "Amazonbot",
     "meta-externalagent",
-    "YouBot"
+    "YouBot",
+    "DuckAssistBot"
   ],
   "rules": {
     "*": {
@@ -175,6 +176,14 @@
       "total_allow": 0
     },
     "Diffbot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "DuckAssistBot": {
       "disallow": [
         "/"
       ],

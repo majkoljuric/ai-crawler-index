@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-10-26T12:06:46+00:00",
+  "checked_at": "2026-11-02T14:34:05+00:00",
   "bots_tracked": [
     "Ai2Bot",
     "Amazonbot",
@@ -37,7 +37,7 @@
       "robots_url": "https://google.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -73,7 +73,7 @@
       "robots_url": "https://facebook.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "blocked",
         "ChatGPT-User": "blocked",
@@ -116,7 +116,7 @@
       "robots_url": "https://microsoft.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -152,7 +152,7 @@
       "robots_url": "https://youtube.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -188,7 +188,7 @@
       "robots_url": "https://apple.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -224,7 +224,7 @@
       "robots_url": "https://instagram.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "blocked",
         "ChatGPT-User": "blocked",
@@ -267,33 +267,33 @@
       "robots_url": "https://mail.ru/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
-        "GPTBot": "partial",
-        "ChatGPT-User": "partial",
-        "OAI-SearchBot": "partial",
-        "ClaudeBot": "partial",
-        "Claude-Web": "partial",
-        "anthropic-ai": "partial",
-        "Google-Extended": "partial",
-        "GoogleOther": "partial",
-        "Applebot-Extended": "partial",
-        "CCBot": "partial",
-        "Bytespider": "partial",
-        "PerplexityBot": "partial",
-        "Perplexity-User": "partial",
-        "cohere-ai": "partial",
-        "cohere-training-data-crawler": "partial",
-        "Diffbot": "partial",
-        "Omgilibot": "partial",
-        "Amazonbot": "partial",
-        "meta-externalagent": "partial",
-        "meta-externalfetcher": "partial",
-        "Timpibot": "partial",
-        "YouBot": "partial",
-        "ImagesiftBot": "partial",
-        "Ai2Bot": "partial",
-        "DuckAssistBot": "partial"
+        "GPTBot": "allowed",
+        "ChatGPT-User": "allowed",
+        "OAI-SearchBot": "allowed",
+        "ClaudeBot": "allowed",
+        "Claude-Web": "allowed",
+        "anthropic-ai": "allowed",
+        "Google-Extended": "allowed",
+        "GoogleOther": "allowed",
+        "Applebot-Extended": "allowed",
+        "CCBot": "allowed",
+        "Bytespider": "allowed",
+        "PerplexityBot": "allowed",
+        "Perplexity-User": "allowed",
+        "cohere-ai": "allowed",
+        "cohere-training-data-crawler": "allowed",
+        "Diffbot": "allowed",
+        "Omgilibot": "allowed",
+        "Amazonbot": "allowed",
+        "meta-externalagent": "allowed",
+        "meta-externalfetcher": "allowed",
+        "Timpibot": "allowed",
+        "YouBot": "allowed",
+        "ImagesiftBot": "allowed",
+        "Ai2Bot": "allowed",
+        "DuckAssistBot": "allowed"
       },
       "named": []
     },
@@ -303,7 +303,7 @@
       "robots_url": "https://twitter.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "blocked",
         "ChatGPT-User": "blocked",
@@ -343,7 +343,7 @@
       "robots_url": "https://linkedin.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -379,7 +379,7 @@
       "robots_url": "https://office.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -415,7 +415,7 @@
       "robots_url": "https://azure.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -451,7 +451,7 @@
       "robots_url": "https://github.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -494,7 +494,7 @@
       "robots_url": "https://bing.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -530,7 +530,7 @@
       "robots_url": "https://wikipedia.org/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -566,7 +566,7 @@
       "robots_url": "https://netflix.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -609,7 +609,7 @@
       "robots_url": "https://wordpress.org/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "partial",
@@ -654,7 +654,7 @@
       "robots_url": "https://skype.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -690,7 +690,7 @@
       "robots_url": "https://icloud.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -726,7 +726,7 @@
       "robots_url": "https://tiktok.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "blocked",
         "ChatGPT-User": "blocked",
@@ -777,7 +777,7 @@
       "robots_url": "https://whatsapp.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "blocked",
         "ChatGPT-User": "partial",
@@ -820,7 +820,7 @@
       "robots_url": "https://pinterest.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "blocked",
         "ChatGPT-User": "blocked",
@@ -858,7 +858,7 @@
       "robots_url": "https://roblox.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -894,7 +894,7 @@
       "robots_url": "https://yahoo.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "blocked",
         "ChatGPT-User": "blocked",
@@ -946,7 +946,7 @@
       "robots_url": "https://spotify.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -982,7 +982,7 @@
       "robots_url": "https://adobe.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -1018,7 +1018,7 @@
       "robots_url": "https://msn.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "blocked",
         "ChatGPT-User": "blocked",
@@ -1080,7 +1080,7 @@
       "robots_url": "https://nginx.org/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -1116,7 +1116,7 @@
       "robots_url": "https://chatgpt.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -1160,7 +1160,7 @@
       "robots_url": "https://zoom.us/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -1196,7 +1196,7 @@
       "robots_url": "https://qq.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -1232,7 +1232,7 @@
       "robots_url": "https://baidu.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "blocked",
         "ChatGPT-User": "blocked",
@@ -1268,7 +1268,7 @@
       "robots_url": "https://vimeo.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -1315,7 +1315,7 @@
       "robots_url": "https://openai.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -1351,7 +1351,7 @@
       "robots_url": "https://opera.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -1387,7 +1387,7 @@
       "robots_url": "https://samsung.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -1429,7 +1429,7 @@
       "robots_url": "https://blogspot.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -1465,7 +1465,7 @@
       "robots_url": "https://nginx.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -1501,7 +1501,7 @@
       "robots_url": "https://sentry.io/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -1537,7 +1537,7 @@
       "robots_url": "https://mozilla.org/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -1573,7 +1573,7 @@
       "robots_url": "https://capgemini.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -1609,7 +1609,7 @@
       "robots_url": "https://ui.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -1655,7 +1655,7 @@
       "robots_url": "https://reddit.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "blocked",
         "ChatGPT-User": "blocked",
@@ -1691,7 +1691,7 @@
       "robots_url": "https://github.io/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -1727,7 +1727,7 @@
       "robots_url": "https://amazonvideo.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "blocked",
@@ -1780,7 +1780,7 @@
       "robots_url": "https://apache.org/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -1816,7 +1816,7 @@
       "robots_url": "https://snapchat.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "blocked",
         "ChatGPT-User": "partial",
@@ -1878,7 +1878,7 @@
       "robots_url": "https://kaspersky.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -1928,7 +1928,7 @@
       "robots_url": "https://dropbox.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -1964,7 +1964,7 @@
       "robots_url": "https://archive.org/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -2000,7 +2000,7 @@
       "robots_url": "https://nytimes.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "blocked",
         "ChatGPT-User": "blocked",
@@ -2059,7 +2059,7 @@
       "robots_url": "https://gravatar.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -2102,7 +2102,7 @@
       "robots_url": "https://tumblr.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -2149,7 +2149,7 @@
       "robots_url": "https://triplinkintl.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -2185,7 +2185,7 @@
       "robots_url": "https://discord.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -2221,7 +2221,7 @@
       "robots_url": "https://paypal.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -2257,7 +2257,7 @@
       "robots_url": "https://vk.ru/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -2293,7 +2293,7 @@
       "robots_url": "https://shopify.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -2329,7 +2329,7 @@
       "robots_url": "https://soundcloud.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -2381,7 +2381,7 @@
       "robots_url": "https://mts.ru/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -2417,7 +2417,7 @@
       "robots_url": "https://flickr.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "blocked",
         "ChatGPT-User": "partial",
@@ -2457,7 +2457,7 @@
       "robots_url": "https://w3.org/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -2491,10 +2491,36 @@
       "domain": "telekom.net",
       "category": "other",
       "robots_url": "https://telekom.net/robots.txt",
-      "http_status": null,
-      "fetch_error": "<urlopen error _ssl.c:993: The handshake operation timed out>",
-      "checked_at": "2026-10-26T12:06:46+00:00",
-      "bots": {},
+      "http_status": 200,
+      "fetch_error": null,
+      "checked_at": "2026-11-02T14:34:05+00:00",
+      "bots": {
+        "GPTBot": "allowed",
+        "ChatGPT-User": "allowed",
+        "OAI-SearchBot": "allowed",
+        "ClaudeBot": "allowed",
+        "Claude-Web": "allowed",
+        "anthropic-ai": "allowed",
+        "Google-Extended": "allowed",
+        "GoogleOther": "allowed",
+        "Applebot-Extended": "allowed",
+        "CCBot": "allowed",
+        "Bytespider": "allowed",
+        "PerplexityBot": "allowed",
+        "Perplexity-User": "allowed",
+        "cohere-ai": "allowed",
+        "cohere-training-data-crawler": "allowed",
+        "Diffbot": "allowed",
+        "Omgilibot": "allowed",
+        "Amazonbot": "allowed",
+        "meta-externalagent": "allowed",
+        "meta-externalfetcher": "allowed",
+        "Timpibot": "allowed",
+        "YouBot": "allowed",
+        "ImagesiftBot": "allowed",
+        "Ai2Bot": "allowed",
+        "DuckAssistBot": "allowed"
+      },
       "named": []
     },
     {
@@ -2503,7 +2529,7 @@
       "robots_url": "https://lencr.org/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -2539,7 +2565,7 @@
       "robots_url": "https://vungle.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -2575,7 +2601,7 @@
       "robots_url": "https://creativecommons.org/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -2611,7 +2637,7 @@
       "robots_url": "https://theguardian.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -2658,7 +2684,7 @@
       "robots_url": "https://t-online.de/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -2703,7 +2729,7 @@
       "robots_url": "https://miui.com/robots.txt",
       "http_status": 404,
       "fetch_error": "HTTPError 404",
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {},
       "named": []
     },
@@ -2713,7 +2739,7 @@
       "robots_url": "https://doi.org/robots.txt",
       "http_status": 404,
       "fetch_error": "HTTPError 404",
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {},
       "named": []
     },
@@ -2723,7 +2749,7 @@
       "robots_url": "https://pages.dev/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -2759,50 +2785,35 @@
       "robots_url": "https://forbes.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
-        "GPTBot": "blocked",
-        "ChatGPT-User": "partial",
+        "GPTBot": "allowed",
+        "ChatGPT-User": "allowed",
         "OAI-SearchBot": "allowed",
-        "ClaudeBot": "blocked",
-        "Claude-Web": "partial",
-        "anthropic-ai": "blocked",
-        "Google-Extended": "partial",
-        "GoogleOther": "partial",
-        "Applebot-Extended": "blocked",
-        "CCBot": "blocked",
-        "Bytespider": "blocked",
-        "PerplexityBot": "blocked",
-        "Perplexity-User": "partial",
-        "cohere-ai": "blocked",
-        "cohere-training-data-crawler": "partial",
-        "Diffbot": "blocked",
-        "Omgilibot": "blocked",
-        "Amazonbot": "blocked",
-        "meta-externalagent": "blocked",
-        "meta-externalfetcher": "partial",
-        "Timpibot": "partial",
-        "YouBot": "partial",
-        "ImagesiftBot": "blocked",
-        "Ai2Bot": "partial",
-        "DuckAssistBot": "partial"
+        "ClaudeBot": "allowed",
+        "Claude-Web": "allowed",
+        "anthropic-ai": "allowed",
+        "Google-Extended": "allowed",
+        "GoogleOther": "allowed",
+        "Applebot-Extended": "allowed",
+        "CCBot": "allowed",
+        "Bytespider": "allowed",
+        "PerplexityBot": "allowed",
+        "Perplexity-User": "allowed",
+        "cohere-ai": "allowed",
+        "cohere-training-data-crawler": "allowed",
+        "Diffbot": "allowed",
+        "Omgilibot": "allowed",
+        "Amazonbot": "allowed",
+        "meta-externalagent": "allowed",
+        "meta-externalfetcher": "allowed",
+        "Timpibot": "allowed",
+        "YouBot": "allowed",
+        "ImagesiftBot": "allowed",
+        "Ai2Bot": "allowed",
+        "DuckAssistBot": "allowed"
       },
-      "named": [
-        "GPTBot",
-        "OAI-SearchBot",
-        "ClaudeBot",
-        "anthropic-ai",
-        "Applebot-Extended",
-        "CCBot",
-        "Bytespider",
-        "PerplexityBot",
-        "cohere-ai",
-        "Diffbot",
-        "Omgilibot",
-        "Amazonbot",
-        "meta-externalagent",
-        "ImagesiftBot"
-      ]
+      "named": []
     },
     {
       "domain": "bbc.com",
@@ -2810,7 +2821,7 @@
       "robots_url": "https://bbc.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -2836,7 +2847,7 @@
         "YouBot": "blocked",
         "ImagesiftBot": "partial",
         "Ai2Bot": "partial",
-        "DuckAssistBot": "partial"
+        "DuckAssistBot": "blocked"
       },
       "named": [
         "GPTBot",
@@ -2856,7 +2867,8 @@
         "Omgilibot",
         "Amazonbot",
         "meta-externalagent",
-        "YouBot"
+        "YouBot",
+        "DuckAssistBot"
       ]
     },
     {
@@ -2865,7 +2877,7 @@
       "robots_url": "https://ack.de/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -2901,7 +2913,7 @@
       "robots_url": "https://mit.edu/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -2937,7 +2949,7 @@
       "robots_url": "https://gmail.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -2973,7 +2985,7 @@
       "robots_url": "https://twitch.tv/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -3011,7 +3023,7 @@
       "robots_url": "https://pki.goog/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -3047,7 +3059,7 @@
       "robots_url": "https://nist.gov/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -3083,7 +3095,7 @@
       "robots_url": "https://bbc.co.uk/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "blocked",
         "ChatGPT-User": "blocked",
@@ -3109,7 +3121,7 @@
         "YouBot": "blocked",
         "ImagesiftBot": "partial",
         "Ai2Bot": "partial",
-        "DuckAssistBot": "partial"
+        "DuckAssistBot": "blocked"
       },
       "named": [
         "GPTBot",
@@ -3129,7 +3141,8 @@
         "Omgilibot",
         "Amazonbot",
         "meta-externalagent",
-        "YouBot"
+        "YouBot",
+        "DuckAssistBot"
       ]
     },
     {
@@ -3138,7 +3151,7 @@
       "robots_url": "https://cpanel.net/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -3174,7 +3187,7 @@
       "robots_url": "https://ubuntu.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -3224,7 +3237,7 @@
       "robots_url": "https://stripe.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -3260,7 +3273,7 @@
       "robots_url": "https://sourceforge.net/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -3296,7 +3309,7 @@
       "robots_url": "https://canva.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -3347,7 +3360,7 @@
       "robots_url": "https://android.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -3395,7 +3408,7 @@
       "robots_url": "https://telegram.org/robots.txt",
       "http_status": 404,
       "fetch_error": "HTTPError 404",
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {},
       "named": []
     },
@@ -3405,7 +3418,7 @@
       "robots_url": "https://meraki.com/robots.txt",
       "http_status": 401,
       "fetch_error": "HTTPError 401",
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {},
       "named": []
     },
@@ -3415,7 +3428,7 @@
       "robots_url": "https://roku.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -3451,7 +3464,7 @@
       "robots_url": "https://hubspot.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -3487,7 +3500,7 @@
       "robots_url": "https://wikimedia.org/robots.txt",
       "http_status": 404,
       "fetch_error": "HTTPError 404",
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {},
       "named": []
     },
@@ -3497,7 +3510,7 @@
       "robots_url": "https://hcaptcha.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -3533,7 +3546,7 @@
       "robots_url": "https://who.int/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -3571,7 +3584,7 @@
       "robots_url": "https://launchpad.net/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "blocked",
         "ChatGPT-User": "partial",
@@ -3628,7 +3641,7 @@
       "robots_url": "https://linktr.ee/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -3678,7 +3691,7 @@
       "robots_url": "https://ibm.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -3714,7 +3727,7 @@
       "robots_url": "https://forter.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -3768,7 +3781,7 @@
       "robots_url": "https://springer.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -3804,7 +3817,7 @@
       "robots_url": "https://amplitude.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -3855,35 +3868,54 @@
       "robots_url": "https://nature.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
-        "GPTBot": "allowed",
-        "ChatGPT-User": "allowed",
-        "OAI-SearchBot": "allowed",
-        "ClaudeBot": "allowed",
-        "Claude-Web": "allowed",
-        "anthropic-ai": "allowed",
-        "Google-Extended": "allowed",
-        "GoogleOther": "allowed",
-        "Applebot-Extended": "allowed",
-        "CCBot": "allowed",
-        "Bytespider": "allowed",
-        "PerplexityBot": "allowed",
-        "Perplexity-User": "allowed",
-        "cohere-ai": "allowed",
-        "cohere-training-data-crawler": "allowed",
-        "Diffbot": "allowed",
-        "Omgilibot": "allowed",
-        "Amazonbot": "allowed",
-        "meta-externalagent": "allowed",
-        "meta-externalfetcher": "allowed",
-        "Timpibot": "allowed",
-        "YouBot": "allowed",
-        "ImagesiftBot": "allowed",
-        "Ai2Bot": "allowed",
-        "DuckAssistBot": "allowed"
+        "GPTBot": "blocked",
+        "ChatGPT-User": "blocked",
+        "OAI-SearchBot": "partial",
+        "ClaudeBot": "blocked",
+        "Claude-Web": "blocked",
+        "anthropic-ai": "blocked",
+        "Google-Extended": "blocked",
+        "GoogleOther": "blocked",
+        "Applebot-Extended": "blocked",
+        "CCBot": "blocked",
+        "Bytespider": "blocked",
+        "PerplexityBot": "blocked",
+        "Perplexity-User": "partial",
+        "cohere-ai": "blocked",
+        "cohere-training-data-crawler": "partial",
+        "Diffbot": "blocked",
+        "Omgilibot": "blocked",
+        "Amazonbot": "blocked",
+        "meta-externalagent": "blocked",
+        "meta-externalfetcher": "partial",
+        "Timpibot": "partial",
+        "YouBot": "blocked",
+        "ImagesiftBot": "blocked",
+        "Ai2Bot": "partial",
+        "DuckAssistBot": "partial"
       },
-      "named": []
+      "named": [
+        "GPTBot",
+        "ChatGPT-User",
+        "ClaudeBot",
+        "Claude-Web",
+        "anthropic-ai",
+        "Google-Extended",
+        "GoogleOther",
+        "Applebot-Extended",
+        "CCBot",
+        "Bytespider",
+        "PerplexityBot",
+        "cohere-ai",
+        "Diffbot",
+        "Omgilibot",
+        "Amazonbot",
+        "meta-externalagent",
+        "YouBot",
+        "ImagesiftBot"
+      ]
     },
     {
       "domain": "mozilla.com",
@@ -3891,7 +3923,7 @@
       "robots_url": "https://mozilla.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -3925,9 +3957,9 @@
       "domain": "crpt.ru",
       "category": "software",
       "robots_url": "https://crpt.ru/robots.txt",
-      "http_status": 200,
-      "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "http_status": null,
+      "fetch_error": "The read operation timed out",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {},
       "named": []
     },
@@ -3937,7 +3969,7 @@
       "robots_url": "https://drom.ru/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -3973,7 +4005,7 @@
       "robots_url": "https://hp.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -4017,7 +4049,7 @@
       "robots_url": "https://weibo.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -4059,7 +4091,7 @@
       "robots_url": "https://www.gov.uk/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -4097,7 +4129,7 @@
       "robots_url": "https://inmobi.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -4133,7 +4165,7 @@
       "robots_url": "https://steampowered.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -4169,7 +4201,7 @@
       "robots_url": "https://harvard.edu/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -4205,7 +4237,7 @@
       "robots_url": "https://debian.org/robots.txt",
       "http_status": 404,
       "fetch_error": "HTTPError 404",
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {},
       "named": []
     },
@@ -4215,7 +4247,7 @@
       "robots_url": "https://alibaba.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "blocked",
         "ChatGPT-User": "partial",
@@ -4252,47 +4284,11 @@
       "domain": "weather.com",
       "category": "other",
       "robots_url": "https://weather.com/robots.txt",
-      "http_status": 200,
-      "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
-      "bots": {
-        "GPTBot": "partial",
-        "ChatGPT-User": "allowed",
-        "OAI-SearchBot": "partial",
-        "ClaudeBot": "partial",
-        "Claude-Web": "partial",
-        "anthropic-ai": "partial",
-        "Google-Extended": "partial",
-        "GoogleOther": "blocked",
-        "Applebot-Extended": "partial",
-        "CCBot": "blocked",
-        "Bytespider": "blocked",
-        "PerplexityBot": "partial",
-        "Perplexity-User": "partial",
-        "cohere-ai": "partial",
-        "cohere-training-data-crawler": "partial",
-        "Diffbot": "blocked",
-        "Omgilibot": "blocked",
-        "Amazonbot": "blocked",
-        "meta-externalagent": "partial",
-        "meta-externalfetcher": "partial",
-        "Timpibot": "partial",
-        "YouBot": "blocked",
-        "ImagesiftBot": "blocked",
-        "Ai2Bot": "partial",
-        "DuckAssistBot": "partial"
-      },
-      "named": [
-        "ChatGPT-User",
-        "GoogleOther",
-        "CCBot",
-        "Bytespider",
-        "Diffbot",
-        "Omgilibot",
-        "Amazonbot",
-        "YouBot",
-        "ImagesiftBot"
-      ]
+      "http_status": 403,
+      "fetch_error": "HTTPError 403",
+      "checked_at": "2026-11-02T14:34:05+00:00",
+      "bots": {},
+      "named": []
     },
     {
       "domain": "ea.com",
@@ -4300,7 +4296,7 @@
       "robots_url": "https://ea.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -4342,7 +4338,7 @@
       "robots_url": "https://avast.com/robots.txt",
       "http_status": 403,
       "fetch_error": "HTTPError 403",
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {},
       "named": []
     },
@@ -4352,7 +4348,7 @@
       "robots_url": "https://samsungcloud.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -4388,7 +4384,7 @@
       "robots_url": "https://datadoghq.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -4424,7 +4420,7 @@
       "robots_url": "https://wiley.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -4460,7 +4456,7 @@
       "robots_url": "https://salesforce.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -4496,7 +4492,7 @@
       "robots_url": "https://php.net/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -4532,7 +4528,7 @@
       "robots_url": "https://aliyun.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -4566,36 +4562,10 @@
       "domain": "googleblog.com",
       "category": "publishing",
       "robots_url": "https://googleblog.com/robots.txt",
-      "http_status": 200,
-      "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
-      "bots": {
-        "GPTBot": "allowed",
-        "ChatGPT-User": "allowed",
-        "OAI-SearchBot": "allowed",
-        "ClaudeBot": "allowed",
-        "Claude-Web": "allowed",
-        "anthropic-ai": "allowed",
-        "Google-Extended": "allowed",
-        "GoogleOther": "allowed",
-        "Applebot-Extended": "allowed",
-        "CCBot": "allowed",
-        "Bytespider": "allowed",
-        "PerplexityBot": "allowed",
-        "Perplexity-User": "allowed",
-        "cohere-ai": "allowed",
-        "cohere-training-data-crawler": "allowed",
-        "Diffbot": "allowed",
-        "Omgilibot": "allowed",
-        "Amazonbot": "allowed",
-        "meta-externalagent": "allowed",
-        "meta-externalfetcher": "allowed",
-        "Timpibot": "allowed",
-        "YouBot": "allowed",
-        "ImagesiftBot": "allowed",
-        "Ai2Bot": "allowed",
-        "DuckAssistBot": "allowed"
-      },
+      "http_status": 404,
+      "fetch_error": "HTTPError 404",
+      "checked_at": "2026-11-02T14:34:05+00:00",
+      "bots": {},
       "named": []
     },
     {
@@ -4604,7 +4574,7 @@
       "robots_url": "https://hostinger.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -4654,7 +4624,7 @@
       "robots_url": "https://name.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -4690,36 +4660,10 @@
       "domain": "gnu.org",
       "category": "nonprofit",
       "robots_url": "https://gnu.org/robots.txt",
-      "http_status": 200,
-      "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
-      "bots": {
-        "GPTBot": "partial",
-        "ChatGPT-User": "partial",
-        "OAI-SearchBot": "partial",
-        "ClaudeBot": "partial",
-        "Claude-Web": "partial",
-        "anthropic-ai": "partial",
-        "Google-Extended": "partial",
-        "GoogleOther": "partial",
-        "Applebot-Extended": "partial",
-        "CCBot": "partial",
-        "Bytespider": "partial",
-        "PerplexityBot": "partial",
-        "Perplexity-User": "partial",
-        "cohere-ai": "partial",
-        "cohere-training-data-crawler": "partial",
-        "Diffbot": "partial",
-        "Omgilibot": "partial",
-        "Amazonbot": "partial",
-        "meta-externalagent": "partial",
-        "meta-externalfetcher": "partial",
-        "Timpibot": "partial",
-        "YouBot": "partial",
-        "ImagesiftBot": "partial",
-        "Ai2Bot": "partial",
-        "DuckAssistBot": "partial"
-      },
+      "http_status": null,
+      "fetch_error": "<urlopen error [Errno 101] Network is unreachable>",
+      "checked_at": "2026-11-02T14:34:05+00:00",
+      "bots": {},
       "named": []
     },
     {
@@ -4728,7 +4672,7 @@
       "robots_url": "https://dell.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -4766,7 +4710,7 @@
       "robots_url": "https://smartadserver.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -4802,7 +4746,7 @@
       "robots_url": "https://bilibili.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -4838,7 +4782,7 @@
       "robots_url": "https://doubleverify.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -4874,7 +4818,7 @@
       "robots_url": "https://naver.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -4910,7 +4854,7 @@
       "robots_url": "https://checkpoint.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -4956,7 +4900,7 @@
       "robots_url": "https://cdc.gov/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -4992,7 +4936,7 @@
       "robots_url": "https://slack.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -5028,7 +4972,7 @@
       "robots_url": "https://weebly.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -5064,7 +5008,7 @@
       "robots_url": "https://launchdarkly.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -5100,7 +5044,7 @@
       "robots_url": "https://tradingview.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -5150,7 +5094,7 @@
       "robots_url": "https://media.net/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -5186,7 +5130,7 @@
       "robots_url": "https://issuu.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -5222,7 +5166,7 @@
       "robots_url": "https://nvidia.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -5258,7 +5202,7 @@
       "robots_url": "https://selectel.ru/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -5294,7 +5238,7 @@
       "robots_url": "https://stanford.edu/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -5330,7 +5274,7 @@
       "robots_url": "https://calendly.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -5368,7 +5312,7 @@
       "robots_url": "https://zendesk.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -5404,7 +5348,7 @@
       "robots_url": "https://live-video.net/robots.txt",
       "http_status": 403,
       "fetch_error": "HTTPError 403",
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {},
       "named": []
     },
@@ -5414,7 +5358,7 @@
       "robots_url": "https://ip-api.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -5450,7 +5394,7 @@
       "robots_url": "https://plesk.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -5486,7 +5430,7 @@
       "robots_url": "https://quickconnect.to/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -5522,7 +5466,7 @@
       "robots_url": "https://amazontrust.com/robots.txt",
       "http_status": null,
       "fetch_error": "The read operation timed out",
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {},
       "named": []
     },
@@ -5532,7 +5476,7 @@
       "robots_url": "https://newrelic.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -5568,7 +5512,7 @@
       "robots_url": "https://tp-link.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -5604,7 +5548,7 @@
       "robots_url": "https://gitlab.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -5640,7 +5584,7 @@
       "robots_url": "https://yandex.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -5676,7 +5620,7 @@
       "robots_url": "https://bsky.app/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -5712,7 +5656,7 @@
       "robots_url": "https://paloaltonetworks.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -5752,7 +5696,7 @@
       "robots_url": "https://vivoglobal.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -5788,7 +5732,7 @@
       "robots_url": "https://onelink.me/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -5824,7 +5768,7 @@
       "robots_url": "https://aliexpress.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "blocked",
         "ChatGPT-User": "partial",
@@ -5867,7 +5811,7 @@
       "robots_url": "https://netangels.ru/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -5903,7 +5847,7 @@
       "robots_url": "https://163.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -5939,7 +5883,7 @@
       "robots_url": "https://nasa.gov/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -5975,7 +5919,7 @@
       "robots_url": "https://ipify.org/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -6011,7 +5955,7 @@
       "robots_url": "https://globo.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -6047,7 +5991,7 @@
       "robots_url": "https://espn.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "blocked",
         "ChatGPT-User": "blocked",
@@ -6091,7 +6035,7 @@
       "robots_url": "https://line.me/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -6127,7 +6071,7 @@
       "robots_url": "https://brave.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -6163,7 +6107,7 @@
       "robots_url": "https://amazonalexa.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -6199,7 +6143,7 @@
       "robots_url": "https://dailymotion.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -6235,7 +6179,7 @@
       "robots_url": "https://steamcommunity.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -6269,10 +6213,36 @@
       "domain": "expireddomains.com",
       "category": "other",
       "robots_url": "https://expireddomains.com/robots.txt",
-      "http_status": 404,
-      "fetch_error": "HTTPError 404",
-      "checked_at": "2026-10-26T12:06:46+00:00",
-      "bots": {},
+      "http_status": 200,
+      "fetch_error": null,
+      "checked_at": "2026-11-02T14:34:05+00:00",
+      "bots": {
+        "GPTBot": "partial",
+        "ChatGPT-User": "partial",
+        "OAI-SearchBot": "partial",
+        "ClaudeBot": "partial",
+        "Claude-Web": "partial",
+        "anthropic-ai": "partial",
+        "Google-Extended": "partial",
+        "GoogleOther": "partial",
+        "Applebot-Extended": "partial",
+        "CCBot": "partial",
+        "Bytespider": "partial",
+        "PerplexityBot": "partial",
+        "Perplexity-User": "partial",
+        "cohere-ai": "partial",
+        "cohere-training-data-crawler": "partial",
+        "Diffbot": "partial",
+        "Omgilibot": "partial",
+        "Amazonbot": "partial",
+        "meta-externalagent": "partial",
+        "meta-externalfetcher": "partial",
+        "Timpibot": "partial",
+        "YouBot": "partial",
+        "ImagesiftBot": "partial",
+        "Ai2Bot": "partial",
+        "DuckAssistBot": "partial"
+      },
       "named": []
     },
     {
@@ -6281,7 +6251,7 @@
       "robots_url": "https://temu.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -6325,7 +6295,7 @@
       "robots_url": "https://supercell.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -6361,7 +6331,7 @@
       "robots_url": "https://taobao.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -6397,7 +6367,7 @@
       "robots_url": "https://goodreads.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "blocked",
         "ChatGPT-User": "partial",
@@ -6436,7 +6406,7 @@
       "robots_url": "https://dropcatch.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -6472,7 +6442,7 @@
       "robots_url": "https://substack.com/robots.txt",
       "http_status": 403,
       "fetch_error": "HTTPError 403",
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {},
       "named": []
     },
@@ -6482,7 +6452,7 @@
       "robots_url": "https://businessinsider.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -6525,7 +6495,7 @@
       "robots_url": "https://ipinfo.io/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -6561,7 +6531,7 @@
       "robots_url": "https://sina.com.cn/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -6597,7 +6567,7 @@
       "robots_url": "https://wp.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -6633,7 +6603,7 @@
       "robots_url": "https://pixabay.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "blocked",
         "ChatGPT-User": "partial",
@@ -6676,7 +6646,7 @@
       "robots_url": "https://go.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "blocked",
         "ChatGPT-User": "partial",
@@ -6715,7 +6685,7 @@
       "robots_url": "https://g.page/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -6751,7 +6721,7 @@
       "robots_url": "https://sohu.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -6807,7 +6777,7 @@
       "robots_url": "https://speedtest.net/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -6843,7 +6813,7 @@
       "robots_url": "https://mikrotik.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -6879,7 +6849,7 @@
       "robots_url": "https://cnbc.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -6919,6 +6889,7 @@
         "CCBot",
         "Bytespider",
         "PerplexityBot",
+        "Perplexity-User",
         "cohere-ai",
         "Diffbot",
         "Omgilibot",
@@ -6932,7 +6903,7 @@
       "robots_url": "https://duolingo.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -6968,7 +6939,7 @@
       "robots_url": "https://arxiv.org/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -7004,7 +6975,7 @@
       "robots_url": "https://statista.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -7064,7 +7035,7 @@
       "robots_url": "https://adriver.ru/robots.txt",
       "http_status": 404,
       "fetch_error": "HTTPError 404",
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {},
       "named": []
     },
@@ -7074,7 +7045,7 @@
       "robots_url": "https://oxylabs.io/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -7126,7 +7097,7 @@
       "robots_url": "https://ietf.org/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -7162,7 +7133,7 @@
       "robots_url": "https://addtoany.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -7198,7 +7169,7 @@
       "robots_url": "https://aol.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "blocked",
         "ChatGPT-User": "partial",
@@ -7249,7 +7220,7 @@
       "robots_url": "https://docker.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -7285,7 +7256,7 @@
       "robots_url": "https://quora.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "blocked",
         "ChatGPT-User": "blocked",
@@ -7333,7 +7304,7 @@
       "robots_url": "https://scribd.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -7369,7 +7340,7 @@
       "robots_url": "https://ivi.ru/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -7405,7 +7376,7 @@
       "robots_url": "https://att.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -7441,7 +7412,7 @@
       "robots_url": "https://mediatek.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -7477,7 +7448,7 @@
       "robots_url": "https://atlassian.net/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -7513,7 +7484,7 @@
       "robots_url": "https://eventbrite.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -7551,7 +7522,7 @@
       "robots_url": "https://shein.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -7587,7 +7558,7 @@
       "robots_url": "https://ampproject.org/robots.txt",
       "http_status": 404,
       "fetch_error": "HTTPError 404",
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {},
       "named": []
     },
@@ -7597,7 +7568,7 @@
       "robots_url": "https://mysql.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -7633,7 +7604,7 @@
       "robots_url": "https://okta.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -7669,7 +7640,7 @@
       "robots_url": "https://dynatrace.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -7705,7 +7676,7 @@
       "robots_url": "https://behance.net/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "blocked",
         "ChatGPT-User": "partial",
@@ -7757,7 +7728,7 @@
       "robots_url": "https://foxnews.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -7793,7 +7764,7 @@
       "robots_url": "https://indiatimes.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -7831,7 +7802,7 @@
       "robots_url": "https://gosuslugi.ru/robots.txt",
       "http_status": null,
       "fetch_error": "<urlopen error timed out>",
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {},
       "named": []
     },
@@ -7841,7 +7812,7 @@
       "robots_url": "https://duckduckgo.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -7877,7 +7848,7 @@
       "robots_url": "https://squarespace.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -7930,7 +7901,7 @@
       "robots_url": "https://trendmicro.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -7980,7 +7951,7 @@
       "robots_url": "https://slideshare.net/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -8016,7 +7987,7 @@
       "robots_url": "https://fandom.com/robots.txt",
       "http_status": 403,
       "fetch_error": "HTTPError 403",
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {},
       "named": []
     },
@@ -8026,7 +7997,7 @@
       "robots_url": "https://tplinkcloud.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -8062,7 +8033,7 @@
       "robots_url": "https://capcut.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -8110,7 +8081,7 @@
       "robots_url": "https://visualstudio.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -8146,7 +8117,7 @@
       "robots_url": "https://patreon.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -8185,7 +8156,7 @@
       "robots_url": "https://wired.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -8239,7 +8210,7 @@
       "robots_url": "https://jquery.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -8275,7 +8246,7 @@
       "robots_url": "https://oup.com/robots.txt",
       "http_status": 202,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {},
       "named": []
     },
@@ -8285,7 +8256,7 @@
       "robots_url": "https://palmplaystore.com/robots.txt",
       "http_status": 404,
       "fetch_error": "HTTPError 404",
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {},
       "named": []
     },
@@ -8295,7 +8266,7 @@
       "robots_url": "https://fast.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -8331,7 +8302,7 @@
       "robots_url": "https://share.google/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -8367,7 +8338,7 @@
       "robots_url": "https://time.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -8403,7 +8374,7 @@
       "robots_url": "https://360yield.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -8439,7 +8410,7 @@
       "robots_url": "https://uol.com.br/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -8497,7 +8468,7 @@
       "robots_url": "https://cornell.edu/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -8533,7 +8504,7 @@
       "robots_url": "https://deviantart.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -8569,7 +8540,7 @@
       "robots_url": "https://pushy.io/robots.txt",
       "http_status": 404,
       "fetch_error": "HTTPError 404",
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {},
       "named": []
     },
@@ -8579,7 +8550,7 @@
       "robots_url": "https://eset.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -8615,7 +8586,7 @@
       "robots_url": "https://grammarly.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -8651,7 +8622,7 @@
       "robots_url": "https://rakuten.co.jp/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -8687,7 +8658,7 @@
       "robots_url": "https://usatoday.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -8749,7 +8720,7 @@
       "robots_url": "https://aboutads.info/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -8785,7 +8756,7 @@
       "robots_url": "https://teamviewer.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -8821,7 +8792,7 @@
       "robots_url": "https://target.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -8857,7 +8828,7 @@
       "robots_url": "https://dreamhost.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -8893,7 +8864,7 @@
       "robots_url": "https://3lift.com/robots.txt",
       "http_status": 403,
       "fetch_error": "HTTPError 403",
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {},
       "named": []
     },
@@ -8903,7 +8874,7 @@
       "robots_url": "https://berkeley.edu/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -8939,7 +8910,7 @@
       "robots_url": "https://hotjar.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -8975,7 +8946,7 @@
       "robots_url": "https://ca.gov/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -9011,7 +8982,7 @@
       "robots_url": "https://klaviyo.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -9057,7 +9028,7 @@
       "robots_url": "https://shop.app/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -9093,7 +9064,7 @@
       "robots_url": "https://digitalocean.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -9129,7 +9100,7 @@
       "robots_url": "https://avito.ru/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -9165,7 +9136,7 @@
       "robots_url": "https://playstation.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -9201,7 +9172,7 @@
       "robots_url": "https://braze.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -9237,7 +9208,7 @@
       "robots_url": "https://cdnvideo.ru/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -9273,7 +9244,7 @@
       "robots_url": "https://bitrix24.ru/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -9317,7 +9288,7 @@
       "robots_url": "https://threads.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "blocked",
         "ChatGPT-User": "blocked",
@@ -9360,7 +9331,7 @@
       "robots_url": "https://wix.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -9396,7 +9367,7 @@
       "robots_url": "https://anthropic.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -9432,7 +9403,7 @@
       "robots_url": "https://free.fr/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -9468,7 +9439,7 @@
       "robots_url": "https://2gis.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -9506,7 +9477,7 @@
       "robots_url": "https://sharethrough.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "blocked",
         "ChatGPT-User": "blocked",
@@ -9557,7 +9528,7 @@
       "robots_url": "https://ikea.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -9576,7 +9547,7 @@
         "cohere-training-data-crawler": "partial",
         "Diffbot": "partial",
         "Omgilibot": "partial",
-        "Amazonbot": "partial",
+        "Amazonbot": "blocked",
         "meta-externalagent": "partial",
         "meta-externalfetcher": "partial",
         "Timpibot": "partial",
@@ -9585,7 +9556,9 @@
         "Ai2Bot": "partial",
         "DuckAssistBot": "partial"
       },
-      "named": []
+      "named": [
+        "Amazonbot"
+      ]
     },
     {
       "domain": "jotform.com",
@@ -9593,7 +9566,7 @@
       "robots_url": "https://jotform.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "partial",
@@ -9643,7 +9616,7 @@
       "robots_url": "https://nintendo.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -9694,7 +9667,7 @@
       "robots_url": "https://sagepub.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -9745,7 +9718,7 @@
       "robots_url": "https://uk.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {},
       "named": []
     },
@@ -9755,7 +9728,7 @@
       "robots_url": "https://shopee.com.br/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -9791,7 +9764,7 @@
       "robots_url": "https://surveymonkey.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -9827,7 +9800,7 @@
       "robots_url": "https://mega.co.nz/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {},
       "named": []
     },
@@ -9837,7 +9810,7 @@
       "robots_url": "https://techcrunch.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "blocked",
         "ChatGPT-User": "blocked",
@@ -9885,7 +9858,7 @@
       "robots_url": "https://nike.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -9921,7 +9894,7 @@
       "robots_url": "https://redhat.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -9957,7 +9930,7 @@
       "robots_url": "https://allegro.pl/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -9995,7 +9968,7 @@
       "robots_url": "https://webempresa.eu/robots.txt",
       "http_status": 404,
       "fetch_error": "HTTPError 404",
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {},
       "named": []
     },
@@ -10005,7 +9978,7 @@
       "robots_url": "https://elpais.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -10050,7 +10023,7 @@
       "robots_url": "https://imgur.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -10086,7 +10059,7 @@
       "robots_url": "https://vercel.app/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -10122,7 +10095,7 @@
       "robots_url": "https://dailymail.co.uk/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -10165,6 +10138,7 @@
         "PerplexityBot",
         "Perplexity-User",
         "cohere-ai",
+        "cohere-training-data-crawler",
         "Diffbot",
         "Omgilibot",
         "Amazonbot",
@@ -10183,7 +10157,7 @@
       "robots_url": "https://stackadapt.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -10219,7 +10193,7 @@
       "robots_url": "https://intercom.io/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -10255,7 +10229,7 @@
       "robots_url": "https://openstreetmap.org/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -10291,7 +10265,7 @@
       "robots_url": "https://viber.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -10327,7 +10301,7 @@
       "robots_url": "https://anydesk.com/robots.txt",
       "http_status": 403,
       "fetch_error": "HTTPError 403",
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {},
       "named": []
     },
@@ -10337,7 +10311,7 @@
       "robots_url": "https://verisign.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -10373,7 +10347,7 @@
       "robots_url": "https://perplexity.ai/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -10409,7 +10383,7 @@
       "robots_url": "https://hihonorcloud.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "blocked",
         "ChatGPT-User": "blocked",
@@ -10445,7 +10419,7 @@
       "robots_url": "https://fontawesome.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -10481,7 +10455,7 @@
       "robots_url": "https://optimizely.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -10517,7 +10491,7 @@
       "robots_url": "https://360.cn/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -10553,7 +10527,7 @@
       "robots_url": "https://cbsnews.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "blocked",
         "ChatGPT-User": "partial",
@@ -10591,7 +10565,7 @@
       "robots_url": "https://hostgator.com.br/robots.txt",
       "http_status": 403,
       "fetch_error": "HTTPError 403",
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {},
       "named": []
     },
@@ -10601,7 +10575,7 @@
       "robots_url": "https://consultant.ru/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -10637,7 +10611,7 @@
       "robots_url": "https://lemonde.fr/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -10691,7 +10665,7 @@
       "robots_url": "https://seznam.cz/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -10727,7 +10701,7 @@
       "robots_url": "https://wps.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -10763,7 +10737,7 @@
       "robots_url": "https://spiegel.de/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "blocked",
         "ChatGPT-User": "partial",
@@ -10818,7 +10792,7 @@
       "robots_url": "https://id5-sync.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -10854,7 +10828,7 @@
       "robots_url": "https://cnet.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -10914,7 +10888,7 @@
       "robots_url": "https://wp.pl/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "blocked",
         "ChatGPT-User": "allowed",
@@ -10957,27 +10931,27 @@
       "robots_url": "https://kick.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
-        "GPTBot": "partial",
+        "GPTBot": "blocked",
         "ChatGPT-User": "partial",
         "OAI-SearchBot": "partial",
-        "ClaudeBot": "partial",
-        "Claude-Web": "partial",
-        "anthropic-ai": "partial",
-        "Google-Extended": "partial",
-        "GoogleOther": "partial",
-        "Applebot-Extended": "partial",
-        "CCBot": "partial",
-        "Bytespider": "partial",
+        "ClaudeBot": "blocked",
+        "Claude-Web": "blocked",
+        "anthropic-ai": "blocked",
+        "Google-Extended": "blocked",
+        "GoogleOther": "blocked",
+        "Applebot-Extended": "blocked",
+        "CCBot": "blocked",
+        "Bytespider": "blocked",
         "PerplexityBot": "partial",
         "Perplexity-User": "partial",
-        "cohere-ai": "partial",
+        "cohere-ai": "blocked",
         "cohere-training-data-crawler": "partial",
-        "Diffbot": "partial",
+        "Diffbot": "blocked",
         "Omgilibot": "partial",
-        "Amazonbot": "partial",
-        "meta-externalagent": "partial",
+        "Amazonbot": "blocked",
+        "meta-externalagent": "blocked",
         "meta-externalfetcher": "partial",
         "Timpibot": "partial",
         "YouBot": "partial",
@@ -10985,7 +10959,21 @@
         "Ai2Bot": "partial",
         "DuckAssistBot": "partial"
       },
-      "named": []
+      "named": [
+        "GPTBot",
+        "ClaudeBot",
+        "Claude-Web",
+        "anthropic-ai",
+        "Google-Extended",
+        "GoogleOther",
+        "Applebot-Extended",
+        "CCBot",
+        "Bytespider",
+        "cohere-ai",
+        "Diffbot",
+        "Amazonbot",
+        "meta-externalagent"
+      ]
     },
     {
       "domain": "sophos.com",
@@ -10993,7 +10981,7 @@
       "robots_url": "https://sophos.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -11039,7 +11027,7 @@
       "robots_url": "https://independent.co.uk/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -11075,7 +11063,7 @@
       "robots_url": "https://ya.ru/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -11111,7 +11099,7 @@
       "robots_url": "https://wpguardian.io/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -11147,7 +11135,7 @@
       "robots_url": "https://mailchimp.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -11183,7 +11171,7 @@
       "robots_url": "https://linode.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -11219,7 +11207,7 @@
       "robots_url": "https://fifa.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -11255,7 +11243,7 @@
       "robots_url": "https://ring.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -11300,7 +11288,7 @@
       "robots_url": "https://itch.io/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -11336,7 +11324,7 @@
       "robots_url": "https://g.co/robots.txt",
       "http_status": 400,
       "fetch_error": "HTTPError 400",
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {},
       "named": []
     },
@@ -11346,7 +11334,7 @@
       "robots_url": "https://uber.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -11382,7 +11370,7 @@
       "robots_url": "https://mlb.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -11418,7 +11406,7 @@
       "robots_url": "https://parklogic.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -11454,7 +11442,7 @@
       "robots_url": "https://shopee.co.id/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -11490,7 +11478,7 @@
       "robots_url": "https://cursor.sh/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -11526,7 +11514,7 @@
       "robots_url": "https://bandcamp.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "blocked",
         "ChatGPT-User": "partial",
@@ -11572,7 +11560,7 @@
       "robots_url": "https://python.org/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -11608,7 +11596,7 @@
       "robots_url": "https://wattpad.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "blocked",
         "ChatGPT-User": "partial",
@@ -11646,7 +11634,7 @@
       "robots_url": "https://abovedomains.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -11682,7 +11670,7 @@
       "robots_url": "https://lijit.com/robots.txt",
       "http_status": 403,
       "fetch_error": "HTTPError 403",
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {},
       "named": []
     },
@@ -11692,7 +11680,7 @@
       "robots_url": "https://bugsnag.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -11728,7 +11716,7 @@
       "robots_url": "https://mediafire.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -11764,7 +11752,7 @@
       "robots_url": "https://ddnss.de/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -11798,10 +11786,36 @@
       "domain": "sedo.com",
       "category": "other",
       "robots_url": "https://sedo.com/robots.txt",
-      "http_status": 503,
-      "fetch_error": "HTTPError 503",
-      "checked_at": "2026-10-26T12:06:46+00:00",
-      "bots": {},
+      "http_status": 200,
+      "fetch_error": null,
+      "checked_at": "2026-11-02T14:34:05+00:00",
+      "bots": {
+        "GPTBot": "partial",
+        "ChatGPT-User": "partial",
+        "OAI-SearchBot": "partial",
+        "ClaudeBot": "partial",
+        "Claude-Web": "partial",
+        "anthropic-ai": "partial",
+        "Google-Extended": "partial",
+        "GoogleOther": "partial",
+        "Applebot-Extended": "partial",
+        "CCBot": "partial",
+        "Bytespider": "partial",
+        "PerplexityBot": "partial",
+        "Perplexity-User": "partial",
+        "cohere-ai": "partial",
+        "cohere-training-data-crawler": "partial",
+        "Diffbot": "partial",
+        "Omgilibot": "partial",
+        "Amazonbot": "partial",
+        "meta-externalagent": "partial",
+        "meta-externalfetcher": "partial",
+        "Timpibot": "partial",
+        "YouBot": "partial",
+        "ImagesiftBot": "partial",
+        "Ai2Bot": "partial",
+        "DuckAssistBot": "partial"
+      },
       "named": []
     },
     {
@@ -11810,7 +11824,7 @@
       "robots_url": "https://bild.de/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -11862,7 +11876,7 @@
       "robots_url": "https://gumgum.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -11907,7 +11921,7 @@
       "robots_url": "https://box.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -11943,7 +11957,7 @@
       "robots_url": "https://airbnb.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "blocked",
         "ChatGPT-User": "partial",
@@ -11991,7 +12005,7 @@
       "robots_url": "https://nikkei.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -12027,7 +12041,7 @@
       "robots_url": "https://appcenter.ms/robots.txt",
       "http_status": 404,
       "fetch_error": "HTTPError 404",
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {},
       "named": []
     },
@@ -12037,7 +12051,7 @@
       "robots_url": "https://singular.net/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -12085,7 +12099,7 @@
       "robots_url": "https://bitdefender.net/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -12121,7 +12135,7 @@
       "robots_url": "https://visma.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -12157,7 +12171,7 @@
       "robots_url": "https://porkbun.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -12193,7 +12207,7 @@
       "robots_url": "https://mobolize.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -12229,7 +12243,7 @@
       "robots_url": "https://apnews.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "blocked",
         "ChatGPT-User": "partial",
@@ -12276,7 +12290,7 @@
       "robots_url": "https://networkadvertising.org/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -12312,7 +12326,7 @@
       "robots_url": "https://welt.de/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -12364,7 +12378,7 @@
       "robots_url": "https://rt.ru/robots.txt",
       "http_status": null,
       "fetch_error": "<urlopen error timed out>",
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {},
       "named": []
     },
@@ -12374,7 +12388,7 @@
       "robots_url": "https://meta.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -12410,7 +12424,7 @@
       "robots_url": "https://craigslist.org/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -12446,7 +12460,7 @@
       "robots_url": "https://people.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -12506,7 +12520,7 @@
       "robots_url": "https://no-ip.com/robots.txt",
       "http_status": null,
       "fetch_error": "Remote end closed connection without response",
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {},
       "named": []
     },
@@ -12516,7 +12530,7 @@
       "robots_url": "https://disneyplus.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -12567,7 +12581,7 @@
       "robots_url": "https://zoho.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -12603,7 +12617,7 @@
       "robots_url": "https://ameblo.jp/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -12639,7 +12653,7 @@
       "robots_url": "https://mixpanel.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -12675,7 +12689,7 @@
       "robots_url": "https://rakuten.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -12711,7 +12725,7 @@
       "robots_url": "https://prnewswire.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -12747,7 +12761,7 @@
       "robots_url": "https://xbox.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -12783,7 +12797,7 @@
       "robots_url": "https://daum.net/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -12821,7 +12835,7 @@
       "robots_url": "https://teads.tv/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -12857,7 +12871,7 @@
       "robots_url": "https://a-mo.net/robots.txt",
       "http_status": 403,
       "fetch_error": "HTTPError 403",
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {},
       "named": []
     },
@@ -12867,7 +12881,7 @@
       "robots_url": "https://moloco.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -12906,7 +12920,7 @@
       "robots_url": "https://unpkg.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -12934,7 +12948,15 @@
         "Ai2Bot": "allowed",
         "DuckAssistBot": "allowed"
       },
-      "named": []
+      "named": [
+        "GPTBot",
+        "ClaudeBot",
+        "Google-Extended",
+        "Applebot-Extended",
+        "CCBot",
+        "PerplexityBot",
+        "meta-externalagent"
+      ]
     },
     {
       "domain": "blackberry.com",
@@ -12942,7 +12964,7 @@
       "robots_url": "https://blackberry.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -12978,7 +13000,7 @@
       "robots_url": "https://vivo.com.cn/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -13014,7 +13036,7 @@
       "robots_url": "https://usps.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -13050,7 +13072,7 @@
       "robots_url": "https://deepl.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -13086,7 +13108,7 @@
       "robots_url": "https://lefigaro.fr/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "blocked",
         "ChatGPT-User": "partial",
@@ -13136,7 +13158,7 @@
       "robots_url": "https://odoo.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -13172,7 +13194,7 @@
       "robots_url": "https://theverge.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "partial",
@@ -13232,7 +13254,7 @@
       "robots_url": "https://att.net/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -13268,7 +13290,7 @@
       "robots_url": "https://livejournal.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -13304,7 +13326,7 @@
       "robots_url": "https://auvik.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -13340,7 +13362,7 @@
       "robots_url": "https://it.com/robots.txt",
       "http_status": 404,
       "fetch_error": "HTTPError 404",
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {},
       "named": []
     },
@@ -13350,7 +13372,7 @@
       "robots_url": "https://hbr.org/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "blocked",
         "ChatGPT-User": "partial",
@@ -13390,7 +13412,7 @@
       "robots_url": "https://agoda.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -13426,7 +13448,7 @@
       "robots_url": "https://myspace.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -13462,7 +13484,7 @@
       "robots_url": "https://onetag-sys.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -13498,7 +13520,7 @@
       "robots_url": "https://lg.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -13534,7 +13556,7 @@
       "robots_url": "https://figma.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "blocked",
         "ChatGPT-User": "partial",
@@ -13581,7 +13603,7 @@
       "robots_url": "https://nbcnews.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -13637,7 +13659,7 @@
       "robots_url": "https://jetbrains.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -13673,7 +13695,7 @@
       "robots_url": "https://chess.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -13709,7 +13731,7 @@
       "robots_url": "https://disqus.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -13745,7 +13767,7 @@
       "robots_url": "https://frontiersin.org/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -13781,7 +13803,7 @@
       "robots_url": "https://synology.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -13817,7 +13839,7 @@
       "robots_url": "https://pikabu.ru/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -13853,7 +13875,7 @@
       "robots_url": "https://princeton.edu/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -13889,7 +13911,7 @@
       "robots_url": "https://www.gov.br/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -13925,7 +13947,7 @@
       "robots_url": "https://bankofamerica.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -13961,7 +13983,7 @@
       "robots_url": "https://biblegateway.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -13997,7 +14019,7 @@
       "robots_url": "https://arcgis.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -14033,7 +14055,7 @@
       "robots_url": "https://life360.com/robots.txt",
       "http_status": 403,
       "fetch_error": "HTTPError 403",
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {},
       "named": []
     },
@@ -14043,7 +14065,7 @@
       "robots_url": "https://readthedocs.io/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -14079,7 +14101,7 @@
       "robots_url": "https://ryanair.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -14113,10 +14135,36 @@
       "domain": "ys7.com",
       "category": "software",
       "robots_url": "https://ys7.com/robots.txt",
-      "http_status": 404,
-      "fetch_error": "HTTPError 404",
-      "checked_at": "2026-10-26T12:06:46+00:00",
-      "bots": {},
+      "http_status": 200,
+      "fetch_error": null,
+      "checked_at": "2026-11-02T14:34:05+00:00",
+      "bots": {
+        "GPTBot": "allowed",
+        "ChatGPT-User": "allowed",
+        "OAI-SearchBot": "allowed",
+        "ClaudeBot": "allowed",
+        "Claude-Web": "allowed",
+        "anthropic-ai": "allowed",
+        "Google-Extended": "allowed",
+        "GoogleOther": "allowed",
+        "Applebot-Extended": "allowed",
+        "CCBot": "allowed",
+        "Bytespider": "allowed",
+        "PerplexityBot": "allowed",
+        "Perplexity-User": "allowed",
+        "cohere-ai": "allowed",
+        "cohere-training-data-crawler": "allowed",
+        "Diffbot": "allowed",
+        "Omgilibot": "allowed",
+        "Amazonbot": "allowed",
+        "meta-externalagent": "allowed",
+        "meta-externalfetcher": "allowed",
+        "Timpibot": "allowed",
+        "YouBot": "allowed",
+        "ImagesiftBot": "allowed",
+        "Ai2Bot": "allowed",
+        "DuckAssistBot": "allowed"
+      },
       "named": []
     },
     {
@@ -14125,7 +14173,7 @@
       "robots_url": "https://worldbank.org/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -14161,7 +14209,7 @@
       "robots_url": "https://wyzecam.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "partial",
@@ -14205,7 +14253,7 @@
       "robots_url": "https://fwmrm.net/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -14241,7 +14289,7 @@
       "robots_url": "https://agora.io/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -14277,7 +14325,7 @@
       "robots_url": "https://latimes.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "blocked",
         "ChatGPT-User": "partial",
@@ -14320,7 +14368,7 @@
       "robots_url": "https://pendo.io/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -14356,7 +14404,7 @@
       "robots_url": "https://qualtrics.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -14392,7 +14440,7 @@
       "robots_url": "https://starlink.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -14428,7 +14476,7 @@
       "robots_url": "https://playrix.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -14464,7 +14512,7 @@
       "robots_url": "https://seedtag.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -14506,7 +14554,7 @@
       "robots_url": "https://epa.gov/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -14542,7 +14590,7 @@
       "robots_url": "https://genius.com/robots.txt",
       "http_status": 403,
       "fetch_error": "HTTPError 403",
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {},
       "named": []
     },
@@ -14552,7 +14600,7 @@
       "robots_url": "https://youku.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -14588,7 +14636,7 @@
       "robots_url": "https://tbank.ru/robots.txt",
       "http_status": null,
       "fetch_error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1010)>",
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {},
       "named": []
     },
@@ -14598,7 +14646,7 @@
       "robots_url": "https://webmd.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "blocked",
         "ChatGPT-User": "partial",
@@ -14638,7 +14686,7 @@
       "robots_url": "https://one.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -14674,7 +14722,7 @@
       "robots_url": "https://lowes.com/robots.txt",
       "http_status": 403,
       "fetch_error": "HTTPError 403",
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {},
       "named": []
     },
@@ -14684,7 +14732,7 @@
       "robots_url": "https://pccc.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -14718,36 +14766,10 @@
       "domain": "magnit.ru",
       "category": "other",
       "robots_url": "https://magnit.ru/robots.txt",
-      "http_status": 200,
-      "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
-      "bots": {
-        "GPTBot": "partial",
-        "ChatGPT-User": "partial",
-        "OAI-SearchBot": "partial",
-        "ClaudeBot": "partial",
-        "Claude-Web": "partial",
-        "anthropic-ai": "partial",
-        "Google-Extended": "partial",
-        "GoogleOther": "partial",
-        "Applebot-Extended": "partial",
-        "CCBot": "partial",
-        "Bytespider": "partial",
-        "PerplexityBot": "partial",
-        "Perplexity-User": "partial",
-        "cohere-ai": "partial",
-        "cohere-training-data-crawler": "partial",
-        "Diffbot": "partial",
-        "Omgilibot": "partial",
-        "Amazonbot": "partial",
-        "meta-externalagent": "partial",
-        "meta-externalfetcher": "partial",
-        "Timpibot": "partial",
-        "YouBot": "partial",
-        "ImagesiftBot": "partial",
-        "Ai2Bot": "partial",
-        "DuckAssistBot": "partial"
-      },
+      "http_status": 403,
+      "fetch_error": "HTTPError 403",
+      "checked_at": "2026-11-02T14:34:05+00:00",
+      "bots": {},
       "named": []
     },
     {
@@ -14756,7 +14778,7 @@
       "robots_url": "https://netlify.app/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -14792,7 +14814,7 @@
       "robots_url": "https://character.ai/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -14828,7 +14850,7 @@
       "robots_url": "https://onet.pl/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -14873,7 +14895,7 @@
       "robots_url": "https://internetwarriors.net/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -14909,7 +14931,7 @@
       "robots_url": "https://ubi.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -14945,7 +14967,7 @@
       "robots_url": "https://tailscale.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -14981,7 +15003,7 @@
       "robots_url": "https://fidelity.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -15017,7 +15039,7 @@
       "robots_url": "https://change.org/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -15053,7 +15075,7 @@
       "robots_url": "https://repubblica.it/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "blocked",
         "ChatGPT-User": "partial",
@@ -15106,7 +15128,7 @@
       "robots_url": "https://note.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -15142,7 +15164,7 @@
       "robots_url": "https://jd.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -15178,7 +15200,7 @@
       "robots_url": "https://nationalgeographic.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -15214,7 +15236,7 @@
       "robots_url": "https://ancestry.com/robots.txt",
       "http_status": 403,
       "fetch_error": "HTTPError 403",
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {},
       "named": []
     },
@@ -15224,7 +15246,7 @@
       "robots_url": "https://nexusmods.com/robots.txt",
       "http_status": 403,
       "fetch_error": "HTTPError 403",
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {},
       "named": []
     },
@@ -15234,7 +15256,7 @@
       "robots_url": "https://corriere.it/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "blocked",
         "ChatGPT-User": "partial",
@@ -15286,7 +15308,7 @@
       "robots_url": "https://xerox.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -15322,7 +15344,7 @@
       "robots_url": "https://healthline.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -15369,7 +15391,7 @@
       "robots_url": "https://segment.io/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -15405,7 +15427,7 @@
       "robots_url": "https://kwai.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -15443,7 +15465,7 @@
       "robots_url": "https://otto.de/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -15485,27 +15507,27 @@
       "robots_url": "https://pixiv.net/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
-        "GPTBot": "blocked",
+        "GPTBot": "partial",
         "ChatGPT-User": "partial",
         "OAI-SearchBot": "partial",
-        "ClaudeBot": "blocked",
+        "ClaudeBot": "partial",
         "Claude-Web": "partial",
-        "anthropic-ai": "blocked",
-        "Google-Extended": "blocked",
+        "anthropic-ai": "partial",
+        "Google-Extended": "partial",
         "GoogleOther": "partial",
-        "Applebot-Extended": "blocked",
-        "CCBot": "blocked",
+        "Applebot-Extended": "partial",
+        "CCBot": "partial",
         "Bytespider": "partial",
         "PerplexityBot": "partial",
         "Perplexity-User": "partial",
-        "cohere-ai": "blocked",
+        "cohere-ai": "partial",
         "cohere-training-data-crawler": "partial",
-        "Diffbot": "blocked",
-        "Omgilibot": "blocked",
+        "Diffbot": "partial",
+        "Omgilibot": "partial",
         "Amazonbot": "partial",
-        "meta-externalagent": "blocked",
+        "meta-externalagent": "partial",
         "meta-externalfetcher": "partial",
         "Timpibot": "partial",
         "YouBot": "partial",
@@ -15532,7 +15554,7 @@
       "robots_url": "https://elmundo.es/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -15550,7 +15572,7 @@
         "cohere-ai": "partial",
         "cohere-training-data-crawler": "partial",
         "Diffbot": "partial",
-        "Omgilibot": "blocked",
+        "Omgilibot": "partial",
         "Amazonbot": "partial",
         "meta-externalagent": "partial",
         "meta-externalfetcher": "partial",
@@ -15564,11 +15586,27 @@
         "GPTBot",
         "ChatGPT-User",
         "OAI-SearchBot",
+        "ClaudeBot",
+        "Claude-Web",
         "anthropic-ai",
         "Google-Extended",
+        "Applebot-Extended",
         "CCBot",
+        "Bytespider",
         "PerplexityBot",
-        "Omgilibot"
+        "Perplexity-User",
+        "cohere-ai",
+        "cohere-training-data-crawler",
+        "Diffbot",
+        "Omgilibot",
+        "Amazonbot",
+        "meta-externalagent",
+        "meta-externalfetcher",
+        "Timpibot",
+        "YouBot",
+        "ImagesiftBot",
+        "Ai2Bot",
+        "DuckAssistBot"
       ]
     },
     {
@@ -15577,7 +15615,7 @@
       "robots_url": "https://faphouse.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -15613,7 +15651,7 @@
       "robots_url": "https://trendyol.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -15649,7 +15687,7 @@
       "robots_url": "https://eu.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {},
       "named": []
     },
@@ -15657,41 +15695,11 @@
       "domain": "archiveofourown.org",
       "category": "nonprofit",
       "robots_url": "https://archiveofourown.org/robots.txt",
-      "http_status": 200,
-      "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
-      "bots": {
-        "GPTBot": "blocked",
-        "ChatGPT-User": "blocked",
-        "OAI-SearchBot": "partial",
-        "ClaudeBot": "partial",
-        "Claude-Web": "partial",
-        "anthropic-ai": "partial",
-        "Google-Extended": "partial",
-        "GoogleOther": "partial",
-        "Applebot-Extended": "partial",
-        "CCBot": "blocked",
-        "Bytespider": "partial",
-        "PerplexityBot": "partial",
-        "Perplexity-User": "partial",
-        "cohere-ai": "partial",
-        "cohere-training-data-crawler": "partial",
-        "Diffbot": "partial",
-        "Omgilibot": "partial",
-        "Amazonbot": "partial",
-        "meta-externalagent": "partial",
-        "meta-externalfetcher": "partial",
-        "Timpibot": "partial",
-        "YouBot": "partial",
-        "ImagesiftBot": "partial",
-        "Ai2Bot": "partial",
-        "DuckAssistBot": "partial"
-      },
-      "named": [
-        "GPTBot",
-        "ChatGPT-User",
-        "CCBot"
-      ]
+      "http_status": 418,
+      "fetch_error": "HTTPError 418",
+      "checked_at": "2026-11-02T14:34:05+00:00",
+      "bots": {},
+      "named": []
     },
     {
       "domain": "heytapmobi.com",
@@ -15699,7 +15707,7 @@
       "robots_url": "https://heytapmobi.com/robots.txt",
       "http_status": 404,
       "fetch_error": "HTTPError 404",
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {},
       "named": []
     },
@@ -15709,7 +15717,7 @@
       "robots_url": "https://onesignal.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -15745,7 +15753,7 @@
       "robots_url": "https://themeforest.net/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -15783,7 +15791,7 @@
       "robots_url": "https://ox.ac.uk/robots.txt",
       "http_status": 403,
       "fetch_error": "HTTPError 403",
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {},
       "named": []
     },
@@ -15793,11 +15801,11 @@
       "robots_url": "https://theatlantic.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
-        "GPTBot": "allowed",
-        "ChatGPT-User": "allowed",
-        "OAI-SearchBot": "allowed",
+        "GPTBot": "partial",
+        "ChatGPT-User": "partial",
+        "OAI-SearchBot": "partial",
         "ClaudeBot": "blocked",
         "Claude-Web": "blocked",
         "anthropic-ai": "blocked",
@@ -15819,7 +15827,7 @@
         "YouBot": "partial",
         "ImagesiftBot": "partial",
         "Ai2Bot": "partial",
-        "DuckAssistBot": "allowed"
+        "DuckAssistBot": "partial"
       },
       "named": [
         "GPTBot",
@@ -15850,7 +15858,7 @@
       "robots_url": "https://xing.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -15891,7 +15899,7 @@
       "robots_url": "https://umich.edu/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -15927,7 +15935,7 @@
       "robots_url": "https://whitehouse.gov/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -15963,7 +15971,7 @@
       "robots_url": "https://statcounter.com/robots.txt",
       "http_status": 404,
       "fetch_error": "HTTPError 404",
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {},
       "named": []
     },
@@ -15973,7 +15981,7 @@
       "robots_url": "https://youronlinechoices.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -16009,7 +16017,7 @@
       "robots_url": "https://flightradar24.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "allowed",
@@ -16049,7 +16057,7 @@
       "robots_url": "https://ecosia.org/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -16085,7 +16093,7 @@
       "robots_url": "https://nextcloud.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -16121,7 +16129,7 @@
       "robots_url": "https://spamhaus.org/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -16157,7 +16165,7 @@
       "robots_url": "https://letterboxd.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "blocked",
         "ChatGPT-User": "partial",
@@ -16205,7 +16213,7 @@
       "robots_url": "https://infobae.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -16241,7 +16249,7 @@
       "robots_url": "https://interia.pl/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -16277,7 +16285,7 @@
       "robots_url": "https://bidmachine.io/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "blocked",
         "ChatGPT-User": "allowed",
@@ -16318,7 +16326,7 @@
       "robots_url": "https://amemv.com/robots.txt",
       "http_status": 404,
       "fetch_error": "HTTPError 404",
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {},
       "named": []
     },
@@ -16328,7 +16336,7 @@
       "robots_url": "https://kontur.ru/robots.txt",
       "http_status": 403,
       "fetch_error": "HTTPError 403",
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {},
       "named": []
     },
@@ -16338,7 +16346,7 @@
       "robots_url": "https://garmin.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -16377,7 +16385,7 @@
       "robots_url": "https://olx.com.br/robots.txt",
       "http_status": 403,
       "fetch_error": "HTTPError 403",
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {},
       "named": []
     },
@@ -16387,7 +16395,7 @@
       "robots_url": "https://rtve.es/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -16425,7 +16433,7 @@
       "robots_url": "https://pbs.org/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "blocked",
         "ChatGPT-User": "partial",
@@ -16466,7 +16474,7 @@
       "robots_url": "https://flashscore.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -16512,7 +16520,7 @@
       "robots_url": "https://conviva.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -16557,7 +16565,7 @@
       "robots_url": "https://wise.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -16593,7 +16601,7 @@
       "robots_url": "https://epicgames.dev/robots.txt",
       "http_status": 403,
       "fetch_error": "HTTPError 403",
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {},
       "named": []
     },
@@ -16603,7 +16611,7 @@
       "robots_url": "https://shopee.ph/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -16639,7 +16647,7 @@
       "robots_url": "https://theconversation.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "blocked",
         "ChatGPT-User": "blocked",
@@ -16701,7 +16709,7 @@
       "robots_url": "https://poki.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -16737,7 +16745,7 @@
       "robots_url": "https://redfin.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -16773,7 +16781,7 @@
       "robots_url": "https://cloudinary.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -16809,7 +16817,7 @@
       "robots_url": "https://n-tv.de/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -16820,13 +16828,13 @@
         "Google-Extended": "partial",
         "GoogleOther": "partial",
         "Applebot-Extended": "partial",
-        "CCBot": "partial",
-        "Bytespider": "partial",
+        "CCBot": "blocked",
+        "Bytespider": "blocked",
         "PerplexityBot": "partial",
         "Perplexity-User": "partial",
-        "cohere-ai": "partial",
-        "cohere-training-data-crawler": "partial",
-        "Diffbot": "partial",
+        "cohere-ai": "blocked",
+        "cohere-training-data-crawler": "blocked",
+        "Diffbot": "blocked",
         "Omgilibot": "partial",
         "Amazonbot": "partial",
         "meta-externalagent": "partial",
@@ -16839,8 +16847,16 @@
       },
       "named": [
         "GPTBot",
+        "ClaudeBot",
         "Google-Extended",
-        "CCBot"
+        "Applebot-Extended",
+        "CCBot",
+        "Bytespider",
+        "cohere-ai",
+        "cohere-training-data-crawler",
+        "Diffbot",
+        "Amazonbot",
+        "meta-externalagent"
       ]
     },
     {
@@ -16849,7 +16865,7 @@
       "robots_url": "https://as.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -16893,7 +16909,7 @@
       "robots_url": "https://netgear.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -16929,7 +16945,7 @@
       "robots_url": "https://huffpost.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "blocked",
         "ChatGPT-User": "blocked",
@@ -16986,7 +17002,7 @@
       "robots_url": "https://alphonso.tv/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -17022,7 +17038,7 @@
       "robots_url": "https://marca.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -17040,7 +17056,7 @@
         "cohere-ai": "partial",
         "cohere-training-data-crawler": "partial",
         "Diffbot": "partial",
-        "Omgilibot": "blocked",
+        "Omgilibot": "partial",
         "Amazonbot": "partial",
         "meta-externalagent": "partial",
         "meta-externalfetcher": "partial",
@@ -17054,11 +17070,27 @@
         "GPTBot",
         "ChatGPT-User",
         "OAI-SearchBot",
+        "ClaudeBot",
+        "Claude-Web",
         "anthropic-ai",
         "Google-Extended",
+        "Applebot-Extended",
         "CCBot",
+        "Bytespider",
         "PerplexityBot",
-        "Omgilibot"
+        "Perplexity-User",
+        "cohere-ai",
+        "cohere-training-data-crawler",
+        "Diffbot",
+        "Omgilibot",
+        "Amazonbot",
+        "meta-externalagent",
+        "meta-externalfetcher",
+        "Timpibot",
+        "YouBot",
+        "ImagesiftBot",
+        "Ai2Bot",
+        "DuckAssistBot"
       ]
     },
     {
@@ -17067,7 +17099,7 @@
       "robots_url": "https://adblockplus.org/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -17103,7 +17135,7 @@
       "robots_url": "https://bfmtv.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "blocked",
         "ChatGPT-User": "partial",
@@ -17163,7 +17195,7 @@
       "robots_url": "https://giphy.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -17199,7 +17231,7 @@
       "robots_url": "https://riotgames.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -17235,7 +17267,7 @@
       "robots_url": "https://goal.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -17271,7 +17303,7 @@
       "robots_url": "https://superhosting.bg/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -17307,7 +17339,7 @@
       "robots_url": "https://ilovepdf.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -17343,7 +17375,7 @@
       "robots_url": "https://netcraze.io/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "blocked",
         "ChatGPT-User": "blocked",
@@ -17379,7 +17411,7 @@
       "robots_url": "https://crazygames.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -17415,7 +17447,7 @@
       "robots_url": "https://idnes.cz/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "blocked",
         "ChatGPT-User": "partial",
@@ -17464,7 +17496,7 @@
       "robots_url": "https://ultimate-guitar.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -17500,7 +17532,7 @@
       "robots_url": "https://tabelog.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "blocked",
         "ChatGPT-User": "partial",
@@ -17540,7 +17572,7 @@
       "robots_url": "https://aparat.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -17576,7 +17608,7 @@
       "robots_url": "https://franceinfo.fr/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "blocked",
         "ChatGPT-User": "blocked",
@@ -17585,7 +17617,7 @@
         "Claude-Web": "blocked",
         "anthropic-ai": "blocked",
         "Google-Extended": "blocked",
-        "GoogleOther": "partial",
+        "GoogleOther": "blocked",
         "Applebot-Extended": "blocked",
         "CCBot": "blocked",
         "Bytespider": "blocked",
@@ -17612,6 +17644,7 @@
         "Claude-Web",
         "anthropic-ai",
         "Google-Extended",
+        "GoogleOther",
         "Applebot-Extended",
         "CCBot",
         "Bytespider",
@@ -17637,7 +17670,7 @@
       "robots_url": "https://terra.com.br/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -17673,7 +17706,7 @@
       "robots_url": "https://finn.no/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -17721,7 +17754,7 @@
       "robots_url": "https://tnaflix.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -17757,7 +17790,7 @@
       "robots_url": "https://jimdo.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -17816,7 +17849,7 @@
       "robots_url": "https://cookpad.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "blocked",
         "ChatGPT-User": "blocked",
@@ -17871,7 +17904,7 @@
       "robots_url": "https://gsmarena.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -17907,7 +17940,7 @@
       "robots_url": "https://xhaccess.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -17943,7 +17976,7 @@
       "robots_url": "https://maricopa.gov/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -17991,7 +18024,7 @@
       "robots_url": "https://nypost.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -18043,7 +18076,7 @@
       "robots_url": "https://typeform.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -18079,7 +18112,7 @@
       "robots_url": "https://gofundme.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -18115,7 +18148,7 @@
       "robots_url": "https://lanacion.com.ar/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -18151,7 +18184,7 @@
       "robots_url": "https://usercentrics.eu/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -18187,7 +18220,7 @@
       "robots_url": "https://us.com/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {},
       "named": []
     },
@@ -18197,7 +18230,7 @@
       "robots_url": "https://hltv.org/robots.txt",
       "http_status": 403,
       "fetch_error": "HTTPError 403",
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {},
       "named": []
     },
@@ -18207,7 +18240,7 @@
       "robots_url": "https://alipay.com/robots.txt",
       "http_status": 404,
       "fetch_error": "HTTPError 404",
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {},
       "named": []
     },
@@ -18217,7 +18250,7 @@
       "robots_url": "https://apa.org/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "partial",
         "ChatGPT-User": "partial",
@@ -18253,7 +18286,7 @@
       "robots_url": "https://safety.google/robots.txt",
       "http_status": 200,
       "fetch_error": null,
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {
         "GPTBot": "allowed",
         "ChatGPT-User": "allowed",
@@ -18289,7 +18322,7 @@
       "robots_url": "https://vivo.com/robots.txt",
       "http_status": 404,
       "fetch_error": "HTTPError 404",
-      "checked_at": "2026-10-26T12:06:46+00:00",
+      "checked_at": "2026-11-02T14:34:05+00:00",
       "bots": {},
       "named": []
     }
