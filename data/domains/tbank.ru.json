@@ -1,11 +1,11 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-11-02T14:34:05+00:00",
+  "checked_at": "2026-11-09T14:56:43+00:00",
   "domain": "tbank.ru",
   "category": "finance",
   "robots_url": "https://tbank.ru/robots.txt",
   "http_status": null,
-  "fetch_error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1010)>",
+  "fetch_error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1011)>",
   "bots": {},
   "named": [],
   "rules": {}

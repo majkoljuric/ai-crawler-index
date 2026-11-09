@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-11-02T14:34:05+00:00",
+  "checked_at": "2026-11-09T14:56:43+00:00",
   "domain": "ivi.ru",
   "category": "other",
   "robots_url": "https://ivi.ru/robots.txt",
@@ -144,7 +144,9 @@
         "/watch/okolotochnyij-1/*",
         "/en/watch/okolotochnyij-1*",
         "/kk/watch/okolotochnyij-1*",
-        "/uz/watch/okolotochnyij-1*"
+        "/uz/watch/okolotochnyij-1*",
+        "/watch/ogon-rannij-dostup/*",
+        "/watch/vsyo-v-tvoih-rukah-rannij-dostup/*"
       ],
       "allow": [
         "/css/",
@@ -152,7 +154,7 @@
         "/scripts/",
         "/player/trailer*"
       ],
-      "total": 108,
+      "total": 110,
       "total_allow": 4
     }
   }

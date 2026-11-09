@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-11-02T14:34:05+00:00",
+  "checked_at": "2026-11-09T14:56:43+00:00",
   "domain": "twitch.tv",
   "category": "media",
   "robots_url": "https://twitch.tv/robots.txt",
@@ -100,6 +100,7 @@
         "/sportradar-widgets",
         "/beta/",
         "/extensions/oauth-redirect",
+        "/payment-redirect",
         "/copyright-claims",
         "/report-appeal",
         "/oss-attribution",
@@ -111,7 +112,7 @@
         "/directory",
         "/.well-known/assetlinks.json"
       ],
-      "total": 67,
+      "total": 68,
       "total_allow": 2
     },
     "Amazonbot": {

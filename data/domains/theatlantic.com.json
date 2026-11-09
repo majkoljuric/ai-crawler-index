@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-11-02T14:34:05+00:00",
+  "checked_at": "2026-11-09T14:56:43+00:00",
   "domain": "theatlantic.com",
   "category": "news",
   "robots_url": "https://theatlantic.com/robots.txt",
@@ -58,7 +58,6 @@
   "rules": {
     "*": {
       "disallow": [
-        "/4624/TheAtlanticOnline/*",
         "/magazine/archive/2010/11/letters-to-the-editor/308258/",
         "/magazine/archive/2010/11/letters-to-the-editor/308258/*",
         "/ab/*",
@@ -72,7 +71,7 @@
         "/magazine/archive/2001/02/bill-clinton-and-his-consequences/303383/$",
         "/"
       ],
-      "total": 9,
+      "total": 8,
       "total_allow": 2
     },
     "Amazonbot": {
@@ -111,7 +110,6 @@
     },
     "ChatGPT-User": {
       "disallow": [
-        "/4624/TheAtlanticOnline/*",
         "/ab/*",
         "/video/embed/",
         "/zephr/*",
@@ -121,7 +119,7 @@
       "allow": [
         "/"
       ],
-      "total": 6,
+      "total": 5,
       "total_allow": 1
     },
     "Claude-Web": {
@@ -150,7 +148,6 @@
     },
     "DuckAssistBot": {
       "disallow": [
-        "/4624/TheAtlanticOnline/*",
         "/ab/*",
         "/video/embed/",
         "/zephr/*",
@@ -160,12 +157,11 @@
       "allow": [
         "/"
       ],
-      "total": 6,
+      "total": 5,
       "total_allow": 1
     },
     "GPTBot": {
       "disallow": [
-        "/4624/TheAtlanticOnline/*",
         "/ab/*",
         "/video/embed/",
         "/zephr/*",
@@ -175,7 +171,7 @@
       "allow": [
         "/"
       ],
-      "total": 6,
+      "total": 5,
       "total_allow": 1
     },
     "Google-Extended": {
@@ -188,7 +184,6 @@
     },
     "OAI-SearchBot": {
       "disallow": [
-        "/4624/TheAtlanticOnline/*",
         "/ab/*",
         "/video/embed/",
         "/zephr/*",
@@ -198,7 +193,7 @@
       "allow": [
         "/"
       ],
-      "total": 6,
+      "total": 5,
       "total_allow": 1
     },
     "Perplexity-User": {

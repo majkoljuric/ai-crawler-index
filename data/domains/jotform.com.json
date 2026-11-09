@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-11-02T14:34:05+00:00",
+  "checked_at": "2026-11-09T14:56:43+00:00",
   "domain": "jotform.com",
   "category": "software",
   "robots_url": "https://jotform.com/robots.txt",
@@ -143,6 +143,7 @@
         "/9*?",
         "/form/*?",
         "/form/*/event/",
+        "/workflow-form/",
         "*?kuid=",
         "*&kuid=",
         "*?ref=isModalView",
@@ -197,7 +198,7 @@
         "/63463511625958",
         "/uploads/page-builder/"
       ],
-      "total": 141,
+      "total": 142,
       "total_allow": 2
     },
     "Applebot-Extended": {
@@ -303,6 +304,7 @@
         "/9*?",
         "/form/*?",
         "/form/*/event/",
+        "/workflow-form/",
         "*?kuid=",
         "*&kuid=",
         "*?ref=isModalView",
@@ -358,7 +360,7 @@
       "allow": [
         "/uploads/page-builder/"
       ],
-      "total": 146,
+      "total": 147,
       "total_allow": 1
     },
     "CCBot": {

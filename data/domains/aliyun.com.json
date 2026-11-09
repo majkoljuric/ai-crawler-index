@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-11-02T14:34:05+00:00",
+  "checked_at": "2026-11-09T14:56:43+00:00",
   "domain": "aliyun.com",
   "category": "other",
   "robots_url": "https://aliyun.com/robots.txt",
@@ -33,28 +33,65 @@
     "Ai2Bot": "partial",
     "DuckAssistBot": "partial"
   },
-  "named": [],
+  "named": [
+    "GPTBot",
+    "ClaudeBot",
+    "CCBot"
+  ],
   "rules": {
     "*": {
       "disallow": [
-        "/*?spm=*",
         "/*?tracelog=*",
-        "/*?page=*",
-        "/template",
-        "/admin",
-        "/config",
-        "/classes",
-        "/log",
-        "/language",
-        "/script",
-        "/static",
-        "/alilog"
+        "/template/",
+        "/admin/",
+        "/config/",
+        "/classes/",
+        "/log/",
+        "/language/",
+        "/script/",
+        "/static/",
+        "/alilog/",
+        "/zixun/articles/",
+        "/zixun/jiaocheng/",
+        "/zixun/wenjim/",
+        "/ss/",
+        "/search",
+        "/ai-assistant",
+        "/page-source/",
+        "/lowcode/",
+        "/employee-x/",
+        "/search?"
       ],
-      "allow": [
-        "/s/*"
+      "allow": [],
+      "total": 20,
+      "total_allow": 0
+    },
+    "CCBot": {
+      "disallow": [
+        "/sswd/",
+        "/sswb/"
       ],
-      "total": 12,
-      "total_allow": 1
+      "allow": [],
+      "total": 2,
+      "total_allow": 0
+    },
+    "ClaudeBot": {
+      "disallow": [
+        "/sswd/",
+        "/sswb/"
+      ],
+      "allow": [],
+      "total": 2,
+      "total_allow": 0
+    },
+    "GPTBot": {
+      "disallow": [
+        "/sswd/",
+        "/sswb/"
+      ],
+      "allow": [],
+      "total": 2,
+      "total_allow": 0
     }
   }
 }

@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-11-02T14:34:05+00:00",
+  "checked_at": "2026-11-09T14:56:43+00:00",
   "domain": "allegro.pl",
   "category": "software",
   "robots_url": "https://allegro.pl/robots.txt",
@@ -90,12 +90,13 @@
         "/*bi_s=*",
         "/logowanie*",
         "/auth/",
-        "/uzytkownik/notfound*"
+        "/uzytkownik/notfound*",
+        "/*.php*"
       ],
       "allow": [
         "/robots.txt$"
       ],
-      "total": 8,
+      "total": 9,
       "total_allow": 1
     }
   }

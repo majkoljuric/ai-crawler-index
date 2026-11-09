@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-11-02T14:34:05+00:00",
+  "checked_at": "2026-11-09T14:56:43+00:00",
   "domain": "avito.ru",
   "category": "other",
   "robots_url": "https://avito.ru/robots.txt",
@@ -118,6 +118,9 @@
         "/au-imv-info$",
         "/search/filters/",
         "/ads-team$",
+        "/ads",
+        "/ads/lk",
+        "/ads/registration",
         "/recs/",
         "/recs$",
         "*/interpretation/",
@@ -180,7 +183,7 @@
         "/autoteka-report-example$",
         "/autoteka-report-by-identifier"
       ],
-      "total": 127,
+      "total": 130,
       "total_allow": 13
     }
   }

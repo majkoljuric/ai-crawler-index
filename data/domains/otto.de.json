@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-11-02T14:34:05+00:00",
+  "checked_at": "2026-11-09T14:56:43+00:00",
   "domain": "otto.de",
   "category": "other",
   "robots_url": "https://otto.de/robots.txt",
@@ -45,11 +45,10 @@
       "disallow": [
         "/gate/",
         "/onex/",
-        "/cdn-cgi/",
-        "/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/"
+        "/cdn-cgi/"
       ],
       "allow": [],
-      "total": 4,
+      "total": 3,
       "total_allow": 0
     },
     "ChatGPT-User": {
@@ -58,7 +57,7 @@
         "/gate/",
         "/onex/",
         "/cdn-cgi/",
-        "/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/"
+        "/dcs/cr/reviews/"
       ],
       "allow": [],
       "total": 5,
@@ -70,7 +69,7 @@
         "/gate/",
         "/onex/",
         "/cdn-cgi/",
-        "/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/"
+        "/dcs/cr/reviews/"
       ],
       "allow": [],
       "total": 5,
@@ -82,7 +81,7 @@
         "/gate/",
         "/onex/",
         "/cdn-cgi/",
-        "/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/"
+        "/dcs/cr/reviews/"
       ],
       "allow": [],
       "total": 5,
@@ -94,7 +93,7 @@
         "/gate/",
         "/onex/",
         "/cdn-cgi/",
-        "/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/"
+        "/dcs/cr/reviews/"
       ],
       "allow": [],
       "total": 5,

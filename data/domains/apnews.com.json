@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-11-02T14:34:05+00:00",
+  "checked_at": "2026-11-09T14:56:43+00:00",
   "domain": "apnews.com",
   "category": "news",
   "robots_url": "https://apnews.com/robots.txt",
@@ -19,7 +19,7 @@
     "CCBot": "blocked",
     "Bytespider": "partial",
     "PerplexityBot": "blocked",
-    "Perplexity-User": "partial",
+    "Perplexity-User": "blocked",
     "cohere-ai": "blocked",
     "cohere-training-data-crawler": "partial",
     "Diffbot": "partial",
@@ -41,6 +41,7 @@
     "Applebot-Extended",
     "CCBot",
     "PerplexityBot",
+    "Perplexity-User",
     "cohere-ai",
     "Amazonbot",
     "Timpibot"
@@ -114,6 +115,14 @@
       "total_allow": 0
     },
     "GPTBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "Perplexity-User": {
       "disallow": [
         "/"
       ],
