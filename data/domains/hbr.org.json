@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-11-09T14:56:43+00:00",
+  "checked_at": "2026-11-16T14:32:58+00:00",
   "domain": "hbr.org",
   "category": "nonprofit",
   "robots_url": "https://hbr.org/robots.txt",
@@ -10,33 +10,42 @@
     "GPTBot": "blocked",
     "ChatGPT-User": "partial",
     "OAI-SearchBot": "partial",
-    "ClaudeBot": "partial",
+    "ClaudeBot": "blocked",
     "Claude-Web": "partial",
-    "anthropic-ai": "partial",
+    "anthropic-ai": "blocked",
     "Google-Extended": "blocked",
     "GoogleOther": "partial",
-    "Applebot-Extended": "partial",
+    "Applebot-Extended": "blocked",
     "CCBot": "blocked",
-    "Bytespider": "partial",
+    "Bytespider": "blocked",
     "PerplexityBot": "partial",
     "Perplexity-User": "partial",
     "cohere-ai": "partial",
     "cohere-training-data-crawler": "partial",
     "Diffbot": "partial",
-    "Omgilibot": "partial",
+    "Omgilibot": "blocked",
     "Amazonbot": "partial",
-    "meta-externalagent": "partial",
-    "meta-externalfetcher": "partial",
-    "Timpibot": "partial",
+    "meta-externalagent": "blocked",
+    "meta-externalfetcher": "blocked",
+    "Timpibot": "blocked",
     "YouBot": "partial",
     "ImagesiftBot": "partial",
-    "Ai2Bot": "partial",
+    "Ai2Bot": "blocked",
     "DuckAssistBot": "partial"
   },
   "named": [
     "GPTBot",
+    "ClaudeBot",
+    "anthropic-ai",
     "Google-Extended",
-    "CCBot"
+    "Applebot-Extended",
+    "CCBot",
+    "Bytespider",
+    "Omgilibot",
+    "meta-externalagent",
+    "meta-externalfetcher",
+    "Timpibot",
+    "Ai2Bot"
   ],
   "rules": {
     "*": {
@@ -65,6 +74,7 @@
         "/resources/css/webscripts.css"
       ],
       "allow": [
+        "/sponsored/",
         "/resources/js",
         "/resources/css",
         "/resources/images/",
@@ -72,9 +82,33 @@
         "/resources/html/infographics/2018/ceo-activism-desktop/index.html"
       ],
       "total": 22,
-      "total_allow": 5
+      "total_allow": 6
+    },
+    "Applebot-Extended": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "Bytespider": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
     },
     "CCBot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "ClaudeBot": {
       "disallow": [
         "/"
       ],
@@ -91,6 +125,22 @@
       "total_allow": 0
     },
     "Google-Extended": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "Timpibot": {
+      "disallow": [
+        "/"
+      ],
+      "allow": [],
+      "total": 1,
+      "total_allow": 0
+    },
+    "anthropic-ai": {
       "disallow": [
         "/"
       ],

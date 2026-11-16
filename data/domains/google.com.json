@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-11-09T14:56:43+00:00",
+  "checked_at": "2026-11-16T14:32:58+00:00",
   "domain": "google.com",
   "category": "software",
   "robots_url": "https://google.com/robots.txt",
@@ -270,12 +270,13 @@
         "/alerts/remove",
         "/alerts/$",
         "/shopping?udm=28$",
+        "/shopping?udm=shop$",
         "/maps/reserve",
         "/maps/reserve/partners",
         "/localservices/coupon/"
       ],
       "total": 170,
-      "total_allow": 64
+      "total_allow": 65
     }
   }
 }

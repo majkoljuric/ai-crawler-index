@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-11-09T14:56:43+00:00",
+  "checked_at": "2026-11-16T14:32:58+00:00",
   "domain": "chatgpt.com",
   "category": "software",
   "robots_url": "https://chatgpt.com/robots.txt",
@@ -85,7 +85,6 @@
         "/sitemap.xml",
         "/marketing-sitemap.xml",
         "/writing-tools-sitemap.xml",
-        "/acquisition-landing-pages-sitemap.xml",
         "/100chats",
         "/api/public_content/",
         "/backend-api/public_content/",
@@ -94,6 +93,9 @@
         "/*/overview",
         "/features",
         "/*/features",
+        "/redeem$",
+        "/redeem/",
+        "/redeem?",
         "/health$",
         "/health/$",
         "/*/health$",
@@ -114,6 +116,7 @@
         "/*/learn",
         "/business",
         "/*/business",
+        "/*/business-hub",
         "/pricing",
         "/*/pricing",
         "/download",
@@ -138,6 +141,7 @@
         "/writing",
         "/*/writing",
         "/ask/",
+        "/*/ask",
         "/futures",
         "/*/futures",
         "/football",
@@ -229,7 +233,7 @@
         "/zh-HK/$"
       ],
       "total": 6,
-      "total_allow": 174
+      "total_allow": 178
     },
     "Bytespider": {
       "disallow": [

@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-11-09T14:56:43+00:00",
+  "checked_at": "2026-11-16T14:32:58+00:00",
   "domain": "braze.com",
   "category": "software",
   "robots_url": "https://braze.com/robots.txt",
@@ -37,13 +37,12 @@
   "rules": {
     "*": {
       "disallow": [
-        "/es-419/",
-        "/de/"
+        "/es-419/"
       ],
       "allow": [
         "/"
       ],
-      "total": 2,
+      "total": 1,
       "total_allow": 1
     }
   }

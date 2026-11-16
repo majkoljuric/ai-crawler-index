@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-11-09T14:56:43+00:00",
+  "checked_at": "2026-11-16T14:32:58+00:00",
   "domain": "hostinger.com",
   "category": "software",
   "robots_url": "https://hostinger.com/robots.txt",
@@ -268,9 +268,11 @@
         "/uk/tutorials/search/*",
         "/uk/tutorials/?s=*"
       ],
-      "allow": [],
+      "allow": [
+        "/cdn-cgi/imagedelivery/"
+      ],
       "total": 216,
-      "total_allow": 0
+      "total_allow": 1
     },
     "CCBot": {
       "disallow": [
@@ -425,10 +427,11 @@
         "/vn/dac-biet/000webhost"
       ],
       "allow": [
-        "/"
+        "/",
+        "/cdn-cgi/imagedelivery/"
       ],
       "total": 149,
-      "total_allow": 1
+      "total_allow": 2
     },
     "ChatGPT-User": {
       "disallow": [
@@ -583,10 +586,11 @@
         "/vn/dac-biet/000webhost"
       ],
       "allow": [
-        "/"
+        "/",
+        "/cdn-cgi/imagedelivery/"
       ],
       "total": 149,
-      "total_allow": 1
+      "total_allow": 2
     },
     "ClaudeBot": {
       "disallow": [
@@ -741,10 +745,11 @@
         "/vn/dac-biet/000webhost"
       ],
       "allow": [
-        "/"
+        "/",
+        "/cdn-cgi/imagedelivery/"
       ],
       "total": 149,
-      "total_allow": 1
+      "total_allow": 2
     },
     "DuckAssistBot": {
       "disallow": [
@@ -899,10 +904,11 @@
         "/vn/dac-biet/000webhost"
       ],
       "allow": [
-        "/"
+        "/",
+        "/cdn-cgi/imagedelivery/"
       ],
       "total": 149,
-      "total_allow": 1
+      "total_allow": 2
     },
     "GPTBot": {
       "disallow": [
@@ -1057,10 +1063,11 @@
         "/vn/dac-biet/000webhost"
       ],
       "allow": [
-        "/"
+        "/",
+        "/cdn-cgi/imagedelivery/"
       ],
       "total": 149,
-      "total_allow": 1
+      "total_allow": 2
     },
     "Google-Extended": {
       "disallow": [
@@ -1215,10 +1222,11 @@
         "/vn/dac-biet/000webhost"
       ],
       "allow": [
-        "/"
+        "/",
+        "/cdn-cgi/imagedelivery/"
       ],
       "total": 149,
-      "total_allow": 1
+      "total_allow": 2
     },
     "OAI-SearchBot": {
       "disallow": [
@@ -1373,10 +1381,11 @@
         "/vn/dac-biet/000webhost"
       ],
       "allow": [
-        "/"
+        "/",
+        "/cdn-cgi/imagedelivery/"
       ],
       "total": 149,
-      "total_allow": 1
+      "total_allow": 2
     },
     "Perplexity-User": {
       "disallow": [
@@ -1531,10 +1540,11 @@
         "/vn/dac-biet/000webhost"
       ],
       "allow": [
-        "/"
+        "/",
+        "/cdn-cgi/imagedelivery/"
       ],
       "total": 149,
-      "total_allow": 1
+      "total_allow": 2
     },
     "PerplexityBot": {
       "disallow": [
@@ -1689,10 +1699,11 @@
         "/vn/dac-biet/000webhost"
       ],
       "allow": [
-        "/"
+        "/",
+        "/cdn-cgi/imagedelivery/"
       ],
       "total": 149,
-      "total_allow": 1
+      "total_allow": 2
     },
     "YouBot": {
       "disallow": [
@@ -1847,10 +1858,11 @@
         "/vn/dac-biet/000webhost"
       ],
       "allow": [
-        "/"
+        "/",
+        "/cdn-cgi/imagedelivery/"
       ],
       "total": 149,
-      "total_allow": 1
+      "total_allow": 2
     }
   }
 }

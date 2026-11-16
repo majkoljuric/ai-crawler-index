@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-11-09T14:56:43+00:00",
+  "checked_at": "2026-11-16T14:32:58+00:00",
   "domain": "corriere.it",
   "category": "news",
   "robots_url": "https://corriere.it/robots.txt",
@@ -24,7 +24,7 @@
     "cohere-training-data-crawler": "blocked",
     "Diffbot": "blocked",
     "Omgilibot": "blocked",
-    "Amazonbot": "blocked",
+    "Amazonbot": "allowed",
     "meta-externalagent": "blocked",
     "meta-externalfetcher": "partial",
     "Timpibot": "blocked",
@@ -175,12 +175,12 @@
       "total_allow": 27
     },
     "Amazonbot": {
-      "disallow": [
+      "disallow": [],
+      "allow": [
         "/"
       ],
-      "allow": [],
-      "total": 1,
-      "total_allow": 0
+      "total": 0,
+      "total_allow": 1
     },
     "Applebot-Extended": {
       "disallow": [

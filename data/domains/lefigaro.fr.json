@@ -1,13 +1,13 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-11-09T14:56:43+00:00",
+  "checked_at": "2026-11-16T14:32:58+00:00",
   "domain": "lefigaro.fr",
   "category": "news",
   "robots_url": "https://lefigaro.fr/robots.txt",
   "http_status": 200,
   "fetch_error": null,
   "bots": {
-    "GPTBot": "blocked",
+    "GPTBot": "partial",
     "ChatGPT-User": "partial",
     "OAI-SearchBot": "partial",
     "ClaudeBot": "blocked",
@@ -34,9 +34,6 @@
     "DuckAssistBot": "partial"
   },
   "named": [
-    "GPTBot",
-    "ChatGPT-User",
-    "OAI-SearchBot",
     "ClaudeBot",
     "Claude-Web",
     "anthropic-ai",
@@ -82,24 +79,6 @@
       "total": 1,
       "total_allow": 0
     },
-    "ChatGPT-User": {
-      "disallow": [
-        "/"
-      ],
-      "allow": [
-        "/voyages",
-        "/culture",
-        "/style",
-        "/beaute",
-        "/joaillerie",
-        "/mode-homme",
-        "/horlogerie",
-        "/bons-plans",
-        "/elections/resultats"
-      ],
-      "total": 1,
-      "total_allow": 9
-    },
     "Claude-Web": {
       "disallow": [
         "/"
@@ -128,14 +107,6 @@
       "total": 1,
       "total_allow": 0
     },
-    "GPTBot": {
-      "disallow": [
-        "/"
-      ],
-      "allow": [],
-      "total": 1,
-      "total_allow": 0
-    },
     "Google-Extended": {
       "disallow": [
         "/"
@@ -143,24 +114,6 @@
       "allow": [],
       "total": 1,
       "total_allow": 0
-    },
-    "OAI-SearchBot": {
-      "disallow": [
-        "/"
-      ],
-      "allow": [
-        "/voyages",
-        "/culture",
-        "/style",
-        "/beaute",
-        "/joaillerie",
-        "/mode-homme",
-        "/horlogerie",
-        "/bons-plans",
-        "/elections/resultats"
-      ],
-      "total": 1,
-      "total_allow": 9
     },
     "YouBot": {
       "disallow": [

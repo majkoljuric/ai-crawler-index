@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-11-09T14:56:43+00:00",
+  "checked_at": "2026-11-16T14:32:58+00:00",
   "domain": "paloaltonetworks.com",
   "category": "other",
   "robots_url": "https://paloaltonetworks.com/robots.txt",
@@ -41,6 +41,7 @@
   "rules": {
     "*": {
       "disallow": [
+        "/*.md$",
         "/content/dam/",
         "/content/dam/pan/en_US/assets/pdf/legal/archive/",
         "/content/pan/en_US/content/dam",
@@ -145,7 +146,7 @@
         "/devsectalks/wp-admin/admin-ajax.php",
         "/perspectives/wp-admin/admin-ajax.php"
       ],
-      "total": 83,
+      "total": 84,
       "total_allow": 18
     },
     "ChatGPT-User": {

@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-11-09T14:56:43+00:00",
+  "checked_at": "2026-11-16T14:32:58+00:00",
   "domain": "techcrunch.com",
   "category": "tech-news",
   "robots_url": "https://techcrunch.com/robots.txt",
@@ -8,12 +8,12 @@
   "fetch_error": null,
   "bots": {
     "GPTBot": "blocked",
-    "ChatGPT-User": "blocked",
+    "ChatGPT-User": "partial",
     "OAI-SearchBot": "partial",
     "ClaudeBot": "blocked",
-    "Claude-Web": "blocked",
+    "Claude-Web": "partial",
     "anthropic-ai": "blocked",
-    "Google-Extended": "blocked",
+    "Google-Extended": "partial",
     "GoogleOther": "partial",
     "Applebot-Extended": "blocked",
     "CCBot": "blocked",
@@ -35,11 +35,8 @@
   },
   "named": [
     "GPTBot",
-    "ChatGPT-User",
     "ClaudeBot",
-    "Claude-Web",
     "anthropic-ai",
-    "Google-Extended",
     "Applebot-Extended",
     "CCBot",
     "Bytespider",
@@ -85,22 +82,6 @@
       "total": 1,
       "total_allow": 0
     },
-    "ChatGPT-User": {
-      "disallow": [
-        "/"
-      ],
-      "allow": [],
-      "total": 1,
-      "total_allow": 0
-    },
-    "Claude-Web": {
-      "disallow": [
-        "/"
-      ],
-      "allow": [],
-      "total": 1,
-      "total_allow": 0
-    },
     "ClaudeBot": {
       "disallow": [
         "/"
@@ -118,14 +99,6 @@
       "total_allow": 0
     },
     "GPTBot": {
-      "disallow": [
-        "/"
-      ],
-      "allow": [],
-      "total": 1,
-      "total_allow": 0
-    },
-    "Google-Extended": {
       "disallow": [
         "/"
       ],

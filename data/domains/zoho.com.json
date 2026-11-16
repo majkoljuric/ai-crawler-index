@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-11-09T14:56:43+00:00",
+  "checked_at": "2026-11-16T14:32:58+00:00",
   "domain": "zoho.com",
   "category": "other",
   "robots_url": "https://zoho.com/robots.txt",
@@ -142,13 +142,21 @@
         "/bh/payroll/",
         "/kw/payroll/",
         "/qw/payroll/",
-        "/payroll/api/v1/introduction/"
+        "/payroll/api/v1/introduction/",
+        "/branding/images/dont-04.png",
+        "/branding/images/dont-03.png",
+        "/branding/images/dont-02.png",
+        "/branding/images/dont-01.png",
+        "/sites/zweb/images/zoho_general_pages/branding/dont-1.png",
+        "/sites/zweb/images/zoho_general_pages/branding/dont-2.png",
+        "/sites/zweb/images/zoho_general_pages/branding/dont-3.png",
+        "/sites/zweb/images/zoho_general_pages/branding/dont-4.png"
       ],
       "allow": [
         "*/crm/lp/",
         "/.well-known/"
       ],
-      "total": 106,
+      "total": 114,
       "total_allow": 2
     }
   }

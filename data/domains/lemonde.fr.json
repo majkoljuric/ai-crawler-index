@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-11-09T14:56:43+00:00",
+  "checked_at": "2026-11-16T14:32:58+00:00",
   "domain": "lemonde.fr",
   "category": "news",
   "robots_url": "https://lemonde.fr/robots.txt",
@@ -166,10 +166,11 @@
         "/les-conseils-pour-entreprendre/",
         "/mutuelle-sante-bien-choisir-sa-couverture/",
         "/prevoir-demain/",
-        "/de-l-impact-aux-responsabilites/"
+        "/de-l-impact-aux-responsabilites/",
+        "/assurance-vie-faire-les-bons-choix-par-abeille-assurances/"
       ],
       "total": 1,
-      "total_allow": 5
+      "total_allow": 6
     },
     "GoogleOther": {
       "disallow": [

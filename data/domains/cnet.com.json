@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "checked_at": "2026-11-09T14:56:43+00:00",
+  "checked_at": "2026-11-16T14:32:58+00:00",
   "domain": "cnet.com",
   "category": "tech-news",
   "robots_url": "https://cnet.com/robots.txt",
@@ -145,6 +145,7 @@
         "/paid-content/dji-builds-on-12-years-of-handheld-imaging-innovation-with-the-dji-osmo-360-ii/",
         "/paid-content/dji-osmo-pocket-4p-is-a-powerful-tool-for-independent-filmmakers/",
         "/paid-content/do-you-actually-need-a-separate-antivirus-vpn-and-scam-protection-mcafees-all-in-one-plans-have-you-covered/",
+        "/paid-content/does-a-laptop-powered-by-snapdragon-really-last-all-week-what-to-expect-from-the-hp-omnibook-3/",
         "/paid-content/enjoy-unlimited-wi-fi-and-predictable-pricing-with-on-your-home-internet/",
         "/paid-content/from-tacos-to-tvs-doordash-delivers-your-game-day-essentials/",
         "/paid-content/galaxy-s26-camera-system-the-biggest-questions-answered-before-you-buy/",
@@ -168,6 +169,7 @@
         "/paid-content/how-to-choose-the-right-dell-ai-laptop-for-your-workflow/",
         "/paid-content/how-to-get-fast-reliable-fiber-internet-at-a-predictable-transparent-price/",
         "/paid-content/how-to-get-your-backyard-ready-for-summer-with-lights-and-sound/",
+        "/paid-content/how-to-make-an-image-from-text-with-ai-in-2026-using-adobe-firefly/",
         "/paid-content/how-to-stream-pro-and-college-football-in-2026-with-directv-mysports-genre-pack/",
         "/paid-content/how-to-time-your-next-major-appliance-purchase-for-maximum-savings/",
         "/paid-content/how-to-try-out-ai-glasses-from-meta-at-your-local-best-buy/",
@@ -179,6 +181,7 @@
         "/paid-content/is-it-time-to-upgrade-your-iphone-with-t-mobiles-trade-in-offers-the-answer-is-yes/",
         "/paid-content/is-the-dell-xps-13-a-good-windows-alternative-to-a-macbook/",
         "/paid-content/is-wi-fi-7-worth-the-upgrade-heres-how-msis-roamii-mesh-systems-fit-in/",
+        "/paid-content/is-your-browsers-built-in-password-manager-enough-roboform-gives-you-an-upgrade/",
         "/paid-content/life-changes-and-new-laws-can-affect-your-tax-refund-how-to-estimate/",
         "/paid-content/maximize-your-refund-with-h-r-blocks-smart-tax-tools/",
         "/paid-content/maximize-your-wireless-savings-with-the-t-mobile-visa-credit-card/",
@@ -280,6 +283,7 @@
         "/paid-content/how-to-check-if-t-mobile-fiber-is-available-at-your-address/",
         "/paid-content/why-you-need-a-cutting-edge-vpn-to-keep-you-safe-online/",
         "/paid-content/why-you-need-an-internet-provider-with-no-data-caps/",
+        "/paid-content/will-my-apps-work-on-a-laptop-powered-by-snapdragon-a-plain-english-guide/",
         "/tech/mobile/apple-iphone-17-event-september-2025-what-to-expect/",
         "/tech/mobile/best-android-phone/",
         "/tech/mobile/best-cheap-phone/",
@@ -318,7 +322,7 @@
         "/videos/tax-breaks-you-might-miss-in-2026-and-how-to-find-them/"
       ],
       "total": 1,
-      "total_allow": 198
+      "total_allow": 202
     },
     "Bytespider": {
       "disallow": [
@@ -352,6 +356,7 @@
         "/paid-content/dji-builds-on-12-years-of-handheld-imaging-innovation-with-the-dji-osmo-360-ii/",
         "/paid-content/dji-osmo-pocket-4p-is-a-powerful-tool-for-independent-filmmakers/",
         "/paid-content/do-you-actually-need-a-separate-antivirus-vpn-and-scam-protection-mcafees-all-in-one-plans-have-you-covered/",
+        "/paid-content/does-a-laptop-powered-by-snapdragon-really-last-all-week-what-to-expect-from-the-hp-omnibook-3/",
         "/paid-content/enjoy-unlimited-wi-fi-and-predictable-pricing-with-on-your-home-internet/",
         "/paid-content/from-tacos-to-tvs-doordash-delivers-your-game-day-essentials/",
         "/paid-content/galaxy-s26-camera-system-the-biggest-questions-answered-before-you-buy/",
@@ -375,6 +380,7 @@
         "/paid-content/how-to-choose-the-right-dell-ai-laptop-for-your-workflow/",
         "/paid-content/how-to-get-fast-reliable-fiber-internet-at-a-predictable-transparent-price/",
         "/paid-content/how-to-get-your-backyard-ready-for-summer-with-lights-and-sound/",
+        "/paid-content/how-to-make-an-image-from-text-with-ai-in-2026-using-adobe-firefly/",
         "/paid-content/how-to-stream-pro-and-college-football-in-2026-with-directv-mysports-genre-pack/",
         "/paid-content/how-to-time-your-next-major-appliance-purchase-for-maximum-savings/",
         "/paid-content/how-to-try-out-ai-glasses-from-meta-at-your-local-best-buy/",
@@ -386,6 +392,7 @@
         "/paid-content/is-it-time-to-upgrade-your-iphone-with-t-mobiles-trade-in-offers-the-answer-is-yes/",
         "/paid-content/is-the-dell-xps-13-a-good-windows-alternative-to-a-macbook/",
         "/paid-content/is-wi-fi-7-worth-the-upgrade-heres-how-msis-roamii-mesh-systems-fit-in/",
+        "/paid-content/is-your-browsers-built-in-password-manager-enough-roboform-gives-you-an-upgrade/",
         "/paid-content/life-changes-and-new-laws-can-affect-your-tax-refund-how-to-estimate/",
         "/paid-content/maximize-your-refund-with-h-r-blocks-smart-tax-tools/",
         "/paid-content/maximize-your-wireless-savings-with-the-t-mobile-visa-credit-card/",
@@ -487,6 +494,7 @@
         "/paid-content/how-to-check-if-t-mobile-fiber-is-available-at-your-address/",
         "/paid-content/why-you-need-a-cutting-edge-vpn-to-keep-you-safe-online/",
         "/paid-content/why-you-need-an-internet-provider-with-no-data-caps/",
+        "/paid-content/will-my-apps-work-on-a-laptop-powered-by-snapdragon-a-plain-english-guide/",
         "/tech/mobile/apple-iphone-17-event-september-2025-what-to-expect/",
         "/tech/mobile/best-android-phone/",
         "/tech/mobile/best-cheap-phone/",
@@ -525,7 +533,7 @@
         "/videos/tax-breaks-you-might-miss-in-2026-and-how-to-find-them/"
       ],
       "total": 1,
-      "total_allow": 198
+      "total_allow": 202
     },
     "CCBot": {
       "disallow": [
@@ -559,6 +567,7 @@
         "/paid-content/dji-builds-on-12-years-of-handheld-imaging-innovation-with-the-dji-osmo-360-ii/",
         "/paid-content/dji-osmo-pocket-4p-is-a-powerful-tool-for-independent-filmmakers/",
         "/paid-content/do-you-actually-need-a-separate-antivirus-vpn-and-scam-protection-mcafees-all-in-one-plans-have-you-covered/",
+        "/paid-content/does-a-laptop-powered-by-snapdragon-really-last-all-week-what-to-expect-from-the-hp-omnibook-3/",
         "/paid-content/enjoy-unlimited-wi-fi-and-predictable-pricing-with-on-your-home-internet/",
         "/paid-content/from-tacos-to-tvs-doordash-delivers-your-game-day-essentials/",
         "/paid-content/galaxy-s26-camera-system-the-biggest-questions-answered-before-you-buy/",
@@ -582,6 +591,7 @@
         "/paid-content/how-to-choose-the-right-dell-ai-laptop-for-your-workflow/",
         "/paid-content/how-to-get-fast-reliable-fiber-internet-at-a-predictable-transparent-price/",
         "/paid-content/how-to-get-your-backyard-ready-for-summer-with-lights-and-sound/",
+        "/paid-content/how-to-make-an-image-from-text-with-ai-in-2026-using-adobe-firefly/",
         "/paid-content/how-to-stream-pro-and-college-football-in-2026-with-directv-mysports-genre-pack/",
         "/paid-content/how-to-time-your-next-major-appliance-purchase-for-maximum-savings/",
         "/paid-content/how-to-try-out-ai-glasses-from-meta-at-your-local-best-buy/",
@@ -593,6 +603,7 @@
         "/paid-content/is-it-time-to-upgrade-your-iphone-with-t-mobiles-trade-in-offers-the-answer-is-yes/",
         "/paid-content/is-the-dell-xps-13-a-good-windows-alternative-to-a-macbook/",
         "/paid-content/is-wi-fi-7-worth-the-upgrade-heres-how-msis-roamii-mesh-systems-fit-in/",
+        "/paid-content/is-your-browsers-built-in-password-manager-enough-roboform-gives-you-an-upgrade/",
         "/paid-content/life-changes-and-new-laws-can-affect-your-tax-refund-how-to-estimate/",
         "/paid-content/maximize-your-refund-with-h-r-blocks-smart-tax-tools/",
         "/paid-content/maximize-your-wireless-savings-with-the-t-mobile-visa-credit-card/",
@@ -694,6 +705,7 @@
         "/paid-content/how-to-check-if-t-mobile-fiber-is-available-at-your-address/",
         "/paid-content/why-you-need-a-cutting-edge-vpn-to-keep-you-safe-online/",
         "/paid-content/why-you-need-an-internet-provider-with-no-data-caps/",
+        "/paid-content/will-my-apps-work-on-a-laptop-powered-by-snapdragon-a-plain-english-guide/",
         "/tech/mobile/apple-iphone-17-event-september-2025-what-to-expect/",
         "/tech/mobile/best-android-phone/",
         "/tech/mobile/best-cheap-phone/",
@@ -732,7 +744,7 @@
         "/videos/tax-breaks-you-might-miss-in-2026-and-how-to-find-them/"
       ],
       "total": 1,
-      "total_allow": 198
+      "total_allow": 202
     },
     "ChatGPT-User": {
       "disallow": [
@@ -766,6 +778,7 @@
         "/paid-content/dji-builds-on-12-years-of-handheld-imaging-innovation-with-the-dji-osmo-360-ii/",
         "/paid-content/dji-osmo-pocket-4p-is-a-powerful-tool-for-independent-filmmakers/",
         "/paid-content/do-you-actually-need-a-separate-antivirus-vpn-and-scam-protection-mcafees-all-in-one-plans-have-you-covered/",
+        "/paid-content/does-a-laptop-powered-by-snapdragon-really-last-all-week-what-to-expect-from-the-hp-omnibook-3/",
         "/paid-content/enjoy-unlimited-wi-fi-and-predictable-pricing-with-on-your-home-internet/",
         "/paid-content/from-tacos-to-tvs-doordash-delivers-your-game-day-essentials/",
         "/paid-content/galaxy-s26-camera-system-the-biggest-questions-answered-before-you-buy/",
@@ -789,6 +802,7 @@
         "/paid-content/how-to-choose-the-right-dell-ai-laptop-for-your-workflow/",
         "/paid-content/how-to-get-fast-reliable-fiber-internet-at-a-predictable-transparent-price/",
         "/paid-content/how-to-get-your-backyard-ready-for-summer-with-lights-and-sound/",
+        "/paid-content/how-to-make-an-image-from-text-with-ai-in-2026-using-adobe-firefly/",
         "/paid-content/how-to-stream-pro-and-college-football-in-2026-with-directv-mysports-genre-pack/",
         "/paid-content/how-to-time-your-next-major-appliance-purchase-for-maximum-savings/",
         "/paid-content/how-to-try-out-ai-glasses-from-meta-at-your-local-best-buy/",
@@ -800,6 +814,7 @@
         "/paid-content/is-it-time-to-upgrade-your-iphone-with-t-mobiles-trade-in-offers-the-answer-is-yes/",
         "/paid-content/is-the-dell-xps-13-a-good-windows-alternative-to-a-macbook/",
         "/paid-content/is-wi-fi-7-worth-the-upgrade-heres-how-msis-roamii-mesh-systems-fit-in/",
+        "/paid-content/is-your-browsers-built-in-password-manager-enough-roboform-gives-you-an-upgrade/",
         "/paid-content/life-changes-and-new-laws-can-affect-your-tax-refund-how-to-estimate/",
         "/paid-content/maximize-your-refund-with-h-r-blocks-smart-tax-tools/",
         "/paid-content/maximize-your-wireless-savings-with-the-t-mobile-visa-credit-card/",
@@ -901,6 +916,7 @@
         "/paid-content/how-to-check-if-t-mobile-fiber-is-available-at-your-address/",
         "/paid-content/why-you-need-a-cutting-edge-vpn-to-keep-you-safe-online/",
         "/paid-content/why-you-need-an-internet-provider-with-no-data-caps/",
+        "/paid-content/will-my-apps-work-on-a-laptop-powered-by-snapdragon-a-plain-english-guide/",
         "/tech/mobile/apple-iphone-17-event-september-2025-what-to-expect/",
         "/tech/mobile/best-android-phone/",
         "/tech/mobile/best-cheap-phone/",
@@ -939,7 +955,7 @@
         "/videos/tax-breaks-you-might-miss-in-2026-and-how-to-find-them/"
       ],
       "total": 1,
-      "total_allow": 198
+      "total_allow": 202
     },
     "Claude-Web": {
       "disallow": [
@@ -973,6 +989,7 @@
         "/paid-content/dji-builds-on-12-years-of-handheld-imaging-innovation-with-the-dji-osmo-360-ii/",
         "/paid-content/dji-osmo-pocket-4p-is-a-powerful-tool-for-independent-filmmakers/",
         "/paid-content/do-you-actually-need-a-separate-antivirus-vpn-and-scam-protection-mcafees-all-in-one-plans-have-you-covered/",
+        "/paid-content/does-a-laptop-powered-by-snapdragon-really-last-all-week-what-to-expect-from-the-hp-omnibook-3/",
         "/paid-content/enjoy-unlimited-wi-fi-and-predictable-pricing-with-on-your-home-internet/",
         "/paid-content/from-tacos-to-tvs-doordash-delivers-your-game-day-essentials/",
         "/paid-content/galaxy-s26-camera-system-the-biggest-questions-answered-before-you-buy/",
@@ -996,6 +1013,7 @@
         "/paid-content/how-to-choose-the-right-dell-ai-laptop-for-your-workflow/",
         "/paid-content/how-to-get-fast-reliable-fiber-internet-at-a-predictable-transparent-price/",
         "/paid-content/how-to-get-your-backyard-ready-for-summer-with-lights-and-sound/",
+        "/paid-content/how-to-make-an-image-from-text-with-ai-in-2026-using-adobe-firefly/",
         "/paid-content/how-to-stream-pro-and-college-football-in-2026-with-directv-mysports-genre-pack/",
         "/paid-content/how-to-time-your-next-major-appliance-purchase-for-maximum-savings/",
         "/paid-content/how-to-try-out-ai-glasses-from-meta-at-your-local-best-buy/",
@@ -1007,6 +1025,7 @@
         "/paid-content/is-it-time-to-upgrade-your-iphone-with-t-mobiles-trade-in-offers-the-answer-is-yes/",
         "/paid-content/is-the-dell-xps-13-a-good-windows-alternative-to-a-macbook/",
         "/paid-content/is-wi-fi-7-worth-the-upgrade-heres-how-msis-roamii-mesh-systems-fit-in/",
+        "/paid-content/is-your-browsers-built-in-password-manager-enough-roboform-gives-you-an-upgrade/",
         "/paid-content/life-changes-and-new-laws-can-affect-your-tax-refund-how-to-estimate/",
         "/paid-content/maximize-your-refund-with-h-r-blocks-smart-tax-tools/",
         "/paid-content/maximize-your-wireless-savings-with-the-t-mobile-visa-credit-card/",
@@ -1108,6 +1127,7 @@
         "/paid-content/how-to-check-if-t-mobile-fiber-is-available-at-your-address/",
         "/paid-content/why-you-need-a-cutting-edge-vpn-to-keep-you-safe-online/",
         "/paid-content/why-you-need-an-internet-provider-with-no-data-caps/",
+        "/paid-content/will-my-apps-work-on-a-laptop-powered-by-snapdragon-a-plain-english-guide/",
         "/tech/mobile/apple-iphone-17-event-september-2025-what-to-expect/",
         "/tech/mobile/best-android-phone/",
         "/tech/mobile/best-cheap-phone/",
@@ -1146,7 +1166,7 @@
         "/videos/tax-breaks-you-might-miss-in-2026-and-how-to-find-them/"
       ],
       "total": 1,
-      "total_allow": 198
+      "total_allow": 202
     },
     "ClaudeBot": {
       "disallow": [
@@ -1180,6 +1200,7 @@
         "/paid-content/dji-builds-on-12-years-of-handheld-imaging-innovation-with-the-dji-osmo-360-ii/",
         "/paid-content/dji-osmo-pocket-4p-is-a-powerful-tool-for-independent-filmmakers/",
         "/paid-content/do-you-actually-need-a-separate-antivirus-vpn-and-scam-protection-mcafees-all-in-one-plans-have-you-covered/",
+        "/paid-content/does-a-laptop-powered-by-snapdragon-really-last-all-week-what-to-expect-from-the-hp-omnibook-3/",
         "/paid-content/enjoy-unlimited-wi-fi-and-predictable-pricing-with-on-your-home-internet/",
         "/paid-content/from-tacos-to-tvs-doordash-delivers-your-game-day-essentials/",
         "/paid-content/galaxy-s26-camera-system-the-biggest-questions-answered-before-you-buy/",
@@ -1203,6 +1224,7 @@
         "/paid-content/how-to-choose-the-right-dell-ai-laptop-for-your-workflow/",
         "/paid-content/how-to-get-fast-reliable-fiber-internet-at-a-predictable-transparent-price/",
         "/paid-content/how-to-get-your-backyard-ready-for-summer-with-lights-and-sound/",
+        "/paid-content/how-to-make-an-image-from-text-with-ai-in-2026-using-adobe-firefly/",
         "/paid-content/how-to-stream-pro-and-college-football-in-2026-with-directv-mysports-genre-pack/",
         "/paid-content/how-to-time-your-next-major-appliance-purchase-for-maximum-savings/",
         "/paid-content/how-to-try-out-ai-glasses-from-meta-at-your-local-best-buy/",
@@ -1214,6 +1236,7 @@
         "/paid-content/is-it-time-to-upgrade-your-iphone-with-t-mobiles-trade-in-offers-the-answer-is-yes/",
         "/paid-content/is-the-dell-xps-13-a-good-windows-alternative-to-a-macbook/",
         "/paid-content/is-wi-fi-7-worth-the-upgrade-heres-how-msis-roamii-mesh-systems-fit-in/",
+        "/paid-content/is-your-browsers-built-in-password-manager-enough-roboform-gives-you-an-upgrade/",
         "/paid-content/life-changes-and-new-laws-can-affect-your-tax-refund-how-to-estimate/",
         "/paid-content/maximize-your-refund-with-h-r-blocks-smart-tax-tools/",
         "/paid-content/maximize-your-wireless-savings-with-the-t-mobile-visa-credit-card/",
@@ -1315,6 +1338,7 @@
         "/paid-content/how-to-check-if-t-mobile-fiber-is-available-at-your-address/",
         "/paid-content/why-you-need-a-cutting-edge-vpn-to-keep-you-safe-online/",
         "/paid-content/why-you-need-an-internet-provider-with-no-data-caps/",
+        "/paid-content/will-my-apps-work-on-a-laptop-powered-by-snapdragon-a-plain-english-guide/",
         "/tech/mobile/apple-iphone-17-event-september-2025-what-to-expect/",
         "/tech/mobile/best-android-phone/",
         "/tech/mobile/best-cheap-phone/",
@@ -1353,7 +1377,7 @@
         "/videos/tax-breaks-you-might-miss-in-2026-and-how-to-find-them/"
       ],
       "total": 1,
-      "total_allow": 198
+      "total_allow": 202
     },
     "Diffbot": {
       "disallow": [
@@ -1387,6 +1411,7 @@
         "/paid-content/dji-builds-on-12-years-of-handheld-imaging-innovation-with-the-dji-osmo-360-ii/",
         "/paid-content/dji-osmo-pocket-4p-is-a-powerful-tool-for-independent-filmmakers/",
         "/paid-content/do-you-actually-need-a-separate-antivirus-vpn-and-scam-protection-mcafees-all-in-one-plans-have-you-covered/",
+        "/paid-content/does-a-laptop-powered-by-snapdragon-really-last-all-week-what-to-expect-from-the-hp-omnibook-3/",
         "/paid-content/enjoy-unlimited-wi-fi-and-predictable-pricing-with-on-your-home-internet/",
         "/paid-content/from-tacos-to-tvs-doordash-delivers-your-game-day-essentials/",
         "/paid-content/galaxy-s26-camera-system-the-biggest-questions-answered-before-you-buy/",
@@ -1410,6 +1435,7 @@
         "/paid-content/how-to-choose-the-right-dell-ai-laptop-for-your-workflow/",
         "/paid-content/how-to-get-fast-reliable-fiber-internet-at-a-predictable-transparent-price/",
         "/paid-content/how-to-get-your-backyard-ready-for-summer-with-lights-and-sound/",
+        "/paid-content/how-to-make-an-image-from-text-with-ai-in-2026-using-adobe-firefly/",
         "/paid-content/how-to-stream-pro-and-college-football-in-2026-with-directv-mysports-genre-pack/",
         "/paid-content/how-to-time-your-next-major-appliance-purchase-for-maximum-savings/",
         "/paid-content/how-to-try-out-ai-glasses-from-meta-at-your-local-best-buy/",
@@ -1421,6 +1447,7 @@
         "/paid-content/is-it-time-to-upgrade-your-iphone-with-t-mobiles-trade-in-offers-the-answer-is-yes/",
         "/paid-content/is-the-dell-xps-13-a-good-windows-alternative-to-a-macbook/",
         "/paid-content/is-wi-fi-7-worth-the-upgrade-heres-how-msis-roamii-mesh-systems-fit-in/",
+        "/paid-content/is-your-browsers-built-in-password-manager-enough-roboform-gives-you-an-upgrade/",
         "/paid-content/life-changes-and-new-laws-can-affect-your-tax-refund-how-to-estimate/",
         "/paid-content/maximize-your-refund-with-h-r-blocks-smart-tax-tools/",
         "/paid-content/maximize-your-wireless-savings-with-the-t-mobile-visa-credit-card/",
@@ -1522,6 +1549,7 @@
         "/paid-content/how-to-check-if-t-mobile-fiber-is-available-at-your-address/",
         "/paid-content/why-you-need-a-cutting-edge-vpn-to-keep-you-safe-online/",
         "/paid-content/why-you-need-an-internet-provider-with-no-data-caps/",
+        "/paid-content/will-my-apps-work-on-a-laptop-powered-by-snapdragon-a-plain-english-guide/",
         "/tech/mobile/apple-iphone-17-event-september-2025-what-to-expect/",
         "/tech/mobile/best-android-phone/",
         "/tech/mobile/best-cheap-phone/",
@@ -1560,7 +1588,7 @@
         "/videos/tax-breaks-you-might-miss-in-2026-and-how-to-find-them/"
       ],
       "total": 1,
-      "total_allow": 198
+      "total_allow": 202
     },
     "DuckAssistBot": {
       "disallow": [
@@ -1594,6 +1622,7 @@
         "/paid-content/dji-builds-on-12-years-of-handheld-imaging-innovation-with-the-dji-osmo-360-ii/",
         "/paid-content/dji-osmo-pocket-4p-is-a-powerful-tool-for-independent-filmmakers/",
         "/paid-content/do-you-actually-need-a-separate-antivirus-vpn-and-scam-protection-mcafees-all-in-one-plans-have-you-covered/",
+        "/paid-content/does-a-laptop-powered-by-snapdragon-really-last-all-week-what-to-expect-from-the-hp-omnibook-3/",
         "/paid-content/enjoy-unlimited-wi-fi-and-predictable-pricing-with-on-your-home-internet/",
         "/paid-content/from-tacos-to-tvs-doordash-delivers-your-game-day-essentials/",
         "/paid-content/galaxy-s26-camera-system-the-biggest-questions-answered-before-you-buy/",
@@ -1617,6 +1646,7 @@
         "/paid-content/how-to-choose-the-right-dell-ai-laptop-for-your-workflow/",
         "/paid-content/how-to-get-fast-reliable-fiber-internet-at-a-predictable-transparent-price/",
         "/paid-content/how-to-get-your-backyard-ready-for-summer-with-lights-and-sound/",
+        "/paid-content/how-to-make-an-image-from-text-with-ai-in-2026-using-adobe-firefly/",
         "/paid-content/how-to-stream-pro-and-college-football-in-2026-with-directv-mysports-genre-pack/",
         "/paid-content/how-to-time-your-next-major-appliance-purchase-for-maximum-savings/",
         "/paid-content/how-to-try-out-ai-glasses-from-meta-at-your-local-best-buy/",
@@ -1628,6 +1658,7 @@
         "/paid-content/is-it-time-to-upgrade-your-iphone-with-t-mobiles-trade-in-offers-the-answer-is-yes/",
         "/paid-content/is-the-dell-xps-13-a-good-windows-alternative-to-a-macbook/",
         "/paid-content/is-wi-fi-7-worth-the-upgrade-heres-how-msis-roamii-mesh-systems-fit-in/",
+        "/paid-content/is-your-browsers-built-in-password-manager-enough-roboform-gives-you-an-upgrade/",
         "/paid-content/life-changes-and-new-laws-can-affect-your-tax-refund-how-to-estimate/",
         "/paid-content/maximize-your-refund-with-h-r-blocks-smart-tax-tools/",
         "/paid-content/maximize-your-wireless-savings-with-the-t-mobile-visa-credit-card/",
@@ -1729,6 +1760,7 @@
         "/paid-content/how-to-check-if-t-mobile-fiber-is-available-at-your-address/",
         "/paid-content/why-you-need-a-cutting-edge-vpn-to-keep-you-safe-online/",
         "/paid-content/why-you-need-an-internet-provider-with-no-data-caps/",
+        "/paid-content/will-my-apps-work-on-a-laptop-powered-by-snapdragon-a-plain-english-guide/",
         "/tech/mobile/apple-iphone-17-event-september-2025-what-to-expect/",
         "/tech/mobile/best-android-phone/",
         "/tech/mobile/best-cheap-phone/",
@@ -1767,7 +1799,7 @@
         "/videos/tax-breaks-you-might-miss-in-2026-and-how-to-find-them/"
       ],
       "total": 1,
-      "total_allow": 198
+      "total_allow": 202
     },
     "GPTBot": {
       "disallow": [
@@ -1801,6 +1833,7 @@
         "/paid-content/dji-builds-on-12-years-of-handheld-imaging-innovation-with-the-dji-osmo-360-ii/",
         "/paid-content/dji-osmo-pocket-4p-is-a-powerful-tool-for-independent-filmmakers/",
         "/paid-content/do-you-actually-need-a-separate-antivirus-vpn-and-scam-protection-mcafees-all-in-one-plans-have-you-covered/",
+        "/paid-content/does-a-laptop-powered-by-snapdragon-really-last-all-week-what-to-expect-from-the-hp-omnibook-3/",
         "/paid-content/enjoy-unlimited-wi-fi-and-predictable-pricing-with-on-your-home-internet/",
         "/paid-content/from-tacos-to-tvs-doordash-delivers-your-game-day-essentials/",
         "/paid-content/galaxy-s26-camera-system-the-biggest-questions-answered-before-you-buy/",
@@ -1824,6 +1857,7 @@
         "/paid-content/how-to-choose-the-right-dell-ai-laptop-for-your-workflow/",
         "/paid-content/how-to-get-fast-reliable-fiber-internet-at-a-predictable-transparent-price/",
         "/paid-content/how-to-get-your-backyard-ready-for-summer-with-lights-and-sound/",
+        "/paid-content/how-to-make-an-image-from-text-with-ai-in-2026-using-adobe-firefly/",
         "/paid-content/how-to-stream-pro-and-college-football-in-2026-with-directv-mysports-genre-pack/",
         "/paid-content/how-to-time-your-next-major-appliance-purchase-for-maximum-savings/",
         "/paid-content/how-to-try-out-ai-glasses-from-meta-at-your-local-best-buy/",
@@ -1835,6 +1869,7 @@
         "/paid-content/is-it-time-to-upgrade-your-iphone-with-t-mobiles-trade-in-offers-the-answer-is-yes/",
         "/paid-content/is-the-dell-xps-13-a-good-windows-alternative-to-a-macbook/",
         "/paid-content/is-wi-fi-7-worth-the-upgrade-heres-how-msis-roamii-mesh-systems-fit-in/",
+        "/paid-content/is-your-browsers-built-in-password-manager-enough-roboform-gives-you-an-upgrade/",
         "/paid-content/life-changes-and-new-laws-can-affect-your-tax-refund-how-to-estimate/",
         "/paid-content/maximize-your-refund-with-h-r-blocks-smart-tax-tools/",
         "/paid-content/maximize-your-wireless-savings-with-the-t-mobile-visa-credit-card/",
@@ -1936,6 +1971,7 @@
         "/paid-content/how-to-check-if-t-mobile-fiber-is-available-at-your-address/",
         "/paid-content/why-you-need-a-cutting-edge-vpn-to-keep-you-safe-online/",
         "/paid-content/why-you-need-an-internet-provider-with-no-data-caps/",
+        "/paid-content/will-my-apps-work-on-a-laptop-powered-by-snapdragon-a-plain-english-guide/",
         "/tech/mobile/apple-iphone-17-event-september-2025-what-to-expect/",
         "/tech/mobile/best-android-phone/",
         "/tech/mobile/best-cheap-phone/",
@@ -1974,7 +2010,7 @@
         "/videos/tax-breaks-you-might-miss-in-2026-and-how-to-find-them/"
       ],
       "total": 1,
-      "total_allow": 198
+      "total_allow": 202
     },
     "OAI-SearchBot": {
       "disallow": [
@@ -2008,6 +2044,7 @@
         "/paid-content/dji-builds-on-12-years-of-handheld-imaging-innovation-with-the-dji-osmo-360-ii/",
         "/paid-content/dji-osmo-pocket-4p-is-a-powerful-tool-for-independent-filmmakers/",
         "/paid-content/do-you-actually-need-a-separate-antivirus-vpn-and-scam-protection-mcafees-all-in-one-plans-have-you-covered/",
+        "/paid-content/does-a-laptop-powered-by-snapdragon-really-last-all-week-what-to-expect-from-the-hp-omnibook-3/",
         "/paid-content/enjoy-unlimited-wi-fi-and-predictable-pricing-with-on-your-home-internet/",
         "/paid-content/from-tacos-to-tvs-doordash-delivers-your-game-day-essentials/",
         "/paid-content/galaxy-s26-camera-system-the-biggest-questions-answered-before-you-buy/",
@@ -2031,6 +2068,7 @@
         "/paid-content/how-to-choose-the-right-dell-ai-laptop-for-your-workflow/",
         "/paid-content/how-to-get-fast-reliable-fiber-internet-at-a-predictable-transparent-price/",
         "/paid-content/how-to-get-your-backyard-ready-for-summer-with-lights-and-sound/",
+        "/paid-content/how-to-make-an-image-from-text-with-ai-in-2026-using-adobe-firefly/",
         "/paid-content/how-to-stream-pro-and-college-football-in-2026-with-directv-mysports-genre-pack/",
         "/paid-content/how-to-time-your-next-major-appliance-purchase-for-maximum-savings/",
         "/paid-content/how-to-try-out-ai-glasses-from-meta-at-your-local-best-buy/",
@@ -2042,6 +2080,7 @@
         "/paid-content/is-it-time-to-upgrade-your-iphone-with-t-mobiles-trade-in-offers-the-answer-is-yes/",
         "/paid-content/is-the-dell-xps-13-a-good-windows-alternative-to-a-macbook/",
         "/paid-content/is-wi-fi-7-worth-the-upgrade-heres-how-msis-roamii-mesh-systems-fit-in/",
+        "/paid-content/is-your-browsers-built-in-password-manager-enough-roboform-gives-you-an-upgrade/",
         "/paid-content/life-changes-and-new-laws-can-affect-your-tax-refund-how-to-estimate/",
         "/paid-content/maximize-your-refund-with-h-r-blocks-smart-tax-tools/",
         "/paid-content/maximize-your-wireless-savings-with-the-t-mobile-visa-credit-card/",
@@ -2143,6 +2182,7 @@
         "/paid-content/how-to-check-if-t-mobile-fiber-is-available-at-your-address/",
         "/paid-content/why-you-need-a-cutting-edge-vpn-to-keep-you-safe-online/",
         "/paid-content/why-you-need-an-internet-provider-with-no-data-caps/",
+        "/paid-content/will-my-apps-work-on-a-laptop-powered-by-snapdragon-a-plain-english-guide/",
         "/tech/mobile/apple-iphone-17-event-september-2025-what-to-expect/",
         "/tech/mobile/best-android-phone/",
         "/tech/mobile/best-cheap-phone/",
@@ -2181,7 +2221,7 @@
         "/videos/tax-breaks-you-might-miss-in-2026-and-how-to-find-them/"
       ],
       "total": 1,
-      "total_allow": 198
+      "total_allow": 202
     },
     "Omgilibot": {
       "disallow": [
@@ -2223,6 +2263,7 @@
         "/paid-content/dji-builds-on-12-years-of-handheld-imaging-innovation-with-the-dji-osmo-360-ii/",
         "/paid-content/dji-osmo-pocket-4p-is-a-powerful-tool-for-independent-filmmakers/",
         "/paid-content/do-you-actually-need-a-separate-antivirus-vpn-and-scam-protection-mcafees-all-in-one-plans-have-you-covered/",
+        "/paid-content/does-a-laptop-powered-by-snapdragon-really-last-all-week-what-to-expect-from-the-hp-omnibook-3/",
         "/paid-content/enjoy-unlimited-wi-fi-and-predictable-pricing-with-on-your-home-internet/",
         "/paid-content/from-tacos-to-tvs-doordash-delivers-your-game-day-essentials/",
         "/paid-content/galaxy-s26-camera-system-the-biggest-questions-answered-before-you-buy/",
@@ -2246,6 +2287,7 @@
         "/paid-content/how-to-choose-the-right-dell-ai-laptop-for-your-workflow/",
         "/paid-content/how-to-get-fast-reliable-fiber-internet-at-a-predictable-transparent-price/",
         "/paid-content/how-to-get-your-backyard-ready-for-summer-with-lights-and-sound/",
+        "/paid-content/how-to-make-an-image-from-text-with-ai-in-2026-using-adobe-firefly/",
         "/paid-content/how-to-stream-pro-and-college-football-in-2026-with-directv-mysports-genre-pack/",
         "/paid-content/how-to-time-your-next-major-appliance-purchase-for-maximum-savings/",
         "/paid-content/how-to-try-out-ai-glasses-from-meta-at-your-local-best-buy/",
@@ -2257,6 +2299,7 @@
         "/paid-content/is-it-time-to-upgrade-your-iphone-with-t-mobiles-trade-in-offers-the-answer-is-yes/",
         "/paid-content/is-the-dell-xps-13-a-good-windows-alternative-to-a-macbook/",
         "/paid-content/is-wi-fi-7-worth-the-upgrade-heres-how-msis-roamii-mesh-systems-fit-in/",
+        "/paid-content/is-your-browsers-built-in-password-manager-enough-roboform-gives-you-an-upgrade/",
         "/paid-content/life-changes-and-new-laws-can-affect-your-tax-refund-how-to-estimate/",
         "/paid-content/maximize-your-refund-with-h-r-blocks-smart-tax-tools/",
         "/paid-content/maximize-your-wireless-savings-with-the-t-mobile-visa-credit-card/",
@@ -2358,6 +2401,7 @@
         "/paid-content/how-to-check-if-t-mobile-fiber-is-available-at-your-address/",
         "/paid-content/why-you-need-a-cutting-edge-vpn-to-keep-you-safe-online/",
         "/paid-content/why-you-need-an-internet-provider-with-no-data-caps/",
+        "/paid-content/will-my-apps-work-on-a-laptop-powered-by-snapdragon-a-plain-english-guide/",
         "/tech/mobile/apple-iphone-17-event-september-2025-what-to-expect/",
         "/tech/mobile/best-android-phone/",
         "/tech/mobile/best-cheap-phone/",
@@ -2396,7 +2440,7 @@
         "/videos/tax-breaks-you-might-miss-in-2026-and-how-to-find-them/"
       ],
       "total": 1,
-      "total_allow": 198
+      "total_allow": 202
     },
     "PerplexityBot": {
       "disallow": [
@@ -2430,6 +2474,7 @@
         "/paid-content/dji-builds-on-12-years-of-handheld-imaging-innovation-with-the-dji-osmo-360-ii/",
         "/paid-content/dji-osmo-pocket-4p-is-a-powerful-tool-for-independent-filmmakers/",
         "/paid-content/do-you-actually-need-a-separate-antivirus-vpn-and-scam-protection-mcafees-all-in-one-plans-have-you-covered/",
+        "/paid-content/does-a-laptop-powered-by-snapdragon-really-last-all-week-what-to-expect-from-the-hp-omnibook-3/",
         "/paid-content/enjoy-unlimited-wi-fi-and-predictable-pricing-with-on-your-home-internet/",
         "/paid-content/from-tacos-to-tvs-doordash-delivers-your-game-day-essentials/",
         "/paid-content/galaxy-s26-camera-system-the-biggest-questions-answered-before-you-buy/",
@@ -2453,6 +2498,7 @@
         "/paid-content/how-to-choose-the-right-dell-ai-laptop-for-your-workflow/",
         "/paid-content/how-to-get-fast-reliable-fiber-internet-at-a-predictable-transparent-price/",
         "/paid-content/how-to-get-your-backyard-ready-for-summer-with-lights-and-sound/",
+        "/paid-content/how-to-make-an-image-from-text-with-ai-in-2026-using-adobe-firefly/",
         "/paid-content/how-to-stream-pro-and-college-football-in-2026-with-directv-mysports-genre-pack/",
         "/paid-content/how-to-time-your-next-major-appliance-purchase-for-maximum-savings/",
         "/paid-content/how-to-try-out-ai-glasses-from-meta-at-your-local-best-buy/",
@@ -2464,6 +2510,7 @@
         "/paid-content/is-it-time-to-upgrade-your-iphone-with-t-mobiles-trade-in-offers-the-answer-is-yes/",
         "/paid-content/is-the-dell-xps-13-a-good-windows-alternative-to-a-macbook/",
         "/paid-content/is-wi-fi-7-worth-the-upgrade-heres-how-msis-roamii-mesh-systems-fit-in/",
+        "/paid-content/is-your-browsers-built-in-password-manager-enough-roboform-gives-you-an-upgrade/",
         "/paid-content/life-changes-and-new-laws-can-affect-your-tax-refund-how-to-estimate/",
         "/paid-content/maximize-your-refund-with-h-r-blocks-smart-tax-tools/",
         "/paid-content/maximize-your-wireless-savings-with-the-t-mobile-visa-credit-card/",
@@ -2565,6 +2612,7 @@
         "/paid-content/how-to-check-if-t-mobile-fiber-is-available-at-your-address/",
         "/paid-content/why-you-need-a-cutting-edge-vpn-to-keep-you-safe-online/",
         "/paid-content/why-you-need-an-internet-provider-with-no-data-caps/",
+        "/paid-content/will-my-apps-work-on-a-laptop-powered-by-snapdragon-a-plain-english-guide/",
         "/tech/mobile/apple-iphone-17-event-september-2025-what-to-expect/",
         "/tech/mobile/best-android-phone/",
         "/tech/mobile/best-cheap-phone/",
@@ -2603,7 +2651,7 @@
         "/videos/tax-breaks-you-might-miss-in-2026-and-how-to-find-them/"
       ],
       "total": 1,
-      "total_allow": 198
+      "total_allow": 202
     },
     "Timpibot": {
       "disallow": [
@@ -2637,6 +2685,7 @@
         "/paid-content/dji-builds-on-12-years-of-handheld-imaging-innovation-with-the-dji-osmo-360-ii/",
         "/paid-content/dji-osmo-pocket-4p-is-a-powerful-tool-for-independent-filmmakers/",
         "/paid-content/do-you-actually-need-a-separate-antivirus-vpn-and-scam-protection-mcafees-all-in-one-plans-have-you-covered/",
+        "/paid-content/does-a-laptop-powered-by-snapdragon-really-last-all-week-what-to-expect-from-the-hp-omnibook-3/",
         "/paid-content/enjoy-unlimited-wi-fi-and-predictable-pricing-with-on-your-home-internet/",
         "/paid-content/from-tacos-to-tvs-doordash-delivers-your-game-day-essentials/",
         "/paid-content/galaxy-s26-camera-system-the-biggest-questions-answered-before-you-buy/",
@@ -2660,6 +2709,7 @@
         "/paid-content/how-to-choose-the-right-dell-ai-laptop-for-your-workflow/",
         "/paid-content/how-to-get-fast-reliable-fiber-internet-at-a-predictable-transparent-price/",
         "/paid-content/how-to-get-your-backyard-ready-for-summer-with-lights-and-sound/",
+        "/paid-content/how-to-make-an-image-from-text-with-ai-in-2026-using-adobe-firefly/",
         "/paid-content/how-to-stream-pro-and-college-football-in-2026-with-directv-mysports-genre-pack/",
         "/paid-content/how-to-time-your-next-major-appliance-purchase-for-maximum-savings/",
         "/paid-content/how-to-try-out-ai-glasses-from-meta-at-your-local-best-buy/",
@@ -2671,6 +2721,7 @@
         "/paid-content/is-it-time-to-upgrade-your-iphone-with-t-mobiles-trade-in-offers-the-answer-is-yes/",
         "/paid-content/is-the-dell-xps-13-a-good-windows-alternative-to-a-macbook/",
         "/paid-content/is-wi-fi-7-worth-the-upgrade-heres-how-msis-roamii-mesh-systems-fit-in/",
+        "/paid-content/is-your-browsers-built-in-password-manager-enough-roboform-gives-you-an-upgrade/",
         "/paid-content/life-changes-and-new-laws-can-affect-your-tax-refund-how-to-estimate/",
         "/paid-content/maximize-your-refund-with-h-r-blocks-smart-tax-tools/",
         "/paid-content/maximize-your-wireless-savings-with-the-t-mobile-visa-credit-card/",
@@ -2772,6 +2823,7 @@
         "/paid-content/how-to-check-if-t-mobile-fiber-is-available-at-your-address/",
         "/paid-content/why-you-need-a-cutting-edge-vpn-to-keep-you-safe-online/",
         "/paid-content/why-you-need-an-internet-provider-with-no-data-caps/",
+        "/paid-content/will-my-apps-work-on-a-laptop-powered-by-snapdragon-a-plain-english-guide/",
         "/tech/mobile/apple-iphone-17-event-september-2025-what-to-expect/",
         "/tech/mobile/best-android-phone/",
         "/tech/mobile/best-cheap-phone/",
@@ -2810,7 +2862,7 @@
         "/videos/tax-breaks-you-might-miss-in-2026-and-how-to-find-them/"
       ],
       "total": 1,
-      "total_allow": 198
+      "total_allow": 202
     },
     "YouBot": {
       "disallow": [
@@ -2844,6 +2896,7 @@
         "/paid-content/dji-builds-on-12-years-of-handheld-imaging-innovation-with-the-dji-osmo-360-ii/",
         "/paid-content/dji-osmo-pocket-4p-is-a-powerful-tool-for-independent-filmmakers/",
         "/paid-content/do-you-actually-need-a-separate-antivirus-vpn-and-scam-protection-mcafees-all-in-one-plans-have-you-covered/",
+        "/paid-content/does-a-laptop-powered-by-snapdragon-really-last-all-week-what-to-expect-from-the-hp-omnibook-3/",
         "/paid-content/enjoy-unlimited-wi-fi-and-predictable-pricing-with-on-your-home-internet/",
         "/paid-content/from-tacos-to-tvs-doordash-delivers-your-game-day-essentials/",
         "/paid-content/galaxy-s26-camera-system-the-biggest-questions-answered-before-you-buy/",
@@ -2867,6 +2920,7 @@
         "/paid-content/how-to-choose-the-right-dell-ai-laptop-for-your-workflow/",
         "/paid-content/how-to-get-fast-reliable-fiber-internet-at-a-predictable-transparent-price/",
         "/paid-content/how-to-get-your-backyard-ready-for-summer-with-lights-and-sound/",
+        "/paid-content/how-to-make-an-image-from-text-with-ai-in-2026-using-adobe-firefly/",
         "/paid-content/how-to-stream-pro-and-college-football-in-2026-with-directv-mysports-genre-pack/",
         "/paid-content/how-to-time-your-next-major-appliance-purchase-for-maximum-savings/",
         "/paid-content/how-to-try-out-ai-glasses-from-meta-at-your-local-best-buy/",
@@ -2878,6 +2932,7 @@
         "/paid-content/is-it-time-to-upgrade-your-iphone-with-t-mobiles-trade-in-offers-the-answer-is-yes/",
         "/paid-content/is-the-dell-xps-13-a-good-windows-alternative-to-a-macbook/",
         "/paid-content/is-wi-fi-7-worth-the-upgrade-heres-how-msis-roamii-mesh-systems-fit-in/",
+        "/paid-content/is-your-browsers-built-in-password-manager-enough-roboform-gives-you-an-upgrade/",
         "/paid-content/life-changes-and-new-laws-can-affect-your-tax-refund-how-to-estimate/",
         "/paid-content/maximize-your-refund-with-h-r-blocks-smart-tax-tools/",
         "/paid-content/maximize-your-wireless-savings-with-the-t-mobile-visa-credit-card/",
@@ -2979,6 +3034,7 @@
         "/paid-content/how-to-check-if-t-mobile-fiber-is-available-at-your-address/",
         "/paid-content/why-you-need-a-cutting-edge-vpn-to-keep-you-safe-online/",
         "/paid-content/why-you-need-an-internet-provider-with-no-data-caps/",
+        "/paid-content/will-my-apps-work-on-a-laptop-powered-by-snapdragon-a-plain-english-guide/",
         "/tech/mobile/apple-iphone-17-event-september-2025-what-to-expect/",
         "/tech/mobile/best-android-phone/",
         "/tech/mobile/best-cheap-phone/",
@@ -3017,7 +3073,7 @@
         "/videos/tax-breaks-you-might-miss-in-2026-and-how-to-find-them/"
       ],
       "total": 1,
-      "total_allow": 198
+      "total_allow": 202
     },
     "anthropic-ai": {
       "disallow": [
@@ -3051,6 +3107,7 @@
         "/paid-content/dji-builds-on-12-years-of-handheld-imaging-innovation-with-the-dji-osmo-360-ii/",
         "/paid-content/dji-osmo-pocket-4p-is-a-powerful-tool-for-independent-filmmakers/",
         "/paid-content/do-you-actually-need-a-separate-antivirus-vpn-and-scam-protection-mcafees-all-in-one-plans-have-you-covered/",
+        "/paid-content/does-a-laptop-powered-by-snapdragon-really-last-all-week-what-to-expect-from-the-hp-omnibook-3/",
         "/paid-content/enjoy-unlimited-wi-fi-and-predictable-pricing-with-on-your-home-internet/",
         "/paid-content/from-tacos-to-tvs-doordash-delivers-your-game-day-essentials/",
         "/paid-content/galaxy-s26-camera-system-the-biggest-questions-answered-before-you-buy/",
@@ -3074,6 +3131,7 @@
         "/paid-content/how-to-choose-the-right-dell-ai-laptop-for-your-workflow/",
         "/paid-content/how-to-get-fast-reliable-fiber-internet-at-a-predictable-transparent-price/",
         "/paid-content/how-to-get-your-backyard-ready-for-summer-with-lights-and-sound/",
+        "/paid-content/how-to-make-an-image-from-text-with-ai-in-2026-using-adobe-firefly/",
         "/paid-content/how-to-stream-pro-and-college-football-in-2026-with-directv-mysports-genre-pack/",
         "/paid-content/how-to-time-your-next-major-appliance-purchase-for-maximum-savings/",
         "/paid-content/how-to-try-out-ai-glasses-from-meta-at-your-local-best-buy/",
@@ -3085,6 +3143,7 @@
         "/paid-content/is-it-time-to-upgrade-your-iphone-with-t-mobiles-trade-in-offers-the-answer-is-yes/",
         "/paid-content/is-the-dell-xps-13-a-good-windows-alternative-to-a-macbook/",
         "/paid-content/is-wi-fi-7-worth-the-upgrade-heres-how-msis-roamii-mesh-systems-fit-in/",
+        "/paid-content/is-your-browsers-built-in-password-manager-enough-roboform-gives-you-an-upgrade/",
         "/paid-content/life-changes-and-new-laws-can-affect-your-tax-refund-how-to-estimate/",
         "/paid-content/maximize-your-refund-with-h-r-blocks-smart-tax-tools/",
         "/paid-content/maximize-your-wireless-savings-with-the-t-mobile-visa-credit-card/",
@@ -3186,6 +3245,7 @@
         "/paid-content/how-to-check-if-t-mobile-fiber-is-available-at-your-address/",
         "/paid-content/why-you-need-a-cutting-edge-vpn-to-keep-you-safe-online/",
         "/paid-content/why-you-need-an-internet-provider-with-no-data-caps/",
+        "/paid-content/will-my-apps-work-on-a-laptop-powered-by-snapdragon-a-plain-english-guide/",
         "/tech/mobile/apple-iphone-17-event-september-2025-what-to-expect/",
         "/tech/mobile/best-android-phone/",
         "/tech/mobile/best-cheap-phone/",
@@ -3224,7 +3284,7 @@
         "/videos/tax-breaks-you-might-miss-in-2026-and-how-to-find-them/"
       ],
       "total": 1,
-      "total_allow": 198
+      "total_allow": 202
     },
     "cohere-ai": {
       "disallow": [
@@ -3258,6 +3318,7 @@
         "/paid-content/dji-builds-on-12-years-of-handheld-imaging-innovation-with-the-dji-osmo-360-ii/",
         "/paid-content/dji-osmo-pocket-4p-is-a-powerful-tool-for-independent-filmmakers/",
         "/paid-content/do-you-actually-need-a-separate-antivirus-vpn-and-scam-protection-mcafees-all-in-one-plans-have-you-covered/",
+        "/paid-content/does-a-laptop-powered-by-snapdragon-really-last-all-week-what-to-expect-from-the-hp-omnibook-3/",
         "/paid-content/enjoy-unlimited-wi-fi-and-predictable-pricing-with-on-your-home-internet/",
         "/paid-content/from-tacos-to-tvs-doordash-delivers-your-game-day-essentials/",
         "/paid-content/galaxy-s26-camera-system-the-biggest-questions-answered-before-you-buy/",
@@ -3281,6 +3342,7 @@
         "/paid-content/how-to-choose-the-right-dell-ai-laptop-for-your-workflow/",
         "/paid-content/how-to-get-fast-reliable-fiber-internet-at-a-predictable-transparent-price/",
         "/paid-content/how-to-get-your-backyard-ready-for-summer-with-lights-and-sound/",
+        "/paid-content/how-to-make-an-image-from-text-with-ai-in-2026-using-adobe-firefly/",
         "/paid-content/how-to-stream-pro-and-college-football-in-2026-with-directv-mysports-genre-pack/",
         "/paid-content/how-to-time-your-next-major-appliance-purchase-for-maximum-savings/",
         "/paid-content/how-to-try-out-ai-glasses-from-meta-at-your-local-best-buy/",
@@ -3292,6 +3354,7 @@
         "/paid-content/is-it-time-to-upgrade-your-iphone-with-t-mobiles-trade-in-offers-the-answer-is-yes/",
         "/paid-content/is-the-dell-xps-13-a-good-windows-alternative-to-a-macbook/",
         "/paid-content/is-wi-fi-7-worth-the-upgrade-heres-how-msis-roamii-mesh-systems-fit-in/",
+        "/paid-content/is-your-browsers-built-in-password-manager-enough-roboform-gives-you-an-upgrade/",
         "/paid-content/life-changes-and-new-laws-can-affect-your-tax-refund-how-to-estimate/",
         "/paid-content/maximize-your-refund-with-h-r-blocks-smart-tax-tools/",
         "/paid-content/maximize-your-wireless-savings-with-the-t-mobile-visa-credit-card/",
@@ -3393,6 +3456,7 @@
         "/paid-content/how-to-check-if-t-mobile-fiber-is-available-at-your-address/",
         "/paid-content/why-you-need-a-cutting-edge-vpn-to-keep-you-safe-online/",
         "/paid-content/why-you-need-an-internet-provider-with-no-data-caps/",
+        "/paid-content/will-my-apps-work-on-a-laptop-powered-by-snapdragon-a-plain-english-guide/",
         "/tech/mobile/apple-iphone-17-event-september-2025-what-to-expect/",
         "/tech/mobile/best-android-phone/",
         "/tech/mobile/best-cheap-phone/",
@@ -3431,7 +3495,7 @@
         "/videos/tax-breaks-you-might-miss-in-2026-and-how-to-find-them/"
       ],
       "total": 1,
-      "total_allow": 198
+      "total_allow": 202
     },
     "cohere-training-data-crawler": {
       "disallow": [
@@ -3465,6 +3529,7 @@
         "/paid-content/dji-builds-on-12-years-of-handheld-imaging-innovation-with-the-dji-osmo-360-ii/",
         "/paid-content/dji-osmo-pocket-4p-is-a-powerful-tool-for-independent-filmmakers/",
         "/paid-content/do-you-actually-need-a-separate-antivirus-vpn-and-scam-protection-mcafees-all-in-one-plans-have-you-covered/",
+        "/paid-content/does-a-laptop-powered-by-snapdragon-really-last-all-week-what-to-expect-from-the-hp-omnibook-3/",
         "/paid-content/enjoy-unlimited-wi-fi-and-predictable-pricing-with-on-your-home-internet/",
         "/paid-content/from-tacos-to-tvs-doordash-delivers-your-game-day-essentials/",
         "/paid-content/galaxy-s26-camera-system-the-biggest-questions-answered-before-you-buy/",
@@ -3488,6 +3553,7 @@
         "/paid-content/how-to-choose-the-right-dell-ai-laptop-for-your-workflow/",
         "/paid-content/how-to-get-fast-reliable-fiber-internet-at-a-predictable-transparent-price/",
         "/paid-content/how-to-get-your-backyard-ready-for-summer-with-lights-and-sound/",
+        "/paid-content/how-to-make-an-image-from-text-with-ai-in-2026-using-adobe-firefly/",
         "/paid-content/how-to-stream-pro-and-college-football-in-2026-with-directv-mysports-genre-pack/",
         "/paid-content/how-to-time-your-next-major-appliance-purchase-for-maximum-savings/",
         "/paid-content/how-to-try-out-ai-glasses-from-meta-at-your-local-best-buy/",
@@ -3499,6 +3565,7 @@
         "/paid-content/is-it-time-to-upgrade-your-iphone-with-t-mobiles-trade-in-offers-the-answer-is-yes/",
         "/paid-content/is-the-dell-xps-13-a-good-windows-alternative-to-a-macbook/",
         "/paid-content/is-wi-fi-7-worth-the-upgrade-heres-how-msis-roamii-mesh-systems-fit-in/",
+        "/paid-content/is-your-browsers-built-in-password-manager-enough-roboform-gives-you-an-upgrade/",
         "/paid-content/life-changes-and-new-laws-can-affect-your-tax-refund-how-to-estimate/",
         "/paid-content/maximize-your-refund-with-h-r-blocks-smart-tax-tools/",
         "/paid-content/maximize-your-wireless-savings-with-the-t-mobile-visa-credit-card/",
@@ -3600,6 +3667,7 @@
         "/paid-content/how-to-check-if-t-mobile-fiber-is-available-at-your-address/",
         "/paid-content/why-you-need-a-cutting-edge-vpn-to-keep-you-safe-online/",
         "/paid-content/why-you-need-an-internet-provider-with-no-data-caps/",
+        "/paid-content/will-my-apps-work-on-a-laptop-powered-by-snapdragon-a-plain-english-guide/",
         "/tech/mobile/apple-iphone-17-event-september-2025-what-to-expect/",
         "/tech/mobile/best-android-phone/",
         "/tech/mobile/best-cheap-phone/",
@@ -3638,7 +3706,7 @@
         "/videos/tax-breaks-you-might-miss-in-2026-and-how-to-find-them/"
       ],
       "total": 1,
-      "total_allow": 198
+      "total_allow": 202
     },
     "meta-externalagent": {
       "disallow": [
@@ -3672,6 +3740,7 @@
         "/paid-content/dji-builds-on-12-years-of-handheld-imaging-innovation-with-the-dji-osmo-360-ii/",
         "/paid-content/dji-osmo-pocket-4p-is-a-powerful-tool-for-independent-filmmakers/",
         "/paid-content/do-you-actually-need-a-separate-antivirus-vpn-and-scam-protection-mcafees-all-in-one-plans-have-you-covered/",
+        "/paid-content/does-a-laptop-powered-by-snapdragon-really-last-all-week-what-to-expect-from-the-hp-omnibook-3/",
         "/paid-content/enjoy-unlimited-wi-fi-and-predictable-pricing-with-on-your-home-internet/",
         "/paid-content/from-tacos-to-tvs-doordash-delivers-your-game-day-essentials/",
         "/paid-content/galaxy-s26-camera-system-the-biggest-questions-answered-before-you-buy/",
@@ -3695,6 +3764,7 @@
         "/paid-content/how-to-choose-the-right-dell-ai-laptop-for-your-workflow/",
         "/paid-content/how-to-get-fast-reliable-fiber-internet-at-a-predictable-transparent-price/",
         "/paid-content/how-to-get-your-backyard-ready-for-summer-with-lights-and-sound/",
+        "/paid-content/how-to-make-an-image-from-text-with-ai-in-2026-using-adobe-firefly/",
         "/paid-content/how-to-stream-pro-and-college-football-in-2026-with-directv-mysports-genre-pack/",
         "/paid-content/how-to-time-your-next-major-appliance-purchase-for-maximum-savings/",
         "/paid-content/how-to-try-out-ai-glasses-from-meta-at-your-local-best-buy/",
@@ -3706,6 +3776,7 @@
         "/paid-content/is-it-time-to-upgrade-your-iphone-with-t-mobiles-trade-in-offers-the-answer-is-yes/",
         "/paid-content/is-the-dell-xps-13-a-good-windows-alternative-to-a-macbook/",
         "/paid-content/is-wi-fi-7-worth-the-upgrade-heres-how-msis-roamii-mesh-systems-fit-in/",
+        "/paid-content/is-your-browsers-built-in-password-manager-enough-roboform-gives-you-an-upgrade/",
         "/paid-content/life-changes-and-new-laws-can-affect-your-tax-refund-how-to-estimate/",
         "/paid-content/maximize-your-refund-with-h-r-blocks-smart-tax-tools/",
         "/paid-content/maximize-your-wireless-savings-with-the-t-mobile-visa-credit-card/",
@@ -3807,6 +3878,7 @@
         "/paid-content/how-to-check-if-t-mobile-fiber-is-available-at-your-address/",
         "/paid-content/why-you-need-a-cutting-edge-vpn-to-keep-you-safe-online/",
         "/paid-content/why-you-need-an-internet-provider-with-no-data-caps/",
+        "/paid-content/will-my-apps-work-on-a-laptop-powered-by-snapdragon-a-plain-english-guide/",
         "/tech/mobile/apple-iphone-17-event-september-2025-what-to-expect/",
         "/tech/mobile/best-android-phone/",
         "/tech/mobile/best-cheap-phone/",
@@ -3845,7 +3917,7 @@
         "/videos/tax-breaks-you-might-miss-in-2026-and-how-to-find-them/"
       ],
       "total": 1,
-      "total_allow": 198
+      "total_allow": 202
     },
     "meta-externalfetcher": {
       "disallow": [
@@ -3879,6 +3951,7 @@
         "/paid-content/dji-builds-on-12-years-of-handheld-imaging-innovation-with-the-dji-osmo-360-ii/",
         "/paid-content/dji-osmo-pocket-4p-is-a-powerful-tool-for-independent-filmmakers/",
         "/paid-content/do-you-actually-need-a-separate-antivirus-vpn-and-scam-protection-mcafees-all-in-one-plans-have-you-covered/",
+        "/paid-content/does-a-laptop-powered-by-snapdragon-really-last-all-week-what-to-expect-from-the-hp-omnibook-3/",
         "/paid-content/enjoy-unlimited-wi-fi-and-predictable-pricing-with-on-your-home-internet/",
         "/paid-content/from-tacos-to-tvs-doordash-delivers-your-game-day-essentials/",
         "/paid-content/galaxy-s26-camera-system-the-biggest-questions-answered-before-you-buy/",
@@ -3902,6 +3975,7 @@
         "/paid-content/how-to-choose-the-right-dell-ai-laptop-for-your-workflow/",
         "/paid-content/how-to-get-fast-reliable-fiber-internet-at-a-predictable-transparent-price/",
         "/paid-content/how-to-get-your-backyard-ready-for-summer-with-lights-and-sound/",
+        "/paid-content/how-to-make-an-image-from-text-with-ai-in-2026-using-adobe-firefly/",
         "/paid-content/how-to-stream-pro-and-college-football-in-2026-with-directv-mysports-genre-pack/",
         "/paid-content/how-to-time-your-next-major-appliance-purchase-for-maximum-savings/",
         "/paid-content/how-to-try-out-ai-glasses-from-meta-at-your-local-best-buy/",
@@ -3913,6 +3987,7 @@
         "/paid-content/is-it-time-to-upgrade-your-iphone-with-t-mobiles-trade-in-offers-the-answer-is-yes/",
         "/paid-content/is-the-dell-xps-13-a-good-windows-alternative-to-a-macbook/",
         "/paid-content/is-wi-fi-7-worth-the-upgrade-heres-how-msis-roamii-mesh-systems-fit-in/",
+        "/paid-content/is-your-browsers-built-in-password-manager-enough-roboform-gives-you-an-upgrade/",
         "/paid-content/life-changes-and-new-laws-can-affect-your-tax-refund-how-to-estimate/",
         "/paid-content/maximize-your-refund-with-h-r-blocks-smart-tax-tools/",
         "/paid-content/maximize-your-wireless-savings-with-the-t-mobile-visa-credit-card/",
@@ -4014,6 +4089,7 @@
         "/paid-content/how-to-check-if-t-mobile-fiber-is-available-at-your-address/",
         "/paid-content/why-you-need-a-cutting-edge-vpn-to-keep-you-safe-online/",
         "/paid-content/why-you-need-an-internet-provider-with-no-data-caps/",
+        "/paid-content/will-my-apps-work-on-a-laptop-powered-by-snapdragon-a-plain-english-guide/",
         "/tech/mobile/apple-iphone-17-event-september-2025-what-to-expect/",
         "/tech/mobile/best-android-phone/",
         "/tech/mobile/best-cheap-phone/",
@@ -4052,7 +4128,7 @@
         "/videos/tax-breaks-you-might-miss-in-2026-and-how-to-find-them/"
       ],
       "total": 1,
-      "total_allow": 198
+      "total_allow": 202
     }
   }
 }
